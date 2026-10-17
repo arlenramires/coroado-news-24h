@@ -1,5 +1,27 @@
 [
   {
+    "id": 21,
+    "categoria": "Manaus",
+    "titulo": "Colisão na Avenida do Turismo deixa duas pessoas feridas na zona oeste de Manaus",
+    "resumo": "Um automóvel atingiu a entrada de um condomínio na Ponta Negra neste sábado (17). Circunstâncias do acidente ainda são apuradas.",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Ilustração genérica do portal; não representa o acidente.",
+    "imagemLegenda": "Imagem ilustrativa.",
+    "data": "17/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=21",
+    "fonte": "CM7 Brasil, 17/10/2026 às 10h58",
+    "fonteUrl": "https://www.cm7brasil.com/amazonas/manaus/carro-desgovernado-invade-condominio-e-fere-duas-pessoas-na-ponta-negra-veja-video/",
+    "corpo": [
+      "Duas pessoas ficaram feridas após um carro atingir a entrada de um condomínio na Avenida do Turismo, na Ponta Negra, zona oeste de Manaus, na manhã deste sábado (17).",
+      "De acordo com reportagem do CM7 publicada às 10h58, um Toyota Corolla perdeu o controle e colidiu contra a entrada do condomínio Santorini. Equipes de emergência foram mobilizadas para atender a ocorrência.",
+      "O relato inicial aponta que o motorista permaneceu dentro do automóvel após o impacto, enquanto uma mulher que estava no veículo aguardava atendimento do lado de fora. As condições de saúde atualizadas das vítimas não haviam sido divulgadas na reportagem consultada.",
+      "As circunstâncias que levaram à colisão ainda precisam ser esclarecidas pelas autoridades. Não há confirmação de causa mecânica, excesso de velocidade ou outra hipótese específica.",
+      "Esta reportagem apresenta informações iniciais divulgadas em 17 de outubro de 2026 e poderá ser atualizada mediante novos comunicados oficiais."
+    ]
+  },
+  {
     "id": 20,
     "categoria": "Amazonas",
     "titulo": "Nove ocupantes são resgatados após embarcação afundar no Solimões, em Tabatinga",
