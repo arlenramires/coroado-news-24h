@@ -196,20 +196,18 @@ update();setInterval(update,1000);
 @media(max-width:390px){.nav .nav-inner{gap:5px!important;padding:4px 7px!important}.nav .nav-inner>.nav-toggle{padding:6px!important}.mobile-nav-data{font-size:11px!important;gap:5px!important}#mobileManausForecast{max-width:48px!important;font-size:9px!important}}
 </style><script id="coroado-mobile-live-20261017">
 document.addEventListener('DOMContentLoaded',function(){const clock=document.getElementById('mobileManausClock'),temp=document.getElementById('mobileManausWeather'),forecast=document.getElementById('mobileManausForecast');function sync(){if(clock){try{clock.textContent=new Intl.DateTimeFormat('pt-BR',{timeZone:'America/Manaus',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date())}catch(e){}}const t=document.getElementById('headerManausWeather'),d=document.getElementById('headerManausWeatherDetail');if(temp&&t&&t.textContent.trim()!=='--°C')temp.textContent=t.textContent.trim();if(forecast&&d){const v=d.textContent.trim();if(v&&!v.toLowerCase().includes('consultando'))forecast.textContent=v.split('•')[0].trim()}}sync();setInterval(sync,1000)});
-</script><style id="coroado-manaus-weather-top-20261017">
+</script><style id="coroado-mobile-final-alignment-20261017">
 @media(max-width:760px){
-.top .top-inner{grid-template-rows:54px 39px clamp(105px,19vw,155px)!important}
-.top .top-inner>.header-manaus-right{display:flex!important;visibility:visible!important;position:static!important;grid-column:1!important;grid-row:2!important;width:100%!important;height:39px!important;min-height:0!important;overflow:hidden!important;align-items:center!important;justify-content:center!important;gap:14px!important;padding:3px 8px!important;margin:0!important;background:#0c2e57!important;border:0!important;color:white!important}
-.top .top-inner>.header-manaus-right .header-clock,.top .top-inner>.header-manaus-right .header-weather{display:flex!important;flex-direction:row!important;align-items:center!important;justify-content:center!important;gap:5px!important;width:auto!important;min-width:0!important;max-width:none!important;height:auto!important;padding:0!important;margin:0!important;border:0!important;color:white!important;white-space:nowrap!important}
-.top .top-inner>.header-manaus-right .header-widget-title{display:inline!important;font-size:10px!important;font-weight:700!important;line-height:1!important;color:#c7def8!important;white-space:nowrap!important}
-.top .top-inner>.header-manaus-right .header-widget-value{display:inline!important;font-size:15px!important;line-height:1!important;color:white!important;font-weight:900!important;white-space:nowrap!important}
-.top .top-inner>.header-manaus-right .header-widget-detail{display:none!important}
-.top .top-inner::before{grid-row:3!important}
-.nav .nav-inner>.mobile-nav-caption{display:none!important}
-.nav .nav-inner{justify-content:flex-start!important;min-height:41px!important}
-.nav .nav-inner>.nav-toggle{padding:6px 10px!important}
+.top .top-inner{grid-template-rows:54px clamp(105px,19vw,155px)!important}
+.top .top-inner>.header-manaus-right{display:none!important;visibility:hidden!important;width:0!important;height:0!important;position:absolute!important}
+.top .top-inner::before{grid-row:2!important}
+.nav .nav-inner{min-height:44px!important;justify-content:flex-start!important;gap:5px!important;padding:4px 7px!important}
+.nav .nav-inner>.nav-toggle{font-size:16px!important;padding:6px 7px!important;gap:4px!important}
+.nav .nav-inner>.nav-toggle .mobile-menu-label{font-size:11px!important}
+.nav .nav-inner>.mobile-nav-caption{display:flex!important;flex:1 1 0!important;min-width:0!important;overflow:hidden!important}
+.mobile-nav-data{font-size:clamp(10px,3vw,13px)!important;gap:clamp(4px,1.5vw,9px)!important}
+#mobileManausForecast{max-width:clamp(40px,12vw,72px)!important;font-size:9px!important}
 }
-@media(max-width:390px){.top .top-inner>.header-manaus-right{gap:8px!important}.top .top-inner>.header-manaus-right .header-widget-title{font-size:9px!important}.top .top-inner>.header-manaus-right .header-widget-value{font-size:13px!important}}
 </style></head>
 <body>
 
