@@ -1,5 +1,26 @@
 [
   {
+    "id": 18,
+    "categoria": "Manaus",
+    "titulo": "Prefeitura de Manaus suspende atividades ao ar livre até domingo por causa da fumaça",
+    "resumo": "Medida anunciada neste sábado (17) busca reduzir a exposição da população à poluição; qualidade do ar chegou à categoria péssima.",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Ilustração do portal, sem fotografia do episódio.",
+    "imagemLegenda": "Imagem ilustrativa de Manaus.",
+    "data": "17/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=18",
+    "fonte": "CM7 Brasil, 17/10/2026; Política CM7, 17/10/2026",
+    "fonteUrl": "https://www.cm7brasil.com/noticias/cidades/fumaca-e-ar-sufocante-prefeitura-de-manaus-suspende-atividades-ao-ar-livre-ate-domingo/",
+    "corpo": [
+      "A Prefeitura de Manaus anunciou neste sábado (17) a suspensão de atividades ao ar livre até domingo (18), diante da piora da qualidade do ar na capital amazonense. A medida preventiva busca reduzir a exposição da população à fumaça que voltou a encobrir a cidade.",
+      "Segundo reportagem publicada pelo CM7 neste sábado, o monitoramento ambiental indicou condições preocupantes em diferentes regiões de Manaus. A poluição está associada à presença de fumaça e ao aumento de focos de calor na região.",
+      "A orientação é evitar atividades físicas intensas em ambientes externos e acompanhar os comunicados da Defesa Civil e da Prefeitura. Crianças, idosos, gestantes e pessoas com doenças respiratórias ou cardíacas exigem atenção especial.",
+      "A suspensão informada é válida até domingo (18), conforme anúncio divulgado em 17 de outubro. Mudanças posteriores na programação devem ser verificadas nos canais oficiais da Prefeitura de Manaus."
+    ]
+  },
+  {
     "id": 17,
     "categoria": "Brasil",
     "titulo": "Mega-Sena tem prêmio estimado em R$ 170 milhões para sorteio de domingo",
