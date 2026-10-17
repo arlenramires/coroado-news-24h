@@ -1,5 +1,53 @@
 [
   {
+    "id": 23,
+    "categoria": "Política",
+    "titulo": "Contas públicas entram no centro do debate eleitoral; economista cobra plano de ajuste do próximo governo",
+    "resumo": "Em entrevista publicada neste sábado (17), Felipe Salto afirmou que Lula ou Flávio Bolsonaro precisarão apresentar medidas fiscais concretas após a eleição.",
+    "fonte": "Folha de S.Paulo, Painel S.A., 17/10/2026",
+    "fonteUrl": "https://www1.folha.uol.com.br/colunas/painelsa/2026/10/eleicao-de-flavio-nao-garante-ajuste-fiscal-que-precisara-de-plano-imediato-mas-efeito-gradual-diz-felipe-salto.shtml",
+    "corpo": [
+      "O debate sobre o futuro das contas públicas brasileiras ganhou novo destaque neste sábado (17), em meio à disputa presidencial entre Lula e Flávio Bolsonaro. O economista Felipe Salto, ex-secretário da Fazenda de São Paulo e atual economista-chefe da Warren Investimentos, defendeu que o próximo presidente apresente um plano fiscal claro logo após o segundo turno.",
+      "Em entrevista publicada neste sábado, Salto avaliou que a eleição de qualquer um dos candidatos não resolverá automaticamente o desequilíbrio das contas. Na visão dele, a credibilidade econômica dependerá de decisões concretas e da capacidade de negociação com o Congresso.",
+      "O QUE ESTÁ EM DISCUSSÃO — Entre os temas mencionados pelo economista estão despesas obrigatórias, Previdência, subsídios, renúncias fiscais e regras de crescimento dos gastos públicos. São áreas que influenciam a elaboração do Orçamento e as perspectivas para a dívida pública.",
+      "Salto defendeu um programa apresentado desde o início do mandato, mas executado gradualmente ao longo de quatro anos. Segundo sua análise, cortes repentinos poderiam prejudicar a atividade econômica.",
+      "O economista também avaliou que o arcabouço fiscal atual poderia servir de base para ajustes, desde que acompanhado de mudanças em parâmetros e medidas efetivas. Trata-se de uma avaliação técnica individual, não de decisão já tomada pelos candidatos.",
+      "A discussão ocorre durante a campanha eleitoral, quando propostas para emprego, renda, serviços públicos e equilíbrio das contas ganham espaço. A reportagem não atribui aos candidatos compromissos que eles não tenham anunciado oficialmente.",
+      "A entrevista publicada em 17 de outubro traz uma análise sobre desafios fiscais do próximo governo. As propostas oficiais de cada candidatura devem ser consultadas separadamente para comparação."
+    ],
+    "data": "17/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=23",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/brasil.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemCredito": "Ilustração genérica do portal.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
+    "id": 22,
+    "categoria": "Polícia",
+    "titulo": "Ação fluvial no rio Unini termina com apreensão de 593 quilos de drogas no Amazonas",
+    "resumo": "Operação da Base Arpão 3 resultou na apreensão de entorpecentes e prisão de um suspeito na região de Barcelos, conforme notícia divulgada neste sábado (17).",
+    "fonte": "Polícia24h, 17/10/2026",
+    "fonteUrl": "https://policia24h.com.br/ultimas-publicacoes/",
+    "corpo": [
+      "Uma operação policial no rio Unini, na região do município de Barcelos, no Amazonas, terminou com a apreensão de aproximadamente 593 quilos de drogas e a prisão de um suspeito. A ocorrência foi divulgada neste sábado (17).",
+      "A abordagem aconteceu durante ação da Base Fluvial Arpão 3. Segundo o relato da operação, as equipes receberam uma denúncia sobre uma embarcação que poderia seguir em direção a Novo Airão transportando entorpecentes.",
+      "ABORDAGEM NO RIO — Durante a fiscalização, os agentes localizaram o material suspeito. Dois tripulantes fugiram para uma área de mata, enquanto um homem foi detido. A situação dos fugitivos e eventuais buscas posteriores ainda dependem de atualização oficial.",
+      "A região possui extensas rotas fluviais, usadas para transporte de passageiros e mercadorias entre comunidades e municípios. As autoridades também realizam operações nesses corredores para combater o tráfico de drogas e outros crimes.",
+      "A informação divulgada inicialmente aponta o peso total apreendido, mas detalhes sobre a composição exata do material, perícia e destino dos entorpecentes devem ser confirmados nos registros oficiais da ocorrência.",
+      "O caso deve seguir os procedimentos de investigação e responsabilização previstos em lei. A prisão de um suspeito não equivale a condenação judicial.",
+      "O Coroado News 24h acompanha eventuais atualizações das forças de segurança sobre a ocorrência divulgada em 17 de outubro."
+    ],
+    "data": "17/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=22",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemCredito": "Ilustração genérica do portal.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
     "id": 21,
     "categoria": "Manaus",
     "titulo": "Carro atinge entrada de condomínio na Ponta Negra e deixa duas pessoas feridas",
