@@ -1,27 +1,27 @@
 [
   {
-    "id": 27,
-    "categoria": "Manaus",
-    "titulo": "Manaus registra poluição do ar em nível perigoso durante manhã de sábado",
-    "resumo": "Medição de partículas finas apontou 404,3 µg/m³ na manhã de 17 de outubro; fumaça de queimadas preocupa moradores.",
-    "fonte": "UOL / Agência Brasil, 17/10/2026",
-    "fonteUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/17/fumaca-de-queimadas-deixa-qualidade-do-ar-perigosa-em-manaus.ghtm",
-    "corpo": [
-      "Manaus enfrentou uma manhã de sábado (17) marcada por índices críticos de poluição atmosférica. A concentração de partículas finas PM2,5 chegou a 404,3 microgramas por metro cúbico por volta das 9h, segundo medição da plataforma internacional IQAir divulgada em reportagem publicada no mesmo dia.",
-      "A plataforma classificou a qualidade do ar naquele momento como perigosa. O resultado também colocou Manaus na liderança do ranking nacional de poluição monitorado pelo serviço, conforme a medição consultada.",
-      "COMO ENTENDER O NÚMERO — A concentração registrada foi aproximadamente 80,9 vezes a diretriz anual de 5 microgramas por metro cúbico indicada pela Organização Mundial da Saúde para PM2,5. A comparação é com um parâmetro de exposição de longo prazo e não significa que exista um limite horário idêntico.",
-      "A fumaça que alcança a capital está relacionada a queimadas no Amazonas e em regiões vizinhas. Partículas podem ser transportadas pelo vento e permanecer suspensas no ar, enquanto a ausência de chuvas dificulta a dispersão.",
-      "IMPACTOS NA ROTINA — A situação levou à adoção de medidas preventivas, incluindo a suspensão de atividades escolares na rede municipal no dia anterior. A população também foi orientada a reduzir a exposição ao ar externo quando possível.",
-      "Em condições de poluição severa, crianças, idosos, gestantes e pessoas com doenças respiratórias ou cardíacas precisam de atenção especial. Evitar atividades físicas ao ar livre e acompanhar os comunicados dos órgãos públicos são medidas prudentes.",
-      "O índice citado refere-se a um horário específico da manhã de 17 de outubro, e não deve ser interpretado como medição válida para todo o dia. Novos dados podem indicar melhora ou piora da qualidade do ar."
-    ],
+    "id": 28,
+    "categoria": "Polícia",
+    "titulo": "Suspeito de envolvimento na morte de mulher trans no Jorge Teixeira é preso em Manaus",
+    "resumo": "Investigado foi detido na sexta-feira (16), e a prisão foi noticiada neste sábado (17); Polícia Civil apura participação de outro suspeito.",
+    "fonte": "Portal do Zacarias, 17/10/2026",
+    "fonteUrl": "https://portaldozacarias.com.br/site/noticia/policia-prende-suspeito-de-assassinar-mulher-trans-a-tiros-no-jorge-teixeira--em-manaus--veja-videos-e-reportagem-do--portal-do-zacarias--ao-vivo/",
     "data": "17/10/2026",
     "destaque": false,
-    "url": "noticia.html?id=27",
+    "url": "noticia.html?id=28",
     "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
-    "imagemCredito": "Imagem ilustrativa genérica do portal.",
-    "imagemLegenda": "Imagem ilustrativa, não representa necessariamente a ocorrência."
+    "imagemCredito": "Ilustração genérica do portal.",
+    "imagemLegenda": "Imagem ilustrativa.",
+    "corpo": [
+      "A Polícia Civil do Amazonas prendeu um homem investigado por participação no assassinato de uma mulher trans conhecida como Paloma, ocorrido no bairro Jorge Teixeira, zona leste de Manaus. A detenção ocorreu na sexta-feira (16) e foi noticiada neste sábado (17).",
+      "O crime aconteceu em 27 de setembro de 2026. Segundo as informações divulgadas sobre a investigação, dois homens teriam entrado na residência da vítima e efetuado disparos de arma de fogo. Paloma morreu no local.",
+      "PRISÃO E INVESTIGAÇÃO — A prisão foi realizada por agentes da Delegacia Especializada em Homicídios e Sequestros (DEHS). Durante a ação, uma arma apontada como possivelmente relacionada ao crime foi apreendida para contribuir com as apurações.",
+      "A polícia também investiga a eventual participação de um segundo suspeito. A motivação do homicídio ainda não foi esclarecida oficialmente nas informações consultadas.",
+      "O caso é investigado como morte violenta e exige apuração das circunstâncias, da autoria e de possíveis responsabilidades individuais. A condição de investigado não equivale a condenação, e a participação de cada pessoa deverá ser estabelecida pelas autoridades e pela Justiça.",
+      "A apreensão de uma arma não confirma, por si só, que ela tenha sido utilizada no crime; essa relação depende dos procedimentos periciais e dos demais elementos da investigação.",
+      "O Coroado News 24h acompanha os desdobramentos divulgados neste sábado e eventuais informações oficiais da Polícia Civil sobre o andamento do caso."
+    ]
   },
   {
     "id": 26,
@@ -42,30 +42,6 @@
     "data": "17/10/2026",
     "destaque": false,
     "url": "noticia.html?id=26",
-    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
-    "imagemCredito": "Imagem ilustrativa genérica do portal.",
-    "imagemLegenda": "Imagem ilustrativa, não representa necessariamente a ocorrência."
-  },
-  {
-    "id": 25,
-    "categoria": "Saúde",
-    "titulo": "Fiocruz Amazônia adia evento de vacinação em Manaus devido à qualidade do ar",
-    "resumo": "Programação do Fiocruz Pra Você prevista para este sábado (17) foi adiada diante da poluição atmosférica em Manaus.",
-    "fonte": "Fiocruz Amazônia, 17/10/2026",
-    "fonteUrl": "https://amazonia.fiocruz.br/?p=1573",
-    "corpo": [
-      "A Fiocruz Amazônia anunciou o adiamento do evento Fiocruz Pra Você, que estava previsto para este sábado (17) na sede da instituição, em Manaus. A decisão foi motivada pelos elevados níveis de poluição atmosférica registrados na capital amazonense.",
-      "O comunicado foi divulgado pelo Instituto Leônidas e Maria Deane (ILMD/Fiocruz Amazônia). A instituição informou que a medida busca proteger participantes, trabalhadores e demais pessoas envolvidas na programação, diante das condições críticas da qualidade do ar.",
-      "O QUE ESTAVA PREVISTO — O Fiocruz Pra Você integra uma mobilização nacional da Fundação Oswaldo Cruz, com atividades de vacinação, promoção da saúde, divulgação científica e cidadania. A programação deste ano coincidia com o Dia Nacional da Vacinação, celebrado em 17 de outubro.",
-      "A decisão ocorre em um momento de atenção à fumaça provocada por queimadas, que pode agravar sintomas respiratórios e comprometer atividades realizadas ao ar livre. A suspensão preventiva de eventos busca reduzir a exposição da população.",
-      "A instituição destacou, em sua comunicação, o compromisso com a saúde pública e a segurança das pessoas. O adiamento não significa suspensão geral dos serviços de vacinação da cidade; cada unidade e campanha deve ser consultada separadamente.",
-      "Quem planejava participar do evento deve acompanhar os canais oficiais da Fiocruz Amazônia para saber quando haverá nova programação. Esta reportagem não informa uma data de remarcação porque ela não consta das informações confirmadas utilizadas.",
-      "O Coroado News 24h acompanha os efeitos da fumaça sobre a rotina da população e as orientações das instituições de saúde em Manaus."
-    ],
-    "data": "17/10/2026",
-    "destaque": false,
-    "url": "noticia.html?id=25",
     "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Imagem ilustrativa genérica do portal.",
