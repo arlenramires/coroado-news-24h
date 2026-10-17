@@ -23,8 +23,8 @@
   {
     "id": 17,
     "categoria": "Brasil",
-    "titulo": "Mega-Sena tem prêmio estimado em R$ 170 milhões para sorteio de domingo",
-    "resumo": "Concurso 3.071 será realizado em 18 de outubro. Apostas podem ser registradas até as 22h de sábado, no horário de Brasília, segundo a Agência Brasil.",
+    "titulo": "Mega-Sena acumula e prêmio previsto chega a R$ 170 milhões; veja as dezenas anteriores",
+    "resumo": "Concurso 3.070 não teve ganhador na faixa principal. Confira as dezenas sorteadas, o rateio informado e a previsão do próximo concurso, no domingo (18).",
     "imagem": "https://static.wixstatic.com/media/a06550_d96673015f8447f7a571883b6148c7ef~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
     "imagemCredito": "Arte enviada pelo proprietário do portal; autoria e direitos de uso a confirmar.",
@@ -32,12 +32,15 @@
     "data": "17/10/2026",
     "destaque": false,
     "url": "noticia.html?id=17",
-    "fonte": "Agência Brasil, 17/10/2026",
-    "fonteUrl": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-sorteia-premio-acumulado-em-r-170-milhoes-neste-domingo",
+    "fonte": "Loterias Caixa (resultados e rateios); informações do concurso divulgadas em 17/10/2026",
+    "fonteUrl": "https://loterias.caixa.gov.br/Paginas/Mega-Sena.aspx",
     "corpo": [
-      "O próximo sorteio da Mega-Sena, concurso 3.071, está marcado para domingo, 18 de outubro, com prêmio estimado em R$ 170 milhões, conforme informação divulgada pela Agência Brasil neste sábado (17).",
-      "As apostas podem ser feitas até as 22h de sábado (horário de Brasília), em lotéricas credenciadas ou nos canais oficiais da Caixa. O valor da aposta simples, com seis dezenas, é de R$ 6.",
-      "O prêmio é estimado e pode variar. O resultado oficial deve ser consultado após o sorteio nos canais da Caixa."
+      "A Mega-Sena segue acumulada após o concurso 3.070, que não registrou apostas vencedoras com seis acertos. O próximo sorteio, concurso 3.071, está previsto para domingo, 18 de outubro de 2026, com prêmio estimado em R$ 170 milhões.",
+      "RESULTADO DO CONCURSO 3.070 — As dezenas sorteadas foram 19, 27, 29, 43, 54 e 60. Esses números pertencem ao sorteio anterior e não são uma previsão do próximo resultado.",
+      "Segundo o rateio informado para o concurso 3.070, 91 apostas acertaram cinco números, com prêmio de R$ 52.767,90 para cada uma. Outras 7.384 apostas fizeram a quadra, com R$ 1.071,90 por aposta. Os resultados e rateios oficiais podem ser consultados diretamente no site das Loterias Caixa.",
+      "PRÓXIMO SORTEIO — O concurso 3.071 está previsto para domingo (18). Para participar, é possível marcar de seis a 20 números entre os 60 disponíveis, além de optar por bolões ou pela Surpresinha, em que os números são escolhidos pelo sistema. A aposta simples de seis dezenas custa R$ 6.",
+      "OUTRA LOTERIA ACUMULADA — A +Milionária também foi divulgada com prêmio principal estimado em R$ 106 milhões para o próximo concurso, após não registrar vencedor na faixa principal do concurso 398. As modalidades têm sorteios e regras independentes; as estimativas podem mudar.",
+      "SERVIÇO — Para conferir a confirmação dos concursos, horários de apostas, dezenas sorteadas e rateios atualizados, consulte o portal oficial das Loterias Caixa: https://loterias.caixa.gov.br/Paginas/Mega-Sena.aspx."
     ]
   },
   {
