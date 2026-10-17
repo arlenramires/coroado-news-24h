@@ -1,5 +1,25 @@
 [
   {
+    "id": 17,
+    "categoria": "Brasil",
+    "titulo": "Mega-Sena tem prêmio estimado em R$ 170 milhões para sorteio de domingo",
+    "resumo": "Concurso 3.071 será realizado em 18 de outubro. Apostas podem ser registradas até as 22h de sábado, no horário de Brasília, segundo a Agência Brasil.",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Ilustração genérica do portal; não representa o sorteio.",
+    "imagemLegenda": "Imagem ilustrativa",
+    "data": "17/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=17",
+    "fonte": "Agência Brasil, 17/10/2026",
+    "fonteUrl": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-sorteia-premio-acumulado-em-r-170-milhoes-neste-domingo",
+    "corpo": [
+      "O próximo sorteio da Mega-Sena, concurso 3.071, está marcado para domingo, 18 de outubro, com prêmio estimado em R$ 170 milhões, conforme informação divulgada pela Agência Brasil neste sábado (17).",
+      "As apostas podem ser feitas até as 22h de sábado (horário de Brasília), em lotéricas credenciadas ou nos canais oficiais da Caixa. O valor da aposta simples, com seis dezenas, é de R$ 6.",
+      "O prêmio é estimado e pode variar. O resultado oficial deve ser consultado após o sorteio nos canais da Caixa."
+    ]
+  },
+  {
     "id": 16,
     "categoria": "Manaus",
     "titulo": "Fumaça volta a encobrir Manaus; mapa mostra qualidade do ar nos bairros",
@@ -130,7 +150,7 @@
     "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/entrevista-de-lula-na-globo.ghtml",
     "imagemCredito": "Imagem fornecida pelo responsável do portal; registro da transmissão da TV Globo. Direitos de reprodução não verificados.",
     "imagemLicenca": "Direitos de uso da imagem pendentes de verificação",
-    "imagemLegenda":"Lula durante entrevista à jornalista Renata Lo Prete, exibida pela TV Globo em 15 de outubro de 2026.",
+    "imagemLegenda": "Lula durante entrevista à jornalista Renata Lo Prete, exibida pela TV Globo em 15 de outubro de 2026.",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/brasil.svg",
     "corpo": [
       "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, participou na quinta-feira (15) de uma entrevista conduzida por Renata Lo Prete, exibida após o Jornal Nacional. Entre os assuntos de maior repercussão estiveram as suspeitas envolvendo integrantes do Supremo Tribunal Federal, o preço da energia elétrica e propostas para a segurança pública.",
