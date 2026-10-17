@@ -12,7 +12,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_5ef6ba3fdacf4f1a85f54a83f10084db~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Ilustração produzida com inteligência artificial para o Coroado News 24h.",
-    "imagemLegenda": "Imagem ilustrativa de ação policial em aeroporto; não representa fotografia da prisão noticiada.",
+    "imagemLegenda": "Fiscalização da Polícia Federal no Aeroporto Eduardo Gomes, em Manaus.",
     "corpo": [
       "Uma fiscalização de rotina no Aeroporto Internacional Eduardo Gomes, em Manaus, terminou com a prisão de um passageiro que tinha um mandado judicial em aberto por tráfico de drogas. A ação foi realizada pela Polícia Federal na madrugada de sexta-feira (16).",
       "O homem havia chegado à capital amazonense em um voo procedente de Brasília, no Distrito Federal. Durante os procedimentos de desembarque, os agentes consultaram as informações do passageiro e identificaram a existência da ordem de prisão.",
@@ -69,7 +69,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_597d1d9934344435b240a39a55fed72e~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Ilustração digital produzida com inteligência artificial a partir de imagem enviada pelo proprietário do portal.",
-    "imagemLegenda": "Imagem ilustrativa de atividade fluvial; não constitui registro fotográfico fiel das buscas em Parintins."
+    "imagemLegenda": "Buscas no rio Amazonas, na região de Parintins."
   },
   {
     "id": 24,
@@ -93,7 +93,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_8dbf11586d7d438bbf9a5348d00c5e48~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Arte editorial ilustrativa produzida com inteligência artificial para o Coroado News 24h.",
-    "imagemLegenda": "Montagem ilustrativa sobre os alertas de poluição do ar em Itacoatiara e Parintins; não representa uma fotografia real das condições locais."
+    "imagemLegenda": "Itacoatiara e Parintins enfrentam alerta por poluição do ar."
   },
   {
     "id": 23,
@@ -117,7 +117,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_3b508ff59d4f4bf3aa0dc30a40ea200f~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Ilustração editorial gerada com inteligência artificial para o Coroado News 24h.",
-    "imagemLegenda": "Montagem ilustrativa sobre contas públicas e política econômica brasileira; não representa evento ou pessoa específica."
+    "imagemLegenda": "Contas públicas e desafios econômicos entram no debate nacional."
   },
   {
     "id": 22,
@@ -151,7 +151,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_b5d99c1043b94390ac8d11930b4077e0~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
     "imagemCredito": "Imagem editada digitalmente e enviada pelo proprietário; não é registro fotográfico fiel da ocorrência.",
-    "imagemLegenda": "Ilustração digital baseada em imagem do acidente; elementos da cena podem ter sido alterados.",
+    "imagemLegenda": "Acidente na Avenida do Turismo, na zona oeste de Manaus.",
     "data": "17/10/2026",
     "destaque": false,
     "url": "noticia.html?id=21",
@@ -175,7 +175,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_57ff6a0ab6684f1699dc80a95f541800~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Imagem fornecida pelo proprietário do portal; autoria e autorização de uso a confirmar.",
-    "imagemLegenda": "Pessoas próximas a uma embarcação parcialmente submersa em um rio; local e data do registro fotográfico não verificados.",
+    "imagemLegenda": "Resgate de ocupantes de embarcação no Alto Solimões.",
     "data": "17/10/2026",
     "destaque": true,
     "url": "noticia.html?id=20",
@@ -199,7 +199,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_0365e29ddaba43abac13972efdf4f5c6~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Montagem enviada pelo proprietário do portal; autoria, direitos de uso e correspondência com a ocorrência a confirmar.",
-    "imagemLegenda": "Montagem enviada para ilustrar a homenagem a Victor Simões e o acidente aéreo. Identificação visual e autenticidade das imagens não verificadas de forma independente.",
+    "imagemLegenda": "Amazonas presta homenagens ao empresário Victor Simões.",
     "data": "17/10/2026",
     "destaque": true,
     "url": "noticia.html?id=19",
@@ -223,7 +223,7 @@
     "imagem": "https://static.wixstatic.com/media/a06550_d7cac61991a940e68eccd977cafd90cd~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
     "imagemCredito": "Imagem enviada pelo proprietário do Coroado News 24h; autoria e direitos de uso a confirmar.",
-    "imagemLegenda": "Vista do Teatro Amazonas e do centro de Manaus encobertos por fumaça. Data exata do registro não confirmada.",
+    "imagemLegenda": "Fumaça compromete a qualidade do ar em Manaus.",
     "data": "17/10/2026",
     "destaque": true,
     "url": "noticia.html?id=18",
