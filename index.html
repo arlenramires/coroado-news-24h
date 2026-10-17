@@ -320,7 +320,18 @@ nav.nav{display:none!important}
 #ultimas .news-category-grid>a.story .category{font-size:10px!important}
 #ultimas .news-category-grid>a.story .date{font-size:10px!important;margin-top:5px!important}
 }
-</style><style id="mobile-single-banner-fix-20261017">@media(max-width:760px){.top .top-inner::before{content:none!important;display:none!important;background-image:none!important}.top .top-inner::after{content:none!important;display:none!important}.top .top-inner{grid-template-rows:54px!important;height:54px!important;min-height:54px!important}.portal-approved-banner{display:block!important}}</style></head>
+</style><style id="mobile-single-banner-fix-20261017">@media(max-width:760px){.top .top-inner::before{content:none!important;display:none!important;background-image:none!important}.top .top-inner::after{content:none!important;display:none!important}.top .top-inner{grid-template-rows:54px!important;height:54px!important;min-height:54px!important}.portal-approved-banner{display:block!important}}</style><style id="mobile-banner-menu-sizing-20261017">
+@media(max-width:760px){
+/* Mobile only: make approved banner taller without duplicating it */
+.portal-approved-banner{width:100%!important;aspect-ratio:auto!important;height:clamp(92px,26vw,145px)!important;min-height:92px!important;max-height:145px!important;background-size:cover!important;background-position:center center!important}
+/* Compact the blue menu strip while retaining accessible controls */
+.nav{min-height:0!important}
+.nav .nav-inner{min-height:38px!important;height:38px!important;padding-top:0!important;padding-bottom:0!important}
+.nav .nav-toggle{height:32px!important;min-height:32px!important;padding:3px 9px!important;font-size:12px!important;line-height:1!important}
+.nav .mobile-menu-label{font-size:12px!important}
+.nav .mobile-climate,.nav .mobile-weather,.nav .mobile-clock{font-size:11px!important}
+}
+</style></head>
 <body>
 
 <header class="top"><div class="container top-inner"><a class="brand" href="./" aria-label="Coroado News 24h"><div class="brandline"><img class="official-brand-logo" src="https://static.wixstatic.com/media/a06550_e69282772c70430ca3265931b1de3f92~mv2.png" alt="Coroado News 24h">Coroado<span>News</span> <b>24h</b></div><div class="tagline">INFORMAÇÃO EM TEMPO REAL</div></a><div class="top-right"><input class="search" id="search" type="search" placeholder="⌕  Pesquisar notícias..." aria-label="Pesquisar notícias"><div class="social"><a href="https://www.facebook.com/coroadonews24h" target="_blank" rel="noopener noreferrer" aria-label="Facebook Coroado News 24h"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" alt="" loading="lazy"></a><a href="https://www.instagram.com/coroadonews24hr/" target="_blank" rel="noopener" aria-label="Instagram Coroado News 24h"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" alt="" loading="lazy"></a><a href="contato.html#redes" aria-label="TikTok (em breve)"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tiktok.svg" alt="" loading="lazy"></a><a href="videos.html" aria-label="YouTube e vídeos do Coroado News 24h"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" alt="" loading="lazy"></a></div></div><div class="header-manaus-right"><div class="header-clock" aria-label="Horário de Manaus"><span class="header-widget-title">◷ HORA EM MANAUS</span><strong class="header-widget-value" id="headerManausClock">--:--:--</strong><span class="header-widget-detail">AM • UTC−4</span></div><div class="header-weather" aria-label="Tempo em Manaus"><span class="header-widget-title">☀ TEMPO EM MANAUS</span><strong class="header-widget-value" id="headerManausWeather">--°C</strong><span class="header-widget-detail" id="headerManausWeatherDetail">Consultando previsão…</span></div></div></div></header>
