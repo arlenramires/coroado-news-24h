@@ -1,5 +1,29 @@
 [
   {
+    "id": 29,
+    "categoria": "Polícia",
+    "titulo": "Passageiro com mandado por tráfico é preso pela PF no aeroporto de Manaus",
+    "resumo": "Homem desembarcava de voo vindo de Brasília quando agentes federais identificaram mandado de prisão em aberto. Ação ocorreu na madrugada de sexta-feira (16).",
+    "fonte": "Polícia Federal — comunicado oficial de 16/10/2026",
+    "fonteUrl": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/pf-cumpre-mandado-de-prisao-durante-fiscalizacao-no-aeroporto-internacional-de-manaus-am",
+    "data": "16/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=29",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemCredito": "Imagem ilustrativa genérica do portal.",
+    "imagemLegenda": "Imagem ilustrativa; não representa o momento da prisão.",
+    "corpo": [
+      "Uma fiscalização de rotina no Aeroporto Internacional Eduardo Gomes, em Manaus, terminou com a prisão de um passageiro que tinha um mandado judicial em aberto por tráfico de drogas. A ação foi realizada pela Polícia Federal na madrugada de sexta-feira (16).",
+      "O homem havia chegado à capital amazonense em um voo procedente de Brasília, no Distrito Federal. Durante os procedimentos de desembarque, os agentes consultaram as informações do passageiro e identificaram a existência da ordem de prisão.",
+      "MANDADO CONFIRMADO — Após verificar a validade da determinação judicial, a equipe efetuou a prisão. O passageiro foi conduzido à Superintendência Regional da Polícia Federal no Amazonas para os procedimentos legais.",
+      "A corporação informou que o preso permanece à disposição da Justiça. O comunicado oficial não detalhou a identidade do homem, o processo de origem ou as circunstâncias do crime que motivou o mandado.",
+      "FISCALIZAÇÃO AEROPORTUÁRIA — O controle de passageiros nos aeroportos pode incluir checagens de documentação e cumprimento de ordens judiciais. Neste caso, a prisão foi resultado da identificação de um mandado já existente, não de uma apreensão de drogas anunciada durante o voo.",
+      "O cumprimento da ordem não representa nova condenação. Informações sobre eventual sentença, recursos e situação processual dependem dos registros judiciais específicos.",
+      "O caso foi divulgado oficialmente em 16 de outubro de 2026. O Coroado News 24h mantém a data original para evitar apresentar uma ocorrência anterior como notícia de hoje."
+    ]
+  },
+  {
     "id": 28,
     "categoria": "Polícia",
     "titulo": "Suspeito de envolvimento na morte de mulher trans no Jorge Teixeira é preso em Manaus",
