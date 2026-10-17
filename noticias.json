@@ -114,10 +114,10 @@
     "data": "17/10/2026",
     "destaque": false,
     "url": "noticia.html?id=23",
-    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/brasil.svg",
+    "imagem": "https://static.wixstatic.com/media/a06550_3b508ff59d4f4bf3aa0dc30a40ea200f~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
-    "imagemCredito": "Ilustração genérica do portal.",
-    "imagemLegenda": "Imagem ilustrativa."
+    "imagemCredito": "Ilustração editorial gerada com inteligência artificial para o Coroado News 24h.",
+    "imagemLegenda": "Montagem ilustrativa sobre contas públicas e política econômica brasileira; não representa evento ou pessoa específica."
   },
   {
     "id": 22,
