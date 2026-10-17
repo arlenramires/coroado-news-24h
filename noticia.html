@@ -37,7 +37,25 @@ const c=document.getElementById('articleMobileClock'),t=document.getElementById(
 function sync(){if(c){try{c.textContent=new Intl.DateTimeFormat('pt-BR',{timeZone:'America/Manaus',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date())}catch(e){}}const temp=document.getElementById('headerManausWeather'),detail=document.getElementById('headerManausWeatherDetail');if(t&&temp&&temp.textContent.trim()!=='--°C')t.textContent=temp.textContent.trim();if(f&&detail){const val=detail.textContent.trim();if(val&&!val.toLowerCase().includes('consultando'))f.textContent=val}}
 sync();setInterval(sync,1000);
 });
-</script></head><body>
+</script><style id="coroado-article-mobile-unified-blue-20261017">
+@media(max-width:760px){
+.masthead{background:#071c3a!important;border:0!important}
+.mastinner{width:100%!important;max-width:none!important;display:block!important;height:clamp(105px,19vw,155px)!important;min-height:0!important;margin:0!important;padding:0!important;background-size:100% 100%!important;background-position:center!important}
+.mastinner>.brand,.mastinner>.masttools,.mastinner>.header-manaus-right{display:none!important}
+.nav{background:#0b376c!important;border-top:2px solid #e52142!important}
+.mobile-article-nav{display:flex!important;align-items:center!important;justify-content:flex-start!important;gap:7px!important;min-height:48px!important;padding:5px 10px!important}
+.article-menu-toggle{flex:0 0 auto!important;background:#124b88!important;border:1px solid #6b98c9!important;color:#fff!important;border-radius:5px!important;padding:7px 9px!important;font-size:14px!important;font-weight:800!important}
+.article-mobile-status{display:flex!important;flex:1 1 0!important;min-width:0!important;align-items:center!important;justify-content:center!important;gap:clamp(6px,2vw,13px)!important;font-size:clamp(11px,3.2vw,15px)!important;white-space:nowrap!important}
+#articleMobileForecast{max-width:clamp(52px,17vw,100px)!important;overflow:hidden!important;text-overflow:ellipsis!important;font-size:10px!important;white-space:nowrap!important}
+.navlinks{display:none!important;flex-direction:column!important;align-items:stretch!important;overflow:visible!important}
+.navlinks.open{display:flex!important}
+.nav>a[style]{display:none!important}
+.article{padding:clamp(16px,5vw,24px)!important}
+.article h1{font-size:clamp(26px,7vw,36px)!important;overflow-wrap:anywhere!important}
+.story p{font-size:16px!important;line-height:1.7!important}
+}
+@media(max-width:390px){.mobile-article-nav{gap:5px!important;padding:4px 7px!important}.article-menu-toggle{padding:6px!important}.article-mobile-status{gap:5px!important;font-size:11px!important}#articleMobileForecast{max-width:48px!important;font-size:9px!important}}
+</style></head><body>
 <header class="masthead"><div class="container mastinner"><a class="brand" href="./" aria-label="Ir para a página inicial"><span class="brandname">Coroado<span>News</span> <b>24h</b></span><span class="slogan">INFORMAÇÃO EM TEMPO REAL</span></a><div class="masttools"><form action="./" method="get"><input name="q" placeholder="Pesquisar notícias..." aria-label="Pesquisar notícias"></form><div class="social" aria-label="Redes sociais em preparação"><span>f</span><span>◎</span><span>▶</span></div></div><div class="header-manaus-right"><div class="header-clock" aria-label="Horário de Manaus"><span class="header-widget-title">◷ HORA EM MANAUS</span><strong class="header-widget-value" id="headerManausClock">--:--:--</strong><span class="header-widget-detail">AM • UTC−4</span></div><div class="header-weather" aria-label="Tempo em Manaus"><span class="header-widget-title">☀ TEMPO EM MANAUS</span><strong class="header-widget-value" id="headerManausWeather">--°C</strong><span class="header-widget-detail" id="headerManausWeatherDetail">Consultando previsão…</span></div></div></div></header>
 <nav class="nav" aria-label="Editorias"><div class="mobile-article-nav"><button type="button" class="article-menu-toggle" id="articleMenuToggle" aria-expanded="false" aria-controls="articleNavLinks">☰ MENU</button><span class="article-mobile-status"><span>◷ <span id="articleMobileClock">--:--</span></span><span>☀ <span id="articleMobileTemp">--°C</span> <span id="articleMobileForecast">Previsão…</span></span></span></div><div class="container navlinks" id="articleNavLinks"><a href="./">⌂ INÍCIO</a><a href="./#ultimas">ÚLTIMAS NOTÍCIAS</a><a href="./#ultimas">MANAUS</a><a href="./#ultimas">AMAZONAS</a><a href="./#ultimas">BRASIL</a><a href="./#ultimas">MUNDO</a><a href="./#ultimas">POLÍTICA</a><a href="./#ultimas">ESPORTES</a><a href="./#ultimas">ENTRETENIMENTO</a><a href="./#ultimas">POLICIAL</a></div><a href="empregos.html" style="display:inline-block;padding:9px 17px;background:#123c73;color:white;font-weight:800;text-decoration:none;border-radius:5px;margin:8px 3%">💼 EMPREGOS</a></nav>
 <div class="live-ticker" aria-label="Manchetes do Coroado News 24h"><span class="live-ticker-label">ÚLTIMAS NOTÍCIAS</span><div class="live-ticker-viewport"><div class="live-ticker-track" id="liveTickerTrack"><div class="live-ticker-segment"><span>Acompanhe as últimas notícias do Coroado News 24h</span></div></div></div></div>
