@@ -1,0 +1,10 @@
+COROADO NEWS 24H — MODELO DE PORTAL
+
+1. Abra index.html no navegador para visualizar o design.
+2. O site funciona em computador e celular. O campo de busca e os filtros do menu funcionam.
+3. As notícias são DEMONSTRAÇÕES e não devem ser publicadas como fatos.
+4. Para cadastrar matérias, edite noticias.json (título, resumo, categoria, imagem, data e URL).
+5. Para imagens reais, salve arquivos na pasta assets e indique o caminho em noticias.json.
+6. Para publicar, hospede a pasta inteira num serviço de hospedagem de sites estáticos. Abrir o HTML localmente mostra as matérias de exemplo incorporadas; o arquivo noticias.json será carregado quando hospedado em servidor HTTP.
+7. Este pacote não altera automaticamente o site Wix nem conecta o Wix Blog. Essa integração exigirá trabalho adicional.
+8. Substitua os links # das redes sociais pelos perfis reais antes de publicar.
