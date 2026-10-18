@@ -1,5 +1,81 @@
 [
   {
+    "id": 48,
+    "categoria": "Entretenimento",
+    "titulo": "Academia Amazonense de Letras promove programação cultural gratuita neste domingo",
+    "resumo": "A programação anunciada para 18 de outubro inclui música, literatura, sarau e visita teatralizada na Casa de Adriano Jorge, em Manaus.",
+    "fonte": "Web TV Amazonas",
+    "fonteUrl": "https://webtvamazonas.com.br/?cat=27",
+    "corpo": [
+      "A programação anunciada para 18 de outubro inclui música, literatura, sarau e visita teatralizada na Casa de Adriano Jorge, em Manaus.",
+      "Informações divulgadas por veículo de imprensa identificado como fonte. A data da publicação desta atualização é 18/10/2026; acontecimentos anteriores estão identificados no texto."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=48",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
+    "id": 47,
+    "categoria": "Esportes",
+    "titulo": "Flamengo enfrenta Bahia neste domingo para defender liderança do Brasileirão",
+    "resumo": "Programação da rodada de domingo (18) inclui Bahia x Flamengo, Fluminense x Santos e Grêmio x Cruzeiro. Jogos ainda não tinham terminado na apuração.",
+    "fonte": "CNN Brasil",
+    "fonteUrl": "https://www.cnnbrasil.com.br/esportes/",
+    "corpo": [
+      "Programação da rodada de domingo (18) inclui Bahia x Flamengo, Fluminense x Santos e Grêmio x Cruzeiro. Jogos ainda não tinham terminado na apuração.",
+      "Informações divulgadas por veículo de imprensa identificado como fonte. A data da publicação desta atualização é 18/10/2026; acontecimentos anteriores estão identificados no texto."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=47",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
+    "id": 46,
+    "categoria": "Polícia",
+    "titulo": "Homem é ferido a faca no Jorge Teixeira, na zona leste de Manaus",
+    "resumo": "Vítima de 37 anos foi atingida nas costas na sexta-feira (16) e levada ao hospital Platão Araújo; não há informação confirmada sobre autoria.",
+    "fonte": "Correio da Amazônia",
+    "fonteUrl": "https://correiodaamazonia.com/homem-e-esfaqueado-nas-costas-na-avenida-autaz-mirim-no-jorge-teixeira/",
+    "corpo": [
+      "Vítima de 37 anos foi atingida nas costas na sexta-feira (16) e levada ao hospital Platão Araújo; não há informação confirmada sobre autoria.",
+      "Informações divulgadas por veículo de imprensa identificado como fonte. A data da publicação desta atualização é 18/10/2026; acontecimentos anteriores estão identificados no texto."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=46",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
+    "id": 45,
+    "categoria": "Polícia",
+    "titulo": "Vítimas de duplo homicídio na AM-010 são identificadas",
+    "resumo": "Eleandro Batista Santarém, de 27 anos, e Jailson Martins, de 37, foram encontrados mortos na sexta-feira (16). A autoria e a motivação ainda não foram confirmadas.",
+    "fonte": "Portal do Holanda",
+    "fonteUrl": "https://www.portaldoholanda.com.br/policial/duplo-homicidio-na-am-010-vitimas-sao-identificadas",
+    "corpo": [
+      "Eleandro Batista Santarém, de 27 anos, e Jailson Martins, de 37, foram encontrados mortos na sexta-feira (16). A autoria e a motivação ainda não foram confirmadas.",
+      "Informações divulgadas por veículo de imprensa identificado como fonte. A data da publicação desta atualização é 18/10/2026; acontecimentos anteriores estão identificados no texto."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=45",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
     "id": 44,
     "categoria": "Internacional",
     "titulo": "Ataques de drones atingem terminal de petróleo em São Petersburgo",
