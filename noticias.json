@@ -42,10 +42,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=55",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa pendente de seleção.",
-    "imagemLegenda": "Remo enfrenta Bragantino no Mangueirão em busca de reação no Brasileirão"
+    "imagem": "https://static.wixstatic.com/media/a06550_682ff5d3b31c442da4b68033d680ac0b~mv2.webp",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_682ff5d3b31c442da4b68033d680ac0b~mv2.webp",
+    "imagemCredito": "Imagem ilustrativa fornecida à redação.",
+    "imagemLegenda": "Ilustração dos mascotes de Remo e Red Bull Bragantino em um estádio de futebol."
   },
   {
     "id": 54,
