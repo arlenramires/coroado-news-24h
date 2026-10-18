@@ -1,5 +1,65 @@
 [
   {
+    "categoria": "Internacional",
+    "titulo": "Padre morre após cruz de madeira cair durante missa no Equador",
+    "resumo": "Patricio Alfredo Sánchez Molinari celebrava missa em Guayaquil quando uma cruz se desprendeu do altar; arquidiocese confirmou a morte.",
+    "fonte": "El Universo e Correio — 18/10/2026",
+    "fonteUrl": "https://www.eluniverso.com/comunidad/guayaquil/sacerdote-muere-tras-caerle-una-cruz-de-madera-durante-una-misa-en-el-sur-de-guayaquil-nota/",
+    "corpo": [
+      "O padre Patricio Alfredo Sánchez Molinari morreu após ser atingido por uma cruz de madeira que caiu durante uma missa na igreja Nuestra Señora del Perpetuo Socorro, em Guayaquil, no Equador, segundo reportagens publicadas neste domingo (18).",
+      "A celebração era transmitida pelas redes sociais. Fiéis tentaram socorrer o religioso depois que a estrutura se desprendeu e caiu na área do altar.",
+      "A Arquidiocese de Guayaquil confirmou a morte e manifestou pesar. Até as reportagens consultadas, não havia explicação oficial sobre a causa do desprendimento da cruz."
+    ],
+    "id": 51,
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=51",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa; não representa necessariamente a ocorrência."
+  },
+  {
+    "categoria": "Manaus",
+    "titulo": "Fumaça de queimadas afeta Manaus e prefeitura suspende atividades ao ar livre até domingo",
+    "resumo": "Poluição do ar atingiu níveis críticos no sábado (17); prefeitura orientou evitar esforço físico ao ar livre até este domingo (18).",
+    "fonte": "CM7 Brasil — 17/10/2026",
+    "fonteUrl": "https://politica.cm7brasil.com/noticia/469571/apos-fumaca-encobrir-manaus-prefeitura-suspende-atividades-ao-ar-livre-ate-domin/",
+    "corpo": [
+      "A fumaça das queimadas voltou a prejudicar a qualidade do ar em Manaus. A prefeitura anunciou a suspensão de atividades ao ar livre até domingo (18), segundo reportagem publicada pelo CM7 Brasil no sábado (17).",
+      "A publicação informou que sensores de monitoramento registraram concentrações elevadas de partículas finas (MP2,5) em diferentes regiões da capital. A situação exige atenção especial de crianças, idosos, gestantes e pessoas com problemas respiratórios.",
+      "A orientação divulgada é reduzir atividades físicas externas, acompanhar os avisos oficiais e procurar atendimento médico diante de sintomas importantes. O registro de chuva mencionado em stories nas redes sociais não foi confirmado de forma independente nesta apuração."
+    ],
+    "id": 50,
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=50",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa; não representa necessariamente a ocorrência."
+  },
+  {
+    "categoria": "Manaus",
+    "titulo": "Motociclista de 23 anos morre em acidente na Grande Circular, em Manaus",
+    "resumo": "Francisco Santos Barbosa morreu após acidente na zona leste de Manaus na noite de sábado (17); órgãos de trânsito e polícia atenderam a ocorrência.",
+    "fonte": "Fatos Norte — 17/10/2026",
+    "fonteUrl": "https://fatosnorte.com.br/acidente/jovem-de-23-anos-morre-em-grave-acidente-de-moto-na-grande-circular-em-manaus",
+    "corpo": [
+      "Um acidente de trânsito na Avenida Grande Circular, zona leste de Manaus, provocou a morte do motociclista Francisco Santos Barbosa, de 23 anos, na noite de sábado (17), segundo informações publicadas pelo Fatos Norte.",
+      "De acordo com o relato divulgado, o jovem voltava do trabalho para casa. Sua companheira, preocupada com a demora e a falta de resposta às mensagens, encontrou a ocorrência no caminho e reconheceu a motocicleta.",
+      "Equipes de segurança e de trânsito atuaram no isolamento da área para os trabalhos periciais. A dinâmica do acidente e eventuais responsabilidades dependem da apuração das autoridades."
+    ],
+    "id": 49,
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=49",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa; não representa necessariamente a ocorrência."
+  },
+  {
     "id": 48,
     "categoria": "Entretenimento",
     "titulo": "Academia Amazonense de Letras promove programação cultural gratuita neste domingo",
