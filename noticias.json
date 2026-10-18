@@ -1,7 +1,7 @@
 [
   {
     "id": 60,
-    "categoria": "Policial",
+    "categoria": "Polícia",
     "titulo": "Homem é encontrado morto na faixa de areia da praia da Ponta Negra, em Manaus",
     "resumo": "Corpo foi localizado na manhã deste domingo (18); circunstâncias da morte serão investigadas, e não há confirmação de afogamento.",
     "corpo": [
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 3,
-    "categoria": "Policial",
+    "categoria": "Polícia",
     "titulo": "Operações da PF em Manaus miram crimes sexuais contra crianças e adolescentes",
     "resumo": "Operações da PF em 15 de outubro cumpriram mandados de busca e de prisão preventiva.",
     "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Sede%20da%20Pol%C3%ADcia%20Federal.jpg?width=1000",
