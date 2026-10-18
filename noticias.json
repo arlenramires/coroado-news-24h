@@ -1,5 +1,27 @@
 [
   {
+    "id": 40,
+    "categoria": "Polícia",
+    "titulo": "Homem morre após ser estrangulado durante briga por suposto furto de macaxeira na Manaus Moderna",
+    "resumo": "Crime ocorreu no sábado (17), no Centro de Manaus; suspeito foi agredido por populares e caso será investigado pela DEHS.",
+    "fonte": "Portal do Holanda, Manauara News e Fatos Norte — 17 e 18/10/2026",
+    "fonteUrl": "https://www.portaldoholanda.com.br/policial/conflito-por-suposto-furto-resulta-em-morte-no-centro-de-manaus",
+    "corpo": [
+      "Um homem morreu após ser estrangulado durante uma discussão relacionada ao suposto furto de macaxeira nas proximidades da Feira da Manaus Moderna, no Centro de Manaus, na tarde de sábado (17). O caso ocorreu por volta das 17h30, segundo relatos preliminares divulgados pela imprensa local.",
+      "A vítima, identificada inicialmente apenas pelo apelido de “Neguinho”, teria sido imobilizada pelo pescoço durante a confusão. Ela não resistiu e morreu no local. A identidade civil do homem ainda não havia sido confirmada oficialmente nas informações consultadas.",
+      "Testemunhas tentaram agredir o suspeito após o episódio. Agentes da Guarda Municipal de Manaus intervieram para conter a tentativa de linchamento e permitir o encaminhamento do caso às autoridades.",
+      "A Delegacia Especializada em Homicídios e Sequestros (DEHS) deverá investigar as circunstâncias da morte, a participação dos envolvidos e a motivação do desentendimento. A confirmação técnica da causa da morte depende de exames periciais.",
+      "As informações sobre o suposto furto e a dinâmica da agressão são preliminares e ainda dependem de apuração policial. Até o momento das reportagens consultadas, não havia divulgação oficial da identidade completa da vítima."
+    ],
+    "data": "18/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=40",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa, sem exposição da vítima.",
+    "imagemLegenda": "Ocorrência foi registrada na região da Feira da Manaus Moderna, no Centro de Manaus."
+  },
+  {
     "id": 39,
     "categoria": "Manaus",
     "titulo": "Manaus teve 14 desligamentos programados de energia neste domingo (18); veja os bairros",
