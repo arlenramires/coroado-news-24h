@@ -161,28 +161,6 @@
     "imagemLegenda": "Ilustração do confronto entre Grêmio e Cruzeiro pelo Campeonato Brasileiro."
   },
   {
-    "id": 53,
-    "categoria": "Manaus",
-    "titulo": "Chuva volta a Manaus neste domingo, mas cheiro de fumaça ainda preocupa moradores",
-    "resumo": "Chuva atingiu diferentes zonas da capital na manhã de 18 de outubro; índices de partículas caíram, mas qualidade do ar continuou exigindo atenção.",
-    "fonte": "A Crítica, Dia a Dia Notícia e Prefeitura de Manaus — 18/10/2026",
-    "fonteUrl": "https://www.acritica.com/geral/chuva-reduz-niveis-de-poluicao-do-ar-em-manaus-aponta-monitoramento/",
-    "corpo": [
-      "A chuva voltou a atingir diferentes zonas de Manaus na manhã deste domingo (18), depois de um sábado marcado por fumaça intensa e qualidade do ar classificada como péssima. Moradores ainda relataram cheiro forte de queimadas em partes da cidade.",
-      "De acordo com dados do Sistema Eletrônico de Vigilância Ambiental (SELVA), o maior registro de concentração de partículas finas (PM2,5) nos pontos observados caiu de 258,3 µg/m³ por volta das 7h30 para 79,9 µg/m³ às 8h08. A redução foi significativa, mas não representou normalização da qualidade do ar em toda a cidade.",
-      "A Defesa Civil municipal informou que, no sábado (17), a média de PM2,5 chegou a 401,4 µg/m³ às 6h30, classificação considerada péssima. A fumaça está associada a queimadas no Amazonas e em outras áreas da região.",
-      "Na manhã deste domingo, a Defesa Civil emitiu alerta severo para chuva intensa, com possibilidade de alagamentos e enxurradas. Em emergências, a população pode acionar a Defesa Civil pelo telefone 199 ou o Corpo de Bombeiros pelo 193.",
-      "A prefeitura recomenda reduzir a exposição à fumaça e evitar exercícios ao ar livre. Crianças, idosos, gestantes e pessoas com problemas respiratórios devem ter atenção especial. As condições meteorológicas e os índices de poluição podem mudar ao longo do dia."
-    ],
-    "data": "18/10/2026",
-    "destaque": false,
-    "url": "noticia.html?id=53",
-    "imagem": "https://static.wixstatic.com/media/a06550_8db3e933f4ab43adb3c1461768543a48~mv2.png",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem enviada à redação",
-    "imagemLegenda": "Chuva em Manaus"
-  },
-  {
     "id": 52,
     "categoria": "Entretenimento",
     "titulo": "Ruivinha de Marte chama atenção após ganhar cerca de 20 kg e mostrar transformação física",
