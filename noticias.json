@@ -264,13 +264,19 @@
   {
     "id": 43,
     "categoria": "Brasil",
-    "titulo": "Mais de 4 mil seções eleitorais mudam de local para segundo turno",
-    "resumo": "Justiça Eleitoral informou alteração de endereço de 4.352 seções; eleitor pode conferir pelo e-Título.",
+    "titulo": "Mais de 4,3 mil seções eleitorais mudam de endereço no país; saiba consultar seu local de votação",
+    "resumo": "Mudanças atingem 4.352 seções no segundo turno; Justiça Eleitoral recomenda verificar o endereço no e-Título antes de sair de casa.",
     "fonte": "Agência Brasil",
     "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados",
     "corpo": [
-      "Justiça Eleitoral informou alteração de endereço de 4.352 seções; eleitor pode conferir pelo e-Título.",
-      "A notícia foi apurada com base na reportagem original indicada como fonte, consultada em 18 de outubro de 2026. Para detalhes e atualizações, consulte a publicação de origem."
+      "ELEIÇÕES 2026 — Eleitores devem conferir com antecedência o endereço de votação para o segundo turno, marcado para 25 de outubro. Segundo informações divulgadas pela Justiça Eleitoral e repercutidas pela Agência Brasil, 4.352 seções eleitorais tiveram seus locais de votação alterados no país. Isso representa aproximadamente 0,87% do total de seções. O número é nacional e não significa que todas essas alterações ocorreram no Amazonas.",
+      "POR QUE OS ENDEREÇOS MUDARAM? As alterações foram atribuídas a situações como reformas de última hora em prédios utilizados para votação, necessidades de melhoria de acessibilidade e danos causados por chuvas e ventos. Em determinadas situações, o eleitor poderá precisar comparecer a outro prédio ou endereço, mesmo que já tenha votado em um local diferente no primeiro turno.",
+      "COMO SABER SE SUA SEÇÃO MUDOU — O caminho mais seguro é consultar o local de votação nos canais da Justiça Eleitoral. Abra o aplicativo e-Título ou acesse o portal do Tribunal Superior Eleitoral (TSE), em https://www.tse.jus.br/, e procure a área de Autoatendimento Eleitoral e a opção de consulta ao local de votação. Confira o endereço completo, a zona e a seção antes de sair. Se houver divergência com o endereço utilizado no primeiro turno, siga a informação atualizada do serviço oficial.",
+      "E NO AMAZONAS? Como a notícia se refere a alterações em todo o Brasil, ela não apresenta uma lista confirmada de seções modificadas especificamente em Manaus ou no interior do Amazonas. Para verificar informações locais, consulte o Tribunal Regional Eleitoral do Amazonas (TRE-AM), em https://www.tre-am.jus.br/, além do e-Título. Evite compartilhar listas informais sem confirmação do tribunal.",
+      "ONDE HOUVE MAIS MUDANÇAS — Conforme os dados apresentados na reportagem da Agência Brasil, São Paulo registrou 982 seções com alteração, Minas Gerais 514, Rio de Janeiro 431 e Bahia 312. Os números mostram que a reorganização não se restringiu a uma única região e reforçam a importância da consulta individual pelo eleitor.",
+      "QUANDO SERÁ O SEGUNDO TURNO? A votação está prevista para domingo, 25 de outubro de 2026, das 8h às 17h, conforme o horário oficial divulgado para o pleito. O segundo turno inclui a escolha para presidente da República; o Amazonas também está entre os estados com disputa pelo governo estadual. Verifique as orientações eleitorais oficiais e organize seu deslocamento com antecedência.",
+      "DICA AO ELEITOR — Antes de sair de casa, confirme seu local de votação, planeje o trajeto e consulte as regras oficiais sobre identificação e votação. A consulta individual é mais confiável do que presumir que o endereço permaneceu igual ao do primeiro turno. Para informações e atualizações, acompanhe https://www.tse.jus.br/ e https://www.tre-am.jus.br/.",
+      "FONTE E CONTEXTO — Informações baseadas em reportagem da Agência Brasil publicada em 17/10/2026, disponível em https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados. A relação de endereços e a situação de cada eleitor devem ser conferidas diretamente nos serviços da Justiça Eleitoral."
     ],
     "data": "18/10/2026",
     "destaque": false,
