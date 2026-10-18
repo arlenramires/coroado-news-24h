@@ -121,10 +121,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=52",
-    "imagem": "",
+    "imagem": "https://static.wixstatic.com/media/a06550_bf4e6a527ded4902a9cefcd3be7971e7~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa; fotografia específica pendente de licenciamento.",
-    "imagemLegenda": "Ruivinha de Marte compartilhou sua transformação nas redes sociais."
+    "imagemCredito": "Imagem enviada pelo usuário; origem e direitos de uso não verificados.",
+    "imagemLegenda": "Montagem comparativa divulgada sobre a transformação física de Ruivinha de Marte."
   },
   {
     "categoria": "Internacional",
