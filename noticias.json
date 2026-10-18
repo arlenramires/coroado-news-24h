@@ -141,7 +141,13 @@
     "imagem": "https://static.wixstatic.com/media/a06550_3469c1b5ca4d4345a99fd0d47a400f9b~mv2.jpg",
     "imagemFallback": "https://static.wixstatic.com/media/a06550_3469c1b5ca4d4345a99fd0d47a400f9b~mv2.jpg",
     "imagemCredito": "Imagem fornecida à redação; autoria não informada.",
-    "imagemLegenda": "Imagem do sacerdote durante celebração religiosa."
+    "imagemLegenda": "Imagem do sacerdote durante celebração religiosa.",
+    "video": {
+      "tipo": "mp4",
+      "url": "https://video.wixstatic.com/video/a06550_dd017d34f6ef4465bf822eae32a5f16f/file",
+      "poster": "https://static.wixstatic.com/media/a06550_3469c1b5ca4d4345a99fd0d47a400f9b~mv2.jpg",
+      "legenda": "Vídeo do momento da queda da cruz durante a celebração religiosa em Guayaquil. As imagens podem causar desconforto."
+    }
   },
   {
     "categoria": "Manaus",
