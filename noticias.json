@@ -1,5 +1,72 @@
 [
   {
+    "id": 39,
+    "categoria": "Manaus",
+    "titulo": "Manaus teve 14 desligamentos programados de energia neste domingo (18); veja os bairros",
+    "resumo": "Manutenções anunciadas para dez bairros tinham horários previstos entre 5h e 17h; programação incluía Chapada, Aleixo e Centro.",
+    "fonte": "Portal do Holanda e Anota Manaus — 17/10/2026",
+    "fonteUrl": "https://www.portaldoholanda.com.br/index.php/amazonas/domingo-sem-luz-14-desligamentos-em-10-bairros-de-manaus-com-ate-9-horas-de-interrupcao-veja-a-lista",
+    "corpo": [
+      "Manaus teve previsão de 14 desligamentos programados de energia elétrica neste domingo (18 de outubro), distribuídos por dez bairros. Segundo a programação divulgada na véspera, os serviços de manutenção na rede estavam previstos entre 5h e 17h, dependendo da localidade.",
+      "Na Cidade Nova e adjacências, a previsão era das 5h às 6h30. No Aleixo, trechos da Rua Belo Horizonte e da Rua Severiano Nunes estavam na programação das 8h às 17h. No Centro, os endereços incluíam trechos das ruas Saldanha Marinho, Ferreira Pena e Quintino Bocaiuva, também das 8h às 17h.",
+      "Na Chapada, a Avenida Theomário Pinto e adjacências constavam na lista das 8h às 17h. O Distrito Industrial II tinha manutenção prevista das 8h às 15h, próximo ao Caic Dr. Edson Melo, na Estrada do Aleixo.",
+      "Também estavam incluídos Alvorada (9h às 16h30), Colônia Terra Nova (9h às 16h), Vila da Prata (9h às 16h), Jorge Teixeira (8h às 17h) e Adrianópolis (8h30 às 15h30), em trechos específicos de cada bairro.",
+      "A concessionária informou que os desligamentos tinham finalidade preventiva, corretiva ou preditiva e que horários poderiam sofrer alterações por condições climáticas e imprevistos. A programação não significa que todos os imóveis dos bairros tenham ficado sem energia.",
+      "Até o fechamento desta notícia, não havia confirmação independente de que todos os serviços foram executados ou de que existam interrupções em andamento nesta noite. Moradores que continuem sem fornecimento devem consultar os canais oficiais da concessionária."
+    ],
+    "data": "18/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=39",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Desligamentos programados para manutenção da rede elétrica em Manaus."
+  },
+  {
+    "id": 38,
+    "categoria": "Fofocas",
+    "titulo": "A Fazenda 18: saída de Jottapê provoca tensão e briga termina com leite jogado em participante",
+    "resumo": "Após a desistência do cantor, Ariela e Mônica discutiram; Giovanna Gold acabou atingida por leite durante a confusão.",
+    "fonte": "Record e UOL Splash — 16 e 17/10/2026",
+    "fonteUrl": "https://www.uol.com.br/splash/noticias/2026/10/17/a-fazenda-18-ariela-e-monica-discutem-e-confusao-termina-com-leite-no-rosto.ghtm",
+    "corpo": [
+      "A saída de Jottapê de A Fazenda 18 continua repercutindo entre os participantes. O cantor desistiu do reality show da Record na sexta-feira (16), após ficar abalado com a eliminação de Igor Monteiro, um de seus aliados no confinamento.",
+      "Segundo a Record, Jottapê explicou aos colegas que precisava cumprir uma promessa. Mesmo com tentativas dos amigos para convencê-lo a permanecer, ele decidiu deixar a disputa.",
+      "A desistência aumentou a tensão na sede. Em uma discussão envolvendo Ariela Carasso e Mônica Fonseca, a participante Giovanna Gold tentou intervir e acabou atingida por leite derramado por Ariela, conforme relato publicado pelo UOL Splash no sábado (17).",
+      "O episódio provocou novas acusações e discussões sobre respeito entre os confinados. Giovanna pediu providências à produção, enquanto Ariela alegou estar reagindo às provocações.",
+      "A confusão repercutiu entre os participantes e se tornou mais um capítulo da temporada. As informações relatadas se referem aos acontecimentos divulgados até sábado (17)."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=38",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemCredito": "Imagem ilustrativa; sem fotografia oficial licenciada.",
+    "imagemLegenda": "Reality show A Fazenda 18, da Record."
+  },
+  {
+    "id": 37,
+    "categoria": "Entretenimento",
+    "titulo": "BTS volta ao Brasil com três shows esgotados em São Paulo e transmissão nos cinemas",
+    "resumo": "Grupo de K-pop se apresenta nos dias 28, 30 e 31 de outubro; show do dia 30 terá exibição em salas de cinema.",
+    "fonte": "Capricho e CNN Brasil — 17/10 e 30/06/2026",
+    "fonteUrl": "https://capricho.abril.com.br/entretenimento/bts-no-brasil-horario-regras-projetos-e-tudo-o-que-voce-precisa-saber-antes-do-show/",
+    "corpo": [
+      "O BTS se prepara para reencontrar os fãs brasileiros com três apresentações da turnê mundial ARIRANG, marcadas para 28, 30 e 31 de outubro de 2026 no estádio MorumBIS, em São Paulo.",
+      "Os ingressos para as três datas estão esgotados. De acordo com as orientações divulgadas para os shows, a abertura dos portões está prevista para as 16h e o início das apresentações para as 20h.",
+      "Para quem não conseguiu ingresso para o estádio, o show de 30 de outubro terá transmissão em cinemas, em iniciativa anunciada pela Bighit Music. A disponibilidade de sessões e os preços dependem de cada sala participante.",
+      "As apresentações marcam o retorno da formação completa do grupo aos grandes palcos após o período de serviço militar obrigatório dos integrantes na Coreia do Sul.",
+      "O reencontro mobiliza os fãs conhecidos como ARMY e coloca o Brasil entre as principais paradas da etapa sul-americana da turnê."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=37",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
+    "imagemCredito": "Imagem ilustrativa; sem fotografia oficial licenciada.",
+    "imagemLegenda": "BTS fará três shows em São Paulo no fim de outubro."
+  },
+  {
     "id": 36,
     "categoria": "Fofocas",
     "titulo": "Virginia muda planos para aniversário de Maria Flor e comenta gastos com a festa",
