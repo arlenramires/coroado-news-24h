@@ -281,10 +281,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=45",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa.",
-    "imagemLegenda": "Imagem ilustrativa."
+    "imagem": "https://static.wixstatic.com/media/a06550_b4062bf8961640929d3569db2fe9d391~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_b4062bf8961640929d3569db2fe9d391~mv2.png",
+    "imagemCredito": "Imagem fornecida à redação; autoria não informada.",
+    "imagemLegenda": "Imagem fornecida para ilustrar a reportagem sobre as vítimas identificadas na AM-010."
   },
   {
     "id": 44,
