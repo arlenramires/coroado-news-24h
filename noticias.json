@@ -187,10 +187,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=49",
-    "imagem": "assets/acidente-grande-circular-49-ilustracao.svg",
-    "imagemFallback": "assets/acidente-grande-circular-49-ilustracao.svg",
-    "imagemCredito": "Arte ilustrativa: Coroado News 24h. Informações da reportagem: Fatos Norte.",
-    "imagemLegenda": "Imagem ilustrativa do acidente fatal na Grande Circular; não é fotografia da ocorrência."
+    "imagem": "https://static.wixstatic.com/media/a06550_f5c01276259e4185a2bf7f5de20cdb2a~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_f5c01276259e4185a2bf7f5de20cdb2a~mv2.png",
+    "imagemCredito": "Imagem editada digitalmente a partir de fotografia publicada pelo Fatos Norte; reprodução da cena não verificada.",
+    "imagemLegenda": "Imagem editada digitalmente associada à reportagem; não constitui registro fotográfico original sem alterações."
   },
   {
     "id": 48,
