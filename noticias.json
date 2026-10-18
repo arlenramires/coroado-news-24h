@@ -1,5 +1,72 @@
 [
   {
+    "id": 59,
+    "categoria": "Entretenimento",
+    "titulo": "Morre Lua Blanco, atriz e cantora que marcou geração em Rebelde, aos 39 anos",
+    "resumo": "Família confirmou a morte da artista neste domingo (18); Lua enfrentava um câncer e recebeu homenagens de colegas e fãs.",
+    "fonte": "Comunicado da família; Portal do Holanda; gshow",
+    "fonteUrl": "https://gshow.globo.com/google/amp/cultura-pop/famosos/noticia/atriz-e-cantora-lua-blanco-morre-aos-39-anos.ghtml",
+    "corpo": [
+      "A atriz e cantora Lua Blanco morreu neste domingo, 18 de outubro, aos 39 anos. A informação foi confirmada por familiares da artista em uma publicação nas redes sociais. Conhecida por viver Roberta Messi na versão brasileira da novela Rebelde, ela se tornou um dos rostos mais reconhecidos de uma geração de fãs da produção juvenil.",
+      "Segundo o comunicado divulgado por seus irmãos, Lua enfrentava um câncer nos últimos meses. A família informou que ela passou esse período cercada pelo carinho de parentes e amigos e pediu respeito à privacidade neste momento de luto.",
+      "A trajetória de Lua ganhou projeção nacional com Rebelde, exibida pela Record entre 2011 e 2012. A novela também deu origem ao grupo musical Rebeldes, que levou integrantes do elenco aos palcos em apresentações pelo país.",
+      "Além do sucesso juvenil, a artista participou de produções como Malhação e A Força do Querer. Sua carreira reuniu trabalhos como atriz, cantora e compositora, com projetos na televisão e na música.",
+      "A notícia provocou manifestações de pesar entre artistas e admiradores. Colegas de profissão, entre eles Sophia Abrahão, prestaram solidariedade à família nas redes sociais.",
+      "A causa informada pela família foi um câncer. Não foram divulgados detalhes médicos adicionais no comunicado consultado. O Coroado News 24h acompanha as informações confirmadas pelos familiares."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=59",
+    "imagem": "",
+    "imagemFallback": "",
+    "imagemLegenda": "",
+    "imagemCredito": ""
+  },
+  {
+    "id": 58,
+    "categoria": "Manaus",
+    "titulo": "Jovem morre em hospital após atropelamento no bairro Nossa Senhora das Graças, em Manaus",
+    "resumo": "Cristian Maciel Machado, de 18 anos, havia sido atingido por um carro no dia 10 de outubro, na rua Rio Içá.",
+    "fonte": "Portal do Holanda",
+    "fonteUrl": "https://novo2026.portaldoholanda.com.br/amazonas/jovem-de-18-anos-morre-apos-ser-atropelado-em-manaus",
+    "corpo": [
+      "O jovem Cristian Maciel Machado, de 18 anos, morreu após permanecer internado em consequência de um atropelamento ocorrido no bairro Nossa Senhora das Graças, em Manaus. A morte foi noticiada neste domingo (18).",
+      "De acordo com informações registradas em boletim de ocorrência e divulgadas pelo Portal do Holanda, o atropelamento ocorreu na noite de 10 de outubro, por volta das 20h, na rua Rio Içá, no conjunto Vieiralves.",
+      "A vítima foi atingida por um veículo Volkswagen Gol. Após o acidente, Cristian recebeu atendimento e foi encaminhado a uma unidade hospitalar da capital, mas não resistiu ao agravamento de seu estado de saúde.",
+      "O caso foi registrado na Delegacia Especializada em Homicídios e Sequestros (DEHS). As circunstâncias do atropelamento e eventuais responsabilidades dependem da apuração policial.",
+      "Até o momento das informações consultadas, não havia confirmação pública de conclusão da investigação."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=58",
+    "imagem": "",
+    "imagemFallback": "",
+    "imagemLegenda": "",
+    "imagemCredito": ""
+  },
+  {
+    "id": 57,
+    "categoria": "Policial",
+    "titulo": "Homem morre após agressão ligada a suspeita de furto na região da Manaus Moderna",
+    "resumo": "Ocorrência foi registrada no sábado (17), no Centro; Guarda Municipal interveio e Polícia Civil investiga as circunstâncias.",
+    "fonte": "Portal do Holanda; CM7",
+    "fonteUrl": "https://novo2026.portaldoholanda.com.br/policial/conflito-por-suposto-furto-resulta-em-morte-no-centro-de-manaus",
+    "corpo": [
+      "Um homem conhecido preliminarmente pelo apelido de Neguinho morreu após uma agressão registrada na tarde de sábado (17), nas proximidades da Feira da Manaus Moderna, no Centro de Manaus.",
+      "De acordo com informações publicadas pelo Portal do Holanda, a ocorrência começou em meio a uma suspeita de furto e à reação de pessoas que estavam na região. A suspeita não representa comprovação de que a vítima tenha cometido qualquer crime.",
+      "Relatos iniciais apontam que o homem foi imobilizado pelo pescoço e não resistiu. O envolvido na agressão também teria sido atacado por populares antes da intervenção da Guarda Municipal.",
+      "O caso deverá ser apurado pela Delegacia Especializada em Homicídios e Sequestros (DEHS), responsável por esclarecer a dinâmica, identificar os envolvidos e estabelecer as responsabilidades.",
+      "A identidade civil da vítima e outros detalhes ainda dependem de confirmação oficial. O Coroado News 24h evita divulgar imagens de violência explícita."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=57",
+    "imagem": "",
+    "imagemFallback": "",
+    "imagemLegenda": "",
+    "imagemCredito": ""
+  },
+  {
     "id": 56,
     "categoria": "Esportes",
     "titulo": "Palmeiras e Corinthians jogam neste domingo pela Libertadores Feminina",
