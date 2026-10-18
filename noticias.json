@@ -161,10 +161,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=49",
-    "imagem": "https://static.wixstatic.com/media/a06550_c6b2e218eff74733be036fcb3fd9d65d~mv2.png",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Fatos Norte (marca d’água na imagem; direitos de reprodução não verificados).",
-    "imagemLegenda": "Imagem divulgada sobre o acidente na Grande Circular, em Manaus."
+    "imagem": "assets/acidente-grande-circular-49-ilustracao.svg",
+    "imagemFallback": "assets/acidente-grande-circular-49-ilustracao.svg",
+    "imagemCredito": "Arte ilustrativa: Coroado News 24h. Informações da reportagem: Fatos Norte.",
+    "imagemLegenda": "Imagem ilustrativa do acidente fatal na Grande Circular; não é fotografia da ocorrência."
   },
   {
     "id": 48,
