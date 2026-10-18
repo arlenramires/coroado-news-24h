@@ -1,5 +1,81 @@
 [
   {
+    "id": 44,
+    "categoria": "Internacional",
+    "titulo": "Ataques de drones atingem terminal de petróleo em São Petersburgo",
+    "resumo": "AFP relata incêndio após ataque neste domingo (18); autoridades russas informaram uma morte, cinco feridos e interrupções de energia.",
+    "fonte": "AFP via UOL",
+    "fonteUrl": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/18/russia-e-ucrania-trocam-ataques-contra-infraestruturas-energeticas.amp.htm",
+    "corpo": [
+      "AFP relata incêndio após ataque neste domingo (18); autoridades russas informaram uma morte, cinco feridos e interrupções de energia.",
+      "A notícia foi apurada com base na reportagem original indicada como fonte, consultada em 18 de outubro de 2026. Para detalhes e atualizações, consulte a publicação de origem."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=44",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
+    "id": 43,
+    "categoria": "Brasil",
+    "titulo": "Mais de 4 mil seções eleitorais mudam de local para segundo turno",
+    "resumo": "Justiça Eleitoral informou alteração de endereço de 4.352 seções; eleitor pode conferir pelo e-Título.",
+    "fonte": "Agência Brasil",
+    "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados",
+    "corpo": [
+      "Justiça Eleitoral informou alteração de endereço de 4.352 seções; eleitor pode conferir pelo e-Título.",
+      "A notícia foi apurada com base na reportagem original indicada como fonte, consultada em 18 de outubro de 2026. Para detalhes e atualizações, consulte a publicação de origem."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=43",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
+    "id": 42,
+    "categoria": "Manaus",
+    "titulo": "Sine Manaus oferece 821 vagas de emprego nesta segunda-feira (19)",
+    "resumo": "Vagas para diferentes funções e níveis de escolaridade foram anunciadas para atendimento na segunda-feira.",
+    "fonte": "Amazônia Sem Fronteira",
+    "fonteUrl": "https://amazoniasemfronteira.com.br/sine-manaus-oferta-821-vagas-de-emprego-nesta-segunda-feira/",
+    "corpo": [
+      "Vagas para diferentes funções e níveis de escolaridade foram anunciadas para atendimento na segunda-feira.",
+      "A notícia foi apurada com base na reportagem original indicada como fonte, consultada em 18 de outubro de 2026. Para detalhes e atualizações, consulte a publicação de origem."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=42",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
+    "id": 41,
+    "categoria": "Amazonas",
+    "titulo": "Incêndios em Iranduba atingem nove veículos e ameaçam casas",
+    "resumo": "Dois incêndios registrados sábado (17) mobilizaram mais de 20 bombeiros. Uma operação utilizou aproximadamente 22 mil litros de água.",
+    "fonte": "Portal Amazon News",
+    "fonteUrl": "https://amazonnews.app/incendio-de-grandes-proporcoes-atinge-nove-veiculos-e-ameaca-casas-em-iranduba/",
+    "corpo": [
+      "Dois incêndios registrados sábado (17) mobilizaram mais de 20 bombeiros. Uma operação utilizou aproximadamente 22 mil litros de água.",
+      "A notícia foi apurada com base na reportagem original indicada como fonte, consultada em 18 de outubro de 2026. Para detalhes e atualizações, consulte a publicação de origem."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=41",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa.",
+    "imagemLegenda": "Imagem ilustrativa."
+  },
+  {
     "id": 40,
     "categoria": "Polícia",
     "titulo": "Homem morre após ser estrangulado durante briga por suposto furto de macaxeira na Manaus Moderna",
