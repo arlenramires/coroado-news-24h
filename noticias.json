@@ -378,8 +378,8 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=41",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagem": "https://static.wixstatic.com/media/a06550_41c83fa5c1eb4b5a99ebf37dcf1d93ba~mv2.jpg",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_41c83fa5c1eb4b5a99ebf37dcf1d93ba~mv2.jpg",
     "imagemCredito": "Imagem fornecida pelo leitor; autoria a confirmar.",
     "imagemLegenda": "Imagem enviada à redação para ilustrar a cobertura dos incêndios em Iranduba; local e data exatos da fotografia não foram verificados de forma independente."
   },
