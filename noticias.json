@@ -287,29 +287,6 @@
     "imagemLegenda": "Imagem fornecida para ilustrar a reportagem sobre as vítimas identificadas na AM-010."
   },
   {
-    "id": 44,
-    "categoria": "Internacional",
-    "titulo": "Ataques de drones atingem terminal de petróleo em São Petersburgo",
-    "resumo": "Ataques envolvendo drones e infraestrutura energética marcaram o conflito entre Rússia e Ucrânia neste domingo, 18 de outubro de 2026. Um ataque provocou incêndio em um terminal de petróleo na região de São Petersburgo, na Rússia.",
-    "fonte": "AFP via UOL",
-    "fonteUrl": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/18/russia-e-ucrania-trocam-ataques-contra-infraestruturas-energeticas.amp.htm",
-    "corpo": [
-      "MUNDO — Ataques envolvendo drones e infraestrutura energética voltaram a marcar o conflito entre Rússia e Ucrânia neste domingo, 18 de outubro de 2026. Um ataque provocou incêndio em um terminal de petróleo na região de São Petersburgo, na Rússia.",
-      "BALANÇO DIVULGADO — Autoridades russas informaram uma morte, cinco pessoas feridas e interrupções no fornecimento de energia. Esses números são atribuídos às autoridades citadas na cobertura e devem ser entendidos como balanço divulgado naquele momento, sujeito a atualizações.",
-      "POR QUE A INFRAESTRUTURA ENERGÉTICA IMPORTA? Terminais de petróleo e redes de energia são estruturas estratégicas porque participam do transporte, armazenamento e abastecimento. Danos nessas instalações podem afetar serviços, logística e atividades econômicas, além de gerar riscos ambientais e à população do entorno.",
-      "O QUE ESTÁ CONFIRMADO E O QUE NÃO ESTÁ — A reportagem de referência descreve ataques e consequências imediatas. A extensão total dos danos, a duração das interrupções e a verificação independente de todas as alegações das partes não estavam estabelecidas nas informações disponíveis nesta atualização. Em conflitos armados, versões oficiais podem divergir.",
-      "CONTEXTO — Ataques a instalações energéticas integram uma disputa mais ampla que atinge estruturas civis e industriais. A proteção da população e o respeito ao direito internacional humanitário permanecem questões centrais quando operações militares afetam serviços essenciais.",
-      "ACOMPANHAMENTO — Os relatos e balanços sobre os ataques ainda dependem de confirmação independente. Novos dados devem ser conferidos antes de substituir os números desta publicação."
-    ],
-    "data": "18/10/2026",
-    "destaque": false,
-    "url": "noticia.html?id=44",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa.",
-    "imagemLegenda": "Imagem ilustrativa."
-  },
-  {
     "id": 43,
     "categoria": "Brasil",
     "titulo": "Mais de 4,3 mil seções eleitorais mudam de endereço no país; saiba consultar seu local de votação",
