@@ -100,10 +100,10 @@
     "data": "18/10/2026",
     "destaque": true,
     "url": "noticia.html?id=53",
-    "imagem": "",
+    "imagem": "https://static.wixstatic.com/media/a06550_8db3e933f4ab43adb3c1461768543a48~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa; fotografia específica pendente.",
-    "imagemLegenda": "Chuva e fumaça em Manaus; imagem ilustrativa."
+    "imagemCredito": "Imagem enviada à redação",
+    "imagemLegenda": "Chuva em Manaus"
   },
   {
     "id": 52,
