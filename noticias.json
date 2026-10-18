@@ -275,10 +275,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=43",
-    "imagem": "",
+    "imagem": "https://static.wixstatic.com/media/a06550_8dfcc33ef34b4beab412d6d647b8d49d~mv2.jpg",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa.",
-    "imagemLegenda": "Imagem ilustrativa."
+    "imagemCredito": "Imagem enviada para a reportagem.",
+    "imagemLegenda": "Eleitores circulam em local de votação; imagem ilustrativa da organização das seções eleitorais."
   },
   {
     "id": 42,
