@@ -147,11 +147,11 @@
   {
     "categoria": "Internacional",
     "titulo": "Padre morre após cruz de madeira cair durante missa no Equador",
-    "resumo": "O padre Patricio Alfredo Sánchez Molinari morreu após ser atingido por uma cruz de madeira que caiu durante uma missa na igreja Nuestra Señora del Perpetuo Socorro, em Guayaquil. O caso foi divulgado em reportagens publicadas neste dom",
+    "resumo": "O padre Patricio Alfredo Sánchez Molinari morreu após ser atingido por uma cruz de madeira que caiu durante uma missa na igreja Nuestra Señora del Perpetuo Socorro, em Guayaquil. O incidente ocorreu durante uma celebração religiosa em Guayaquil, no Equador.",
     "fonte": "El Universo e Correio — 18/10/2026",
     "fonteUrl": "https://www.eluniverso.com/comunidad/guayaquil/sacerdote-muere-tras-caerle-una-cruz-de-madera-durante-una-misa-en-el-sur-de-guayaquil-nota/",
     "corpo": [
-      "EQUADOR — O padre Patricio Alfredo Sánchez Molinari morreu após ser atingido por uma cruz de madeira que caiu durante uma missa na igreja Nuestra Señora del Perpetuo Socorro, em Guayaquil. O caso foi divulgado em reportagens publicadas neste domingo, 18 de outubro de 2026.",
+      "EQUADOR — O padre Patricio Alfredo Sánchez Molinari morreu após ser atingido por uma cruz de madeira que caiu durante uma missa na igreja Nuestra Señora del Perpetuo Socorro, em Guayaquil.",
       "O QUE ACONTECEU — A celebração estava sendo transmitida pelas redes sociais quando a estrutura se desprendeu e caiu na área do altar. Segundo os relatos divulgados, fiéis presentes tentaram prestar socorro ao religioso após o incidente.",
       "CONFIRMAÇÃO DA MORTE — A Arquidiocese de Guayaquil confirmou o falecimento e manifestou pesar. A confirmação da morte, porém, não esclarece automaticamente por que a estrutura caiu ou se havia algum problema anterior na instalação.",
       "CAUSA AINDA DESCONHECIDA — Nas informações consultadas para esta atualização, não havia explicação oficial conclusiva sobre o desprendimento da cruz. Por isso, seria incorreto atribuir o acidente a falha de manutenção, erro humano ou qualquer outra causa específica sem investigação.",
@@ -163,10 +163,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=51",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa.",
-    "imagemLegenda": "Imagem ilustrativa; não representa necessariamente a ocorrência."
+    "imagem": "https://static.wixstatic.com/media/a06550_3469c1b5ca4d4345a99fd0d47a400f9b~mv2.jpg",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_3469c1b5ca4d4345a99fd0d47a400f9b~mv2.jpg",
+    "imagemCredito": "Imagem fornecida à redação; autoria não informada.",
+    "imagemLegenda": "Imagem do sacerdote durante celebração religiosa."
   },
   {
     "categoria": "Manaus",
