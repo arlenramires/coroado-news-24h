@@ -1,5 +1,26 @@
 [
   {
+    "id": 60,
+    "categoria": "Policial",
+    "titulo": "Homem é encontrado morto na faixa de areia da praia da Ponta Negra, em Manaus",
+    "resumo": "Corpo foi localizado na manhã deste domingo (18); circunstâncias da morte serão investigadas, e não há confirmação de afogamento.",
+    "corpo": [
+      "Um homem ainda não identificado foi encontrado morto na manhã deste domingo (18), na faixa de areia da praia da Ponta Negra, na zona oeste de Manaus.",
+      "As informações iniciais indicam que o corpo apresentava hematomas. Até o momento, não há confirmação oficial da causa da morte nem elementos suficientes para afirmar que se tratou de afogamento.",
+      "As circunstâncias do caso deverão ser esclarecidas pelas autoridades responsáveis pela investigação. A identificação da vítima também depende de confirmação oficial.",
+      "O Coroado News 24h acompanha o caso e atualizará a reportagem quando houver novas informações verificadas."
+    ],
+    "fonte": "Noticiário local; apuração inicial sujeita a confirmação oficial",
+    "fonteUrl": "",
+    "data": "18/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=60",
+    "imagem": "",
+    "imagemFallback": "",
+    "imagemLegenda": "",
+    "imagemCredito": ""
+  },
+  {
     "id": 59,
     "categoria": "Entretenimento",
     "titulo": "Morre Lua Blanco, atriz e cantora que marcou geração em Rebelde, aos 39 anos",
@@ -15,7 +36,7 @@
       "A causa informada pela família foi um câncer. Não foram divulgados detalhes médicos adicionais no comunicado consultado. O Coroado News 24h acompanha as informações confirmadas pelos familiares."
     ],
     "data": "18/10/2026",
-    "destaque": false,
+    "destaque": true,
     "url": "noticia.html?id=59",
     "imagem": "",
     "imagemFallback": "",
