@@ -294,10 +294,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=42",
-    "imagem": "",
+    "imagem": "https://static.wixstatic.com/media/a06550_4be996b3832b492a9458f9074946bd93~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa.",
-    "imagemLegenda": "Imagem ilustrativa."
+    "imagemCredito": "Imagem ilustrativa: carteiras de trabalho.",
+    "imagemLegenda": "Carteiras de trabalho ilustram oportunidades de emprego oferecidas pelo Sine Manaus."
   },
   {
     "id": 41,
