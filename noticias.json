@@ -217,29 +217,6 @@
     "imagemLegenda": "Fachada da Academia Amazonense de Letras, no Centro de Manaus."
   },
   {
-    "id": 47,
-    "categoria": "Esportes",
-    "titulo": "Flamengo enfrenta Bahia neste domingo para defender liderança do Brasileirão",
-    "resumo": "Bahia e Flamengo estão entre os confrontos previstos para este domingo, 18 de outubro de 2026, em uma rodada do Campeonato Brasileiro que também reúne Fluminense x Santos e Grêmio x Cruzeiro. A programação foi divulgada antes do encerr",
-    "fonte": "CNN Brasil",
-    "fonteUrl": "https://www.cnnbrasil.com.br/esportes/",
-    "corpo": [
-      "ESPORTE — Bahia e Flamengo estão entre os confrontos previstos para este domingo, 18 de outubro de 2026, em uma rodada do Campeonato Brasileiro que também reúne Fluminense x Santos e Grêmio x Cruzeiro. A programação foi divulgada antes do encerramento das partidas.",
-      "DISPUTA NA TABELA — O Flamengo chega ao confronto com o objetivo de sustentar sua posição de destaque na classificação. Para o Bahia, jogar diante da própria torcida representa a oportunidade de buscar pontos importantes. A relevância exata do resultado depende da tabela atualizada e dos demais jogos da rodada.",
-      "O QUE O TORCEDOR DEVE OBSERVAR — Além do placar, o desempenho defensivo, a criação de oportunidades e a eficiência nas finalizações ajudam a explicar o rumo de uma partida. Escalações e eventuais desfalques precisam ser confirmados perto do início do jogo, quando os clubes divulgam as equipes.",
-      "OUTROS JOGOS — A rodada de domingo também prevê Fluminense x Santos e Grêmio x Cruzeiro. Os resultados desses confrontos podem influenciar posições na classificação, mas não devem ser tratados como definidos antes do apito final.",
-      "INFORMAÇÃO EM TEMPO REAL — Como esta notícia foi preparada antes do encerramento dos jogos, não apresenta placares finais nem artilheiros. Para acompanhar horários, escalações, resultados e a tabela oficial, consulte os canais da Confederação Brasileira de Futebol em https://www.cbf.com.br/ ou os perfis oficiais dos clubes.",
-      "ACOMPANHAMENTO — O Coroado News 24h diferencia a prévia da partida de sua cobertura posterior. Qualquer atualização com resultado deverá ser publicada após confirmação, evitando que uma notícia de agenda seja confundida com relato de jogo encerrado."
-    ],
-    "data": "18/10/2026",
-    "destaque": false,
-    "url": "noticia.html?id=47",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa.",
-    "imagemLegenda": "Imagem ilustrativa."
-  },
-  {
     "id": 46,
     "categoria": "Polícia",
     "titulo": "Homem é ferido a faca no Jorge Teixeira, na zona leste de Manaus",
@@ -504,30 +481,6 @@
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
     "imagemCredito": "Fotografia enviada para publicação; autoria e direitos de uso a confirmar.",
     "imagemLegenda": "Giulia Be e Conor Kennedy durante a celebração do casamento."
-  },
-  {
-    "id": 34,
-    "categoria": "Esportes",
-    "titulo": "Flamengo terá retorno de Jorginho, mas enfrenta Bahia com quatro desfalques",
-    "resumo": "Líder do Brasileirão, Flamengo encara o Bahia neste domingo, às 18h30 de Brasília; Jorginho volta após suspensão e Saúl segue fora.",
-    "fonte": "ge — 17/10/2026",
-    "fonteUrl": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/17/flamengo-divulga-lista-de-relacionados-para-confronto-com-o-bahia-pelo-brasileirao-veja-quem-viaja.ghtml",
-    "corpo": [
-      "O Flamengo divulgou neste sábado (17) a lista de jogadores relacionados para enfrentar o Bahia, neste domingo (18), na Arena Fonte Nova, pela 31ª rodada do Campeonato Brasileiro. O confronto está marcado para as 18h30, no horário de Brasília.",
-      "A principal novidade para o técnico Leonardo Jardim é o retorno de Jorginho, que cumpriu suspensão na rodada anterior, contra o Fluminense, e volta a ficar à disposição da comissão técnica.",
-      "Por outro lado, Saúl não viajou para Salvador por causa de dores na perna esquerda e seguirá em tratamento no Rio de Janeiro. O clube ainda trabalha para recuperar outros atletas que estão fora de combate.",
-      "Ayrton Lucas e Evertton Araújo seguem em transição física e não foram relacionados. Danilo, com fraturas na mandíbula, e Arrascaeta, com fratura no punho esquerdo, também permanecem afastados.",
-      "O Flamengo chega à rodada na liderança do Brasileirão, com um ponto de vantagem sobre o Palmeiras. O Bahia aparece entre os cinco primeiros colocados, o que aumenta o peso do confronto na parte de cima da classificação.",
-      "A partida terá transmissão do Premiere. A equipe carioca busca manter a vantagem na corrida pelo título, enquanto o Bahia tenta aproveitar o mando de campo para somar pontos importantes.",
-      "O Coroado News 24h acompanha os principais jogos do Campeonato Brasileiro e as novidades dos clubes que mobilizam torcedores no Amazonas."
-    ],
-    "data": "17/10/2026",
-    "destaque": false,
-    "url": "noticia.html?id=34",
-    "imagem": "https://static.wixstatic.com/media/a06550_e37638910eea473e86544382a2f4661e~mv2.png",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/amazonas.svg",
-    "imagemCredito": "Fotografia enviada para publicação; autoria e direitos de uso a confirmar.",
-    "imagemLegenda": "Lance de partida entre Flamengo e Bahia."
   },
   {
     "categoria": "Política",
