@@ -15,10 +15,10 @@
     "data": "18/10/2026",
     "destaque": true,
     "url": "noticia.html?id=60",
-    "imagem": "",
-    "imagemFallback": "",
-    "imagemLegenda": "",
-    "imagemCredito": ""
+    "imagem": "https://static.wixstatic.com/media/a06550_c7633ae9f7ec48d0a6e3831555197792~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_c7633ae9f7ec48d0a6e3831555197792~mv2.png",
+    "imagemLegenda": "Imagem enviada à redação, associada à ocorrência registrada na praia da Ponta Negra, em Manaus.",
+    "imagemCredito": "Imagem enviada à redação; autoria não informada."
   },
   {
     "id": 59,
