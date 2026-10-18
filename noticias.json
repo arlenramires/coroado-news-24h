@@ -1,5 +1,89 @@
 [
   {
+    "id": 57,
+    "categoria": "Esportes",
+    "titulo": "Real Madrid recebe Sevilla neste domingo sem Vinícius Júnior pelo Campeonato Espanhol",
+    "resumo": "Confronto pela nona rodada de LaLiga será às 16h de Brasília, no Santiago Bernabéu; Éder Militão volta a ser relacionado.",
+    "fonte": "ge",
+    "fonteUrl": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/17/real-madrid-x-sevilla-em-laliga-onde-assistir-ao-vivo-e-horario.ghtml",
+    "corpo": [
+      "O Real Madrid recebe o Sevilla neste domingo (18), às 16h (horário de Brasília), no Estádio Santiago Bernabéu, pela nona rodada do Campeonato Espanhol 2026/27.",
+      "O atacante brasileiro Vinícius Júnior não estará disponível: ele cumpre o primeiro de quatro jogos de suspensão em LaLiga.",
+      "Sem Vini Jr., o brasileiro Endrick pode ganhar mais espaço após participação decisiva na reação do Real Madrid contra a Roma, pela Liga dos Campeões, na última quarta-feira.",
+      "Outra novidade é o retorno do zagueiro Éder Militão à lista de relacionados após cerca de seis meses afastado por lesão. A transmissão está prevista pela CazéTV e Prime Video."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=57",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa pendente de seleção.",
+    "imagemLegenda": "Real Madrid recebe Sevilla neste domingo sem Vinícius Júnior pelo Campeonato Espanhol"
+  },
+  {
+    "id": 56,
+    "categoria": "Esportes",
+    "titulo": "Palmeiras e Corinthians jogam neste domingo pela Libertadores Feminina",
+    "resumo": "Palmeiras enfrenta o Belgrano às 17h, enquanto Corinthians encara o Caracas às 21h, em Quito.",
+    "fonte": "ge e UOL",
+    "fonteUrl": "https://ge.globo.com/sp/campinas-e-regiao/futebol/futebol-feminino/libertadores-feminina/noticia/2026/10/18/corinthians-x-caracas-pela-libertadores-feminina-onde-assistir-ao-vivo-e-horario.ghtml",
+    "corpo": [
+      "Dois clubes brasileiros entram em campo neste domingo (18), em Quito, no Equador, pela fase de grupos da Libertadores Feminina 2026.",
+      "O Palmeiras enfrenta o Belgrano, da Argentina, às 17h (de Brasília), no Estádio Banco Guayaquil, pela segunda rodada do Grupo B. Campeãs em 2022, as Palestrinas tentam se consolidar na disputa pela classificação.",
+      "Às 21h (de Brasília), o Corinthians enfrenta o Caracas, da Venezuela, no Estádio Rodrigo Paz Delgado, pela segunda rodada do Grupo A. Atual campeão, o time paulista estreou com vitória por 2 a 0 sobre o Colo-Colo.",
+      "A competição reúne 16 equipes, e os dois primeiros de cada grupo avançam às quartas de final. As partidas têm opções de transmissão em TV e streaming, conforme a disponibilidade de cada plataforma."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=56",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa pendente de seleção.",
+    "imagemLegenda": "Palmeiras e Corinthians jogam neste domingo pela Libertadores Feminina"
+  },
+  {
+    "id": 55,
+    "categoria": "Esportes",
+    "titulo": "Remo enfrenta Bragantino no Mangueirão em busca de reação no Brasileirão",
+    "resumo": "Vice-lanterna, time paraense recebe o Bragantino neste domingo, às 19h30, pela 31ª rodada.",
+    "fonte": "ge",
+    "fonteUrl": "https://ge.globo.com/pa/futebol/brasileirao-serie-a/noticia/2026/10/18/remo-x-bragantino-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+    "corpo": [
+      "O Remo recebe o Red Bull Bragantino neste domingo (18), às 19h30, no Mangueirão, em Belém, pela 31ª rodada do Campeonato Brasileiro.",
+      "O clube paraense ocupa a 19ª colocação, com 25 pontos, e tenta encerrar um jejum de 12 partidas sem vencer. Na última rodada, empatou com o Vasco fora de casa.",
+      "O Bragantino chega em nono lugar, com 40 pontos, após vencer o Cruzeiro por 4 a 2. A equipe paulista busca se aproximar da zona de classificação à Libertadores.",
+      "A transmissão está prevista pelo Premiere. Horário de Brasília."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=55",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa pendente de seleção.",
+    "imagemLegenda": "Remo enfrenta Bragantino no Mangueirão em busca de reação no Brasileirão"
+  },
+  {
+    "id": 54,
+    "categoria": "Esportes",
+    "titulo": "Grêmio recebe Cruzeiro neste domingo e tenta deixar a zona de rebaixamento",
+    "resumo": "Tricolor gaúcho recebe a equipe mineira às 16h, na Arena do Grêmio, pela 31ª rodada do Campeonato Brasileiro.",
+    "fonte": "CBF e Folha de S.Paulo",
+    "fonteUrl": "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/gremio-x-cruzeiro/832197",
+    "corpo": [
+      "Grêmio e Cruzeiro se enfrentam neste domingo (18), às 16h, na Arena do Grêmio, em Porto Alegre, pela 31ª rodada da Série A do Campeonato Brasileiro de 2026.",
+      "Com 31 pontos antes da rodada, o Grêmio busca sua primeira vitória desde o retorno de Renato Gaúcho ao comando e tenta sair da zona de rebaixamento.",
+      "O Cruzeiro inicia o confronto na sexta posição, com 48 pontos, e busca somar pontos para permanecer na disputa por uma vaga na Libertadores de 2027.",
+      "A partida tem transmissão prevista pela Globo, Premiere e ge TV. Horários informados no fuso de Brasília."
+    ],
+    "data": "18/10/2026",
+    "destaque": false,
+    "url": "noticia.html?id=54",
+    "imagem": "",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemCredito": "Imagem ilustrativa pendente de seleção.",
+    "imagemLegenda": "Grêmio recebe Cruzeiro neste domingo e tenta deixar a zona de rebaixamento"
+  },
+  {
     "id": 53,
     "categoria": "Manaus",
     "titulo": "Chuva volta a Manaus neste domingo, mas cheiro de fumaça ainda preocupa moradores",
