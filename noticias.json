@@ -19,10 +19,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=56",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa pendente de seleção.",
-    "imagemLegenda": "Palmeiras e Corinthians jogam neste domingo pela Libertadores Feminina"
+    "imagem": "https://static.wixstatic.com/media/a06550_1baa3384da1a4671a56ff0f4a75f5312~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_1baa3384da1a4671a56ff0f4a75f5312~mv2.png",
+    "imagemCredito": "Imagem fornecida à redação; autoria não informada.",
+    "imagemLegenda": "Arte com os confrontos da segunda rodada da Libertadores Feminina em 18 de outubro."
   },
   {
     "id": 55,
