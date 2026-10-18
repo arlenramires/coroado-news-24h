@@ -211,10 +211,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=48",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa.",
-    "imagemLegenda": "Imagem ilustrativa."
+    "imagem": "https://static.wixstatic.com/media/a06550_0942d02db0c54eafa8330f1e7b0b490f~mv2.jpg",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_0942d02db0c54eafa8330f1e7b0b490f~mv2.jpg",
+    "imagemCredito": "Imagem fornecida à redação; autoria não informada.",
+    "imagemLegenda": "Fachada da Academia Amazonense de Letras, no Centro de Manaus."
   },
   {
     "id": 47,
