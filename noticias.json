@@ -67,10 +67,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=54",
-    "imagem": "",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemCredito": "Imagem ilustrativa pendente de seleção.",
-    "imagemLegenda": "Grêmio recebe Cruzeiro neste domingo e tenta deixar a zona de rebaixamento"
+    "imagem": "https://static.wixstatic.com/media/a06550_8fe57a28119a4ab9b0831e881b36f475~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_8fe57a28119a4ab9b0831e881b36f475~mv2.png",
+    "imagemCredito": "Arte ilustrativa — Coroado News 24h.",
+    "imagemLegenda": "Ilustração do confronto entre Grêmio e Cruzeiro pelo Campeonato Brasileiro."
   },
   {
     "id": 53,
