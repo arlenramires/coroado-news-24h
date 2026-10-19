@@ -64,10 +64,10 @@
     "data": "18/10/2026",
     "destaque": false,
     "url": "noticia.html?id=58",
-    "imagem": "",
-    "imagemFallback": "",
-    "imagemLegenda": "",
-    "imagemCredito": ""
+    "imagem": "https://static.wixstatic.com/media/a06550_c20395987a42416aa2185acd4a266877~mv2.jpg",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_c20395987a42416aa2185acd4a266877~mv2.jpg",
+    "imagemLegenda": "Fachada do Instituto Médico Legal (IML), em Manaus. Imagem ilustrativa.",
+    "imagemCredito": "Imagem enviada à redação."
   },
   {
     "id": 56,
