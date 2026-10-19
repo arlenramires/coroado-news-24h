@@ -10,9 +10,13 @@
       "A reportagem evita reproduzir imagens violentas ou atribuir culpa sem confirmação oficial. Informações serão atualizadas com base em comunicados das autoridades."
     ],
     "fonte": "Relatos de imprensa; confirmação oficial pendente",
-    "destaque": false,
+    "destaque": true,
     "data": "19/10/2026",
-    "url": "noticia.html?id=70"
+    "url": "noticia.html?id=70",
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h; não retrata a ocorrência.",
+    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência."
   },
   {
     "id": 69,
@@ -28,8 +32,8 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=69",
-    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
     "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
@@ -44,9 +48,13 @@
       "Esta reportagem será atualizada após confirmação por fontes oficiais."
     ],
     "fonte": "Relatos de imprensa; confirmação oficial pendente",
-    "destaque": false,
+    "destaque": true,
     "data": "19/10/2026",
-    "url": "noticia.html?id=68"
+    "url": "noticia.html?id=68",
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h; não retrata a ocorrência.",
+    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência."
   },
   {
     "id": 67,
@@ -62,8 +70,8 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=67",
-    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
     "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
@@ -83,8 +91,8 @@
     "fonteUrl": "https://www.cm7brasil.com/noticias/mundo/soco-trocado-chinelo-voando-e-tiroteio-homens-apaixonados-disputam-os-coracoes-das-damas-da-noite-em-frente-de-boate-veja-video/",
     "data": "19/10/2026",
     "url": "noticia.html?id=66",
-    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
     "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
@@ -104,8 +112,8 @@
     "fonteUrl": "https://www.cm7brasil.com/amazonas/manaus/nao-queria-as-blindadas-mulheres-tomam-fora-em-bar-surtam-de-odio-e-fazem-barraco-na-zl-veja-videos/",
     "data": "19/10/2026",
     "url": "noticia.html?id=65",
-    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
     "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
@@ -125,10 +133,10 @@
     "fonteUrl": "https://sbtnews.sbt.com.br/noticia/politica/suplente-de-deputado-e-detido-apos-disparo-de-arma-em-sp",
     "data": "19/10/2026",
     "url": "noticia.html?id=64",
-    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
-    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
-    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
+    "imagem": "assets/marcelo-aguiar-2026-10-19.webp",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemLegenda": "Montagem enviada à redação para a cobertura da ocorrência envolvendo Marcelo Aguiar em São Paulo.",
+    "imagemCredito": "Reprodução / imagem enviada à redação. Montagem; autoria original não informada."
   },
   {
     "id": 63,
