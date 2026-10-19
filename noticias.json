@@ -88,24 +88,27 @@
   },
   {
     "id": 66,
-    "categoria": "Brasil",
-    "titulo": "Briga em frente a casa noturna repercute nas redes; local e relatos de tiros ainda não foram confirmados",
-    "resumo": "Imagens de uma confusão em frente a uma casa noturna circulam nas redes sociais. A cidade, a data da gravação e os relatos de disparos ainda não foram verificados.",
+    "categoria": "Manaus",
+    "titulo": "Vídeos mostram confusão entre duas mulheres e funcionários de bar na Zona Leste de Manaus",
+    "resumo": "Discussão ocorreu em frente ao Point do Chefinho, na Zona Leste de Manaus. Imagens mostram mulheres discutindo com homens e tentando impedir a gravação.",
     "corpo": [
-      "Imagens que circulam nas redes sociais mostram uma confusão envolvendo homens nas proximidades de uma casa noturna. A gravação registra momentos de tensão e agressões, mas não traz elementos suficientes para identificar com segurança onde e quando o episódio aconteceu.",
-      "Também há relatos de possíveis disparos de arma de fogo durante a briga. Até esta atualização, porém, não foi localizado registro oficial que confirme os tiros, a existência de feridos ou a atuação das forças de segurança nesse episódio específico.",
-      "A identificação da cidade e do estabelecimento é essencial para esclarecer o caso. Sem esses dados, não é possível atribuir a ocorrência a Manaus ou a qualquer outro município, nem estabelecer a motivação do confronto.",
-      "A circulação das imagens não substitui a verificação dos fatos. A redação mantém a informação sobre a localização em aberto até que surjam registros confiáveis e verificáveis.",
-      "A notícia será atualizada caso sejam confirmados o local, a data, a dinâmica da confusão e eventuais providências policiais."
+      "Uma confusão em frente ao estabelecimento conhecido como Point do Chefinho, na Zona Leste de Manaus, ganhou repercussão nas redes sociais nesta segunda-feira (19). Os vídeos mostram duas mulheres discutindo com homens ligados ao local, em meio a gritos, acusações e tentativas de conter o desentendimento.",
+      "Uma reportagem publicada nesta segunda-feira identifica o estabelecimento na avenida Itaúba, bairro Jorge Teixeira. Outra publicação situa o bar no bairro São José Operário, também na Zona Leste. Diante da divergência entre os relatos, o endereço preciso ainda precisa de confirmação independente.",
+      "Nas gravações, uma das mulheres demonstra irritação ao perceber que está sendo filmada e questiona o homem que segura o celular. Durante a discussão, ela e a outra mulher se exaltam, enquanto pessoas próximas tentam evitar que o confronto aumente.",
+      "Em determinado momento, um homem reclama que uma das envolvidas já teria causado problemas anteriormente no estabelecimento. Essa afirmação aparece na discussão registrada em vídeo, mas não há comprovação independente sobre episódios anteriores.",
+      "Relatos divulgados com as imagens indicam que as mulheres teriam sido convidadas a deixar o local após um desentendimento. A motivação inicial, porém, não foi esclarecida, e as versões apresentadas durante a discussão não permitem apontar responsáveis.",
+      "As cenas mostram um ambiente de tensão e troca de acusações, mas não confirmam disparos de arma de fogo. A referência a tiros que aparecia na versão anterior desta matéria foi retirada por não corresponder às informações verificadas sobre este episódio.",
+      "Até o momento, não foram confirmados registros de prisão, feridos ou providências policiais relacionadas à confusão. A reportagem será atualizada caso surjam informações oficiais sobre o ocorrido."
     ],
     "destaque": true,
-    "fonte": "Redação Coroado News 24h",
+    "fonte": "Redação Coroado News 24h — informações apuradas em publicações locais",
     "data": "19/10/2026",
     "url": "noticia.html?id=66",
     "imagem": "assets/noticia-ilustrativa.svg",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
-    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
+    "imagemLegenda": "Registro da discussão em frente a estabelecimento na Zona Leste de Manaus (imagem enviada à redação).",
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência.",
+    "fonteUrl": "https://portaldozacarias.com.br/site/noticia/duas-mulheres-embriagadas-promovem-confusao-em-frente-a-adega-no-bairro-jorge-teixeira--zona-leste-de-manaus--veja-videos/"
   },
   {
     "id": 65,
