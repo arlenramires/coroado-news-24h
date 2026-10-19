@@ -25,9 +25,13 @@
       "O Coroado News 24h atualizará a matéria com a súmula e os dados oficiais da partida."
     ],
     "fonte": "Cobertura esportiva; súmula oficial pendente",
-    "destaque": false,
+    "destaque": true,
     "data": "19/10/2026",
-    "url": "noticia.html?id=69"
+    "url": "noticia.html?id=69",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
   {
     "id": 68,
@@ -55,9 +59,13 @@
       "A redação atualizará as informações assim que houver confirmação das autoridades responsáveis."
     ],
     "fonte": "Relatos de imprensa local; confirmação oficial pendente",
-    "destaque": false,
+    "destaque": true,
     "data": "19/10/2026",
-    "url": "noticia.html?id=67"
+    "url": "noticia.html?id=67",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
   {
     "id": 66,
@@ -70,11 +78,15 @@
       "Não há, neste momento, confirmação independente sobre o local exato, a data da gravação, a existência de feridos ou registros policiais relacionados ao episódio.",
       "O vídeo pode ser consultado na reportagem original do Portal CM7, identificada no campo Fonte abaixo. O Coroado News 24h não reproduziu o arquivo audiovisual sem autorização."
     ],
-    "destaque": false,
+    "destaque": true,
     "fonte": "Portal CM7 Brasil — reportagem com vídeo",
     "fonteUrl": "https://www.cm7brasil.com/noticias/mundo/soco-trocado-chinelo-voando-e-tiroteio-homens-apaixonados-disputam-os-coracoes-das-damas-da-noite-em-frente-de-boate-veja-video/",
     "data": "19/10/2026",
-    "url": "noticia.html?id=66"
+    "url": "noticia.html?id=66",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
   {
     "id": 65,
@@ -87,11 +99,15 @@
       "A reportagem original disponibiliza três vídeos da ocorrência. Para assistir aos registros, acesse o link da fonte, identificado ao final desta matéria. Os vídeos pertencem à publicação de origem e não foram reproduzidos pelo Coroado News 24h.",
       "Até o momento, não há confirmação independente sobre a data exata da gravação, a identidade dos envolvidos ou eventual registro policial. A redação seguirá acompanhando novas informações."
     ],
-    "destaque": false,
+    "destaque": true,
     "fonte": "Portal CM7 Brasil — reportagem e três vídeos",
     "fonteUrl": "https://www.cm7brasil.com/amazonas/manaus/nao-queria-as-blindadas-mulheres-tomam-fora-em-bar-surtam-de-odio-e-fazem-barraco-na-zl-veja-videos/",
     "data": "19/10/2026",
-    "url": "noticia.html?id=65"
+    "url": "noticia.html?id=65",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
   {
     "id": 64,
@@ -108,7 +124,11 @@
     "fonte": "SBT News; Notícias da TV; Secretaria da Segurança Pública de SP (nota reproduzida pela imprensa)",
     "fonteUrl": "https://sbtnews.sbt.com.br/noticia/politica/suplente-de-deputado-e-detido-apos-disparo-de-arma-em-sp",
     "data": "19/10/2026",
-    "url": "noticia.html?id=64"
+    "url": "noticia.html?id=64",
+    "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
+    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
   },
   {
     "id": 63,
@@ -165,7 +185,7 @@
       "RELAÇÕES INTERNACIONAIS — O debate incluiu divergências sobre a relação do Brasil com os Estados Unidos e a defesa da soberania nacional.",
       "O encontro ocorreu a uma semana do segundo turno, previsto para 25 de outubro. A Band disponibilizou cobertura e registro do debate em seus canais oficiais."
     ],
-    "destaque": true,
+    "destaque": false,
     "fonte": "Band; UOL; Folha de S.Paulo; Exame",
     "fonteUrl": "https://www.band.com.br/nacional/pr/reveja-o-debate-da-band-completo-entre-lula-e-flavio-bolsonaro",
     "data": "18/10/2026",
@@ -189,7 +209,7 @@
     "fonte": "Noticiário local; apuração inicial sujeita a confirmação oficial",
     "fonteUrl": "",
     "data": "18/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=60",
     "imagem": "https://static.wixstatic.com/media/a06550_c7633ae9f7ec48d0a6e3831555197792~mv2.png",
     "imagemFallback": "https://static.wixstatic.com/media/a06550_c7633ae9f7ec48d0a6e3831555197792~mv2.png",
@@ -216,7 +236,7 @@
       "O LEGADO DE LUA BLANCO — Entre novelas, espetáculos, gravações e composições, Lua construiu uma trajetória artística diversa. Para uma geração que acompanhou Rebelde, a imagem de Roberta Messi permanece como símbolo de sua passagem pela televisão brasileira. A família pediu respeito e privacidade durante o luto."
     ],
     "data": "18/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=59",
     "imagem": "https://static.wixstatic.com/media/a06550_d0ea3e7ece904bb0a507758ddb8513af~mv2.jpg",
     "imagemFallback": "https://static.wixstatic.com/media/a06550_d0ea3e7ece904bb0a507758ddb8513af~mv2.jpg",
@@ -557,7 +577,7 @@
       "As informações sobre o suposto furto e a dinâmica da agressão são preliminares e ainda dependem de apuração policial. Até o momento das reportagens consultadas, não havia divulgação oficial da identidade completa da vítima."
     ],
     "data": "18/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=40",
     "imagem": "https://static.wixstatic.com/media/a06550_686875b9ba2d485b808b195ba5df3901~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
@@ -580,7 +600,7 @@
       "Até o fechamento desta notícia, não havia confirmação independente de que todos os serviços foram executados ou de que existam interrupções em andamento nesta noite. Moradores que continuem sem fornecimento devem consultar os canais oficiais da concessionária."
     ],
     "data": "18/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=39",
     "imagem": "https://static.wixstatic.com/media/a06550_18163795febd465dacde44d4aa97cd92~mv2.png",
     "imagemFallback": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus.svg",
@@ -961,7 +981,7 @@
     "imagemCredito": "Imagem fornecida pelo proprietário do portal; autoria e autorização de uso a confirmar.",
     "imagemLegenda": "Resgate de ocupantes de embarcação no Alto Solimões.",
     "data": "17/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=20",
     "fonte": "g1 Amazonas, 17/10/2026; Politiza Amazonas, 17/10/2026",
     "fonteUrl": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/canoa-naufraga-no-rio-solimoes-em-tabatinga-nove-pessoas-sao-resgatadas-sem-ferimentos.ghtml",
@@ -985,7 +1005,7 @@
     "imagemCredito": "Montagem enviada pelo proprietário do portal; autoria, direitos de uso e correspondência com a ocorrência a confirmar.",
     "imagemLegenda": "Amazonas presta homenagens ao empresário Victor Simões.",
     "data": "17/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=19",
     "fonte": "Amazonas Atual; UOL/Estadão; Portal Manaós, publicações de 17/10/2026",
     "fonteUrl": "https://portalmanaos.com.br/2026/10/17/autoridades-estaduais-e-municipais-manifestam-pesar-pela-morte-de-victor-simoes/",
@@ -1009,7 +1029,7 @@
     "imagemCredito": "Imagem enviada pelo proprietário do Coroado News 24h; autoria e direitos de uso a confirmar.",
     "imagemLegenda": "Fumaça compromete a qualidade do ar em Manaus.",
     "data": "17/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=18",
     "fonte": "CM7 Brasil, 17/10/2026; Política CM7, 17/10/2026",
     "fonteUrl": "https://www.cm7brasil.com/noticias/cidades/fumaca-e-ar-sufocante-prefeitura-de-manaus-suspende-atividades-ao-ar-livre-ate-domingo/",
@@ -1054,7 +1074,7 @@
     "resumo": "Poluição volta a preocupar moradores de Manaus; veja o mapa do SELVA com leituras registradas em diferentes pontos da capital na manhã de 16 de outubro.",
     "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/manaus-fumaca-foto-enviada.jpg",
     "data": "16/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=16",
     "fonte": "Monitoramento IQAir e SELVA/UEA; cobertura jornalística local",
     "fonteUrl": "https://www.riosdenoticias.com.br/manaus-volta-a-liderar-ranking-de-poluicao-no-brasil-e-tem-aulas-suspensas/",
@@ -1082,7 +1102,7 @@
     "resumo": "Ação acontece das 8h30 às 12h, no bairro Adrianópolis, com vacinas para crianças e adultos conforme indicação de cada imunizante.",
     "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/fiocruz-vacinacao-foto-enviada.jpg",
     "data": "16/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=15",
     "fonte": "Fiocruz Amazônia e informações públicas do evento",
     "fonteUrl": "https://cursosqualificacao.campusvirtual.fiocruz.br/hotsite/fiocruzpravoce2026/14868",
@@ -1105,7 +1125,7 @@
     "resumo": "Homem foi encontrado sem vida na rodovia AM-010, com ferimentos na cabeça. Circunstâncias da morte ainda não foram esclarecidas.",
     "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/am010-foto-sensivel-enviada.jpg",
     "data": "16/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=13",
     "fonte": "Imediato Online",
     "fonteUrl": "https://imediato.ncnews.com.br/2026/10/16/cena-chocante-na-am-010-homem-e-encontrado-morto-com-ferimentos-brutais-na-cabeca/",
@@ -1132,7 +1152,7 @@
     "resumo": "Shopping Grande Circular promove programação nos dias 17, 24 e 31 de outubro, com concurso para maiores de 13 anos, atividades infantis e caça aos doces.",
     "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/halloween-foto-enviada.jpg",
     "data": "16/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=14",
     "fonte": "No Ar!",
     "fonteUrl": "https://noarportal.com.br/halloween-tera-concursos-de-fantasias-com-premios-em-shopping-na-zona-leste-de-manaus/",
@@ -1209,7 +1229,7 @@
     "resumo": "Proposta aprovada por 78 votos a zero eleva teto para R$ 110 mil em 2027 e R$ 140 mil em 2028 e prevê perdão de débitos federais, com condições.",
     "imagem": "https://headless-azicxcvihru-arlenramires2-140d.wix-site-host.com/assets/senado-plenario-mei-enviada.png",
     "data": "16/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=12",
     "fonte": "Agência Senado",
     "fonteUrl": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas",
