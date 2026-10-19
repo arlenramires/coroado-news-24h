@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Big Buck Bunny — curta de animação",
+    "categoria": "Filmes",
+    "descricao": "Curta de animação aberto do projeto Blender. Áudio original; sem promessa de dublagem.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=YE7VzlLtp-8",
+    "idioma": "original"
+  },
+  {
     "titulo": "Filmes — Internet Archive",
     "categoria": "Filmes",
     "descricao": "Verificar os direitos de cada obra",
@@ -117,12 +125,5 @@
     "descricao": "Eventos gratuitos oficiais",
     "tipo": "link",
     "url": "https://www.redbull.com/br-pt/live-events"
-  },
-  {
-    "titulo": "BTS — programação dos cinemas",
-    "categoria": "Ao vivo",
-    "descricao": "Transmissão em cinemas; sem player autorizado para o portal",
-    "tipo": "link",
-    "url": "https://www.hybecinefest.com/"
   }
 ]
