@@ -1,5 +1,22 @@
 [
   {
+    "id": 66,
+    "categoria": "Mundo",
+    "titulo": "VÍDEO: briga em frente a boate tem pancadaria e relatos de tiros",
+    "resumo": "Publicação do CM7 relata uma confusão entre homens em frente a uma boate; circunstâncias e localização ainda precisam de confirmação independente.",
+    "corpo": [
+      "Uma confusão entre homens em frente a uma boate foi divulgada em vídeo pelo Portal CM7. A publicação descreve troca de agressões e relata disparos durante o tumulto.",
+      "A reportagem original atribui o desentendimento a uma disputa envolvendo frequentadoras do local. A versão apresentada pelo portal ainda não foi confirmada de forma independente pelo Coroado News 24h.",
+      "Não há, neste momento, confirmação independente sobre o local exato, a data da gravação, a existência de feridos ou registros policiais relacionados ao episódio.",
+      "O vídeo pode ser consultado na reportagem original do Portal CM7, identificada no campo Fonte abaixo. O Coroado News 24h não reproduziu o arquivo audiovisual sem autorização."
+    ],
+    "destaque": false,
+    "fonte": "Portal CM7 Brasil — reportagem com vídeo",
+    "fonteUrl": "https://www.cm7brasil.com/noticias/mundo/soco-trocado-chinelo-voando-e-tiroteio-homens-apaixonados-disputam-os-coracoes-das-damas-da-noite-em-frente-de-boate-veja-video/",
+    "data": "19/10/2026",
+    "url": "noticia.html?id=66"
+  },
+  {
     "id": 65,
     "categoria": "Manaus",
     "titulo": "VÍDEOS: discussão em frente a bar movimenta a Zona Leste de Manaus",
