@@ -2,59 +2,62 @@
   {
     "id": 70,
     "categoria": "Polícia",
-    "titulo": "Caso de violência contra gestante no Espírito Santo é alvo de relatos e apuração",
-    "resumo": "Publicações noticiam morte violenta de uma mulher grávida no Espírito Santo; detalhes e suspeitas exigem confirmação oficial.",
+    "titulo": "Polícia investiga morte de grávida em Cachoeiro de Itapemirim, no Espírito Santo",
+    "resumo": "Caso ocorreu na semana passada; ex-companheiro e outra suspeita foram presos, segundo reportagem do CM7.",
     "corpo": [
-      "Publicações jornalísticas relatam um caso de violência contra uma mulher grávida no Espírito Santo. O episódio teria sido investigado como homicídio.",
-      "Relatos divulgados inicialmente apresentam circunstâncias graves e mencionam suspeita sobre uma pessoa próxima da vítima. O Coroado News 24h não confirmou de maneira independente os detalhes nem a identificação de suspeitos.",
-      "A reportagem evita reproduzir imagens violentas ou atribuir culpa sem confirmação oficial. Informações serão atualizadas com base em comunicados das autoridades."
+      "Juliana Paulo Pinto, de 29 anos, foi encontrada morta em Cachoeiro de Itapemirim, no Espírito Santo, na quarta-feira (14). A vítima estava grávida.",
+      "Segundo o CM7, que cita a Polícia Civil capixaba, o ex-companheiro e a atual noiva dele foram presos por suspeita de ocultação de cadáver. A investigação apura a participação de cada um.",
+      "A notícia repercutiu novamente nesta segunda-feira (19). O Coroado News 24h mantém ilustração na matéria e não reproduz imagens dos restos mortais."
     ],
-    "fonte": "Relatos de imprensa; confirmação oficial pendente",
+    "fonte": "Portal CM7 Brasil — informações atribuídas à Polícia Civil do Espírito Santo",
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=70",
     "imagem": "assets/noticia-ilustrativa.svg",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h; não retrata a ocorrência.",
-    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência."
+    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência.",
+    "fonteUrl": "https://www.cm7brasil.com/noticias/policia/imagens-fortes-gravida-e-m0rta-esquartej4da-e-carb0nizada-pelo-ex-companheiro/"
   },
   {
     "id": 69,
     "categoria": "Esportes",
-    "titulo": "Flamengo vence Bahia por 3 a 0, segundo cobertura esportiva",
-    "resumo": "Resultado divulgado na cobertura esportiva aponta vitória do Flamengo sobre o Bahia; classificação será confirmada com a tabela oficial.",
+    "titulo": "Flamengo vence Bahia por 3 a 0 na Fonte Nova pelo Brasileirão",
+    "resumo": "Jorginho, Plata e Lucas Paquetá marcaram na vitória rubro-negra em Salvador.",
     "corpo": [
-      "A cobertura esportiva divulgada nesta segunda-feira (19) aponta vitória do Flamengo sobre o Bahia por 3 a 0, em partida do Campeonato Brasileiro.",
-      "Publicações indicam que o resultado teria colocado a equipe carioca na liderança da competição. A posição na tabela depende da rodada e dos demais jogos e ainda precisa ser confrontada com a classificação oficial.",
-      "O Coroado News 24h atualizará a matéria com a súmula e os dados oficiais da partida."
+      "O Flamengo derrotou o Bahia por 3 a 0 no domingo (18), em Salvador, pela 31ª rodada do Campeonato Brasileiro.",
+      "A vitória foi construída depois do intervalo. Jorginho abriu o placar em cobrança de pênalti; Plata e Lucas Paquetá completaram o resultado.",
+      "A cobertura oficial do clube informou que a equipe chegou a 67 pontos na competição."
     ],
-    "fonte": "Cobertura esportiva; súmula oficial pendente",
+    "fonte": "Clube de Regatas do Flamengo — cobertura oficial",
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=69",
     "imagem": "assets/noticia-ilustrativa.svg",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
-    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência.",
+    "fonteUrl": "https://www.flamengo.com.br/noticias/futebol/flamengo-vence-o-bahia-por-3-a-0-na-fonte-nova-e-segue-na-lideranca-do-brasileirao"
   },
   {
     "id": 68,
     "categoria": "Brasil",
-    "titulo": "Suspeita de bomba após debate presidencial mobiliza atenção; alerta teria sido falso",
-    "resumo": "Publicações relatam suspeita de explosivo após debate entre candidatos; não há confirmação independente de artefato.",
+    "titulo": "Polícia descarta suspeita de bomba após debate presidencial na Band",
+    "resumo": "Varredura não encontrou explosivos; jornalistas e convidados aguardaram a liberação do local.",
     "corpo": [
-      "Publicações nas redes e na imprensa relataram uma suspeita de bomba após um debate presidencial entre Lula e Flávio Bolsonaro.",
-      "As informações iniciais indicam que o alerta teria sido descartado. O Coroado News 24h ainda não obteve comunicado oficial que permita detalhar o local, a operação ou o resultado da verificação.",
-      "Esta reportagem será atualizada após confirmação por fontes oficiais."
+      "Equipes do Gate, da Polícia Militar paulista, verificaram uma suspeita de bomba no estacionamento da Band no domingo (18), ao término do debate presidencial.",
+      "Segundo a Agência Brasil, o veículo seria ligado à equipe de Flávio Bolsonaro. A saída de jornalistas e convidados ficou temporariamente interrompida.",
+      "A vistoria terminou sem encontrar explosivos, e o local foi liberado."
     ],
-    "fonte": "Relatos de imprensa; confirmação oficial pendente",
+    "fonte": "Agência Brasil",
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=68",
     "imagem": "assets/noticia-ilustrativa.svg",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h; não retrata a ocorrência.",
-    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência."
+    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência.",
+    "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-flavio-fazem-primeiro-debate-das-eleicoes-na-band"
   },
   {
     "id": 67,
@@ -66,14 +69,15 @@
       "Até o momento, o Coroado News 24h não obteve boletim oficial sobre a dinâmica do acidente, a identidade da vítima ou as circunstâncias que levaram às colisões.",
       "A redação atualizará as informações assim que houver confirmação das autoridades responsáveis."
     ],
-    "fonte": "Relatos de imprensa local; confirmação oficial pendente",
+    "fonte": "Portal CM7 Brasil — informações atribuídas à Polícia Militar",
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=67",
     "imagem": "assets/noticia-ilustrativa.svg",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
-    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência."
+    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência.",
+    "fonteUrl": "https://www.cm7brasil.com/noticias/policia/noite-de-tragedia-em-manaus-sequencia-de-colisoes-na-avenida-margarita-termina-com-motociclista-morto-veja-imagens/"
   },
   {
     "id": 66,
