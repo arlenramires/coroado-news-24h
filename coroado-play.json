@@ -54,5 +54,33 @@
     "descricao": "Chaves, Chapolin, Mr. Bean e outros: aguardando fontes oficiais que permitam incorporação.",
     "tipo": "link",
     "url": "https://www.youtube.com/"
+  },
+  {
+    "titulo": "O Fantástico Jaspion",
+    "categoria": "Tokusatsu",
+    "descricao": "Procurando episódios oficiais gratuitos e disponíveis no Brasil.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=Jaspion+canal+oficial"
+  },
+  {
+    "titulo": "Changeman",
+    "categoria": "Tokusatsu",
+    "descricao": "Procurando distribuidor oficial e episódios autorizados.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=Changeman+canal+oficial"
+  },
+  {
+    "titulo": "Saint Seiya — Os Cavaleiros do Zodíaco",
+    "categoria": "Animes",
+    "descricao": "Procurando episódios oficiais e autorização de incorporação.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=Saint+Seiya+canal+oficial"
+  },
+  {
+    "titulo": "Dragon Ball",
+    "categoria": "Animes",
+    "descricao": "Procurando vídeos e episódios oficiais liberados para o Brasil.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=Dragon+Ball+canal+oficial"
   }
 ]
