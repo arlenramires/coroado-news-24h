@@ -1,5 +1,22 @@
 [
   {
+    "id": 65,
+    "categoria": "Manaus",
+    "titulo": "VÍDEOS: discussão em frente a bar movimenta a Zona Leste de Manaus",
+    "resumo": "Registros divulgados pelo CM7 mostram duas mulheres discutindo com um homem que filmava a confusão nas proximidades de um bar.",
+    "corpo": [
+      "Uma discussão em frente a um estabelecimento conhecido como Point do Chefinho, que seria localizado na Zona Leste de Manaus, repercutiu nesta segunda-feira (19). Imagens divulgadas pelo Portal CM7 mostram duas mulheres e um homem envolvidos em uma troca de acusações e provocações.",
+      "De acordo com o relato publicado pelo CM7, as duas mulheres discutem com o homem que registra a cena. Uma delas questiona a gravação, enquanto ele pede para não ser tocado. O motivo inicial do desentendimento não foi esclarecido.",
+      "A reportagem original disponibiliza três vídeos da ocorrência. Para assistir aos registros, acesse o link da fonte, identificado ao final desta matéria. Os vídeos pertencem à publicação de origem e não foram reproduzidos pelo Coroado News 24h.",
+      "Até o momento, não há confirmação independente sobre a data exata da gravação, a identidade dos envolvidos ou eventual registro policial. A redação seguirá acompanhando novas informações."
+    ],
+    "destaque": false,
+    "fonte": "Portal CM7 Brasil — reportagem e três vídeos",
+    "fonteUrl": "https://www.cm7brasil.com/amazonas/manaus/nao-queria-as-blindadas-mulheres-tomam-fora-em-bar-surtam-de-odio-e-fazem-barraco-na-zl-veja-videos/",
+    "data": "19/10/2026",
+    "url": "noticia.html?id=65"
+  },
+  {
     "id": 64,
     "categoria": "Brasil",
     "titulo": "Marcelo Aguiar é levado à delegacia após disparo em casa noturna de São Paulo",
