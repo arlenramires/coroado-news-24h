@@ -62,22 +62,21 @@
   {
     "id": 67,
     "categoria": "Manaus",
-    "titulo": "Acidente na avenida Margarita, em Manaus, tem morte de motociclista, segundo relatos",
-    "resumo": "Publicações locais relatam sequência de colisões na avenida Margarita; circunstâncias aguardam confirmação oficial.",
+    "titulo": "Acidente na avenida Margarita, em Manaus, termina com morte de motociclista",
+    "resumo": "Colisão envolvendo um carro e uma motocicleta na avenida Margarita, em Manaus, terminou com a morte de um motociclista. As circunstâncias do acidente ainda precisam ser esclarecidas.",
     "corpo": [
-      "Relatos divulgados por páginas de notícias locais apontam uma sequência de colisões na avenida Margarita, em Manaus, com a morte de um motociclista.",
-      "Até o momento, o Coroado News 24h não obteve boletim oficial sobre a dinâmica do acidente, a identidade da vítima ou as circunstâncias que levaram às colisões.",
-      "A redação atualizará as informações assim que houver confirmação das autoridades responsáveis."
+      "Um acidente de trânsito envolvendo um carro e uma motocicleta na avenida Margarita, em Manaus, terminou com a morte de um motociclista nesta segunda-feira (19).",
+      "Imagens da ocorrência mostram um automóvel com a parte dianteira bastante danificada e o para-brisa quebrado. Uma motocicleta também aparece avariada nas proximidades. Equipes de atendimento e segurança estiveram no local.",
+      "A dinâmica da colisão e a identidade da vítima ainda não foram confirmadas oficialmente. A ocorrência deverá ser apurada pelas autoridades competentes."
     ],
-    "fonte": "Portal CM7 Brasil — informações atribuídas à Polícia Militar",
+    "fonte": "Redação Coroado News 24h",
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=67",
     "imagem": "assets/noticia-ilustrativa.svg",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
-    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência.",
-    "fonteUrl": "https://www.cm7brasil.com/noticias/policia/noite-de-tragedia-em-manaus-sequencia-de-colisoes-na-avenida-margarita-termina-com-motociclista-morto-veja-imagens/"
+    "imagemLegenda": "Carro e motocicleta danificados após acidente na avenida Margarita, em Manaus",
+    "imagemCredito": "Imagem enviada à redação"
   },
   {
     "id": 66,
