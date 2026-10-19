@@ -1,47 +1,5 @@
 [
   {
-    "titulo": "BTS — canal oficial",
-    "categoria": "Shows",
-    "descricao": "Apresentações e vídeos oficiais gravados",
-    "tipo": "link",
-    "url": "https://www.youtube.com/@BANGTANTV"
-  },
-  {
-    "titulo": "BTS — vídeo oficial",
-    "categoria": "Shows",
-    "descricao": "Vídeo oficial no YouTube",
-    "tipo": "youtube",
-    "url": "https://www.youtube.com/watch?v=A1nu9jg6ciY"
-  },
-  {
-    "titulo": "BTS — programação dos cinemas",
-    "categoria": "Ao vivo",
-    "descricao": "Transmissão em cinemas; sem player autorizado para o portal",
-    "tipo": "link",
-    "url": "https://www.hybecinefest.com/"
-  },
-  {
-    "titulo": "Animes — GundamInfo",
-    "categoria": "Animes",
-    "descricao": "Canal oficial",
-    "tipo": "link",
-    "url": "https://www.youtube.com/@GundamInfo"
-  },
-  {
-    "titulo": "Shows — NPR Music",
-    "categoria": "Shows",
-    "descricao": "Apresentações oficiais",
-    "tipo": "link",
-    "url": "https://www.youtube.com/@nprmusic"
-  },
-  {
-    "titulo": "Esportes — Red Bull",
-    "categoria": "Esportes",
-    "descricao": "Eventos gratuitos oficiais",
-    "tipo": "link",
-    "url": "https://www.redbull.com/br-pt/live-events"
-  },
-  {
     "titulo": "Filmes — Internet Archive",
     "categoria": "Filmes",
     "descricao": "Verificar os direitos de cada obra",
@@ -56,18 +14,11 @@
     "url": "https://www.youtube.com/"
   },
   {
-    "titulo": "O Fantástico Jaspion",
-    "categoria": "Tokusatsu",
-    "descricao": "Procurando episódios oficiais gratuitos e disponíveis no Brasil.",
+    "titulo": "Animes — GundamInfo",
+    "categoria": "Animes",
+    "descricao": "Canal oficial",
     "tipo": "link",
-    "url": "https://www.youtube.com/results?search_query=Jaspion+canal+oficial"
-  },
-  {
-    "titulo": "Changeman",
-    "categoria": "Tokusatsu",
-    "descricao": "Procurando distribuidor oficial e episódios autorizados.",
-    "tipo": "link",
-    "url": "https://www.youtube.com/results?search_query=Changeman+canal+oficial"
+    "url": "https://www.youtube.com/@GundamInfo"
   },
   {
     "titulo": "Saint Seiya — Os Cavaleiros do Zodíaco",
@@ -82,6 +33,20 @@
     "descricao": "Procurando vídeos e episódios oficiais liberados para o Brasil.",
     "tipo": "link",
     "url": "https://www.youtube.com/results?search_query=Dragon+Ball+canal+oficial"
+  },
+  {
+    "titulo": "O Fantástico Jaspion",
+    "categoria": "Tokusatsu",
+    "descricao": "Procurando episódios oficiais gratuitos e disponíveis no Brasil.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=Jaspion+canal+oficial"
+  },
+  {
+    "titulo": "Changeman",
+    "categoria": "Tokusatsu",
+    "descricao": "Procurando distribuidor oficial e episódios autorizados.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=Changeman+canal+oficial"
   },
   {
     "titulo": "Galinha Pintadinha",
@@ -124,5 +89,40 @@
     "descricao": "Canal oficial para crianças. Conferir vídeos disponíveis no Brasil e incorporação permitida.",
     "tipo": "link",
     "url": "https://www.youtube.com/@pocoyo"
+  },
+  {
+    "titulo": "BTS — canal oficial",
+    "categoria": "Shows",
+    "descricao": "Apresentações e vídeos oficiais gravados",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@BANGTANTV"
+  },
+  {
+    "titulo": "BTS — vídeo oficial",
+    "categoria": "Shows",
+    "descricao": "Vídeo oficial no YouTube",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=A1nu9jg6ciY"
+  },
+  {
+    "titulo": "Shows — NPR Music",
+    "categoria": "Shows",
+    "descricao": "Apresentações oficiais",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@nprmusic"
+  },
+  {
+    "titulo": "Esportes — Red Bull",
+    "categoria": "Esportes",
+    "descricao": "Eventos gratuitos oficiais",
+    "tipo": "link",
+    "url": "https://www.redbull.com/br-pt/live-events"
+  },
+  {
+    "titulo": "BTS — programação dos cinemas",
+    "categoria": "Ao vivo",
+    "descricao": "Transmissão em cinemas; sem player autorizado para o portal",
+    "tipo": "link",
+    "url": "https://www.hybecinefest.com/"
   }
 ]
