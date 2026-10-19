@@ -47,5 +47,12 @@
     "descricao": "Verificar os direitos de cada obra",
     "tipo": "link",
     "url": "https://archive.org/details/movies"
+  },
+  {
+    "titulo": "Seriados clássicos — acervo em preparação",
+    "categoria": "Seriados",
+    "descricao": "Chaves, Chapolin, Mr. Bean e outros: aguardando fontes oficiais que permitam incorporação.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/"
   }
 ]
