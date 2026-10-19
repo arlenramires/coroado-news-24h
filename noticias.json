@@ -1,5 +1,22 @@
 [
   {
+    "id": 64,
+    "categoria": "Brasil",
+    "titulo": "Marcelo Aguiar é levado à delegacia após disparo em casa noturna de São Paulo",
+    "resumo": "Polícia apreendeu arma e investiga circunstâncias do disparo; relatos sobre possível ferimento de Fred Bruno ainda divergem da informação oficial.",
+    "corpo": [
+      "O deputado estadual Marcelo Aguiar (PL-SP) foi conduzido à delegacia na madrugada desta segunda-feira (19), após um disparo de arma de fogo em um estabelecimento noturno de São Paulo. A ocorrência é investigada pela Polícia Civil.",
+      "Segundo a Secretaria da Segurança Pública de São Paulo, a pistola calibre .380 foi apreendida para perícia. A polícia apura as circunstâncias do disparo, descrito inicialmente como acidental em nota oficial.",
+      "Veículos de imprensa relataram que o apresentador Fred Bruno teria sofrido um ferimento superficial no pé. A informação, porém, contrasta com a nota da SSP, que informou não haver registro de feridos. O Coroado News 24h mantém essa divergência explícita até nova confirmação.",
+      "A defesa do parlamentar atribuiu seu comportamento a uma reação adversa a medicamentos, segundo reportagens. A investigação continua, e não há conclusão oficial sobre a dinâmica do episódio."
+    ],
+    "destaque": true,
+    "fonte": "SBT News; Notícias da TV; Secretaria da Segurança Pública de SP (nota reproduzida pela imprensa)",
+    "fonteUrl": "https://sbtnews.sbt.com.br/noticia/politica/suplente-de-deputado-e-detido-apos-disparo-de-arma-em-sp",
+    "data": "19/10/2026",
+    "url": "noticia.html?id=64"
+  },
+  {
     "id": 63,
     "categoria": "Política",
     "titulo": "Banco Master e Lulinha entram em confronto entre Lula e Flávio no debate presidencial",
