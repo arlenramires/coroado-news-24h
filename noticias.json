@@ -1,5 +1,70 @@
 [
   {
+    "id": 63,
+    "categoria": "Política",
+    "titulo": "Banco Master e Lulinha entram em confronto entre Lula e Flávio no debate presidencial",
+    "resumo": "Candidatos trocaram questionamentos sobre suspeitas e pessoas próximas; acusações não equivalem a conclusões de investigação.",
+    "corpo": [
+      "O debate entre Lula (PT) e Flávio Bolsonaro (PL), realizado pela Band neste domingo (18), teve uma sequência de acusações e questionamentos sobre investigações e pessoas ligadas às famílias dos candidatos.",
+      "Flávio questionou Lula sobre Fábio Luís Lula da Silva, conhecido como Lulinha, e citou Roberta Luchsinger, mencionada em apurações relacionadas a fraudes previdenciárias. Lula respondeu que eventuais responsabilidades devem ser investigadas.",
+      "O presidente, por sua vez, cobrou explicações sobre recursos associados ao Banco Master e a um projeto audiovisual sobre Jair Bolsonaro. Flávio rebateu as críticas durante o confronto.",
+      "É importante distinguir declarações de campanha, suspeitas investigadas e fatos comprovados. A reportagem não atribui culpa às pessoas mencionadas sem decisão ou prova verificada."
+    ],
+    "destaque": false,
+    "fonte": "Band; UOL; Folha de S.Paulo; Exame",
+    "fonteUrl": "https://www.band.com.br/nacional/pr/reveja-o-debate-da-band-completo-entre-lula-e-flavio-bolsonaro",
+    "data": "18/10/2026",
+    "url": "noticia.html?id=63",
+    "imagem": "https://static.wixstatic.com/media/a06550_790c6232cc3940de84b5d78dbe52a828~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_790c6232cc3940de84b5d78dbe52a828~mv2.png",
+    "imagemLegenda": "Montagem ilustrativa produzida pelo Coroado News 24h para a cobertura do debate presidencial de 18 de outubro de 2026.",
+    "imagemCredito": "Arte ilustrativa gerada digitalmente; não é fotografia do debate."
+  },
+  {
+    "id": 62,
+    "categoria": "Política",
+    "titulo": "Segurança pública: Lula e Flávio divergem sobre combate ao crime no debate da Band",
+    "resumo": "Flávio defendeu medidas mais rígidas contra facções; Lula enfatizou coordenação federal e cooperação com os estados.",
+    "corpo": [
+      "A segurança pública foi um dos assuntos centrais do debate presidencial realizado pela Band neste domingo (18). Lula (PT) e Flávio Bolsonaro (PL) apresentaram visões diferentes sobre o enfrentamento da criminalidade.",
+      "Flávio defendeu uma linha mais dura contra organizações criminosas e mencionou a classificação de facções como terroristas. Lula destacou a necessidade de atuação coordenada entre a União e os estados e defendeu o fortalecimento de instrumentos nacionais de segurança.",
+      "As propostas e críticas foram apresentadas pelos próprios candidatos durante o debate. A eficácia das medidas depende de detalhes de implementação, recursos e legislação."
+    ],
+    "destaque": false,
+    "fonte": "Band; UOL; Folha de S.Paulo; Exame",
+    "fonteUrl": "https://www.band.com.br/nacional/pr/reveja-o-debate-da-band-completo-entre-lula-e-flavio-bolsonaro",
+    "data": "18/10/2026",
+    "url": "noticia.html?id=62",
+    "imagem": "https://static.wixstatic.com/media/a06550_790c6232cc3940de84b5d78dbe52a828~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_790c6232cc3940de84b5d78dbe52a828~mv2.png",
+    "imagemLegenda": "Montagem ilustrativa produzida pelo Coroado News 24h para a cobertura do debate presidencial de 18 de outubro de 2026.",
+    "imagemCredito": "Arte ilustrativa gerada digitalmente; não é fotografia do debate."
+  },
+  {
+    "id": 61,
+    "categoria": "Política",
+    "titulo": "Debate na Band: Lula e Flávio Bolsonaro trocam acusações e discutem segurança, saúde e economia",
+    "resumo": "Primeiro encontro do segundo turno teve confrontos sobre investigações, famílias, SUS, criminalidade e relações com os Estados Unidos.",
+    "corpo": [
+      "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) participaram neste domingo (18) do primeiro debate presidencial do segundo turno das eleições de 2026, promovido pela Band, em São Paulo.",
+      "O confronto foi marcado por questionamentos sobre suspeitas de corrupção e investigações envolvendo pessoas próximas aos candidatos. Flávio citou Fábio Luís Lula da Silva, conhecido como Lulinha, e investigações relacionadas a fraudes previdenciárias. Lula cobrou explicações sobre o caso Banco Master e recursos associados a um projeto de filme sobre Jair Bolsonaro. As declarações dos candidatos não comprovam, por si só, a responsabilidade de pessoas citadas.",
+      "SEGURANÇA PÚBLICA — Flávio defendeu endurecimento do combate às organizações criminosas. Lula destacou a cooperação entre União e estados e a necessidade de coordenação nacional das políticas de segurança.",
+      "SAÚDE — Os candidatos divergiram sobre a qualidade do atendimento no SUS e as medidas para melhorá-lo. Flávio reconheceu problemas na condução da saúde durante o governo de Jair Bolsonaro, especialmente no período da pandemia.",
+      "ECONOMIA — Endividamento, custo de vida, produtividade e investimentos também entraram na discussão. Os adversários criticaram os resultados econômicos associados aos governos um do outro.",
+      "RELAÇÕES INTERNACIONAIS — O debate incluiu divergências sobre a relação do Brasil com os Estados Unidos e a defesa da soberania nacional.",
+      "O encontro ocorreu a uma semana do segundo turno, previsto para 25 de outubro. A Band disponibilizou cobertura e registro do debate em seus canais oficiais."
+    ],
+    "destaque": true,
+    "fonte": "Band; UOL; Folha de S.Paulo; Exame",
+    "fonteUrl": "https://www.band.com.br/nacional/pr/reveja-o-debate-da-band-completo-entre-lula-e-flavio-bolsonaro",
+    "data": "18/10/2026",
+    "url": "noticia.html?id=61",
+    "imagem": "https://static.wixstatic.com/media/a06550_790c6232cc3940de84b5d78dbe52a828~mv2.png",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_790c6232cc3940de84b5d78dbe52a828~mv2.png",
+    "imagemLegenda": "Montagem ilustrativa produzida pelo Coroado News 24h para a cobertura do debate presidencial de 18 de outubro de 2026.",
+    "imagemCredito": "Arte ilustrativa gerada digitalmente; não é fotografia do debate."
+  },
+  {
     "id": 60,
     "categoria": "Polícia",
     "titulo": "Homem é encontrado morto na faixa de areia da praia da Ponta Negra, em Manaus",
