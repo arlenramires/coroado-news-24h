@@ -125,5 +125,45 @@
     "descricao": "Eventos gratuitos oficiais",
     "tipo": "link",
     "url": "https://www.redbull.com/br-pt/live-events"
+  },
+  {
+    "titulo": "Sintel — curta de fantasia (Blender)",
+    "categoria": "Filmes",
+    "descricao": "Curta oficial aberto da Blender Foundation. Áudio original, legendas conforme o YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "idioma": "original"
+  },
+  {
+    "titulo": "Tears of Steel — ficção científica (Blender)",
+    "categoria": "Filmes",
+    "descricao": "Curta de ficção científica produzido pela Blender Foundation; versão oficial.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=R6MlUcmOul8",
+    "idioma": "original"
+  },
+  {
+    "titulo": "Elephants Dream — animação (Blender)",
+    "categoria": "Filmes",
+    "descricao": "Curta de animação aberto da Blender Foundation.",
+    "tipo": "link",
+    "url": "https://orange.blender.org/download/",
+    "idioma": "original"
+  },
+  {
+    "titulo": "Coleção de filmes abertos — Blender Studio",
+    "categoria": "Filmes",
+    "descricao": "Catálogo oficial de curtas e filmes abertos.",
+    "tipo": "link",
+    "url": "https://studio.blender.org/films/",
+    "idioma": "variado"
+  },
+  {
+    "titulo": "Curtas animados — Blender Video",
+    "categoria": "Infantil",
+    "descricao": "Animações da Blender Foundation; classificação e idioma variam por título.",
+    "tipo": "link",
+    "url": "https://video.blender.org/search?categoryOneOf=10",
+    "idioma": "variado"
   }
 ]
