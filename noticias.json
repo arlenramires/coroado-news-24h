@@ -1,5 +1,65 @@
 [
   {
+    "id": 70,
+    "categoria": "Polícia",
+    "titulo": "Caso de violência contra gestante no Espírito Santo é alvo de relatos e apuração",
+    "resumo": "Publicações noticiam morte violenta de uma mulher grávida no Espírito Santo; detalhes e suspeitas exigem confirmação oficial.",
+    "corpo": [
+      "Publicações jornalísticas relatam um caso de violência contra uma mulher grávida no Espírito Santo. O episódio teria sido investigado como homicídio.",
+      "Relatos divulgados inicialmente apresentam circunstâncias graves e mencionam suspeita sobre uma pessoa próxima da vítima. O Coroado News 24h não confirmou de maneira independente os detalhes nem a identificação de suspeitos.",
+      "A reportagem evita reproduzir imagens violentas ou atribuir culpa sem confirmação oficial. Informações serão atualizadas com base em comunicados das autoridades."
+    ],
+    "fonte": "Relatos de imprensa; confirmação oficial pendente",
+    "destaque": false,
+    "data": "19/10/2026",
+    "url": "noticia.html?id=70"
+  },
+  {
+    "id": 69,
+    "categoria": "Esportes",
+    "titulo": "Flamengo vence Bahia por 3 a 0, segundo cobertura esportiva",
+    "resumo": "Resultado divulgado na cobertura esportiva aponta vitória do Flamengo sobre o Bahia; classificação será confirmada com a tabela oficial.",
+    "corpo": [
+      "A cobertura esportiva divulgada nesta segunda-feira (19) aponta vitória do Flamengo sobre o Bahia por 3 a 0, em partida do Campeonato Brasileiro.",
+      "Publicações indicam que o resultado teria colocado a equipe carioca na liderança da competição. A posição na tabela depende da rodada e dos demais jogos e ainda precisa ser confrontada com a classificação oficial.",
+      "O Coroado News 24h atualizará a matéria com a súmula e os dados oficiais da partida."
+    ],
+    "fonte": "Cobertura esportiva; súmula oficial pendente",
+    "destaque": false,
+    "data": "19/10/2026",
+    "url": "noticia.html?id=69"
+  },
+  {
+    "id": 68,
+    "categoria": "Brasil",
+    "titulo": "Suspeita de bomba após debate presidencial mobiliza atenção; alerta teria sido falso",
+    "resumo": "Publicações relatam suspeita de explosivo após debate entre candidatos; não há confirmação independente de artefato.",
+    "corpo": [
+      "Publicações nas redes e na imprensa relataram uma suspeita de bomba após um debate presidencial entre Lula e Flávio Bolsonaro.",
+      "As informações iniciais indicam que o alerta teria sido descartado. O Coroado News 24h ainda não obteve comunicado oficial que permita detalhar o local, a operação ou o resultado da verificação.",
+      "Esta reportagem será atualizada após confirmação por fontes oficiais."
+    ],
+    "fonte": "Relatos de imprensa; confirmação oficial pendente",
+    "destaque": false,
+    "data": "19/10/2026",
+    "url": "noticia.html?id=68"
+  },
+  {
+    "id": 67,
+    "categoria": "Manaus",
+    "titulo": "Acidente na avenida Margarita, em Manaus, tem morte de motociclista, segundo relatos",
+    "resumo": "Publicações locais relatam sequência de colisões na avenida Margarita; circunstâncias aguardam confirmação oficial.",
+    "corpo": [
+      "Relatos divulgados por páginas de notícias locais apontam uma sequência de colisões na avenida Margarita, em Manaus, com a morte de um motociclista.",
+      "Até o momento, o Coroado News 24h não obteve boletim oficial sobre a dinâmica do acidente, a identidade da vítima ou as circunstâncias que levaram às colisões.",
+      "A redação atualizará as informações assim que houver confirmação das autoridades responsáveis."
+    ],
+    "fonte": "Relatos de imprensa local; confirmação oficial pendente",
+    "destaque": false,
+    "data": "19/10/2026",
+    "url": "noticia.html?id=67"
+  },
+  {
     "id": 66,
     "categoria": "Mundo",
     "titulo": "VÍDEO: briga em frente a boate tem pancadaria e relatos de tiros",
