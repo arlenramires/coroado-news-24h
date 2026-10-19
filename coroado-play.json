@@ -1,9 +1,51 @@
 [
   {
-    "titulo": "Coroado Play — programação em preparação",
-    "categoria": "Ao vivo",
-    "descricao": "Aguardando fontes oficiais autorizadas. Veja as notícias no portal.",
+    "titulo": "BTS — canal oficial",
+    "categoria": "Shows",
+    "descricao": "Apresentações e vídeos oficiais gravados",
     "tipo": "link",
-    "url": "https://coroadonews24h.com.br/"
+    "url": "https://www.youtube.com/@BANGTANTV"
+  },
+  {
+    "titulo": "BTS — vídeo oficial",
+    "categoria": "Shows",
+    "descricao": "Vídeo oficial no YouTube",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=A1nu9jg6ciY"
+  },
+  {
+    "titulo": "BTS — programação dos cinemas",
+    "categoria": "Ao vivo",
+    "descricao": "Transmissão em cinemas; sem player autorizado para o portal",
+    "tipo": "link",
+    "url": "https://www.hybecinefest.com/"
+  },
+  {
+    "titulo": "Animes — GundamInfo",
+    "categoria": "Animes",
+    "descricao": "Canal oficial",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@GundamInfo"
+  },
+  {
+    "titulo": "Shows — NPR Music",
+    "categoria": "Shows",
+    "descricao": "Apresentações oficiais",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@nprmusic"
+  },
+  {
+    "titulo": "Esportes — Red Bull",
+    "categoria": "Esportes",
+    "descricao": "Eventos gratuitos oficiais",
+    "tipo": "link",
+    "url": "https://www.redbull.com/br-pt/live-events"
+  },
+  {
+    "titulo": "Filmes — Internet Archive",
+    "categoria": "Filmes",
+    "descricao": "Verificar os direitos de cada obra",
+    "tipo": "link",
+    "url": "https://archive.org/details/movies"
   }
 ]
