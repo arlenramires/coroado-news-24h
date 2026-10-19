@@ -82,5 +82,47 @@
     "descricao": "Procurando vídeos e episódios oficiais liberados para o Brasil.",
     "tipo": "link",
     "url": "https://www.youtube.com/results?search_query=Dragon+Ball+canal+oficial"
+  },
+  {
+    "titulo": "Galinha Pintadinha",
+    "categoria": "Infantil",
+    "descricao": "Canal oficial para crianças. Conferir vídeos disponíveis no Brasil e incorporação permitida.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@galinhapintadinha"
+  },
+  {
+    "titulo": "Baby Shark — Pinkfong",
+    "categoria": "Infantil",
+    "descricao": "Canal oficial para crianças. Conferir vídeos disponíveis no Brasil e incorporação permitida.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@Pinkfong"
+  },
+  {
+    "titulo": "Masha e o Urso",
+    "categoria": "Infantil",
+    "descricao": "Canal oficial para crianças. Conferir vídeos disponíveis no Brasil e incorporação permitida.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@MashaBearPORTUGUESE"
+  },
+  {
+    "titulo": "Mundo Bita",
+    "categoria": "Infantil",
+    "descricao": "Canal oficial para crianças. Conferir vídeos disponíveis no Brasil e incorporação permitida.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@mundobita"
+  },
+  {
+    "titulo": "Bob Zoom",
+    "categoria": "Infantil",
+    "descricao": "Canal oficial para crianças. Conferir vídeos disponíveis no Brasil e incorporação permitida.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@BobZoom"
+  },
+  {
+    "titulo": "Pocoyo",
+    "categoria": "Infantil",
+    "descricao": "Canal oficial para crianças. Conferir vídeos disponíveis no Brasil e incorporação permitida.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/@pocoyo"
   }
 ]
