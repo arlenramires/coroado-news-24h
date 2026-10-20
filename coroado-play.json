@@ -866,5 +866,14 @@
     "url": "https://www.youtube.com/playlist?list=PLTRU2u_bXJop09AO6Oj_ZcHq8O1HSNLIT",
     "fonte": "https://www.youtube.com/playlist?list=PLTRU2u_bXJop09AO6Oj_ZcHq8O1HSNLIT",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Clipe selecionado — identificação pendente",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Vídeo enviado para a categoria Clipes & Lançamentos. Título e artista ainda não confirmados; reprodução incorporada depende da permissão do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=0DFAXfD7wR4",
+    "fonte": "https://www.youtube.com/watch?v=0DFAXfD7wR4",
+    "verificacao_incorporacao": "pendente"
   }
 ]
