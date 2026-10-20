@@ -1481,5 +1481,15 @@
     "fonte": "https://www.youtube.com/watch?v=27eKL7NsD6k",
     "verificacao_incorporacao": "pendente",
     "inicio_segundos": 30
+  },
+  {
+    "titulo": "O Vale da Morte",
+    "categoria": "Filmes",
+    "genero": "Outros",
+    "descricao": "Filme O Vale da Morte, indicado pela curadoria. Disponibilidade de incorporação ainda não verificada.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=Zb4kyyy6QSo",
+    "fonte": "https://www.youtube.com/watch?v=Zb4kyyy6QSo",
+    "verificacao_incorporacao": "pendente"
   }
 ]
