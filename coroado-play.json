@@ -736,5 +736,47 @@
     "fonte": "https://www.youtube.com/watch?v=HLfom4m9nUA",
     "restricao_regional": true,
     "verificacao_reproducao": "pendente_em_navegador_no_brasil"
+  },
+  {
+    "titulo": "Episódio Especial do Chaves — SBT",
+    "categoria": "Humor",
+    "descricao": "Episódio especial publicado pelo canal oficial do SBT. Reprodução incorporada sujeita às configurações do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=Dgk5875LRyE"
+  },
+  {
+    "titulo": "Mundo Bita — A Diferença é o Que Nos Une",
+    "categoria": "Infantil",
+    "descricao": "Clipe oficial em Libras do Mundo Bita. Reprodução incorporada sujeita às configurações do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=MMBSSWyK10g"
+  },
+  {
+    "titulo": "DENNIS, Ana Castela e MC GW — RAM TCHUM",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Clipe oficial publicado por DENNIS. Reprodução incorporada sujeita às configurações do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=JHJwdnibNoY"
+  },
+  {
+    "titulo": "Luan Pereira e Ana Castela — Depois do Rodeio",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Clipe oficial de Luan Pereira com Ana Castela. Reprodução incorporada sujeita às configurações do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=En2E6tDDSd0"
+  },
+  {
+    "titulo": "Coldplay — A Sky Full of Stars",
+    "categoria": "Música Internacional",
+    "descricao": "Videoclipe oficial publicado pelo Coldplay. Reprodução incorporada sujeita às configurações do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=VPRjCeoBqrI"
+  },
+  {
+    "titulo": "BTS — Dynamite (B-side)",
+    "categoria": "Música Internacional",
+    "descricao": "Videoclipe oficial publicado pela HYBE LABELS. Reprodução incorporada sujeita às configurações do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=BV2FdDmGiW0"
   }
 ]
