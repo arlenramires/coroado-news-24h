@@ -563,5 +563,178 @@
     "incorporacao_autorizada": true,
     "formato": "audio",
     "fonte": "https://aovivo.ebc.com.br/"
+  },
+  {
+    "titulo": "Galinha Pintadinha — vídeo original",
+    "categoria": "Infantil",
+    "descricao": "Videoclipe infantil do canal oficial Galinha Pintadinha.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=1i7p0vTGcBk",
+    "fonte": "https://www.youtube.com/watch?v=1i7p0vTGcBk",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Galinha Pintadinha 1 — álbum completo",
+    "categoria": "Infantil",
+    "descricao": "Seleção musical completa, com cerca de 29 minutos. Canal oficial Galinha Pintadinha.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=5P8GcCpmGYQ",
+    "fonte": "https://www.youtube.com/watch?v=5P8GcCpmGYQ",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Galinha Pintadinha — Borboletinha",
+    "categoria": "Infantil",
+    "descricao": "Música infantil do canal oficial Galinha Pintadinha.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=28iW_O5qWfU",
+    "fonte": "https://www.youtube.com/watch?v=28iW_O5qWfU",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Masha e o Urso — Praia Ursuportável",
+    "categoria": "Infantil",
+    "descricao": "Desenho em português do canal oficial Masha e o Urso.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=XkxRU3evslg",
+    "fonte": "https://www.youtube.com/watch?v=XkxRU3evslg",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Pocoyo — temporada 1, episódios 1 a 4",
+    "categoria": "Infantil",
+    "descricao": "Quatro episódios em português do canal oficial Pocoyo Brasil.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=T2F5tHqMyC4",
+    "fonte": "https://www.youtube.com/watch?v=T2F5tHqMyC4",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Pocoyo — temporada 1, episódios 25 a 28",
+    "categoria": "Infantil",
+    "descricao": "Quatro episódios em português do canal oficial Pocoyo Brasil.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=ysTuX8fhvSE",
+    "fonte": "https://www.youtube.com/watch?v=ysTuX8fhvSE",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Zé Vaqueiro — Letícia",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Videoclipe oficial. Música brasileira • Acervo.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=mNWt8j9e-Zs",
+    "fonte": "https://www.youtube.com/watch?v=mNWt8j9e-Zs",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Ana Castela, Melody e DJ Chris no Beat — Pipoco",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Videoclipe oficial do canal Ana Castela. Música brasileira • Acervo.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=69JAoslGYI8",
+    "fonte": "https://www.youtube.com/watch?v=69JAoslGYI8",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Zé Felipe — Malvada",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Videoclipe oficial do canal Zé Felipe. Música brasileira • Acervo.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=r0mNwyywHIY",
+    "fonte": "https://www.youtube.com/watch?v=r0mNwyywHIY",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "SBT — Menina Fantasma no Necrotério",
+    "categoria": "Humor e Pegadinhas",
+    "descricao": "Pegadinha de susto do canal oficial Câmeras Escondidas Programa Silvio Santos.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=dGCnKDndYWg",
+    "fonte": "https://www.youtube.com/watch?v=dGCnKDndYWg",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "SBT — A Nova Menina Fantasma do Elevador",
+    "categoria": "Humor e Pegadinhas",
+    "descricao": "Pegadinha de susto do canal oficial Câmeras Escondidas Programa Silvio Santos.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=O57qrk4qakU",
+    "fonte": "https://www.youtube.com/watch?v=O57qrk4qakU",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Adele — Hello",
+    "categoria": "Música Internacional",
+    "descricao": "Videoclipe do canal oficial Adele.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+    "fonte": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Adele — Hello, ao vivo no NRJ Awards",
+    "categoria": "Shows",
+    "descricao": "Apresentação gravada, publicada no canal oficial Adele.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=DfG6VKnjrVw",
+    "fonte": "https://www.youtube.com/watch?v=DfG6VKnjrVw",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Seu Jorge — Tiny Desk Concert",
+    "categoria": "Shows",
+    "descricao": "Show gravado publicado pelo canal oficial NPR Music. Cerca de 18 minutos.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=2Ws_5-hiqao",
+    "fonte": "https://www.youtube.com/watch?v=2Ws_5-hiqao",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Big Buck Bunny — curta de animação",
+    "categoria": "Filmes",
+    "descricao": "Curta completo da Blender Foundation. Sem diálogos. Cerca de 10 minutos.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "fonte": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Spring — curta de animação",
+    "categoria": "Filmes",
+    "descricao": "Curta completo do Blender Studio. Sem diálogos. Cerca de 8 minutos.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+    "fonte": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "Caminandes 3: Llamigos — curta de animação",
+    "categoria": "Filmes",
+    "descricao": "Curta completo da Blender Foundation. Sem diálogos. Cerca de 3 minutos.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    "fonte": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+  },
+  {
+    "titulo": "O Acerto — filme completo dublado",
+    "categoria": "Filmes",
+    "descricao": "Filme de ação do canal verificado NetMovies. Dublado em português. Reprodução sujeita às restrições regionais do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=Fnb7h0bi46w",
+    "fonte": "https://www.youtube.com/watch?v=Fnb7h0bi46w",
+    "restricao_regional": true,
+    "verificacao_reproducao": "pendente_em_navegador_no_brasil"
+  },
+  {
+    "titulo": "Vingança — filme completo dublado",
+    "categoria": "Filmes",
+    "descricao": "Filme de ação do canal verificado NetMovies. Dublado em português. Reprodução sujeita às restrições regionais do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=HLfom4m9nUA",
+    "fonte": "https://www.youtube.com/watch?v=HLfom4m9nUA",
+    "restricao_regional": true,
+    "verificacao_reproducao": "pendente_em_navegador_no_brasil"
   }
 ]
