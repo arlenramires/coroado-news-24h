@@ -808,75 +808,83 @@
   },
   {
     "titulo": "Vídeo musical enviado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Conteúdo selecionado pelo editor. Título, artista e duração ainda precisam de verificação. Reprodução incorporada sujeita às permissões do YouTube. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Conteúdo selecionado pelo editor. Título, artista e duração ainda precisam de verificação. Reprodução incorporada sujeita às permissões do YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=q1nA6EYUcwg",
     "fonte": "https://www.youtube.com/watch?v=q1nA6EYUcwg",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Vídeo selecionado pelo editor; título, artista, duração e classificação definitiva pendentes de verificação. Link original inicia em 16min25s; player cadastrado desde o início. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Vídeo selecionado pelo editor; título, artista, duração e classificação definitiva pendentes de verificação. Link original inicia em 16min25s; player cadastrado desde o início. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=TJ-WAgH5hpk",
     "fonte": "https://www.youtube.com/watch?v=TJ-WAgH5hpk",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Vídeo selecionado pelo editor. Título, artista, duração e categoria definitiva aguardam verificação; reprodução incorporada sujeita às permissões do YouTube. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Vídeo selecionado pelo editor. Título, artista, duração e categoria definitiva aguardam verificação; reprodução incorporada sujeita às permissões do YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=4Ubcv1JjtO4",
     "fonte": "https://www.youtube.com/watch?v=4Ubcv1JjtO4",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Vídeo selecionado pelo editor. Artista, título, duração e categoria definitiva aguardam verificação. Reprodução dentro do portal sujeita às permissões do YouTube. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Vídeo selecionado pelo editor. Artista, título, duração e categoria definitiva aguardam verificação. Reprodução dentro do portal sujeita às permissões do YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=sRc1Fh0y3ZI",
     "fonte": "https://www.youtube.com/watch?v=sRc1Fh0y3ZI",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Vídeo selecionado pelo editor. Artista, título, duração e categoria definitiva aguardam verificação; incorporação sujeita às permissões do YouTube. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Vídeo selecionado pelo editor. Artista, título, duração e categoria definitiva aguardam verificação; incorporação sujeita às permissões do YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=zm3CBQTOPPc",
     "fonte": "https://www.youtube.com/watch?v=zm3CBQTOPPc",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=J3Sx0cqB8qo",
     "fonte": "https://www.youtube.com/watch?v=J3Sx0cqB8qo",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=9DFnCUK81Tg",
     "fonte": "https://www.youtube.com/watch?v=9DFnCUK81Tg",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
-    "categoria": "A classificar",
-    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Aguardando verificação de duração: show completo ou clipe.",
+    "categoria": "Shows",
+    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=KseuUm8iiUo",
     "fonte": "https://www.youtube.com/watch?v=KseuUm8iiUo",
-    "verificacao_incorporacao": "pendente"
+    "verificacao_incorporacao": "pendente",
+    "genero": "Outros"
   },
   {
     "titulo": "Playlist enviada pela curadoria — identificação pendente",
