@@ -84,20 +84,6 @@
     "url": "https://www.youtube.com/@pocoyo"
   },
   {
-    "titulo": "BTS — canal oficial",
-    "categoria": "Shows",
-    "descricao": "Apresentações e vídeos oficiais gravados",
-    "tipo": "link",
-    "url": "https://www.youtube.com/@BANGTANTV"
-  },
-  {
-    "titulo": "Shows — NPR Music",
-    "categoria": "Shows",
-    "descricao": "Apresentações oficiais",
-    "tipo": "link",
-    "url": "https://www.youtube.com/@nprmusic"
-  },
-  {
     "titulo": "Esportes — Red Bull",
     "categoria": "Esportes",
     "descricao": "Eventos gratuitos oficiais",
