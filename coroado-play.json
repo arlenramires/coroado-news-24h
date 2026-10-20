@@ -1545,5 +1545,15 @@
     "url": "https://www.youtube.com/watch?v=oGnz7FRiYt8",
     "fonte": "https://www.youtube.com/watch?v=oGnz7FRiYt8",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Chaves",
+    "categoria": "Seriados",
+    "genero": "Comédia",
+    "descricao": "Episódio de Chaves indicado pela curadoria. Disponibilidade de incorporação ainda não verificada.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=K26NiaIDFkk",
+    "fonte": "https://www.youtube.com/watch?v=K26NiaIDFkk",
+    "verificacao_incorporacao": "pendente"
   }
 ]
