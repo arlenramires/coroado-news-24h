@@ -678,30 +678,33 @@
   },
   {
     "titulo": "Big Buck Bunny — curta de animação",
-    "categoria": "Filmes",
+    "categoria": "Desenhos Animados",
     "descricao": "Curta completo da Blender Foundation. Sem diálogos. Cerca de 10 minutos.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
     "fonte": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+    "verificacao_incorporacao": "youtube_playableInEmbed_true",
+    "genero": "Outros"
   },
   {
     "titulo": "Spring — curta de animação",
-    "categoria": "Filmes",
+    "categoria": "Desenhos Animados",
     "descricao": "Curta completo do Blender Studio. Sem diálogos. Cerca de 8 minutos.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
     "fonte": "https://www.youtube.com/watch?v=WhWc3b3KhnY",
-    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+    "verificacao_incorporacao": "youtube_playableInEmbed_true",
+    "genero": "Outros"
   },
   {
     "titulo": "Caminandes 3: Llamigos — curta de animação",
-    "categoria": "Filmes",
+    "categoria": "Desenhos Animados",
     "descricao": "Curta completo da Blender Foundation. Sem diálogos. Cerca de 3 minutos.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
     "fonte": "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
-    "verificacao_incorporacao": "youtube_playableInEmbed_true"
+    "verificacao_incorporacao": "youtube_playableInEmbed_true",
+    "genero": "Outros"
   },
   {
     "titulo": "O Acerto — filme completo dublado",
