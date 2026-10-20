@@ -145,5 +145,26 @@
     "descricao": "Acesse a programação ao vivo no site oficial. Não incorporado.",
     "tipo": "link",
     "url": "https://jovempan.com.br/ao-vivo/"
+  },
+  {
+    "titulo": "Flash — Zé Vaqueiro e Hugo & Guilherme",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Lançamento de outubro de 2026. Acesse o canal oficial do artista para localizar o videoclipe; reprodução incorporada ainda não validada.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=Z%C3%A9+Vaqueiro+Flash+Hugo+Guilherme+oficial"
+  },
+  {
+    "titulo": "Eu Quero Um Country — CountryBeat e Zé Vaqueiro",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Lançamento de outubro de 2026 com videoclipe anunciado. Conferir no canal oficial.",
+    "tipo": "link",
+    "url": "https://www.youtube.com/results?search_query=CountryBeat+Z%C3%A9+Vaqueiro+Eu+Quero+Um+Country+oficial"
+  },
+  {
+    "titulo": "Zé Vaqueiro — canal oficial",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Videoclipes e novidades no canal do artista.",
+    "tipo": "link",
+    "url": "https://linktr.ee/zevaqueiro"
   }
 ]
