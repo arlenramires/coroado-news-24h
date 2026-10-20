@@ -1626,5 +1626,16 @@
     "fonte": "https://www.youtube.com/playlist?list=PLTL7jd0dmN5sLKVoia3SzP5hWhqa04Lkq",
     "verificacao_incorporacao": "pendente",
     "total_capitulos": 118
+  },
+  {
+    "titulo": "Pérola Negra",
+    "categoria": "Novelas",
+    "genero": "Drama",
+    "descricao": "Novela Pérola Negra — playlist de capítulos em sequência. Quantidade informada: 205 capítulos; conferir disponibilidade dos episódios na playlist.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/playlist?list=PLW9LPE1S8P60dQYnUJQmvjCDZSTPE-4ut",
+    "fonte": "https://www.youtube.com/playlist?list=PLW9LPE1S8P60dQYnUJQmvjCDZSTPE-4ut",
+    "verificacao_incorporacao": "pendente",
+    "total_capitulos": 205
   }
 ]
