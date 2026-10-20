@@ -905,5 +905,15 @@
     "url": "https://www.youtube.com/watch?v=MDLGrywrARo",
     "fonte": "https://www.youtube.com/watch?v=MDLGrywrARo",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Show enviado pela curadoria — identificação pendente",
+    "categoria": "Shows",
+    "genero": "Outros",
+    "descricao": "Vídeo indicado pelo editor para Shows. Título, artista, duração e permissão de incorporação ainda não confirmados.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=KEDwFFge3Fc",
+    "fonte": "https://www.youtube.com/watch?v=KEDwFFge3Fc",
+    "verificacao_incorporacao": "pendente"
   }
 ]
