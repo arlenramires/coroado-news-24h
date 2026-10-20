@@ -71,7 +71,7 @@ for item in news:
         fail(f"{label}: vídeos precisam ser uma lista")
     else:
         for video in videos:
-            if not isinstance(video, dict) or video.get("tipo") not in ("mp4", "youtube"):
+            if not isinstance(video, dict) or video.get("tipo") not in ("mp4", "youtube", "instagram"):
                 fail(f"{label}: formato de vídeo inválido")
             elif video.get("tipo") == "mp4":
                 local_file(video.get("url"), f"{label}/vídeo")
