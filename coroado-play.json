@@ -841,5 +841,14 @@
     "url": "https://www.youtube.com/watch?v=sRc1Fh0y3ZI",
     "fonte": "https://www.youtube.com/watch?v=sRc1Fh0y3ZI",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Vídeo enviado pela curadoria — identificação pendente",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Vídeo selecionado pelo editor. Artista, título, duração e categoria definitiva aguardam verificação; incorporação sujeita às permissões do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=zm3CBQTOPPc",
+    "fonte": "https://www.youtube.com/watch?v=zm3CBQTOPPc",
+    "verificacao_incorporacao": "pendente"
   }
 ]
