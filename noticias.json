@@ -69,15 +69,15 @@
       "A informação sobre a suspensão refere-se especificamente ao dia 13 de outubro. A situação das aulas em outras datas depende de novos comunicados oficiais; esta reportagem não deve ser interpretada como confirmação de suspensão para esta terça-feira, 20 de outubro."
     ],
     "fonteUrl": "https://www.manaus.am.gov.br/",
-    "imagemLegenda": "Imagem ilustrativa da rede municipal de educação de Manaus.",
+    "imagemLegenda": "Imagem enviada à redação para ilustrar a suspensão de aulas durante episódio de fumaça em Manaus.",
     "id": 73,
     "fonte": "Redação Coroado News 24h — informações de cobertura jornalística e comunicados públicos",
     "data": "20/10/2026",
     "url": "noticia.html?id=73",
     "destaque": false,
-    "imagem": "assets/noticia-ilustrativa.svg",
-    "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemCredito": "Ilustração do portal"
+    "imagem": "https://static.wixstatic.com/media/a06550_d2451e394b4e4aada8be6ba4842ec599~mv2.jpg",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_d2451e394b4e4aada8be6ba4842ec599~mv2.jpg",
+    "imagemCredito": "Imagem fornecida à redação"
   },
   {
     "categoria": "Manaus",
