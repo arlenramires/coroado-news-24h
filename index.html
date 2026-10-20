@@ -347,16 +347,18 @@ nav.nav .nav-inner>a.coroado-play-top-button{display:inline-flex!important;visib
 nav.nav .nav-inner>.nav-links{min-width:0!important;flex:1 1 auto!important}
 }
 </style><style id="news-cropped-photos">.hero-art img[src*="-foto-cortada.png"],.popular-item img[src*="-foto-cortada.png"],.story img[src*="-foto-cortada.png"],.sideitem img[src*="-foto-cortada.png"]{object-fit:cover!important;object-position:50% 35%!important}img.cover[src*="-foto-cortada.png"]{display:block!important;width:100%!important;height:auto!important;max-height:none!important;aspect-ratio:auto!important;object-fit:contain!important;background:transparent!important}.video-block video{width:100%;max-height:650px;background:#07182f}</style><style id="play-header-position-20261020">
-/* Coroado Play destacado no cabeçalho, entre redes sociais e hora de Manaus */
-.top-inner>.top-right{margin-left:auto!important;gap:10px!important}
-.coroado-play-header{display:inline-flex!important;flex:0 0 auto!important;align-items:center!important;gap:9px!important;padding:9px 15px!important;min-height:44px!important;border-radius:28px!important;background:linear-gradient(115deg,#f51d42,#b4002a)!important;border:2px solid #fff!important;box-shadow:0 3px 14px #0005!important;color:#fff!important;text-decoration:none!important;white-space:nowrap!important;font:900 13px Arial,sans-serif!important}
-.coroado-play-header .play-circle{display:grid;place-items:center;background:#fff;color:#c00030;width:27px;height:27px;border-radius:50%;font-size:13px}
-.coroado-play-header .play-label{line-height:1.1;letter-spacing:.3px}
-.coroado-play-header small{display:block;font-size:9px;letter-spacing:1.2px;margin-top:3px}
-.coroado-play-header:hover{filter:brightness(1.13)}
+/* CTA editorial Coroado Play no cabeçalho, fora do menu */
+.top-inner>.top-right{margin-left:auto!important;gap:12px!important}
+.coroado-play-header{position:relative!important;isolation:isolate;display:inline-flex!important;flex:0 0 auto!important;align-items:center!important;justify-content:center!important;gap:11px!important;padding:10px 20px!important;min-height:56px!important;border-radius:17px!important;background:linear-gradient(115deg,#ff3158 0%,#e6003b 52%,#9e0636 100%)!important;border:2px solid #fff!important;box-shadow:0 0 0 2px #ff466b80,0 5px 18px #0007!important;color:#fff!important;text-decoration:none!important;white-space:nowrap!important;font:900 16px Arial,sans-serif!important;letter-spacing:.4px!important;transition:transform .18s ease,box-shadow .18s ease!important}
+.coroado-play-header:before{content:"";position:absolute;inset:2px 5px auto;height:42%;border-radius:12px;background:linear-gradient(180deg,#ffffff42,transparent);pointer-events:none;z-index:-1}
+.coroado-play-header .play-circle{display:grid!important;place-items:center!important;background:#fff!important;color:#e6003b!important;width:36px!important;height:36px!important;border-radius:50%!important;font-size:17px!important;box-shadow:0 2px 9px #0005!important}
+.coroado-play-header .play-label{line-height:1.05!important;letter-spacing:.45px!important;text-shadow:0 1px 3px #0006}
+.coroado-play-header .play-label b{color:#fff5ad!important;font-weight:900!important}
+.coroado-play-header small{display:block!important;font-size:10px!important;letter-spacing:1.4px!important;margin-top:5px!important;color:#fff!important}
+.coroado-play-header:hover,.coroado-play-header:focus-visible{transform:translateY(-2px)!important;box-shadow:0 0 0 3px #ff466baa,0 8px 23px #0009!important}
 .nav .coroado-play-top-button{display:none!important}
-@media(max-width:1200px){.coroado-play-header{padding:7px 10px!important;font-size:11px!important}.coroado-play-header small{font-size:8px}.top-inner>.top-right{gap:7px!important}}
-@media(max-width:760px){.top-inner>.top-right{flex-wrap:wrap;justify-content:center}.coroado-play-header{order:3;margin:5px auto!important}.top-inner>.top-right .search{max-width:100%}}
+@media(max-width:1350px){.coroado-play-header{padding:9px 12px!important;font-size:13px!important;gap:7px!important}.coroado-play-header .play-circle{width:29px!important;height:29px!important}.coroado-play-header small{font-size:8px!important}.top-inner>.top-right{gap:7px!important}}
+@media(max-width:760px){.top-inner>.top-right{flex-wrap:wrap!important;justify-content:center!important}.coroado-play-header{order:3;margin:5px auto!important;min-height:49px!important}.top-inner>.top-right .search{max-width:100%}}
 </style></head>
 <body>
 
