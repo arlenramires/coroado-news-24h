@@ -21,10 +21,10 @@
     "destaque": true,
     "data": "20/10/2026",
     "url": "noticia.html?id=71",
-    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagem": "https://static.wixstatic.com/media/a06550_eed41a76c1ae4029b0733549e78f2a2c~mv2.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Ato político realizado na Ponta Negra, em Manaus, em 19 de outubro de 2026. Imagem ilustrativa.",
-    "imagemCredito": "Ilustração do portal; fotos e vídeos de terceiros não reproduzidos sem autorização"
+    "imagemLegenda": "Imagem aérea da concentração de apoiadores e do trio elétrico durante o ato na Ponta Negra, em Manaus.",
+    "imagemCredito": "Imagem fornecida à redação do Coroado News 24h"
   },
   {
     "id": 70,
