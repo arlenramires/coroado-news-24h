@@ -1625,7 +1625,8 @@
     "url": "https://www.youtube.com/playlist?list=PLTL7jd0dmN5sLKVoia3SzP5hWhqa04Lkq",
     "fonte": "https://www.youtube.com/playlist?list=PLTL7jd0dmN5sLKVoia3SzP5hWhqa04Lkq",
     "verificacao_incorporacao": "pendente",
-    "total_capitulos": 118
+    "total_capitulos": 118,
+    "capa": "https://i.ytimg.com/vi/yuBtgj2z9y0/hqdefault.jpg"
   },
   {
     "titulo": "Pérola Negra",
@@ -1636,6 +1637,7 @@
     "url": "https://www.youtube.com/playlist?list=PLW9LPE1S8P60dQYnUJQmvjCDZSTPE-4ut",
     "fonte": "https://www.youtube.com/playlist?list=PLW9LPE1S8P60dQYnUJQmvjCDZSTPE-4ut",
     "verificacao_incorporacao": "pendente",
-    "total_capitulos": 205
+    "total_capitulos": 205,
+    "capa": "https://i.ytimg.com/vi/yWg-UgjxlNU/hqdefault.jpg"
   }
 ]
