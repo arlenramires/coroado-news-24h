@@ -1501,5 +1501,15 @@
     "url": "https://www.youtube.com/watch?v=qlTbf_ztnto",
     "fonte": "https://www.youtube.com/watch?v=qlTbf_ztnto",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "A Loucura do Tempo",
+    "categoria": "Filmes",
+    "genero": "Outros",
+    "descricao": "Filme A Loucura do Tempo, indicado pela curadoria. Disponibilidade de incorporação ainda não verificada.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=Nk0LmyGiqCA",
+    "fonte": "https://www.youtube.com/watch?v=Nk0LmyGiqCA",
+    "verificacao_incorporacao": "pendente"
   }
 ]
