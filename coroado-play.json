@@ -778,5 +778,13 @@
     "descricao": "Videoclipe oficial publicado pela HYBE LABELS. Reprodução incorporada sujeita às configurações do YouTube.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=BV2FdDmGiW0"
+  },
+  {
+    "titulo": "Onda Digital FM 92,3 — Manaus",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Manaus • 92,3 FM • player de rádio disponibilizado para incorporação pelo OuviRádios. Reprodução sujeita à disponibilidade da emissora.",
+    "tipo": "iframe",
+    "url": "https://ouviradios.com.br/embed/onda-digital-fm-manaus",
+    "incorporacao_autorizada": true
   }
 ]
