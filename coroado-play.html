@@ -35,5 +35,5 @@ function enter(){if(entering)return;entering=true;chime();splash.classList.add('
 splash.addEventListener('click',enter);
 splash.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();enter()}});
 const testSound=document.createElement('button');testSound.type='button';testSound.textContent='🔊 Testar som';testSound.style.cssText='background:#173659;color:#fff;border:1px solid #659bd1;border-radius:9px;padding:9px 12px;font-size:12px;cursor:pointer';testSound.addEventListener('click',()=>chime());document.querySelector('header .head').appendChild(testSound);
-fetch('coroado-play.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('catálogo');return r.json()}).then(data=>{items=Array.isArray(data)?data:[];render()}).catch(()=>{sections.textContent='Não foi possível carregar o catálogo agora.'});render();
+fetch('coroado-play.json?v=20261020-desenhos-isolados',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('catálogo');return r.json()}).then(data=>{items=Array.isArray(data)?data:[];render()}).catch(()=>{sections.textContent='Não foi possível carregar o catálogo agora.'});render();
 </script></body></html>
