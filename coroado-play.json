@@ -786,5 +786,14 @@
     "tipo": "iframe",
     "url": "https://ouviradios.com.br/embed/onda-digital-fm-manaus",
     "incorporacao_autorizada": true
+  },
+  {
+    "titulo": "Pocoyo Mágico — 90 minutos de desenhos em português",
+    "categoria": "Infantil",
+    "genero": "Desenhos",
+    "descricao": "Coletânea de 90 minutos publicada pelo canal Pocoyo Brasil — Episódios Completos. Reprodução no Coroado Play depende das permissões do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=39im71Smtjg",
+    "fonte": "https://www.youtube.com/watch?v=39im71Smtjg"
   }
 ]
