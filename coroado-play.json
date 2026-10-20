@@ -113,35 +113,35 @@
   },
   {
     "titulo": "TV Brasil — programação oficial",
-    "categoria": "Ao vivo",
+    "categoria": "TV ao Vivo",
     "descricao": "Acesse a transmissão da emissora pública em seu site oficial. Não incorporado.",
     "tipo": "link",
     "url": "https://tvbrasil.ebc.com.br/webtv"
   },
   {
     "titulo": "SBT — TV ao vivo oficial",
-    "categoria": "Ao vivo",
+    "categoria": "TV ao Vivo",
     "descricao": "Acesse o sinal disponibilizado pelo SBT em sua plataforma oficial. Não incorporado.",
     "tipo": "link",
     "url": "https://www.sbt.com.br/ao-vivo"
   },
   {
     "titulo": "TV Cultura — programação ao vivo",
-    "categoria": "Ao vivo",
+    "categoria": "TV ao Vivo",
     "descricao": "Acesse a transmissão oficial da TV Cultura. Não incorporado.",
     "tipo": "link",
     "url": "https://cultura.uol.com.br/aovivo/"
   },
   {
     "titulo": "Metrópoles TV — canal oficial",
-    "categoria": "Ao vivo",
+    "categoria": "TV ao Vivo",
     "descricao": "Programação gratuita da emissora; reprodução no portal não verificada.",
     "tipo": "link",
     "url": "https://www.metropoles.com/metropolestv"
   },
   {
     "titulo": "Jovem Pan — transmissão oficial",
-    "categoria": "Ao vivo",
+    "categoria": "TV ao Vivo",
     "descricao": "Acesse a programação ao vivo no site oficial. Não incorporado.",
     "tipo": "link",
     "url": "https://jovempan.com.br/ao-vivo/"
