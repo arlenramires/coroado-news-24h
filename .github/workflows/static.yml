@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Validar arquivos antes de publicar
+        run: python3 scripts/validar_publicacao.py
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
