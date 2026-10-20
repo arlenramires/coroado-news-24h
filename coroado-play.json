@@ -1,20 +1,5 @@
 [
   {
-    "titulo": "Big Buck Bunny — curta de animação",
-    "categoria": "Filmes",
-    "descricao": "Curta de animação aberto do projeto Blender. Áudio original; sem promessa de dublagem.",
-    "tipo": "youtube",
-    "url": "https://www.youtube.com/watch?v=YE7VzlLtp-8",
-    "idioma": "original"
-  },
-  {
-    "titulo": "Filmes — Internet Archive",
-    "categoria": "Filmes",
-    "descricao": "Verificar os direitos de cada obra",
-    "tipo": "link",
-    "url": "https://archive.org/details/movies"
-  },
-  {
     "titulo": "Seriados clássicos — acervo em preparação",
     "categoria": "Seriados",
     "descricao": "Chaves, Chapolin, Mr. Bean e outros: aguardando fontes oficiais que permitam incorporação.",
@@ -106,13 +91,6 @@
     "url": "https://www.youtube.com/@BANGTANTV"
   },
   {
-    "titulo": "BTS — vídeo oficial",
-    "categoria": "Shows",
-    "descricao": "Vídeo oficial no YouTube",
-    "tipo": "youtube",
-    "url": "https://www.youtube.com/watch?v=A1nu9jg6ciY"
-  },
-  {
     "titulo": "Shows — NPR Music",
     "categoria": "Shows",
     "descricao": "Apresentações oficiais",
@@ -127,43 +105,45 @@
     "url": "https://www.redbull.com/br-pt/live-events"
   },
   {
-    "titulo": "Sintel — curta de fantasia (Blender)",
-    "categoria": "Filmes",
-    "descricao": "Curta oficial aberto da Blender Foundation. Áudio original, legendas conforme o YouTube.",
-    "tipo": "youtube",
-    "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
-    "idioma": "original"
-  },
-  {
-    "titulo": "Tears of Steel — ficção científica (Blender)",
-    "categoria": "Filmes",
-    "descricao": "Curta de ficção científica produzido pela Blender Foundation; versão oficial.",
-    "tipo": "youtube",
-    "url": "https://www.youtube.com/watch?v=R6MlUcmOul8",
-    "idioma": "original"
-  },
-  {
-    "titulo": "Elephants Dream — animação (Blender)",
-    "categoria": "Filmes",
-    "descricao": "Curta de animação aberto da Blender Foundation.",
+    "titulo": "Chaves e Chapolin — +SBT",
+    "categoria": "Seriados",
+    "descricao": "Acesse episódios disponíveis na plataforma oficial +SBT. Disponibilidade sujeita ao catálogo.",
     "tipo": "link",
-    "url": "https://orange.blender.org/download/",
-    "idioma": "original"
+    "url": "https://mais.sbt.com.br/"
   },
   {
-    "titulo": "Coleção de filmes abertos — Blender Studio",
-    "categoria": "Filmes",
-    "descricao": "Catálogo oficial de curtas e filmes abertos.",
+    "titulo": "TV Brasil — programação oficial",
+    "categoria": "Ao vivo",
+    "descricao": "Acesse a transmissão da emissora pública em seu site oficial. Não incorporado.",
     "tipo": "link",
-    "url": "https://studio.blender.org/films/",
-    "idioma": "variado"
+    "url": "https://tvbrasil.ebc.com.br/webtv"
   },
   {
-    "titulo": "Curtas animados — Blender Video",
-    "categoria": "Infantil",
-    "descricao": "Animações da Blender Foundation; classificação e idioma variam por título.",
+    "titulo": "SBT — TV ao vivo oficial",
+    "categoria": "Ao vivo",
+    "descricao": "Acesse o sinal disponibilizado pelo SBT em sua plataforma oficial. Não incorporado.",
     "tipo": "link",
-    "url": "https://video.blender.org/search?categoryOneOf=10",
-    "idioma": "variado"
+    "url": "https://www.sbt.com.br/ao-vivo"
+  },
+  {
+    "titulo": "TV Cultura — programação ao vivo",
+    "categoria": "Ao vivo",
+    "descricao": "Acesse a transmissão oficial da TV Cultura. Não incorporado.",
+    "tipo": "link",
+    "url": "https://cultura.uol.com.br/aovivo/"
+  },
+  {
+    "titulo": "Metrópoles TV — canal oficial",
+    "categoria": "Ao vivo",
+    "descricao": "Programação gratuita da emissora; reprodução no portal não verificada.",
+    "tipo": "link",
+    "url": "https://www.metropoles.com/metropolestv"
+  },
+  {
+    "titulo": "Jovem Pan — transmissão oficial",
+    "categoria": "Ao vivo",
+    "descricao": "Acesse a programação ao vivo no site oficial. Não incorporado.",
+    "tipo": "link",
+    "url": "https://jovempan.com.br/ao-vivo/"
   }
 ]
