@@ -1,5 +1,89 @@
 [
   {
+    "categoria": "Brasil",
+    "titulo": "Felca fala sobre fobia social, bullying e dificuldades vividas longe das câmeras",
+    "resumo": "Influenciador publicou depoimento pessoal e trouxe à discussão consequências do bullying e desafios de convivência social.",
+    "corpo": [
+      "O influenciador Felca chamou a atenção das redes sociais ao publicar um vídeo em que relata experiências pessoais relacionadas ao bullying e à fobia social. Conhecido por conteúdos de humor e comentários sobre temas que repercutem na internet, ele abordou dificuldades que, segundo seu próprio relato, marcaram sua trajetória.",
+      "No depoimento, o criador de conteúdo descreve episódios vividos na escola e explica como passou a enfrentar situações sociais com sofrimento e insegurança. Ele também contou que recorreu ao consumo de álcool em determinados momentos para lidar com encontros e compromissos.",
+      "O vídeo abriu espaço para discussões sobre os efeitos de longo prazo da violência escolar e sobre a importância de reconhecer sinais de sofrimento psicológico. As experiências narradas são relatos do próprio influenciador e não devem ser generalizadas para todas as pessoas com ansiedade social.",
+      "Felca também mencionou planos de ampliar sua participação em atividades sociais e de abordar o tema do bullying em iniciativas futuras. O Coroado News 24h acompanha a repercussão do depoimento sem reproduzir trechos de terceiros sem autorização."
+    ],
+    "fonteUrl": "https://www.cnnbrasil.com.br/",
+    "imagemLegenda": "Imagem ilustrativa sobre redes sociais e saúde emocional.",
+    "id": 75,
+    "fonte": "Redação Coroado News 24h — informações de cobertura jornalística e comunicados públicos",
+    "data": "20/10/2026",
+    "url": "noticia.html?id=75",
+    "destaque": false,
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemCredito": "Ilustração do portal"
+  },
+  {
+    "categoria": "Manaus",
+    "titulo": "Sargento Loiola assume Secretaria Municipal de Segurança Pública de Manaus",
+    "resumo": "Moisés Loiola de Souza foi anunciado para comandar a Semseg, responsável por ações municipais de segurança e defesa social.",
+    "corpo": [
+      "A Prefeitura de Manaus anunciou mudança no comando da Secretaria Municipal de Segurança Pública e Defesa Social (Semseg). Moisés Loiola de Souza, conhecido como Sargento Loiola, foi nomeado para assumir a pasta, com início previsto para 20 de outubro de 2026, segundo a cobertura da imprensa local.",
+      "A secretaria integra a estrutura responsável pela articulação de iniciativas municipais voltadas à segurança e à defesa social. A mudança de titular chama atenção para a continuidade dos projetos e para as prioridades que serão apresentadas pela nova administração.",
+      "Entre os temas que devem ser acompanhados estão as ações de prevenção, a atuação da Guarda Municipal e a coordenação com outras instituições de segurança. Essas áreas afetam diretamente o cotidiano de moradores de diferentes bairros da capital.",
+      "A nomeação, por si só, não representa anúncio de aumento de efetivo, novas operações ou mudança de programas. Eventuais medidas dependerão de comunicados e atos oficiais da gestão municipal."
+    ],
+    "fonteUrl": "https://portaldoholanda.com.br/",
+    "imagemLegenda": "Imagem ilustrativa sobre segurança pública municipal.",
+    "id": 74,
+    "fonte": "Redação Coroado News 24h — informações de cobertura jornalística e comunicados públicos",
+    "data": "20/10/2026",
+    "url": "noticia.html?id=74",
+    "destaque": false,
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemCredito": "Ilustração do portal"
+  },
+  {
+    "categoria": "Manaus",
+    "titulo": "Fumaça das queimadas suspende aulas em Manaus e expõe impacto da poluição na educação",
+    "resumo": "Suspensão divulgada para 13 de outubro afetou a rede municipal; famílias precisaram reorganizar a rotina diante das condições do ar.",
+    "corpo": [
+      "A fumaça das queimadas voltou a alterar a rotina de estudantes e famílias em Manaus. A Secretaria Municipal de Educação (Semed) confirmou a suspensão das aulas presenciais da rede municipal na terça-feira, 13 de outubro de 2026, como medida de proteção diante da piora da qualidade do ar.",
+      "A decisão evidenciou como a poluição atmosférica ultrapassa a questão ambiental e alcança serviços essenciais. Pais e responsáveis precisaram reorganizar compromissos, enquanto escolas e profissionais da educação acompanharam orientações da Prefeitura.",
+      "Partículas finas presentes na fumaça podem agravar sintomas respiratórios, sobretudo entre crianças, idosos e pessoas com condições preexistentes. As orientações de saúde recomendam reduzir exposição à fumaça intensa e seguir os comunicados dos órgãos públicos.",
+      "A informação sobre a suspensão refere-se especificamente ao dia 13 de outubro. A situação das aulas em outras datas depende de novos comunicados oficiais; esta reportagem não deve ser interpretada como confirmação de suspensão para esta terça-feira, 20 de outubro."
+    ],
+    "fonteUrl": "https://www.manaus.am.gov.br/",
+    "imagemLegenda": "Imagem ilustrativa da rede municipal de educação de Manaus.",
+    "id": 73,
+    "fonte": "Redação Coroado News 24h — informações de cobertura jornalística e comunicados públicos",
+    "data": "20/10/2026",
+    "url": "noticia.html?id=73",
+    "destaque": false,
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemCredito": "Ilustração do portal"
+  },
+  {
+    "categoria": "Manaus",
+    "titulo": "Jender Lobato retorna ao comando da Manauscult em mudança na gestão municipal",
+    "resumo": "Mudança na Fundação Municipal de Cultura, Turismo e Eventos recoloca Jender Lobato na presidência e abre nova etapa para a política cultural de Manaus.",
+    "corpo": [
+      "A administração municipal de Manaus promoveu uma mudança na direção da Fundação Municipal de Cultura, Turismo e Eventos (Manauscult). Jender Lobato voltou ao comando do órgão, conforme informações divulgadas na imprensa local sobre atos administrativos de 16 de outubro de 2026.",
+      "A alteração envolve a estrutura responsável pelo planejamento e execução de políticas de cultura, turismo e eventos da capital. A Manauscult participa de iniciativas que movimentam artistas, produtores, trabalhadores do setor cultural e empreendedores ligados ao turismo.",
+      "Segundo a cobertura publicada, Márcio Braz passa a ocupar a vice-presidência. A mudança de comando desperta atenção sobre a continuidade do calendário de eventos, a execução de projetos em andamento e as prioridades administrativas da fundação.",
+      "Até a publicação desta reportagem, não há confirmação de um novo calendário ou de mudanças específicas nos contratos e projetos decorrentes da nomeação. Os próximos atos oficiais e anúncios da Manauscult deverão esclarecer as diretrizes da nova gestão."
+    ],
+    "fonteUrl": "https://canal92am.com.br/",
+    "imagemLegenda": "Imagem ilustrativa sobre administração cultural de Manaus.",
+    "id": 72,
+    "fonte": "Redação Coroado News 24h — informações de cobertura jornalística e comunicados públicos",
+    "data": "20/10/2026",
+    "url": "noticia.html?id=72",
+    "destaque": false,
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemCredito": "Ilustração do portal"
+  },
+  {
     "id": 71,
     "categoria": "Política",
     "titulo": "Ato de Flávio Bolsonaro reúne multidão na Ponta Negra; organização estima 150 mil participantes",
