@@ -794,13 +794,12 @@
   },
   {
     "titulo": "Vídeo musical enviado pela curadoria — identificação pendente",
-    "categoria": "Shows",
-    "descricao": "Conteúdo selecionado pelo editor. Título, artista e duração ainda precisam de verificação. Reprodução incorporada sujeita às permissões do YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Clipe musical curto, reclassificado conforme revisão visual do editor. Título e artista ainda precisam ser identificados.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=q1nA6EYUcwg",
     "fonte": "https://www.youtube.com/watch?v=q1nA6EYUcwg",
-    "verificacao_incorporacao": "pendente",
-    "genero": "Outros"
+    "verificacao_incorporacao": "pendente"
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
@@ -814,23 +813,21 @@
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
-    "categoria": "Shows",
-    "descricao": "Vídeo selecionado pelo editor. Título, artista, duração e categoria definitiva aguardam verificação; reprodução incorporada sujeita às permissões do YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Clipe musical curto, reclassificado conforme revisão visual do editor. Título e artista ainda precisam ser identificados.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=4Ubcv1JjtO4",
     "fonte": "https://www.youtube.com/watch?v=4Ubcv1JjtO4",
-    "verificacao_incorporacao": "pendente",
-    "genero": "Outros"
+    "verificacao_incorporacao": "pendente"
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
-    "categoria": "Shows",
-    "descricao": "Vídeo selecionado pelo editor. Artista, título, duração e categoria definitiva aguardam verificação. Reprodução dentro do portal sujeita às permissões do YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Clipe musical curto, reclassificado conforme revisão visual do editor. Título e artista ainda precisam ser identificados.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=sRc1Fh0y3ZI",
     "fonte": "https://www.youtube.com/watch?v=sRc1Fh0y3ZI",
-    "verificacao_incorporacao": "pendente",
-    "genero": "Outros"
+    "verificacao_incorporacao": "pendente"
   },
   {
     "titulo": "Vídeo enviado pela curadoria — identificação pendente",
@@ -844,13 +841,12 @@
   },
   {
     "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
-    "categoria": "Shows",
-    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Clipe musical curto, reclassificado conforme revisão visual do editor. Título e artista ainda precisam ser identificados.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=J3Sx0cqB8qo",
     "fonte": "https://www.youtube.com/watch?v=J3Sx0cqB8qo",
-    "verificacao_incorporacao": "pendente",
-    "genero": "Outros"
+    "verificacao_incorporacao": "pendente"
   },
   {
     "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
@@ -859,16 +855,6 @@
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=9DFnCUK81Tg",
     "fonte": "https://www.youtube.com/watch?v=9DFnCUK81Tg",
-    "verificacao_incorporacao": "pendente",
-    "genero": "Outros"
-  },
-  {
-    "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
-    "categoria": "Shows",
-    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube. Selecionado para Shows; duração e classificação musical ainda não verificadas.",
-    "tipo": "youtube",
-    "url": "https://www.youtube.com/watch?v=KseuUm8iiUo",
-    "fonte": "https://www.youtube.com/watch?v=KseuUm8iiUo",
     "verificacao_incorporacao": "pendente",
     "genero": "Outros"
   },
