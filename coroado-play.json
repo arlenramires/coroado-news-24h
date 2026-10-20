@@ -1575,5 +1575,15 @@
     "url": "https://www.youtube.com/watch?v=fAgDZGdhQZw",
     "fonte": "https://www.youtube.com/watch?v=fAgDZGdhQZw",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Anime enviado pela curadoria — título a confirmar",
+    "categoria": "Animes",
+    "genero": "Outros",
+    "descricao": "Anime indicado pela curadoria. Título, conteúdo e disponibilidade de incorporação ainda não verificados.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=6wga7A3x_nw",
+    "fonte": "https://www.youtube.com/watch?v=6wga7A3x_nw",
+    "verificacao_incorporacao": "pendente"
   }
 ]
