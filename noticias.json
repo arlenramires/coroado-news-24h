@@ -1,5 +1,32 @@
 [
   {
+    "id": 71,
+    "categoria": "Política",
+    "titulo": "Ato de Flávio Bolsonaro reúne multidão na Ponta Negra; organização estima 150 mil participantes",
+    "resumo": "Mobilização do 'Bloquinho do 22' em Manaus teve trio elétrico, discursos, congestionamentos e imagens de apoiadores na orla. Estimativa de 150 mil pessoas foi divulgada pelos organizadores, sem contagem independente.",
+    "corpo": [
+      "A orla da Ponta Negra, na zona oeste de Manaus, recebeu na noite de segunda-feira (19) o ato eleitoral chamado 'Bloquinho do 22', com participação de Flávio Bolsonaro (PL), Nikolas Ferreira (PL-MG), Professora Maria do Carmo (PL) e outras lideranças políticas. A concentração reuniu apoiadores vestidos de verde e amarelo, com bandeiras e materiais de campanha.",
+      "Segundo estimativa divulgada pela organização do evento e reproduzida pela imprensa local, cerca de 150 mil pessoas participaram da mobilização. O número é uma estimativa dos organizadores: não foi apresentada contagem independente ou confirmação oficial desse total. As imagens divulgadas mostram grande concentração de público, mas não permitem determinar, por si só, o número exato de presentes.",
+      "A programação teve concentração na Praça dos Cocos e deslocamento de trio elétrico pela orla, em direção ao Tropical Hotel. Registros divulgados pela imprensa mostram a movimentação do público e um momento em que participantes levantaram celulares com lanternas acesas.",
+      "O movimento também alterou a circulação de veículos na zona oeste. Segundo a cobertura do jornal A Crítica, as avenidas Coronel Teixeira e do Turismo registraram congestionamentos superiores a um quilômetro durante a mobilização. A informação descreve os reflexos do ato no trânsito, sem estabelecer a quantidade de pessoas presentes.",
+      "Nos discursos, Flávio Bolsonaro apresentou compromissos de campanha ligados ao Amazonas, incluindo combate às queimadas, BR-319 e Zona Franca de Manaus. As falas foram propostas eleitorais, e não anúncios de medidas já executadas. O tema das queimadas ganhou relevância diante da fumaça que vem afetando a qualidade do ar e a rotina escolar na capital.",
+      "A mobilização ocorreu na reta final da campanha para o segundo turno das eleições de 2026, marcado para 25 de outubro. Vídeos do ato circularam nas redes sociais e foram publicados em reportagens locais. O Coroado News 24h registra os fatos e as declarações atribuídas aos participantes, sem endossar candidaturas ou estimativas não verificadas."
+    ],
+    "fonte": "Redação Coroado News 24h — apuração a partir de coberturas locais",
+    "fonteUrl": "https://imediato.ncnews.com.br/2026/10/19/veja-video-presenca-de-flavio-bolsonaro-deixa-ponta-negra-lotada-durante-ato-politico-em-manaus/",
+    "fontesComplementares": [
+      "https://www.cm7brasil.com/amazonas/manaus/imagens-de-multidao-e-mar-de-luzes-no-bloquinho-do-22-em-manaus-repercutem-pelo-brasil-veja-videos/",
+      "https://www.portaldoholanda.com.br/amazonas/imagens-aereas-mostram-ponta-negra-lotada-de-apoiadores-de-flavio-bolsonaro"
+    ],
+    "destaque": true,
+    "data": "20/10/2026",
+    "url": "noticia.html?id=71",
+    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagemFallback": "assets/noticia-ilustrativa.svg",
+    "imagemLegenda": "Ato político realizado na Ponta Negra, em Manaus, em 19 de outubro de 2026. Imagem ilustrativa.",
+    "imagemCredito": "Ilustração do portal; fotos e vídeos de terceiros não reproduzidos sem autorização"
+  },
+  {
     "id": 70,
     "categoria": "Polícia",
     "titulo": "Polícia investiga morte de grávida em Cachoeiro de Itapemirim, no Espírito Santo",
