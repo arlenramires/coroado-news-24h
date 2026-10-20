@@ -22,24 +22,36 @@
   },
   {
     "categoria": "Manaus",
-    "titulo": "Sargento Loiola assume Secretaria Municipal de Segurança Pública de Manaus",
-    "resumo": "Moisés Loiola de Souza foi anunciado para comandar a Semseg, responsável por ações municipais de segurança e defesa social.",
+    "titulo": "Após não se eleger deputado estadual, sargento Loiola assume Segurança Pública de Manaus; veja vídeo",
+    "resumo": "Nomeado por Renato Junior, Moisés Loiola de Souza assume a Semseg em 20 de outubro. O policial obteve 16.763 votos na disputa pela Assembleia Legislativa do Amazonas.",
     "corpo": [
-      "A Prefeitura de Manaus anunciou mudança no comando da Secretaria Municipal de Segurança Pública e Defesa Social (Semseg). Moisés Loiola de Souza, conhecido como Sargento Loiola, foi nomeado para assumir a pasta, com início previsto para 20 de outubro de 2026, segundo a cobertura da imprensa local.",
-      "A secretaria integra a estrutura responsável pela articulação de iniciativas municipais voltadas à segurança e à defesa social. A mudança de titular chama atenção para a continuidade dos projetos e para as prioridades que serão apresentadas pela nova administração.",
-      "Entre os temas que devem ser acompanhados estão as ações de prevenção, a atuação da Guarda Municipal e a coordenação com outras instituições de segurança. Essas áreas afetam diretamente o cotidiano de moradores de diferentes bairros da capital.",
-      "A nomeação, por si só, não representa anúncio de aumento de efetivo, novas operações ou mudança de programas. Eventuais medidas dependerão de comunicados e atos oficiais da gestão municipal."
+      "O prefeito de Manaus, Renato Junior (Avante), nomeou o sargento Moisés Loiola de Souza, conhecido como Sargento Loiola, para comandar a Secretaria Municipal de Segurança Pública e Defesa Social (Semseg). O decreto foi publicado no Diário Oficial do Município na segunda-feira (19), com efeitos a partir desta terça-feira (20).",
+      "A nomeação ocorre após Loiola disputar uma vaga de deputado estadual pelo Podemos nas eleições de 2026. Ele recebeu 16.763 votos, mas não conquistou uma cadeira na Assembleia Legislativa do Amazonas (Aleam), ficando na suplência.",
+      "Com a mudança, Alberto de Siqueira Santos Barbosa Neto deixa o comando da Semseg e passa a ocupar a função de subsecretário. A reorganização foi formalizada por atos administrativos municipais.",
+      "Conhecido por divulgar vídeos da rotina policial, abordagens e operações, Loiola tem passagem pela Rondas Ostensivas Cândido Mariano (Rocam). Em vídeo publicado nas redes sociais e incorporado à cobertura do Portal Tucumã, o novo secretário afirmou que pretende aproveitar sua experiência de 18 anos de trabalho nas ruas na condução da pasta.",
+      "A Semseg coordena políticas municipais de segurança e defesa social, incluindo iniciativas de prevenção e a atuação da Guarda Municipal. As declarações do novo titular sobre os resultados esperados são compromissos anunciados, não medidas já comprovadamente implementadas."
     ],
-    "fonteUrl": "https://portaldoholanda.com.br/",
+    "fonteUrl": "https://radaramazonico.com.br/apos-nao-se-eleger-deputado-estadual-loiola-e-nomeado-por-renato-jr-para-assumir-a-secretaria-municipal-de-seguranca/",
     "imagemLegenda": "Imagem ilustrativa sobre segurança pública municipal.",
     "id": 74,
-    "fonte": "Redação Coroado News 24h — informações de cobertura jornalística e comunicados públicos",
+    "fonte": "Redação Coroado News 24h — informações do Radar Amazônico, Diário Oficial e imprensa local",
     "data": "20/10/2026",
     "url": "noticia.html?id=74",
     "destaque": false,
     "imagem": "assets/noticia-ilustrativa.svg",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemCredito": "Ilustração do portal"
+    "imagemCredito": "Ilustração do portal",
+    "fontesComplementares": [
+      "https://portaltucuma.com.br/prefeito-renato-junior-nomeia-sargento-loiola-para-comandar-seguranca-publica-de-manaus/",
+      "https://emtempo.com.br/610297/amazonas/renato-junior-nomeia-moises-loiola-seguranca-manaus/"
+    ],
+    "videos": [
+      {
+        "tipo": "instagram",
+        "url": "https://www.instagram.com/reel/Det9xyOjgS6/",
+        "legenda": "Vídeo com pronunciamento de Sargento Loiola, divulgado nas redes sociais e incorporado pelo Portal Tucumã. Reprodução sujeita à disponibilidade do Instagram."
+      }
+    ]
   },
   {
     "categoria": "Manaus",
