@@ -128,9 +128,10 @@
   {
     "titulo": "TV Cultura — programação ao vivo",
     "categoria": "TV ao Vivo",
-    "descricao": "Acesse a transmissão oficial da TV Cultura. Não incorporado.",
-    "tipo": "link",
-    "url": "https://cultura.uol.com.br/aovivo/"
+    "descricao": "Player de incorporação disponibilizado pela própria TV Cultura; funcionamento no portal sujeito a teste.",
+    "tipo": "iframe",
+    "url": "https://culturaplay.tvcultura.com.br/channels/14/embed",
+    "incorporacao_autorizada": true
   },
   {
     "titulo": "Metrópoles TV — canal oficial",
@@ -425,5 +426,40 @@
     "descricao": "Destaque de paradas globais em outubro de 2026. Localize o clipe ou visualizer oficial; incorporação não verificada.",
     "tipo": "link",
     "url": "https://www.youtube.com/results?search_query=SaWaDiKa%20LISA%20official%20music%20video"
+  },
+  {
+    "titulo": "Difusora 96,9 FM — Manaus",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Ouça na página oficial da emissora. Reprodução interna ainda não validada.",
+    "tipo": "link",
+    "url": "https://www.difusora24h.com/"
+  },
+  {
+    "titulo": "CBN Amazônia 101,5 FM — Manaus",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Ouça na página oficial da emissora. Reprodução interna ainda não validada.",
+    "tipo": "link",
+    "url": "https://cbnamazonia.com/"
+  },
+  {
+    "titulo": "Liga FM 95,1 — Manaus",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Ouça na página oficial da emissora. Reprodução interna ainda não validada.",
+    "tipo": "link",
+    "url": "https://manaus.ligafm.com.br/"
+  },
+  {
+    "titulo": "BandNews Difusora 93,7 FM — Manaus",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Ouça na página oficial da emissora. Reprodução interna ainda não validada.",
+    "tipo": "link",
+    "url": "https://www.bandnewsdifusora.com.br/"
+  },
+  {
+    "titulo": "Rádio Câmara Manaus 105,5 FM",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Ouça na página oficial da emissora. Reprodução interna ainda não validada.",
+    "tipo": "link",
+    "url": "https://www.cmm.am.gov.br/radio-camara/"
   }
 ]
