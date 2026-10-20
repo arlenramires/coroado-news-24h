@@ -170,7 +170,7 @@ body{background:linear-gradient(180deg,#e8f0fb 0,#f4f7fb 460px);color:#10233b}
 .feature-layout{margin-top:6px!important}
 .section-heading{margin-top:0!important}
 @media(max-width:760px){.top-inner>.top-right{height:57px!important;min-height:57px!important}.top-inner>.header-manaus-right{top:57px!important;height:46px!important;min-height:46px!important}.top-inner::before{top:103px!important;inset:103px 0 auto 0!important}.content{padding-top:9px!important}}
-</style><meta property="og:type" content="website"><meta property="og:title" content="Coroado News 24h | Notícias de Manaus e do Amazonas"><meta property="og:description" content="Notícias de Manaus, Amazonas, Brasil e mundo, com indicação de fontes e datas."><meta property="og:image" content="https://static.wixstatic.com/media/a06550_e69282772c70430ca3265931b1de3f92~mv2.png"><meta name="twitter:card" content="summary_large_image"><script id="wix-site-script" src="https://manage.wix.com/_api/headless-business-setup/v1/headless-business/site-script.js" data-client-id="5cc54559-f7a5-4a55-b2e4-afa683b95041" async></script><style id="social-unified-2026">.share-strip{display:flex;flex-wrap:wrap;align-items:center;gap:10px}.share-strip strong{margin-right:8px}.share-strip a.share-social{display:inline-flex;align-items:center;gap:9px;background:#fff;padding:7px 13px;border-radius:7px;color:#123d6c;font-size:13px;font-weight:800}.share-icon{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:#0754a8}.share-instagram .share-icon{background:#be357e}.share-tiktok .share-icon{background:#050505}.share-youtube .share-icon{background:#e72228}.share-icon img{width:18px;height:18px;filter:invert(1)}@media(max-width:650px){.share-strip strong{width:100%}.share-strip a.share-social{flex:1 1 125px;justify-content:center}}</style><script>
+</style><meta property="og:type" content="website"><meta property="og:title" content="Coroado News 24h | Notícias de Manaus e do Amazonas"><meta property="og:description" content="Notícias de Manaus, Amazonas, Brasil e mundo, com indicação de fontes e datas."><meta property="og:image" content="https://static.wixstatic.com/media/a06550_e69282772c70430ca3265931b1de3f92~mv2.png"><meta name="twitter:card" content="summary_large_image"><style id="social-unified-2026">.share-strip{display:flex;flex-wrap:wrap;align-items:center;gap:10px}.share-strip strong{margin-right:8px}.share-strip a.share-social{display:inline-flex;align-items:center;gap:9px;background:#fff;padding:7px 13px;border-radius:7px;color:#123d6c;font-size:13px;font-weight:800}.share-icon{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:#0754a8}.share-instagram .share-icon{background:#be357e}.share-tiktok .share-icon{background:#050505}.share-youtube .share-icon{background:#e72228}.share-icon img{width:18px;height:18px;filter:invert(1)}@media(max-width:650px){.share-strip strong{width:100%}.share-strip a.share-social{flex:1 1 125px;justify-content:center}}</style><script>
 document.addEventListener('DOMContentLoaded',function(){
 const clock=document.getElementById('mobileManausClock'),weather=document.getElementById('mobileManausWeather');
 if(!clock||!weather)return;
@@ -405,12 +405,13 @@ document.addEventListener('click',function(event){const link=event.target.closes
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+function loadChat(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
 s1.src='https://embed.tawk.to/6ad235b60590c834c8497967/1k52i3kol';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+s0.parentNode.insertBefore(s1,s0);}
+if(document.readyState==='complete')setTimeout(loadChat,2500);else window.addEventListener('load',function(){setTimeout(loadChat,2500)},{once:true});
 })();
 </script>
 <!--End of Tawk.to Script-->
