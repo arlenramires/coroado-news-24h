@@ -461,5 +461,47 @@
     "descricao": "Ouça na página oficial da emissora. Reprodução interna ainda não validada.",
     "tipo": "link",
     "url": "https://www.cmm.am.gov.br/radio-camara/"
+  },
+  {
+    "titulo": "Rádio Nacional da Amazônia — ao vivo",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Programação oficial da EBC. Ouça aqui no Coroado Play. Fonte: EBC.",
+    "tipo": "iframe",
+    "url": "https://aovivo.ebc.com.br/embed-audio.html?emissora=radio-nacional-da-amazonia",
+    "incorporacao_autorizada": true,
+    "formato": "audio",
+    "fonte": "https://aovivo.ebc.com.br/"
+  },
+  {
+    "titulo": "Mundo Bita — Fazendinha",
+    "categoria": "Infantil",
+    "descricao": "Clipe infantil do canal oficial Mundo Bita.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=cjONzZPJONc",
+    "fonte": "https://www.mundobita.com.br/"
+  },
+  {
+    "titulo": "Dance com a Galinha — Pai Francisco",
+    "categoria": "Infantil",
+    "descricao": "Vídeo do canal oficial Galinha Pintadinha Mini, indicado no site da marca.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=I6Qv3Nn1a4E",
+    "fonte": "https://www.galinhapintadinha.com.br/videos/"
+  },
+  {
+    "titulo": "Dance com a Galinha — Mamama Papapa",
+    "categoria": "Infantil",
+    "descricao": "Música e dança do canal oficial Galinha Pintadinha Mini.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=OLyQA_z0YLU",
+    "fonte": "https://www.galinhapintadinha.com.br/videos/"
+  },
+  {
+    "titulo": "Galinha Pintadinha — Tema do Temível Gavião",
+    "categoria": "Infantil",
+    "descricao": "Canção oficial de Galinha Pintadinha — O Filme. Este vídeo é uma música, não o filme completo.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=sdsFVZ8TfJI",
+    "fonte": "https://www.galinhapintadinha.com.br/videos/"
   }
 ]
