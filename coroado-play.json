@@ -850,5 +850,41 @@
     "url": "https://www.youtube.com/watch?v=zm3CBQTOPPc",
     "fonte": "https://www.youtube.com/watch?v=zm3CBQTOPPc",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=J3Sx0cqB8qo",
+    "fonte": "https://www.youtube.com/watch?v=J3Sx0cqB8qo",
+    "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=9DFnCUK81Tg",
+    "fonte": "https://www.youtube.com/watch?v=9DFnCUK81Tg",
+    "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Vídeo selecionado pela curadoria — identificação pendente",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Vídeo enviado pelo editor. Título, duração, artista e categoria definitiva ainda não verificados. Reprodução interna sujeita à incorporação autorizada pelo YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=KseuUm8iiUo",
+    "fonte": "https://www.youtube.com/watch?v=KseuUm8iiUo",
+    "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Playlist enviada pela curadoria — identificação pendente",
+    "categoria": "Clipes & Lançamentos",
+    "descricao": "Playlist do YouTube selecionada pelo editor; vídeos e permissões ainda não conferidos. Reprodução no portal sujeita à autorização de incorporação.",
+    "tipo": "playlist",
+    "url": "https://www.youtube.com/playlist?list=PLTRU2u_bXJop09AO6Oj_ZcHq8O1HSNLIT",
+    "fonte": "https://www.youtube.com/playlist?list=PLTRU2u_bXJop09AO6Oj_ZcHq8O1HSNLIT",
+    "verificacao_incorporacao": "pendente"
   }
 ]
