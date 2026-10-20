@@ -709,12 +709,13 @@
   {
     "titulo": "O Acerto — filme completo dublado",
     "categoria": "Filmes",
-    "descricao": "Filme de ação do canal verificado NetMovies. Dublado em português. Reprodução sujeita às restrições regionais do YouTube.",
+    "descricao": "Filme de ação dublado em português, disponibilizado pelo canal NetMovies. Reprodução configurada para começar aos 2 minutos, pulando a abertura promocional; ponto exato ainda precisa ser conferido.",
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=Fnb7h0bi46w",
     "fonte": "https://www.youtube.com/watch?v=Fnb7h0bi46w",
     "restricao_regional": true,
-    "verificacao_reproducao": "pendente_em_navegador_no_brasil"
+    "verificacao_reproducao": "pendente_em_navegador_no_brasil",
+    "inicio_segundos": 120
   },
   {
     "titulo": "Vingança — filme completo dublado",
