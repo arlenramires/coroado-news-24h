@@ -795,5 +795,15 @@
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=39im71Smtjg",
     "fonte": "https://www.youtube.com/watch?v=39im71Smtjg"
+  },
+  {
+    "titulo": "BTS — vídeo enviado pela curadoria (verificar show completo)",
+    "categoria": "Shows",
+    "genero": "K-pop",
+    "descricao": "Vídeo selecionado para Shows / K-pop. Duração e natureza de show completo ainda não confirmadas; incorporação sujeita à permissão do YouTube.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=7F5wSfx-Lm0",
+    "fonte": "https://www.youtube.com/watch?v=7F5wSfx-Lm0",
+    "verificacao_incorporacao": "pendente"
   }
 ]
