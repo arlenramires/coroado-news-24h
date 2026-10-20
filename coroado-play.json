@@ -885,5 +885,15 @@
     "url": "https://www.youtube.com/watch?v=FE2bH6xptRw",
     "fonte": "https://www.youtube.com/watch?v=FE2bH6xptRw",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Show enviado pela curadoria — identificação pendente",
+    "categoria": "Shows",
+    "genero": "Outros",
+    "descricao": "Vídeo indicado pelo editor para Shows. Título, artista, duração e permissão de incorporação ainda não confirmados.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/watch?v=mP9DwVnh4iI",
+    "fonte": "https://www.youtube.com/watch?v=mP9DwVnh4iI",
+    "verificacao_incorporacao": "pendente"
   }
 ]
