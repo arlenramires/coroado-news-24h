@@ -503,5 +503,65 @@
     "tipo": "youtube",
     "url": "https://www.youtube.com/watch?v=sdsFVZ8TfJI",
     "fonte": "https://www.galinhapintadinha.com.br/videos/"
+  },
+  {
+    "titulo": "Rádio Nacional FM Brasília — ao vivo",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Programação oficial da EBC. Ouça aqui no Coroado Play. Fonte: EBC.",
+    "tipo": "iframe",
+    "url": "https://aovivo.ebc.com.br/embed-audio.html?emissora=radio-nacional-fm-brasilia",
+    "incorporacao_autorizada": true,
+    "formato": "audio",
+    "fonte": "https://aovivo.ebc.com.br/"
+  },
+  {
+    "titulo": "Rádio Nacional do Alto Solimões — ao vivo",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Programação oficial da EBC. Ouça aqui no Coroado Play. Fonte: EBC.",
+    "tipo": "iframe",
+    "url": "https://aovivo.ebc.com.br/embed-audio.html?emissora=radio-nacional-do-alto-solimoes",
+    "incorporacao_autorizada": true,
+    "formato": "audio",
+    "fonte": "https://aovivo.ebc.com.br/"
+  },
+  {
+    "titulo": "Rádio MEC AM — Rio de Janeiro — ao vivo",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Programação oficial da EBC. Ouça aqui no Coroado Play. Fonte: EBC.",
+    "tipo": "iframe",
+    "url": "https://aovivo.ebc.com.br/embed-audio.html?emissora=radio-mec-am---rio-de-janeiro",
+    "incorporacao_autorizada": true,
+    "formato": "audio",
+    "fonte": "https://aovivo.ebc.com.br/"
+  },
+  {
+    "titulo": "Rádio MEC FM — Rio de Janeiro — ao vivo",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Programação oficial da EBC. Ouça aqui no Coroado Play. Fonte: EBC.",
+    "tipo": "iframe",
+    "url": "https://aovivo.ebc.com.br/embed-audio.html?emissora=radio-mec-fm---rio-de-janeiro",
+    "incorporacao_autorizada": true,
+    "formato": "audio",
+    "fonte": "https://aovivo.ebc.com.br/"
+  },
+  {
+    "titulo": "Rádio Nacional de Brasília — ao vivo",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Programação oficial da EBC. Ouça aqui no Coroado Play. Fonte: EBC.",
+    "tipo": "iframe",
+    "url": "https://aovivo.ebc.com.br/embed-audio.html?emissora=radio-nacional-de-brasilia",
+    "incorporacao_autorizada": true,
+    "formato": "audio",
+    "fonte": "https://aovivo.ebc.com.br/"
+  },
+  {
+    "titulo": "Rádio Nacional do Rio de Janeiro — ao vivo",
+    "categoria": "Rádios ao Vivo",
+    "descricao": "Programação oficial da EBC. Ouça aqui no Coroado Play. Fonte: EBC.",
+    "tipo": "iframe",
+    "url": "https://aovivo.ebc.com.br/embed-audio.html?emissora=radio-nacional-do-rio-de-janeiro",
+    "incorporacao_autorizada": true,
+    "formato": "audio",
+    "fonte": "https://aovivo.ebc.com.br/"
   }
 ]
