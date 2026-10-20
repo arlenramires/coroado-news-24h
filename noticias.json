@@ -15,10 +15,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=70",
-    "imagem": "assets/noticia-70-original-20261019.png",
+    "imagem": "assets/noticia-70-foto-cortada.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Registro enviado à redação para a matéria sobre Juliana Paulo Pinto.",
-    "imagemCredito": "Reprodução / captura enviada à redação"
+    "imagemLegenda": "Juliana Paulo Pinto.",
+    "imagemCredito": "Reprodução / imagem enviada à redação"
   },
   {
     "id": 69,
@@ -37,10 +37,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=69",
-    "imagem": "assets/noticia-69-original-20261019.png",
+    "imagem": "assets/noticia-69-foto-cortada.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Registro enviado à redação sobre a vitória do Flamengo diante do Bahia.",
-    "imagemCredito": "Reprodução / captura enviada à redação",
+    "imagemLegenda": "Flamengo venceu o Bahia por 3 a 0.",
+    "imagemCredito": "Reprodução / imagem enviada à redação",
     "fonteUrl": "https://www.flamengo.com.br/noticias/futebol/flamengo-vence-o-bahia-por-3-a-0-na-fonte-nova-e-segue-na-lideranca-do-brasileirao"
   },
   {
@@ -60,10 +60,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=68",
-    "imagem": "assets/noticia-68-original-20261019.png",
+    "imagem": "assets/noticia-68-foto-cortada.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
     "imagemLegenda": "Registro enviado à redação sobre a vistoria após o debate na Band.",
-    "imagemCredito": "Reprodução / captura enviada à redação"
+    "imagemCredito": "Reprodução / imagem enviada à redação"
   },
   {
     "id": 67,
@@ -81,10 +81,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=67",
-    "imagem": "assets/noticia-67-original-20261019.png",
+    "imagem": "assets/noticia-67-foto-cortada.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Registro enviado à redação sobre o acidente na avenida Margarita.",
-    "imagemCredito": "Reprodução / captura enviada à redação"
+    "imagemLegenda": "Carro e motocicleta danificados após acidente na avenida Margarita, em Manaus.",
+    "imagemCredito": "Reprodução / imagem enviada à redação"
   },
   {
     "id": 66,
@@ -105,10 +105,10 @@
     "fonte": "Redação Coroado News 24h, com informações do CM7 Brasil",
     "data": "19/10/2026",
     "url": "noticia.html?id=66",
-    "imagem": "assets/noticia-66-original-20261019.png",
+    "imagem": "assets/noticia-66-foto-cortada.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Registro enviado à redação da discussão em frente a um bar na Zona Leste.",
-    "imagemCredito": "Reprodução / captura enviada à redação",
+    "imagemLegenda": "Imagens da discussão em frente a um estabelecimento na Zona Leste de Manaus.",
+    "imagemCredito": "Reprodução / imagem enviada à redação",
     "fonteUrl": "https://www.cm7brasil.com/amazonas/manaus/nao-queria-as-blindadas-mulheres-tomam-fora-em-bar-surtam-de-odio-e-fazem-barraco-na-zl-veja-videos/",
     "videos": [
       {
