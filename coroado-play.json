@@ -1615,5 +1615,15 @@
     "url": "https://www.youtube.com/watch?v=f83ODFTH5Mk",
     "fonte": "https://www.youtube.com/watch?v=f83ODFTH5Mk",
     "verificacao_incorporacao": "pendente"
+  },
+  {
+    "titulo": "Novela — playlist enviada pela curadoria (título a confirmar)",
+    "categoria": "Novelas",
+    "genero": "Outros",
+    "descricao": "Playlist de novela enviada pela curadoria. Título, episódios e permissão de incorporação ainda não verificados.",
+    "tipo": "youtube",
+    "url": "https://www.youtube.com/playlist?list=PLTL7jd0dmN5sLKVoia3SzP5hWhqa04Lkq",
+    "fonte": "https://www.youtube.com/playlist?list=PLTL7jd0dmN5sLKVoia3SzP5hWhqa04Lkq",
+    "verificacao_incorporacao": "pendente"
   }
 ]
