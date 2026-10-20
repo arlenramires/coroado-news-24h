@@ -15,10 +15,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=70",
-    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagem": "assets/noticia-70-original-20261019.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h; não retrata a ocorrência.",
-    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência."
+    "imagemLegenda": "Registro enviado à redação para a matéria sobre Juliana Paulo Pinto.",
+    "imagemCredito": "Reprodução / captura enviada à redação"
   },
   {
     "id": 69,
@@ -37,10 +37,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=69",
-    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagem": "assets/noticia-69-original-20261019.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h",
-    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência.",
+    "imagemLegenda": "Registro enviado à redação sobre a vitória do Flamengo diante do Bahia.",
+    "imagemCredito": "Reprodução / captura enviada à redação",
     "fonteUrl": "https://www.flamengo.com.br/noticias/futebol/flamengo-vence-o-bahia-por-3-a-0-na-fonte-nova-e-segue-na-lideranca-do-brasileirao"
   },
   {
@@ -60,10 +60,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=68",
-    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagem": "assets/noticia-68-original-20261019.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Imagem ilustrativa do Coroado News 24h; não retrata a ocorrência.",
-    "imagemCredito": "Ilustração do Coroado News 24h; não é fotografia da ocorrência."
+    "imagemLegenda": "Registro enviado à redação sobre a vistoria após o debate na Band.",
+    "imagemCredito": "Reprodução / captura enviada à redação"
   },
   {
     "id": 67,
@@ -81,10 +81,10 @@
     "destaque": true,
     "data": "19/10/2026",
     "url": "noticia.html?id=67",
-    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagem": "assets/noticia-67-original-20261019.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Carro e motocicleta danificados após acidente na avenida Margarita, em Manaus",
-    "imagemCredito": "Imagem enviada à redação"
+    "imagemLegenda": "Registro enviado à redação sobre o acidente na avenida Margarita.",
+    "imagemCredito": "Reprodução / captura enviada à redação"
   },
   {
     "id": 66,
@@ -105,11 +105,23 @@
     "fonte": "Redação Coroado News 24h, com informações do CM7 Brasil",
     "data": "19/10/2026",
     "url": "noticia.html?id=66",
-    "imagem": "assets/noticia-ilustrativa.svg",
+    "imagem": "assets/noticia-66-original-20261019.png",
     "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemLegenda": "Imagens mostram discussão em frente a estabelecimento na Zona Leste de Manaus.",
-    "imagemCredito": "Imagem ilustrativa; não representa registro da ocorrência.",
-    "fonteUrl": "https://www.cm7brasil.com/amazonas/manaus/nao-queria-as-blindadas-mulheres-tomam-fora-em-bar-surtam-de-odio-e-fazem-barraco-na-zl-veja-videos/"
+    "imagemLegenda": "Registro enviado à redação da discussão em frente a um bar na Zona Leste.",
+    "imagemCredito": "Reprodução / captura enviada à redação",
+    "fonteUrl": "https://www.cm7brasil.com/amazonas/manaus/nao-queria-as-blindadas-mulheres-tomam-fora-em-bar-surtam-de-odio-e-fazem-barraco-na-zl-veja-videos/",
+    "videos": [
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/19095600/SaveClip.App_AQOqzNi9upCN6OtrbPL1vBvOW6Oaqt6K3O-qhKNPotVqLw7vLTdhNbB9bjCO968-gBrb_H6LxToMAwBlSdyu4ch_98524zhVy1Lc_Y.mp4",
+        "legenda": "Vídeo 1 — Reprodução da publicação original."
+      },
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/19095547/SaveClip.App_AQOG7FE0zRRNGEwPSs24gF77O51n57HIOESlO7N07_62GoUEZXOM2vd77k9O4hQ2hGHc4debRaVTiw1bXsnlqzrhHOLEJZyMM88TzNg.mp4",
+        "legenda": "Vídeo 2 — Reprodução da publicação original."
+      }
+    ]
   },
   {
     "id": 64,
