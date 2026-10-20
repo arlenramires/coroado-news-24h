@@ -81,24 +81,26 @@
   },
   {
     "categoria": "Manaus",
-    "titulo": "Jender Lobato retorna ao comando da Manauscult em mudança na gestão municipal",
-    "resumo": "Mudança na Fundação Municipal de Cultura, Turismo e Eventos recoloca Jender Lobato na presidência e abre nova etapa para a política cultural de Manaus.",
+    "titulo": "Renato Junior nomeia Jender Lobato para presidir a Manauscult; Márcio Braz assume vice-presidência",
+    "resumo": "Decretos publicados em 16 de outubro oficializam o retorno de Jender Lobato à Manauscult a partir do dia 19. O gestor havia deixado a fundação em abril; Márcio Braz permanece na direção como vice-presidente.",
     "corpo": [
-      "A administração municipal de Manaus promoveu uma mudança na direção da Fundação Municipal de Cultura, Turismo e Eventos (Manauscult). Jender Lobato voltou ao comando do órgão, conforme informações divulgadas na imprensa local sobre atos administrativos de 16 de outubro de 2026.",
-      "A alteração envolve a estrutura responsável pelo planejamento e execução de políticas de cultura, turismo e eventos da capital. A Manauscult participa de iniciativas que movimentam artistas, produtores, trabalhadores do setor cultural e empreendedores ligados ao turismo.",
-      "Segundo a cobertura publicada, Márcio Braz passa a ocupar a vice-presidência. A mudança de comando desperta atenção sobre a continuidade do calendário de eventos, a execução de projetos em andamento e as prioridades administrativas da fundação.",
-      "Até a publicação desta reportagem, não há confirmação de um novo calendário ou de mudanças específicas nos contratos e projetos decorrentes da nomeação. Os próximos atos oficiais e anúncios da Manauscult deverão esclarecer as diretrizes da nova gestão."
+      "O prefeito de Manaus, Renato Junior, nomeou o advogado Jender Lobato para voltar à presidência da Fundação Municipal de Cultura, Turismo e Eventos (Manauscult). A mudança foi formalizada em decretos publicados no Diário Oficial do Município na sexta-feira (16 de outubro de 2026), com efeitos a partir de segunda-feira (19). Márcio Braz, que dirigia o órgão desde abril, passa a ocupar a vice-presidência.",
+      "O retorno ocorre cerca de seis meses depois da saída de Jender da fundação. Ele estava à frente da Manauscult desde junho de 2024 e deixou a função em abril de 2026 para cumprir as exigências de desincompatibilização eleitoral. Na ocasião, Márcio Braz, até então diretor de Turismo, assumiu a presidência da instituição.",
+      "Ao anunciar a nova composição, Renato Junior afirmou que pretende aproveitar a experiência dos dois gestores para dar continuidade às ações culturais, turísticas e aos grandes eventos de Manaus. Entre os objetivos apresentados pela prefeitura estão a valorização dos artistas locais, a preservação das tradições e a ampliação do acesso da população à programação cultural. Essas são prioridades anunciadas pela gestão e não resultados já alcançados com a mudança.",
+      "Jender Lobato é advogado, com atuação em Direito Público e experiência na administração pública. No cenário cultural amazonense, presidiu o Boi Caprichoso entre 2020 e 2023, período em que a agremiação conquistou os títulos do Festival Folclórico de Parintins em 2022 e 2023. Sua trajetória reúne atividades jurídicas, gestão de projetos e atuação em instituições culturais.",
+      "Márcio Braz possui trajetória de mais de duas décadas na área cultural. É formado em Ciências Sociais pela Universidade Federal do Amazonas e mestre em Ciências Humanas pela Universidade do Estado do Amazonas. Além da gestão pública, tem experiência como produtor cultural, artista e integrante de espaços de formulação de políticas para o setor.",
+      "A Manauscult é responsável por ações da Prefeitura de Manaus relacionadas à cultura, ao turismo e à realização de eventos. Entre os desafios da nova direção estão a continuidade dos projetos em execução, o relacionamento com artistas e produtores locais e o planejamento da agenda cultural da cidade. Até a divulgação das nomeações, não havia sido apresentado um novo calendário específico de ações decorrente da troca de comando."
     ],
-    "fonteUrl": "https://canal92am.com.br/",
-    "imagemLegenda": "Imagem ilustrativa sobre administração cultural de Manaus.",
+    "fonteUrl": "https://portaldoamazonas.com/renato-junior-anuncia-retorno-de-jender-lobato-ao-comando-da-manauscult-marcio-braz-assume-vice/",
+    "imagemLegenda": "Renato Junior e Jender Lobato em fotografia enviada à redação.",
     "id": 72,
-    "fonte": "Redação Coroado News 24h — informações de cobertura jornalística e comunicados públicos",
+    "fonte": "Redação Coroado News 24h — informações da Prefeitura de Manaus e cobertura local",
     "data": "20/10/2026",
     "url": "noticia.html?id=72",
     "destaque": false,
-    "imagem": "assets/noticia-ilustrativa.svg",
-    "imagemFallback": "assets/noticia-ilustrativa.svg",
-    "imagemCredito": "Ilustração do portal"
+    "imagem": "https://static.wixstatic.com/media/a06550_9a53d005300f457ba10af03ead8bdf9c~mv2.jpg",
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_9a53d005300f457ba10af03ead8bdf9c~mv2.jpg",
+    "imagemCredito": "Imagem fornecida à redação"
   },
   {
     "id": 71,
