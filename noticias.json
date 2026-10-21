@@ -76,12 +76,12 @@
     "fonte": "Redação Coroado News 24h — apuração jornalística",
     "fonteUrl": "https://www.cnnbrasil.com.br/pop/musica/bts-no-brasil-produtora-explica-ausencia-de-teloes-laterais-na-estrutura/",
     "data": "21/10/2026",
-    "imagem": "imagens/noticia-90-editorial.svg",
-    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
-    "imagemCredito": "Arte: Coroado News 24h",
+    "imagem": "https://cdn.bilheteriaexpress.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/1782835358-imagem-ingressos-para-transporte-show-bts-world-tour-estadio-do-morumbis-sao-paulo-sp-shows-946412848312730.webp",
+    "imagemLegenda": "BTS na imagem de divulgação da turnê Arirang; não é foto dos bastidores",
+    "imagemCredito": "Divulgação BTS World Tour / Bilheteria Express",
     "destaque": false,
     "url": "noticia.html?id=90",
-    "imagemFallback": "imagens/noticia-90-editorial.svg"
+    "imagemFallback": "https://cdn.bilheteriaexpress.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/1782835358-imagem-ingressos-para-transporte-show-bts-world-tour-estadio-do-morumbis-sao-paulo-sp-shows-946412848312730.webp"
   },
   {
     "id": 89,
@@ -97,12 +97,12 @@
     "fonte": "Redação Coroado News 24h — apuração jornalística",
     "fonteUrl": "https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-45-e-lula-tem-44-no-2o-turno.shtml",
     "data": "21/10/2026",
-    "imagem": "imagens/noticia-89-editorial.svg",
-    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
-    "imagemCredito": "Arte: Coroado News 24h",
+    "imagem": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/09/f9679c1e-flavio-lula.webp",
+    "imagemLegenda": "Flávio Bolsonaro e Lula, candidatos à Presidência (fotografias de arquivo)",
+    "imagemCredito": "Reprodução: Times Brasil/CNBC — fotografias de arquivo",
     "destaque": false,
     "url": "noticia.html?id=89",
-    "imagemFallback": "imagens/noticia-89-editorial.svg"
+    "imagemFallback": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/09/f9679c1e-flavio-lula.webp"
   },
   {
     "id": 85,
