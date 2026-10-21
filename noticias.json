@@ -34,12 +34,12 @@
     "fonte": "Redação Coroado News 24h — apuração jornalística",
     "fonteUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/20/sc-mulher-com-medida-protetiva-aciona-botao-do-panico-e-e-achada-morta.ghtm",
     "data": "21/10/2026",
-    "imagem": "imagens/noticia-92-editorial.svg",
-    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
-    "imagemCredito": "Arte: Coroado News 24h",
+    "imagem": "https://static.wixstatic.com/media/a06550_8ecdab41da854bfb8e4b463ec272ae6a~mv2.jpg",
+    "imagemLegenda": "Fotografia fornecida à redação",
+    "imagemCredito": "Imagem enviada à redação",
     "destaque": false,
     "url": "noticia.html?id=92",
-    "imagemFallback": "imagens/noticia-92-editorial.svg"
+    "imagemFallback": "https://static.wixstatic.com/media/a06550_8ecdab41da854bfb8e4b463ec272ae6a~mv2.jpg"
   },
   {
     "id": 91,
