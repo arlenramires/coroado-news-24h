@@ -13,12 +13,12 @@
     "fonte": "Redação Coroado News 24h — apuração jornalística",
     "fonteUrl": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-expoe-ligacao-de-ze-felipe-com-pedido-inusitado/",
     "data": "21/10/2026",
-    "imagem": "imagens/noticia-93-editorial.svg",
-    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
-    "imagemCredito": "Arte: Coroado News 24h",
+    "imagem": "https://odia.ig.com.br/_midias/jpg/2026/10/21/saveclip_app_861323967_18670337230007563_2739777347346816450_n__1_-39603592.jpg",
+    "imagemLegenda": "Registro da conversa divulgado por Virginia nos Stories",
+    "imagemCredito": "Reprodução/Instagram via O Dia",
     "destaque": false,
     "url": "noticia.html?id=93",
-    "imagemFallback": "imagens/noticia-93-editorial.svg"
+    "imagemFallback": "https://odia.ig.com.br/_midias/jpg/2026/10/21/saveclip_app_861323967_18670337230007563_2739777347346816450_n__1_-39603592.jpg"
   },
   {
     "id": 92,
