@@ -58,12 +58,12 @@
     "fonte": "",
     "fonteUrl": "https://noticias.r7.com/minas-gerais/caso-gerssica-homem-matou-a-esposa-suspendeu-o-corpo-e-divulgou-o-crime-nas-redes-21102026/",
     "data": "21/10/2026",
-    "imagem": "imagens/noticia-91-editorial.svg",
-    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
-    "imagemCredito": "Arte: Coroado News 24h",
+    "imagem": "",
+    "imagemLegenda": "",
+    "imagemCredito": "",
     "destaque": false,
     "url": "noticia.html?id=91",
-    "imagemFallback": "imagens/noticia-91-editorial.svg"
+    "imagemFallback": ""
   },
   {
     "id": 90,
