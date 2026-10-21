@@ -1,5 +1,26 @@
 [
   {
+    "id": 83,
+    "categoria": "Internacional",
+    "titulo": "Influenciadora Malévola Alves é detida no Egito; defesa aciona embaixada brasileira",
+    "resumo": "Brasileira foi detida com uma amiga em Alexandria após divulgação de vídeos; autoridades investigam o caso e defesa acompanha procedimentos legais.",
+    "corpo": [
+      "A influenciadora brasileira Mariana Alves Gadelha Pereira, conhecida nas redes sociais como Malévola Alves, foi detida nesta terça-feira (20) na cidade de Alexandria, no Egito. A prisão ocorreu junto de uma amiga, após a circulação de vídeos gravados em espaços públicos do país.",
+      "O Ministério do Interior egípcio informou que as duas turistas são investigadas por comportamentos registrados nas gravações. Segundo a versão das autoridades, os vídeos mostram gestos de conotação sexual e suposta importunação de pessoas que passavam pelas ruas. O governo afirmou que as mulheres reconheceram ter produzido e divulgado o material para obter visualizações. As alegações ainda estão sob investigação.",
+      "Antes da divulgação do comunicado oficial, Malévola relatou nas redes sociais que policiais interromperam um passeio, recolheram os passaportes e levaram as duas para uma delegacia. Ela também afirmou que recebeu perguntas sobre sua identidade de gênero durante a abordagem.",
+      "A defesa da influenciadora informou que entrou em contato com a Embaixada do Brasil no Cairo e com as autoridades locais. O advogado Jonatha Carvalho Matos declarou que a prioridade é acompanhar os procedimentos, garantir a segurança da brasileira e assegurar o respeito aos seus direitos.",
+      "O caso foi encaminhado à promotoria egípcia. Até a divulgação das informações consultadas, não havia confirmação oficial de libertação, decisão judicial definitiva ou detalhamento das acusações formais. A defesa pediu cautela com informações não verificadas."
+    ],
+    "fonte": "Redação Coroado News 24h",
+    "fonteUrl": "https://sbtnews.sbt.com.br/noticia/mundo/influenciadora-malevola-e-presa-em-alexandria-no-egito",
+    "data": "20/10/2026",
+    "url": "noticia.html?id=83",
+    "destaque": true,
+    "imagem": "https://sbtnews.sbt.com.br/noticia/mundo/influenciadora-malevola-e-presa-em-alexandria-no-egito",
+    "imagemLegenda": "Malévola Alves, influenciadora brasileira detida no Egito",
+    "imagemCredito": "Imagem ilustrativa de referência: SBT News"
+  },
+  {
     "id": 82,
     "categoria": "Esportes",
     "titulo": "Vasco perde por 3 a 1 para o Boca Juniors no Maracanã e é eliminado da Sul-Americana",
