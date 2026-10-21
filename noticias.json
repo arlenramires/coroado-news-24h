@@ -1,5 +1,110 @@
 [
   {
+    "id": 93,
+    "categoria": "Famosos",
+    "titulo": "Virginia mostra print de conversa com Zé Felipe após ligação inesperada sobre foto de perfil",
+    "resumo": "Influenciadora compartilhou nos Stories registro de telefonema de 42 segundos e comentários do ex-marido sobre imagem no Instagram.",
+    "corpo": [
+      "Uma ligação inesperada entre Virginia Fonseca e Zé Felipe virou assunto entre os seguidores nesta quarta-feira (21). A influenciadora contou que o ex-marido entrou em contato para comentar a nova foto de perfil que ela havia escolhido para o Instagram.",
+      "Virginia publicou nos Stories um print de conversa no WhatsApp. O registro exibido por ela indicava uma chamada de 42 segundos, seguida de mensagens sobre a fotografia. A influenciadora demonstrou surpresa com a iniciativa do cantor e tratou a situação com humor.",
+      "A troca rapidamente repercutiu entre fãs que acompanham a relação dos dois após a separação. O episódio, porém, não confirma reconciliação: o conteúdo divulgado mostra apenas uma interação pontual sobre a foto de perfil.",
+      "Os registros foram publicados pela própria Virginia em sua conta, mas o Coroado News 24h não reproduz capturas privadas de mensagens sem verificar as condições de uso. A notícia se limita ao conteúdo que a influenciadora tornou público."
+    ],
+    "fonte": "Redação Coroado News 24h — apuração jornalística",
+    "fonteUrl": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-expoe-ligacao-de-ze-felipe-com-pedido-inusitado/",
+    "data": "21/10/2026",
+    "imagem": "imagens/noticia-93-editorial.svg",
+    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": false,
+    "url": "noticia.html?id=93",
+    "imagemFallback": "imagens/noticia-93-editorial.svg"
+  },
+  {
+    "id": 92,
+    "categoria": "Brasil",
+    "titulo": "Mulher aciona botão do pânico e é encontrada morta em Santa Catarina; ex-marido é preso",
+    "resumo": "Daiana Gisele Müller tinha medida protetiva e havia denunciado ameaças; caso reacende debate sobre proteção a vítimas.",
+    "corpo": [
+      "A morte de Daiana Gisele Müller, de 38 anos, em Ipira, no interior de Santa Catarina, provocou indignação e levantou questionamentos sobre a proteção de mulheres ameaçadas. Ela foi encontrada morta na terça-feira (20), após acionar um dispositivo de emergência conhecido como botão do pânico.",
+      "Daiana havia procurado a polícia em 8 de outubro para denunciar ameaças atribuídas ao ex-marido e solicitar medidas protetivas de urgência. Mesmo com o registro da ocorrência e o mecanismo de alerta, a mulher foi localizada sem vida em um riacho sob uma ponte.",
+      "De acordo com informações policiais divulgadas à imprensa, o ex-marido confessou o crime e foi preso em flagrante. O caso segue sob investigação, com apuração da cronologia do acionamento e das providências adotadas após o alerta.",
+      "A tragédia chama atenção para os limites dos mecanismos de proteção quando a resposta não chega a tempo. Mulheres ameaçadas podem procurar a polícia, acionar o 190 em emergências e buscar orientação pela Central de Atendimento à Mulher, no número 180."
+    ],
+    "fonte": "Redação Coroado News 24h — apuração jornalística",
+    "fonteUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/20/sc-mulher-com-medida-protetiva-aciona-botao-do-panico-e-e-achada-morta.ghtm",
+    "data": "21/10/2026",
+    "imagem": "imagens/noticia-92-editorial.svg",
+    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": false,
+    "url": "noticia.html?id=92",
+    "imagemFallback": "imagens/noticia-92-editorial.svg"
+  },
+  {
+    "id": 91,
+    "categoria": "Polícia",
+    "titulo": "Mulher é morta em Funilândia; suspeito divulgou imagem do corpo e morreu em confronto com a PM",
+    "resumo": "Crime em Minas Gerais terminou com morte do suspeito após confronto; autoridades investigam a sequência dos fatos.",
+    "corpo": [
+      "Um caso de violência contra a mulher chocou moradores de Funilândia, na Região Metropolitana de Belo Horizonte. Uma mulher de 31 anos foi morta, e o homem apontado como autor do crime divulgou uma imagem do corpo em aplicativo de mensagens antes de morrer em confronto com a Polícia Militar.",
+      "Segundo informações divulgadas sobre a ocorrência, o episódio aconteceu na noite de segunda-feira (19). A vítima, identificada em reportagens como Gerssica Vieira, já havia sido acompanhada por uma patrulha de prevenção à violência doméstica.",
+      "Após o homicídio, policiais realizaram buscas pelo suspeito. A Polícia Militar informou que houve confronto durante a abordagem, e o homem morreu. As circunstâncias da ação policial e do assassinato devem ser apuradas pelas autoridades competentes.",
+      "O caso evidencia a gravidade da violência doméstica e a necessidade de respostas rápidas a ameaças. Imagens do corpo da vítima não serão reproduzidas por respeito à família e à dignidade da mulher."
+    ],
+    "fonte": "Redação Coroado News 24h — apuração jornalística",
+    "fonteUrl": "https://www.metropoles.com/minas-gerais/homem-mata-mulher-em-mg-filma-corpo-e-posta-assim-que-vao-lembrar-dela",
+    "data": "21/10/2026",
+    "imagem": "imagens/noticia-91-editorial.svg",
+    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": false,
+    "url": "noticia.html?id=91",
+    "imagemFallback": "imagens/noticia-91-editorial.svg"
+  },
+  {
+    "id": 90,
+    "categoria": "Entretenimento",
+    "titulo": "BTS movimenta MorumBIS: bastidores da megaestrutura e debate sobre telões antes dos shows",
+    "resumo": "Preparação para três apresentações em São Paulo mobiliza equipes; produtora explica formato de quatro painéis de LED.",
+    "corpo": [
+      "O MorumBIS já vive o clima de um dos eventos musicais mais aguardados do ano. Equipes trabalham na montagem da estrutura que receberá o BTS nos dias 28, 30 e 31 de outubro, em São Paulo, em uma operação que envolve palco, áreas técnicas e espaços reservados aos integrantes do grupo sul-coreano.",
+      "A estrutura principal da turnê Arirang contará com quatro painéis de LED dispostos em formato de cubo. Imagens de bastidores divulgadas nesta semana mostram o avanço da montagem e a logística necessária para receber milhares de fãs durante as três apresentações.",
+      "A configuração do palco também virou assunto entre os ARMYs. Parte do público questionou a ausência de telões laterais vistos em outras etapas da turnê. A produtora Live Nation informou que o modelo brasileiro seguirá o mesmo padrão adotado nos demais países da América do Sul e que os setores e mapas previamente anunciados permanecem válidos.",
+      "Além dos shows, a passagem do grupo movimenta o turismo, a rede hoteleira e a programação cultural da capital paulista. Uma loja temporária temática está prevista para abrir em 22 de outubro no MIS Experience, ampliando as atrações para os fãs."
+    ],
+    "fonte": "Redação Coroado News 24h — apuração jornalística",
+    "fonteUrl": "https://www.cnnbrasil.com.br/pop/musica/bts-no-brasil-produtora-explica-ausencia-de-teloes-laterais-na-estrutura/",
+    "data": "21/10/2026",
+    "imagem": "imagens/noticia-90-editorial.svg",
+    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": false,
+    "url": "noticia.html?id=90",
+    "imagemFallback": "imagens/noticia-90-editorial.svg"
+  },
+  {
+    "id": 89,
+    "categoria": "Política",
+    "titulo": "Quaest aponta empate técnico: Flávio Bolsonaro tem 45% e Lula registra 44% na reta final",
+    "resumo": "Pesquisa ouviu 2.154 eleitores e mostra disputa apertada a quatro dias do segundo turno; diferença está dentro da margem de erro.",
+    "corpo": [
+      "A corrida pela Presidência chega aos últimos dias sem uma liderança estatisticamente definida. Pesquisa Quaest divulgada nesta quarta-feira (21) registra 45% das intenções de voto para Flávio Bolsonaro (PL) e 44% para Luiz Inácio Lula da Silva (PT), configurando empate técnico dentro da margem de erro de dois pontos percentuais.",
+      "O levantamento ouviu 2.154 pessoas com 16 anos ou mais entre 17 e 20 de outubro. Brancos e nulos somam 9%, enquanto 2% dos entrevistados se declaram indecisos. A pesquisa está registrada no Tribunal Superior Eleitoral sob o número BR-08535/2026.",
+      "Na comparação com a rodada anterior, Flávio oscilou de 46% para 45%, e Lula permaneceu em 44%. As variações não permitem afirmar mudança consolidada na preferência do eleitorado. O retrato é de uma eleição competitiva em que mobilização e comparecimento às urnas podem fazer diferença.",
+      "O resultado é uma estimativa de intenção de voto, não uma previsão definitiva da apuração. A margem de erro e o intervalo de confiança devem ser considerados ao interpretar os números."
+    ],
+    "fonte": "Redação Coroado News 24h — apuração jornalística",
+    "fonteUrl": "https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-45-e-lula-tem-44-no-2o-turno.shtml",
+    "data": "21/10/2026",
+    "imagem": "imagens/noticia-89-editorial.svg",
+    "imagemLegenda": "Arte editorial original do Coroado News 24h; não é fotografia do acontecimento",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": false,
+    "url": "noticia.html?id=89",
+    "imagemFallback": "imagens/noticia-89-editorial.svg"
+  },
+  {
     "id": 85,
     "categoria": "Polícia",
     "titulo": "Motorista de transporte escolar é preso na Compensa sob suspeita de violência contra adolescente",
