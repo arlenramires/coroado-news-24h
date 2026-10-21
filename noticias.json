@@ -16,9 +16,10 @@
     "data": "20/10/2026",
     "url": "noticia.html?id=83",
     "destaque": true,
-    "imagem": "https://sbtnews.sbt.com.br/noticia/mundo/influenciadora-malevola-e-presa-em-alexandria-no-egito",
-    "imagemLegenda": "Malévola Alves, influenciadora brasileira detida no Egito",
-    "imagemCredito": "Imagem ilustrativa de referência: SBT News"
+    "imagem": "https://images.metroimg.com/2024/04/01114642/capa-1-228.jpg",
+    "imagemLegenda": "Malévola Alves em fotografia de arquivo, anterior à detenção no Egito",
+    "imagemCredito": "Foto de arquivo: reprodução/Instagram, via Metrópoles",
+    "imagemFallback": "https://images.metroimg.com/2024/04/01114642/capa-1-228.jpg"
   },
   {
     "id": 82,
