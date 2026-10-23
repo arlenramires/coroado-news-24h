@@ -1,5 +1,30 @@
 [
   {
+    "id": 100,
+    "categoria": "Entretenimento",
+    "titulo": "5ª ExpoFest de Itacoatiara terá Zé Vaqueiro, Os Menotti e Manu Bahtidão em três noites de shows",
+    "resumo": "Evento de 30 de outubro a 1º de novembro no Centro de Eventos Juracema Holanda reúne atrações nacionais, feira agropecuária, gastronomia, empreendedorismo e esporte.",
+    "data": "23/10/2026",
+    "fonte": "Redação Coroado News 24h — cartaz de divulgação e Prefeitura de Itacoatiara",
+    "fonteUrl": "https://itacoatiara.am.gov.br/2026/10/prefeitura-de-itacoatiara-disponibiliza-links-de-inscricao-para-corridas-da-5a-expofest-2026/",
+    "imagem": "https://static.wixstatic.com/media/a06550_8dbd3106ee8f4f5094c7779c7f172a77~mv2.png",
+    "imagemLegenda": "Cartaz de divulgação da 5ª ExpoFest 2026, com a programação de atrações musicais anunciadas para as três noites.",
+    "imagemCredito": "Divulgação / Prefeitura de Itacoatiara",
+    "destaque": true,
+    "url": "noticia.html?id=100",
+    "corpo": [
+      "Itacoatiara, no interior do Amazonas, se prepara para receber a quinta edição da ExpoFest entre os dias 30 de outubro e 1º de novembro de 2026. O evento será realizado no Centro de Eventos Juracema Holanda e reunirá apresentações musicais, exposição agropecuária, feira de arte e culinária e atividades voltadas ao empreendedorismo.",
+      "O cartaz de divulgação anuncia três atrações nacionais, uma para cada noite. Na sexta-feira, 30 de outubro, a programação musical destaca Zé Vaqueiro, cantor conhecido pelo repertório de piseiro e forró. No sábado, 31, a atração anunciada é a dupla Os Menotti. No domingo, 1º de novembro, Manu Bahtidão encerra a sequência de shows principais.",
+      "A programação musical deve atrair visitantes de Itacoatiara, Manaus e municípios vizinhos. A feira também abre espaço para a exposição agropecuária, produtos do agronegócio, gastronomia, artesanato e pequenos negócios. Os horários específicos dos shows e eventuais regras de acesso devem ser confirmados nos canais oficiais da organização.",
+      "A Prefeitura de Itacoatiara também confirmou uma agenda esportiva associada à quinta ExpoFest. As competições começaram em 22 de outubro e abrangem vôlei de quadra, dominó, queimada, basquete 3x3, vôlei de areia, futebol society, futevôlei, futsal e handebol, além de corridas.",
+      "No domingo, 1º de novembro, a programação esportiva prevê corrida pedestre e corrida ciclística a partir das 6h. Segundo a prefeitura, as inscrições para essas provas ocorreram entre 15 e 20 de outubro. A realização das competições reforça a proposta de reunir lazer, esporte e movimentação econômica no município.",
+      "A ExpoFest busca dar visibilidade aos produtores e empreendedores locais. Em 2025, a prefeitura divulgou que a edição anterior movimentou R$ 12 milhões na economia municipal, número que demonstra a importância econômica atribuída à feira, mas não constitui previsão de resultado para 2026.",
+      "TRANSMISSÃO AO VIVO — Até a apuração desta sexta-feira (23), não foi localizado anúncio oficial que confirme a transmissão integral das três noites da ExpoFest 2026. O Coroado News 24h está verificando a possibilidade de incorporar uma transmissão autorizada, caso a prefeitura ou uma emissora disponibilize sinal público e permita sua reprodução. Não há, neste momento, link de live confirmado para exibição no portal.",
+      "SERVIÇO — 5ª Itacoatiara ExpoFest 2026. Datas: 30 e 31 de outubro e 1º de novembro. Local: Centro de Eventos Juracema Holanda, Itacoatiara (AM). Atrações anunciadas no cartaz: Zé Vaqueiro (sexta-feira), Os Menotti (sábado) e Manu Bahtidão (domingo). Consulte a organização para horários dos shows, acesso e atualizações.",
+      "O Coroado News 24h acompanhará novas informações sobre horários, acesso, cobertura audiovisual e eventual transmissão das apresentações."
+    ]
+  },
+  {
     "categoria": "Esportes",
     "titulo": "Flamengo é eliminado pelo Estudiantes nos pênaltis após empate sem gols no Maracanã",
     "resumo": "Mesmo com um jogador a mais durante quase todo o segundo tempo, Flamengo não marcou; Muslera defendeu três cobranças e levou os argentinos à final.",
