@@ -1,5 +1,29 @@
 [
   {
+    "id": 102,
+    "categoria": "Política",
+    "titulo": "Neymar aparece com Nikolas Ferreira e faz referência ao número 22 na reta final da eleição",
+    "resumo": "Atacante do Santos posou com deputado federal e participou de vídeo com referência ao número eleitoral de Flávio Bolsonaro; publicações repercutiram nas redes sociais.",
+    "imagem": "https://static.wixstatic.com/media/a06550_9cb701be133642ad8b3f53ffb64ab13b~mv2.png",
+    "imagemLegenda": "Neymar e o deputado Nikolas Ferreira aparecem juntos em registro divulgado nas redes sociais nesta sexta-feira (23).",
+    "imagemCredito": "Reprodução de publicação nas redes sociais / Instagram",
+    "data": "23/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=102",
+    "fonte": "Redação Coroado News 24h — apuração de publicações de 23/10/2026",
+    "fonteUrl": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-publica-video-com-neymar-fazendo-referencia-ao-22-de-flavio/",
+    "corpo": [
+      "O atacante Neymar, do Santos, apareceu nesta sexta-feira (23) ao lado do deputado federal Nikolas Ferreira (PL-MG) em publicações nas redes sociais que ganharam repercussão política na reta final do segundo turno das eleições presidenciais. Uma fotografia mostra os dois sorrindo enquanto seguram e apontam para uma camisa amarela com o número 01.",
+      "Além da foto, Nikolas divulgou um vídeo curto em que brinca com a passagem de Neymar pelo Barcelona, quando o jogador usava a camisa 11. Ao perguntar quanto é 11 mais 11, o parlamentar recebe a resposta 22, acompanhada de gestos do atacante. O número é utilizado nas urnas pelo candidato presidencial Flávio Bolsonaro (PL-RJ).",
+      "O vídeo foi apresentado em tom descontraído, com o deputado dizendo que queria falar de futebol, não de política. A associação ao número eleitoral, porém, levou o conteúdo a ser interpretado como manifestação de apoio à candidatura do senador.",
+      "FOTO E CAMISA 01 — Em outra publicação desta sexta-feira, Neymar posou com Nikolas exibindo uma camisa amarela estampada com o número 01. O significado político atribuído ao número por internautas não foi confirmado como anúncio de candidatura do deputado. Não há declaração formal de Neymar ou Nikolas, nos registros examinados, sobre uma eventual candidatura presidencial de Nikolas Ferreira.",
+      "MANIFESTAÇÕES ANTERIORES — Na quinta-feira (22), Neymar havia comentado uma publicação do cantor MC Cabelinho, que criticava Flávio Bolsonaro, com a frase 'Dito isso… 22'. O comentário foi amplamente interpretado como apoio ao candidato do PL. O jogador já havia se manifestado publicamente em favor de Jair Bolsonaro em eleições anteriores.",
+      "REPERCUSSÃO — A aproximação entre uma estrela do futebol e um parlamentar de grande presença digital gerou comentários de apoiadores e críticos. Publicações nas redes sociais não equivalem, por si só, a anúncio de filiação partidária, candidatura ou participação formal em campanha.",
+      "SEGUNDO TURNO — Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) disputam a Presidência no domingo (25 de outubro). O Tribunal Superior Eleitoral estabelece regras específicas para propaganda eleitoral e divulgação de conteúdos na reta final do pleito.",
+      "O Coroado News 24h acompanha os fatos com independência editorial, distinguindo declarações verificadas, interpretações sobre gestos e especulações políticas."
+    ]
+  },
+  {
     "id": 101,
     "categoria": "Política",
     "titulo": "Flávio entrega ao TSE autorização assinada por Jair Bolsonaro para abertura de sigilos",
