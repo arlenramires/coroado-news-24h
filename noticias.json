@@ -1,5 +1,29 @@
 [
   {
+    "id": 101,
+    "categoria": "Política",
+    "titulo": "Flávio entrega ao TSE autorização assinada por Jair Bolsonaro para abertura de sigilos",
+    "resumo": "Documentos abrangem sigilos bancário, fiscal e telefônico de Jair Bolsonaro e familiares; informações ainda não foram divulgadas publicamente.",
+    "data": "23/10/2026",
+    "fonte": "Redação Coroado News 24h — apuração com Agência Brasil, CNN Brasil e Metrópoles",
+    "fonteUrl": "https://www.cnnbrasil.com.br/eleicoes/flavio-e-lula-formalizam-aval-para-quebra-de-sigilos-sem-divulgar-dados/",
+    "imagem": "https://static.wixstatic.com/media/a06550_d0796aec155e4b709a1eb6d62f03e9a0~mv2.png/v1/crop/x_0,y_0,w_577,h_440/fill/w_1000,h_763,al_c,q_85/file.png",
+    "imagemLegenda": "Jair Bolsonaro assina documento em imagem de arquivo. A fotografia não registra a assinatura das autorizações entregues ao TSE em outubro de 2026.",
+    "imagemCredito": "Imagem de arquivo reproduzida para contextualização; crédito original a confirmar",
+    "destaque": true,
+    "url": "noticia.html?id=101",
+    "corpo": [
+      "O candidato à Presidência Flávio Bolsonaro (PL) apresentou ao Tribunal Superior Eleitoral (TSE) autorizações assinadas pelo ex-presidente Jair Bolsonaro e por familiares para permitir a abertura de informações bancárias, fiscais e telefônicas. Os documentos foram encaminhados no contexto de um acordo firmado entre as campanhas de Flávio e do presidente Luiz Inácio Lula da Silva (PT), adversários no segundo turno das eleições de 2026.",
+      "Segundo informações publicadas nesta sexta-feira (23), entre os documentos entregues pela campanha de Flávio estão autorizações de Jair Bolsonaro, Carlos Bolsonaro e Jair Renan Bolsonaro. A documentação também abrange o próprio candidato, sua mãe, Rogéria Bolsonaro, e pessoas jurídicas relacionadas à campanha. Eduardo Bolsonaro não constava entre as autorizações mencionadas na reportagem consultada.",
+      "O envio dos documentos representa uma autorização para acesso aos dados, mas não significa que os sigilos tenham sido efetivamente abertos ou que os registros estejam disponíveis ao público. Até esta sexta-feira, as informações não haviam sido divulgadas integralmente.",
+      "ACORDO ENTRE CAMPANHAS — A discussão começou após um desafio feito por Lula durante debate presidencial na televisão. As equipes dos candidatos negociaram condições recíprocas para apresentar informações financeiras, fiscais e telefônicas, inclusive de familiares e empresas vinculadas aos envolvidos.",
+      "A campanha de Flávio também cobrou a divulgação de gastos com cartões corporativos da Presidência e de registros relacionados ao governo federal. Já representantes de Lula defenderam que a apresentação das informações ocorra de maneira simultânea e com garantias de integridade.",
+      "POSIÇÃO DO TSE — O ministro André Mendonça afirmou que os próprios titulares dos dados podem autorizar sua divulgação, sem necessidade de intervenção da Justiça Eleitoral. A decisão, entretanto, não torna públicos automaticamente os documentos mencionados pelas campanhas.",
+      "O episódio ocorre na reta final da disputa presidencial, antes do segundo turno marcado para domingo (25). A divulgação efetiva das informações, caso ocorra, ainda dependerá de providências dos responsáveis pelos dados.",
+      "TRANSPARÊNCIA — Autorizar a abertura de sigilos, apresentar procurações e tornar documentos públicos são etapas diferentes. O Coroado News 24h seguirá acompanhando eventuais novas manifestações das campanhas e da Justiça Eleitoral."
+    ]
+  },
+  {
     "id": 100,
     "categoria": "Entretenimento",
     "titulo": "ExpoFest 2026: Zé Vaqueiro, Os Menotti e Manu Bahtidão agitam Itacoatiara",
