@@ -1,5 +1,89 @@
 [
   {
+    "categoria": "Polícia",
+    "titulo": "Homem é assassinado a tiros no Campo do Areal, na zona Norte de Manaus",
+    "resumo": "Vítima foi morta na noite de quinta-feira (22), no bairro Colônia Terra Nova; Polícia Civil investiga a autoria e a motivação.",
+    "corpo": [
+      "Um homem identificado em relatos iniciais como Carleandro Cândido Freire foi morto a tiros na noite de quinta-feira (22), nas proximidades do Campo do Areal, no bairro Colônia Terra Nova, zona Norte de Manaus. A ocorrência mobilizou equipes de segurança e causou apreensão entre moradores da região.",
+      "As informações preliminares apontam que a vítima foi surpreendida por homens armados na área do campo de futebol. A sequência do ataque, a quantidade de envolvidos e as circunstâncias que antecederam o crime ainda dependem de confirmação no inquérito.",
+      "Equipes policiais foram acionadas para o atendimento e para preservar o local, permitindo os levantamentos periciais. A investigação deverá buscar imagens de câmeras próximas e depoimentos de testemunhas que possam ajudar a reconstruir os acontecimentos.",
+      "Até a publicação desta matéria, não havia confirmação oficial da motivação do homicídio ou da identificação dos responsáveis. A Delegacia Especializada em Homicídios e Sequestros deverá conduzir a apuração."
+    ],
+    "fonteUrl": "",
+    "imagem": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EHOMIC%C3%8DDIO%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3ECol%C3%B4nia%20Terra%20Nova%20%E2%80%A2%20Zona%20Norte%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "id": 94,
+    "data": "23/10/2026",
+    "fonte": "Redação Coroado News 24h — informações preliminares",
+    "imagemLegenda": "Arte ilustrativa produzida para a matéria",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": true,
+    "url": "noticia.html?id=94",
+    "imagemFallback": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EHOMIC%C3%8DDIO%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3ECol%C3%B4nia%20Terra%20Nova%20%E2%80%A2%20Zona%20Norte%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E"
+  },
+  {
+    "categoria": "Polícia",
+    "titulo": "Homem é encontrado morto com mãos e pés amarrados no bairro Compensa",
+    "resumo": "Corpo foi localizado em escadaria do Beco Monte Alegre, na zona Oeste; caso é investigado como morte violenta.",
+    "corpo": [
+      "Um homem ainda não identificado foi encontrado morto na tarde de quinta-feira (22) em uma escadaria do Beco Monte Alegre, no bairro Compensa, zona Oeste de Manaus. A vítima estava com as mãos e os pés amarrados, conforme as informações iniciais da ocorrência.",
+      "Policiais militares foram chamados ao local e isolaram a área para os procedimentos necessários. A identificação do homem e a determinação da causa da morte dependem de exames e da investigação policial.",
+      "A apuração deverá considerar vestígios recolhidos na escadaria, possíveis imagens de câmeras e informações prestadas por moradores. Até o momento, não há confirmação sobre os autores ou sobre a motivação do crime.",
+      "O caso deverá ser investigado pela Delegacia Especializada em Homicídios e Sequestros. Novas informações poderão ser divulgadas à medida que a polícia concluir as primeiras diligências."
+    ],
+    "fonteUrl": "",
+    "imagem": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3ECORPO%20ENCONTRADO%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3ECompensa%20%E2%80%A2%20Zona%20Oeste%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "id": 95,
+    "data": "23/10/2026",
+    "fonte": "Redação Coroado News 24h — informações preliminares",
+    "imagemLegenda": "Arte ilustrativa produzida para a matéria",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": true,
+    "url": "noticia.html?id=95",
+    "imagemFallback": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3ECORPO%20ENCONTRADO%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3ECompensa%20%E2%80%A2%20Zona%20Oeste%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E"
+  },
+  {
+    "categoria": "Trânsito",
+    "titulo": "Motociclista morre após colisão na avenida Torquato Tapajós, em Manaus",
+    "resumo": "Acidente registrado na quinta-feira (22) envolveu motocicleta e outros veículos; circunstâncias serão apuradas.",
+    "corpo": [
+      "O motociclista Marcioney Ferreira Cavalcante morreu após um grave acidente de trânsito registrado na quinta-feira (22), na avenida Torquato Tapajós, uma das principais vias de ligação entre as zonas Norte e Centro-Sul de Manaus.",
+      "Segundo informações preliminares, a ocorrência envolveu uma motocicleta, uma caminhonete e um caminhão. A sequência exata das colisões e a responsabilidade dos condutores ainda serão esclarecidas pelos órgãos competentes.",
+      "Equipes de emergência foram acionadas para prestar socorro, mas o motociclista não resistiu. O atendimento à ocorrência afetou a circulação de veículos no trecho, exigindo atenção dos motoristas.",
+      "A investigação deverá analisar as condições da via, os relatos dos envolvidos e os vestígios do acidente. O caso reforça a necessidade de cautela e respeito às distâncias de segurança no trânsito."
+    ],
+    "fonteUrl": "",
+    "imagem": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EACIDENTE%20FATAL%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3EAvenida%20Torquato%20Tapaj%C3%B3s%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "id": 96,
+    "data": "23/10/2026",
+    "fonte": "Redação Coroado News 24h — informações preliminares",
+    "imagemLegenda": "Arte ilustrativa produzida para a matéria",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": true,
+    "url": "noticia.html?id=96",
+    "imagemFallback": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EACIDENTE%20FATAL%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3EAvenida%20Torquato%20Tapaj%C3%B3s%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E"
+  },
+  {
+    "categoria": "Manaus",
+    "titulo": "Manaus terá ônibus gratuitos no domingo de segundo turno das eleições",
+    "resumo": "Gratuidade no transporte coletivo urbano está prevista para domingo (25), facilitando o deslocamento dos eleitores.",
+    "corpo": [
+      "Os eleitores de Manaus terão transporte coletivo urbano gratuito no domingo, 25 de outubro, data do segundo turno das eleições de 2026. A medida foi anunciada para facilitar o acesso aos locais de votação na capital amazonense.",
+      "A operação especial deverá abranger o sistema convencional e complementar de ônibus, com acompanhamento das equipes municipais de mobilidade urbana. A orientação é que os passageiros planejem os deslocamentos com antecedência e consultem os itinerários de suas linhas.",
+      "A gratuidade está prevista para o período das 4h às 18h, no horário de Manaus. O reforço da frota e eventuais alterações operacionais deverão seguir as orientações oficiais divulgadas pelo município.",
+      "Quem precisar sair cedo ou retornar após a votação deve conferir os horários de circulação da linha utilizada. A população também deve observar os comunicados atualizados sobre o serviço no dia da eleição."
+    ],
+    "fonteUrl": "",
+    "imagem": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3E%C3%94NIBUS%20GRATUITOS%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3EDomingo%2C%2025%20de%20outubro%20%E2%80%A2%20Manaus%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "id": 97,
+    "data": "23/10/2026",
+    "fonte": "Redação Coroado News 24h — informações preliminares",
+    "imagemLegenda": "Arte ilustrativa produzida para a matéria",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "destaque": true,
+    "url": "noticia.html?id=97",
+    "imagemFallback": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%23092b56%22%2F%3E%3Crect%20y%3D%220%22%20width%3D%221200%22%20height%3D%2218%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22170%22%20font-family%3D%22Arial%22%20font-size%3D%2243%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3EC%20O%20R%20O%20A%20D%20O%20%20N%20E%20W%20S%20%202%204%20H%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22220%22%20width%3D%22125%22%20height%3D%228%22%20fill%3D%22%23df263e%22%2F%3E%3Ctext%20x%3D%2270%22%20y%3D%22325%22%20font-family%3D%22Arial%22%20font-size%3D%2270%22%20font-weight%3D%22bold%22%20fill%3D%22%23fff%22%3E%C3%94NIBUS%20GRATUITOS%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22395%22%20font-family%3D%22Arial%22%20font-size%3D%2233%22%20fill%3D%22%23dce9f8%22%3EDomingo%2C%2025%20de%20outubro%20%E2%80%A2%20Manaus%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22605%22%20font-family%3D%22Arial%22%20font-size%3D%2225%22%20fill%3D%22%23b5cbe3%22%3EARTE%20ILUSTRATIVA%20%E2%80%A2%20MANAUS%3C%2Ftext%3E%3C%2Fsvg%3E"
+  },
+  {
     "id": 93,
     "categoria": "Famosos",
     "titulo": "Virginia mostra print de conversa com Zé Felipe após ligação inesperada sobre foto de perfil",
@@ -193,7 +277,7 @@
     "fonteUrl": "https://www.cm7brasil.com/noticias/policia/apos-assaltar-mulher-suspeito-e-perseguido-e-ameaca-pessoas-com-peixeira-na-feira-do-japiim-veja-video/",
     "data": "21/10/2026",
     "url": "noticia.html?id=84",
-    "destaque": true,
+    "destaque": false,
     "imagem": "https://static.wixstatic.com/media/a06550_35760d458f364df7b3f4b159e6a565eb~mv2.jpg",
     "imagemFallback": "https://static.wixstatic.com/media/a06550_35760d458f364df7b3f4b159e6a565eb~mv2.jpg",
     "imagemCredito": "Captura de publicação do Portal Ponta Negra Manaus, enviada pelo leitor; vídeo divulgado pelo CM7",
@@ -216,7 +300,7 @@
     "fonteUrl": "https://sbtnews.sbt.com.br/noticia/mundo/influenciadora-malevola-e-presa-em-alexandria-no-egito",
     "data": "20/10/2026",
     "url": "noticia.html?id=83",
-    "destaque": true,
+    "destaque": false,
     "imagem": "https://static.wixstatic.com/media/a06550_08e9c63026ae4fd6907e7461a1695b00~mv2.jpg",
     "imagemLegenda": "Registro fotográfico relacionado à notícia da influenciadora Malévola Alves no Egito",
     "imagemCredito": "Imagem enviada à redação do Coroado News 24h",
@@ -238,7 +322,7 @@
     "fonteUrl": "https://www.bol.uol.com.br/esporte/2026/10/20/vasco-boca-juniors-copa-sul-americana-semifinal-como-foi-20-out.ghtm",
     "data": "20/10/2026",
     "url": "noticia.html?id=82",
-    "destaque": true,
+    "destaque": false,
     "imagem": "https://static.wixstatic.com/media/a06550_b2748dae2263414bbd1c37c035632ac9~mv2.jpg",
     "imagemFallback": "https://static.wixstatic.com/media/a06550_b2748dae2263414bbd1c37c035632ac9~mv2.jpg",
     "imagemCredito": "Imagem enviada à redação do Coroado News 24h",
@@ -322,7 +406,7 @@
     "fonteUrl": "https://segundoasegundo.com.br/2026/10/cabeleireiro-e-encontrado-morto/",
     "data": "20/10/2026",
     "url": "noticia.html?id=78",
-    "destaque": true,
+    "destaque": false,
     "imagem": "https://static.wixstatic.com/media/a06550_c02697e8d53e4468838499d150b71c5e~mv2.jpg",
     "imagemFallback": "https://static.wixstatic.com/media/a06550_c02697e8d53e4468838499d150b71c5e~mv2.jpg",
     "imagemCredito": "Imagem enviada à redação do Coroado News 24h",
@@ -471,7 +555,7 @@
       "https://www.cm7brasil.com/amazonas/manaus/imagens-de-multidao-e-mar-de-luzes-no-bloquinho-do-22-em-manaus-repercutem-pelo-brasil-veja-videos/",
       "https://www.portaldoholanda.com.br/amazonas/imagens-aereas-mostram-ponta-negra-lotada-de-apoiadores-de-flavio-bolsonaro"
     ],
-    "destaque": true,
+    "destaque": false,
     "data": "20/10/2026",
     "url": "noticia.html?id=71",
     "imagem": "https://static.wixstatic.com/media/a06550_eed41a76c1ae4029b0733549e78f2a2c~mv2.png",
@@ -492,7 +576,7 @@
       "A identificação dos responsáveis e o esclarecimento das circunstâncias dependem do avanço da investigação. Informações sobre o caso devem preservar a dignidade da vítima e de seus familiares."
     ],
     "fonte": "Redação Coroado News 24h",
-    "destaque": true,
+    "destaque": false,
     "data": "19/10/2026",
     "url": "noticia.html?id=70",
     "imagem": "assets/noticia-70-foto-cortada.png",
@@ -514,7 +598,7 @@
       "O confronto ocorreu em uma fase decisiva da competição, na qual cada rodada pode alterar a disputa pelas primeiras posições. A vitória fora de casa deu ao Flamengo um resultado expressivo diante da equipe baiana."
     ],
     "fonte": "Clube de Regatas do Flamengo — cobertura oficial",
-    "destaque": true,
+    "destaque": false,
     "data": "19/10/2026",
     "url": "noticia.html?id=69",
     "imagem": "assets/noticia-69-foto-cortada.png",
@@ -537,7 +621,7 @@
       "A ação evidencia o protocolo de segurança empregado diante de uma possível ameaça, mesmo quando a verificação termina sem a localização de materiais perigosos."
     ],
     "fonte": "Redação Coroado News 24h",
-    "destaque": true,
+    "destaque": false,
     "data": "19/10/2026",
     "url": "noticia.html?id=68",
     "imagem": "assets/noticia-68-foto-cortada.png",
@@ -558,7 +642,7 @@
       "O motorista realizou teste do bafômetro no Detran-AM, com resultado negativo para consumo de álcool, conforme o registro policial. As circunstâncias das duas colisões continuam sob investigação."
     ],
     "fonte": "Redação Coroado News 24h",
-    "destaque": true,
+    "destaque": false,
     "data": "19/10/2026",
     "url": "noticia.html?id=67",
     "imagem": "assets/noticia-67-foto-cortada-v2.png",
@@ -581,7 +665,7 @@
       "Não há, na reportagem consultada, confirmação de disparos de arma de fogo, prisão ou registro de ocorrência policial. Por isso, a versão anterior desta notícia, que mencionava tiros, foi corrigida. O caso é apresentado como discussão em frente a um bar, sem atribuir crimes ou responsabilidades que não tenham sido comprovados.",
       "A localização confirmada pelas informações publicadas até o momento é a Zona Leste de Manaus. A identificação do bairro, as circunstâncias que motivaram a discussão e eventuais providências das autoridades ainda dependem de confirmação."
     ],
-    "destaque": true,
+    "destaque": false,
     "fonte": "Redação Coroado News 24h, com informações do CM7 Brasil",
     "data": "19/10/2026",
     "url": "noticia.html?id=66",
@@ -614,7 +698,7 @@
       "Houve relatos não confirmados de que o apresentador Fred Bruno teria sofrido um ferimento superficial no pé. A informação, porém, contrasta com a nota da SSP, que informou não haver registro de feridos. O Coroado News 24h mantém essa divergência explícita até nova confirmação.",
       "A defesa do parlamentar atribuiu seu comportamento a uma reação adversa a medicamentos, segundo reportagens. A investigação continua, e não há conclusão oficial sobre a dinâmica do episódio."
     ],
-    "destaque": true,
+    "destaque": false,
     "fonte": "Redação Coroado News 24h",
     "data": "19/10/2026",
     "url": "noticia.html?id=64",
