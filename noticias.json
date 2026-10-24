@@ -19,7 +19,14 @@
       "Até a publicação desta notícia, não havia sido localizada manifestação oficial da Polícia Civil de Alagoas confirmando os detalhes do vídeo. Portanto, as circunstâncias devem ser tratadas como informações preliminares, sujeitas à investigação.",
       "O Coroado News 24h utiliza uma imagem não explícita extraída da publicação original, sem exibir cenas de violência explícita. As cenas de violência extrema não são reproduzidas."
     ],
-    "videoSensivel": true
+    "videoSensivel": true,
+    "videos": [
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/24123358/Acougue-do-CV-morte-AL.mp4",
+        "legenda": "Atenção: gravação com violência extrema. Reprodução somente após confirmação do leitor."
+      }
+    ]
   },
   {
     "id": 108,
