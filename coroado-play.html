@@ -23,7 +23,7 @@ body{background:radial-gradient(ellipse at 75% 5%,#193f68,transparent 35%),#070d
     try{iframe.contentWindow.postMessage(JSON.stringify({event:'command',func:'unMute',args:[]}), 'https://www.youtube-nocookie.com');
         iframe.contentWindow.postMessage(JSON.stringify({event:'command',func:'setVolume',args:[100]}), 'https://www.youtube-nocookie.com');}catch(e){}
   }
-  /* Não forçar unMute após load: navegadores podem pausar autoplay. Áudio é solicitado apenas após gesto do visitante. */
+  iframe.addEventListener('load',()=>{setTimeout(requestAudio,2200);},{once:true});
   document.addEventListener('pointerdown',requestAudio,{passive:true});
   document.addEventListener('keydown',requestAudio);
 })();
