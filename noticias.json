@@ -5,7 +5,7 @@
     "titulo": "Porto Praia: história, cultura e desafios de uma comunidade indígena às margens do Solimões",
     "resumo": "Em Tefé, Porto Praia de Baixo reúne tradições dos povos Kokama e Ticuna, pesca, agricultura e a luta por melhorias na educação, na água e na proteção do território.",
     "data": "24/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=106",
     "fonte": "Redação Coroado News 24h",
     "corpo": [
@@ -17,12 +17,8 @@
       "A proteção do território é outra pauta histórica. Em abril de 2021, famílias Kokama e Ticuna iniciaram uma mobilização de autodemarcação, reivindicando o reconhecimento e a proteção da área. O estágio atual dos procedimentos oficiais precisa de atualização junto aos órgãos competentes.",
       "No abastecimento de água, documentos públicos registram a instalação anterior de sistema de tratamento na comunidade. Mais recentemente, em 17 de setembro de 2026, foi apresentado na Câmara Municipal de Tefé o Requerimento nº 229/2026, solicitando uma nova base de alvenaria para sustentar a caixa-d'água comunitária, em substituição à estrutura de madeira. A apresentação do pedido não comprova que a obra tenha sido realizada.",
       "Porto Praia de Baixo é, acima de tudo, uma comunidade de pessoas, histórias e tradições que merecem ser conhecidas e valorizadas. O Coroado News 24h acompanha o tema e mantém espaço aberto para que moradores e lideranças compartilhem fotografias recentes, relatos e informações sobre melhorias e necessidades locais.",
-      "NOTA EDITORIAL — Esta reportagem especial reúne informações documentadas em diferentes anos, com datas identificadas. Não foi possível confirmar fotografias ou vídeos feitos na comunidade em outubro de 2026; por isso, não foram usados registros antigos como imagens atuais.",
-      "REGISTROS HISTÓRICOS — Fotografias documentais de Porto Praia de Baixo feitas em 2023 e 2024 podem ser consultadas em https://www.regnskog.no/en/long-reads-about-life-in-the-rainforest/a-river-turned-desert . Esses registros não representam necessariamente a situação da comunidade em 2026."
-    ],
-    "imagem": "assets/porto-praia-106.svg",
-    "imagemLegenda": "Ilustração editorial sobre a comunidade Porto Praia de Baixo, em Tefé. Não é fotografia do local.",
-    "imagemCredito": "Arte: Coroado News 24h"
+      "NOTA EDITORIAL — Esta reportagem especial reúne informações documentadas em diferentes anos, com datas identificadas. Não foi possível confirmar fotografias ou vídeos feitos na comunidade em outubro de 2026; por isso, não foram usados registros antigos como imagens atuais."
+    ]
   },
   {
     "id": 105,
