@@ -23,7 +23,8 @@ body{background:radial-gradient(ellipse at 75% 5%,#193f68,transparent 35%),#070d
     try{iframe.contentWindow.postMessage(JSON.stringify({event:'command',func:'unMute',args:[]}), 'https://www.youtube-nocookie.com');
         iframe.contentWindow.postMessage(JSON.stringify({event:'command',func:'setVolume',args:[100]}), 'https://www.youtube-nocookie.com');}catch(e){}
   }
-  iframe.addEventListener('load',()=>{setTimeout(requestAudio,2200);},{once:true});
+  const fromInstagram=/(instagram\.com|l\.instagram\.com)/i.test(document.referrer)||/[?&](igsh|igshid|utm_source=instagram)/i.test(location.search);
+  if(!fromInstagram){iframe.addEventListener('load',()=>{setTimeout(requestAudio,2200);},{once:true});}
   document.addEventListener('pointerdown',requestAudio,{passive:true});
   document.addEventListener('keydown',requestAudio);
 })();
