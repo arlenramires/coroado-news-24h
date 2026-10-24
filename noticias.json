@@ -24,7 +24,8 @@
       {
         "tipo": "mp4",
         "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/24123358/Acougue-do-CV-morte-AL.mp4",
-        "legenda": "Atenção: gravação com violência extrema. Reprodução somente após confirmação do leitor."
+        "legenda": "Atenção: gravação com violência extrema. Reprodução somente após confirmação do leitor.",
+        "inicioSegundos": 6
       }
     ]
   },
