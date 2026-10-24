@@ -1,5 +1,27 @@
 [
   {
+    "id": 109,
+    "categoria": "Polícia",
+    "titulo": "Vídeo de extrema violência atribuído a criminosos circula nas redes; origem e autoria ainda não foram confirmadas",
+    "resumo": "Gravação associada a uma área de mata em Maceió mostra violência extrema. Autoridades ainda não confirmaram oficialmente a autoria, o local exato nem a identidade da vítima.",
+    "imagem": "https://static.wixstatic.com/media/a06550_b8378b5dda824c10b00df283d7845ba5~mv2.png",
+    "imagemCredito": "Arte ilustrativa produzida pelo Coroado News 24h; não representa registro do local do crime.",
+    "imagemLegenda": "Arte ilustrativa sobre a circulação de vídeo de violência extrema atribuído a suspeitos de facções criminosas.",
+    "data": "24/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=109",
+    "fonte": "Relato publicado em 24/10/2026; informações ainda sem confirmação oficial independente",
+    "fonteUrl": "https://www.cm7brasil.com/noticias/policia/acougue-do-cv-video-mostra-faccionados-desmembrando-e-enterrando-rivais-no-meio-do-mato/",
+    "corpo": [
+      "Um vídeo de violência extrema que circula nas redes sociais voltou a chamar atenção neste sábado (24). O registro é atribuído a suspeitos de participação em facções criminosas e teria sido feito em uma área de mata na cidade de Maceió, em Alagoas. A localização, porém, ainda não foi confirmada oficialmente.",
+      "As imagens divulgadas mostram agressões graves e mutilação de uma pessoa, além de levantarem suspeitas sobre a possível ocultação de restos mortais. Não há confirmação independente de que os envolvidos tenham enterrado a vítima no mesmo local mostrado na gravação.",
+      "O material teria começado a circular em 16 de outubro, segundo relato publicado por um portal de notícias. A data exata em que os fatos ocorreram continua desconhecida.",
+      "A identidade da vítima, o número de pessoas envolvidas e a ligação dos suspeitos com organizações criminosas não foram comprovados por autoridades em informações públicas consultadas até o fechamento desta reportagem.",
+      "Até a publicação desta notícia, não havia sido localizada manifestação oficial da Polícia Civil de Alagoas confirmando os detalhes do vídeo. Portanto, as circunstâncias devem ser tratadas como informações preliminares, sujeitas à investigação.",
+      "O Coroado News 24h optou por não reproduzir as cenas explícitas de violência e utiliza uma capa ilustrativa, preservando o caráter informativo da reportagem sem expor a vítima."
+    ]
+  },
+  {
     "id": 108,
     "categoria": "Manaus",
     "titulo": "Manaus completa 357 anos: a história, a cultura e a força de um povo que constrói a capital amazonense",
