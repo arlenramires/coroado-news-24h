@@ -7,9 +7,9 @@
     "data": "24/10/2026",
     "destaque": true,
     "url": "noticia.html?id=108",
-    "imagem": "imagens/manaus-357-anos-coroado-news.svg",
-    "imagemLegenda": "Arte comemorativa dos 357 anos de Manaus, com referências ao Teatro Amazonas e à Ponte Rio Negro.",
-    "imagemCredito": "Ilustração editorial: Coroado News 24h. Elementos artísticos ilustrativos.",
+    "imagem": "https://static.wixstatic.com/media/a06550_0796bb185b7e488081b5ad7839fc2603~mv2.png",
+    "imagemLegenda": "Arte oficial em 3D dos 357 anos de Manaus, com Coroadinho, logo original do Coroado News 24h, Teatro Amazonas e Ponte Rio Negro.",
+    "imagemCredito": "Arte comemorativa: Coroado News 24h",
     "fonte": "Redação Coroado News 24h",
     "corpo": [
       "MANAUS (AM) — Neste sábado, 24 de outubro de 2026, Manaus completa 357 anos. Às margens do rio Negro, a capital do Amazonas reúne histórias de povos indígenas, transformações econômicas, tradições culturais e a força de moradores que constroem diariamente a cidade.",
