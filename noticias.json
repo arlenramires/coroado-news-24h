@@ -1,5 +1,27 @@
 [
   {
+    "id": 105,
+    "categoria": "Polícia",
+    "titulo": "Cão farejador encontra 72,7 kg de drogas em balsa no porto de Parintins",
+    "resumo": "Ação do 11º BPM com apoio do Canil Tupinambarana localizou maconha, oxi e cocaína escondidos em três tonéis; prejuízo estimado ao tráfico ultrapassa R$ 1 milhão.",
+    "imagem": "https://static.wixstatic.com/media/a06550_e865db376d3b42c2b912af0ee4f2fe50~mv2.jpg",
+    "imagemLegenda": "Cão policial do Canil Tupinambarana ao lado de entorpecentes apreendidos em Parintins.",
+    "imagemCredito": "Foto: Divulgação / reprodução",
+    "data": "23/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=105",
+    "fonte": "Redação Coroado News 24h",
+    "corpo": [
+      "PARINTINS (AM) — Uma operação da Polícia Militar do Amazonas apreendeu aproximadamente 72,7 quilos de drogas escondidas em uma balsa no Porto do Dodó, localizado na rodovia Odovaldo Novo, em Parintins, na manhã de sexta-feira (23). A fiscalização foi conduzida por militares do 11º Batalhão de Polícia Militar (BPM), com apoio do Canil Tupinambarana.",
+      "A ação começou após a corporação receber informações sobre possível transporte clandestino de entorpecentes em contêineres da embarcação. Durante a vistoria, um cão farejador indicou três tonéis de papelão onde o material estava escondido. Os policiais abriram os recipientes e encontraram tabletes e sacolas contendo substâncias suspeitas.",
+      "A carga incluía 19 tabletes de maconha, com peso de 19,610 quilos; 48 tabletes de oxi, totalizando 51,150 quilos; e duas sacolas de cocaína, com 2,016 quilos. A soma é de 72,776 quilos, ou aproximadamente 72,7 quilos de drogas.",
+      "Segundo estimativa divulgada pela Polícia Militar, a apreensão representa um prejuízo potencial de R$ 1.054.900 ao tráfico de drogas. O montante corresponde à avaliação da carga e não a dinheiro encontrado durante a operação.",
+      "Um homem que trabalhava na conferência de mercadorias da embarcação foi conduzido ao 3º Distrito Integrado de Polícia (DIP), juntamente com os entorpecentes, para os procedimentos legais. A condução, por si só, não significa condenação nem comprova que ele soubesse da existência da droga.",
+      "Até a divulgação das informações, não havia confirmação pública sobre a origem ou o destino dos entorpecentes, a identidade dos responsáveis pela carga ou eventual prisão em flagrante do conferente. A investigação deverá esclarecer essas circunstâncias.",
+      "O episódio chama atenção para o uso de rotas fluviais no transporte de cargas no interior do Amazonas e para o trabalho de fiscalização com cães treinados, capazes de identificar substâncias ocultas em compartimentos de embarcações."
+    ]
+  },
+  {
     "id": 104,
     "categoria": "Política",
     "titulo": "Flávio questiona Lula sobre uísque de R$ 500 mil durante debate na Globo",
