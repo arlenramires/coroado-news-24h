@@ -1,5 +1,28 @@
 [
   {
+    "id": 103,
+    "categoria": "Comunidade",
+    "titulo": "Luto no Coroado: morre Darivan Valente de Melo, aos 55 anos",
+    "resumo": "Figura conhecida no bairro Coroado, Darivan deixa lembranças entre familiares, amigos e moradores da comunidade. Ele também disputou duas eleições para vereador em Manaus.",
+    "imagem": "imagens/nota-pesar-darivan.svg",
+    "imagemLegenda": "Homenagem do Coroado News 24h a Darivan Valente de Melo (1970–2026).",
+    "imagemCredito": "Arte: Coroado News 24h",
+    "data": "23/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=103",
+    "fonte": "Redação Coroado News 24h",
+    "corpo": [
+      "O bairro Coroado, em Manaus, está de luto pelo falecimento de Darivan Valente de Melo, aos 55 anos, nesta sexta-feira (23 de outubro de 2026).",
+      "Nascido em 9 de novembro de 1970, Darivan era uma figura conhecida no bairro Coroado, onde construiu amizades e fez parte da história de muitos moradores.",
+      "Ao longo de sua trajetória, também participou da vida política de Manaus, disputando duas eleições para vereador. Em 2020, concorreu pelo Democracia Cristã (DC), recebendo 914 votos. Em 2024, voltou a disputar uma vaga, desta vez pelo Partido Socialista Brasileiro (PSB), conquistando 286 votos.",
+      "Mesmo sem conquistar uma cadeira na Câmara Municipal, Darivan demonstrou interesse em participar da vida política e representar a população.",
+      "Mais do que sua trajetória política, Darivan deixa lembranças de convivência, amizade e momentos compartilhados com aqueles que tiveram a oportunidade de conhecê-lo.",
+      "Sua partida entristece familiares, amigos e moradores do Coroado que acompanharam sua caminhada.",
+      "O Coroado News 24h manifesta profundo pesar pelo falecimento de Darivan Valente de Melo e se solidariza com todos os familiares e amigos neste momento de dor.",
+      "Descanse em paz, Darivan. Que sua memória permaneça viva no coração de todos que o conheceram."
+    ]
+  },
+  {
     "id": 102,
     "categoria": "Política",
     "titulo": "Neymar aparece com Nikolas Ferreira e faz referência ao número 22 na reta final da eleição",
