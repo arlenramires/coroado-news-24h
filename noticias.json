@@ -26,9 +26,15 @@
         "legenda": "Vídeo sobre Porto Praia indicado por leitor — assista ao registro original no YouTube."
       }
     ],
-    "imagem": "https://static.wixstatic.com/media/a06550_f6b4541084b544d4b36f8fd6af025a6f~mv2.jpg",
-    "imagemLegenda": "Frente da comunidade Porto Praia de Baixo, em Tefé, em imagem extraída de vídeo enviado à redação.",
-    "imagemCredito": "Imagem extraída de vídeo enviado à redação / TikTok"
+    "imagem": "https://static.wixstatic.com/media/a06550_1bc050a7f60d42feb2ed09563ad3b97b~mv2.jpg",
+    "imagemLegenda": "Três registros reais da frente de Porto Praia de Baixo, extraídos do vídeo enviado à redação, sem cortes nos quadros.",
+    "imagemCredito": "Imagens extraídas de vídeo enviado à redação",
+    "imagens": [
+      {
+        "url": "https://static.wixstatic.com/media/a06550_f6b4541084b544d4b36f8fd6af025a6f~mv2.jpg",
+        "legenda": "Fotografia original extraída do vídeo da comunidade Porto Praia de Baixo."
+      }
+    ]
   },
   {
     "id": 105,
