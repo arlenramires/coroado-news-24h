@@ -5,7 +5,7 @@
     "titulo": "Porto Praia: história, cultura e desafios de uma comunidade indígena às margens do Solimões",
     "resumo": "Em Tefé, Porto Praia de Baixo reúne tradições dos povos Kokama e Ticuna, pesca, agricultura e a luta por melhorias na educação, na água e na proteção do território.",
     "data": "24/10/2026",
-    "destaque": false,
+    "destaque": true,
     "url": "noticia.html?id=106",
     "fonte": "Redação Coroado News 24h",
     "corpo": [
@@ -25,7 +25,10 @@
         "url": "https://www.youtube.com/watch?v=csfBvIE7YqU",
         "legenda": "Vídeo sobre Porto Praia indicado por leitor — assista ao registro original no YouTube."
       }
-    ]
+    ],
+    "imagem": "https://static.wixstatic.com/media/a06550_f6b4541084b544d4b36f8fd6af025a6f~mv2.jpg",
+    "imagemLegenda": "Frente da comunidade Porto Praia de Baixo, em Tefé, em imagem extraída de vídeo enviado à redação.",
+    "imagemCredito": "Imagem extraída de vídeo enviado à redação / TikTok"
   },
   {
     "id": 105,
