@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-25T19:58:33.329091+00:00",
+  "atualizadoEm": "2026-10-25T20:14:41.625122+00:00",
   "boletins": [
+    {
+      "titulo": "Apertar 'Confirma' duas vezes não anula o voto; entenda intervalo de conferência da urna",
+      "texto": "Segundo G1 Política: Urna eletrônica Reprodução/TV Globo Durante a votação do primeiro turno das Eleições 2026, eleitores comentaram nas redes sociais que apertaram o botão \"Confirma\" duas vezes ao escolher o candidato. Isso pode acontecer porque a urna eletrônica tem um intervalo de um segundo destinado à conferência do voto antes de liberar a tecla verde. Mas não afeta em nada o voto de cada eleitor (entenda abaixo antes de votar no",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apertar-confirma-duas-vezes-nao-anula-o-voto-entenda-intervalo-de-conferencia-da-urna.ghtml",
+      "ordemPublicacao": 122
+    },
+    {
+      "titulo": "Eleições 2026: Roupa, celular, números dos candidatos – o que pode e o que não pode no dia da eleição",
+      "texto": "Segundo G1 Política: Urna eletrônica. Reprodução/TV Globo Para conseguir registrar o seu voto, é preciso seguir alguns critérios estabelecidos pela Justiça Eleitoral. O 2º turno das eleições 2026 acontece neste domingo (25). AO VIVO: Acompanhe a apuração em todo o Brasil Além de ser proibido entrar na cabine portando celular ou qualquer equipamento de que possa comprometer o sigilo do voto, os eleitores não podem se manifestar de",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-roupa-celular-numeros-dos-candidatos-o-que-pode-e-o-que-nao-pode-no-dia-da-eleicao.ghtml",
+      "ordemPublicacao": 121
+    },
+    {
+      "titulo": "Eleições 2026: qual é a ordem de votação no segundo turno?",
+      "texto": "Segundo G1 Política: Urna eletrônica completa 30 anos Reprodução/TV Globo Neste domingo (25), data do segundo turno das Eleições 2026, os eleitores terão menos cargos para votar na urna eletrônica do que no primeiro turno. Desta vez, os brasileiros terão que escolher entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) para a Presidência da República. Em cinco estados, os eleitores também terão que escolher quem será o próximo",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/qual-a-ordem-de-votacao-no-segundo-turno.ghtml",
+      "ordemPublicacao": 120
+    },
+    {
+      "titulo": "Votação no exterior: Lula vence em 42 países; Flávio Bolsonaro, em 12",
+      "texto": "Segundo G1 Política: Editoria de Arte/g1 Parcial Lula - 141.263 votos Flávio - 95.499 votos Quase 1 milhão de brasileiros que vivem no exterior estão aptos a votar no segundo turno das eleições presidenciais. A votação é realizada em 186 cidades em mais de cem países. Até as 16h32 no horário de Brasília, Lula havia vencido em 42 países ou territórios, enquanto Flávio Bolsonaro havia vencido em 12 países, segundo boletins de urna",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
+      "ordemPublicacao": 119
+    },
+    {
+      "titulo": "Eleições 2026: veja onde acompanhar a apuração para presidente e como consultar os votos em Goiás",
+      "texto": "Segundo G1 Política: Imagem urna eletrônica Reprodução/TV Globo Os eleitores de Goiás podem acompanhar a apuração para presidente em tempo real pelo g1 neste domingo (25) e consultar a votação detalhada em cada um dos 246 municípios do estado. A página especial reúne os dados oficiais do Tribunal Superior Eleitoral (TSE) atualizados, mapas interativos e ferramentas de busca que permitem checar o resultado de cada cidade, zona eleitoral",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-veja-onde-acompanhar-a-apuracao-para-presidente-e-como-consultar-os-votos-em-goias.ghtml",
+      "ordemPublicacao": 118
+    },
+    {
+      "titulo": "Campanha de Lula denuncia falta de transporte em nove estados",
+      "texto": "Segundo Agência Brasil: A coligação Brasil Pronto Pra Mais, do presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT), entrou com ação no Tribunal Superior Eleitoral (TSE) denunciando falta de transporte em cidades de, pelo menos, nove estados do país: Bahia, São Paulo, Alagoas, Pernambuco, Roraima, Piauí, Paraíba, Pará e Rio de Janeiro. “Entre as 8h e as 13h30 de hoje, o tema “transporte” somou 249,7 mil publicações e 848,7 mil",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-lula-denuncia-falta-de-transporte-em-nove-estados",
+      "ordemPublicacao": 117
+    },
+    {
+      "titulo": "Campanha de Flávio pede votação até 19h por chuvas em alguns estados",
+      "texto": "Segundo Agência Brasil: A campanha do candidato a presidente da República Flávio Bolsonaro (PL) pediu há pouco ao Tribunal Superior Eleitoral (TSE) a ampliação do horário de votação em municípios de São Paulo, Minas Gerais, Paraná, Santa Catarina e Rio Grande do Sul. O candidato defende que o horário seja estendido até as 19h . Conforme a legislação eleitoral, o horário de votação deve ser encerrado às 17h. Contudo, a campanha do",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-pede-votacao-ate-19h-por-chuvas-em-alguns-estados",
+      "ordemPublicacao": 116
+    },
+    {
+      "titulo": "Salvador: Procon atualiza para 544 total de ônibus parados em garagens",
+      "texto": "Segundo Agência Brasil: O Procon da Bahia atualizou para 544 o total de ônibus de transporte público parados em cinco garagens de Salvador, após denúncias de eleitores sobre o bloqueio da saída dos veículos. A informação foi confirmada pela Secretaria de Comunicação Social do governo do estado. Em nota, a secretaria detalhou que, das cinco garagens onde foram localizados veículos parados, duas estão localizadas na Barros Reis e três, no",
+      "horario": "25/10/2026 • atualização automática às 16h14 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "16h14 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/salvador-procon-atualiza-para-544-total-de-onibus-parados-em-garagens",
+      "ordemPublicacao": 115
+    },
     {
       "titulo": "Eleições 2026: qual o horário de votação neste domingo (25)?",
       "texto": "Segundo G1 Política: Urna eletrônica TSE O horário de votação do segundo turno das eleições 2026 segue uma regra nacional, mas o relógio local não marcará a mesma hora em todo o país devido ao fuso horário de algumas regiões. Isso acontece porque a Justiça Eleitoral usa o horário de Brasília como referência para a abertura e o encerramento das urnas. AO VIVO: Acompanhe a apuração em todo o Brasil 📱Favorite o g1 no Google e acompanhe as",
