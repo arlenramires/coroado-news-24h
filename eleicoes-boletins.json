@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-10-25T14:02:16.882Z",
+  "atualizadoEm": "2026-10-25T14:48:00Z",
   "boletins": [
+    {
+      "titulo": "TSE divulga primeiro boletim do segundo turno às 10h",
+      "texto": "O Tribunal Superior Eleitoral divulgou o primeiro boletim informativo do segundo turno das Eleições 2026, com dados consolidados até as 10h de Brasília deste domingo (25). O relatório reúne ocorrências da votação, registros sobre biometria, substituição de urnas e votação manual. Os números são operacionais e não representam apuração de votos.",
+      "horario": "25/10/2026 • boletim do TSE às 10h (Brasília)",
+      "fonteNome": "Tribunal Superior Eleitoral (TSE)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/1o-boletim-confira-as-principais-informacoes-das-eleicoes-neste-domingo-25",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "10h (Brasília) — fonte oficial",
+      "ordemPublicacao": 18
+    },
+    {
+      "titulo": "TSE registra 467 urnas substituídas no primeiro boletim nacional",
+      "texto": "No primeiro balanço de ocorrências do segundo turno, o TSE informou a substituição de 467 urnas eletrônicas no Brasil e no exterior até as 10h de Brasília. A informação se refere à operação das seções eleitorais; não é resultado da disputa presidencial ou estadual.",
+      "horario": "25/10/2026 • atualização divulgada às 10h47 (Brasília)",
+      "fonteNome": "Rádio TSE — boletim de ocorrências",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "10h (Brasília) — fonte oficial",
+      "ordemPublicacao": 17
+    },
+    {
+      "titulo": "Apuração oficial do segundo turno começa às 16h em Manaus",
+      "texto": "A totalização e a divulgação dos resultados oficiais estão previstas para começar às 17h de Brasília (16h em Manaus), após o encerramento da votação. Antes desse horário, informações isoladas de boletins de urna, inclusive no exterior, não representam o resultado nacional. O Coroado News 24h acompanha os dados oficiais.",
+      "horario": "25/10/2026 • serviço eleitoral",
+      "fonteNome": "TSE / TRE-AM",
+      "fonteUrl": "https://www.tre-am.jus.br/",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "10h (Brasília) — fonte oficial",
+      "ordemPublicacao": 16
+    },
     {
       "titulo": "TRE-AM relata incêndio em Parintins na manhã do segundo turno",
       "texto": "Durante coletiva neste domingo (25), a presidente do TRE-AM, Carla Reis, relatou dois incêndios criminosos no interior do Amazonas: um comunicado no sábado em Autazes e outro informado na manhã de hoje em Parintins. Segundo a magistrada, equipes atuavam no combate às chamas. O vídeo abaixo mostra a declaração sobre as ocorrências.",
