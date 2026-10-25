@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T18:01:20.658659+00:00",
+  "atualizadoEm": "2026-10-25T18:02:00Z",
   "boletins": [
+    {
+      "titulo": "TSE orienta como conferir boletins de urna por QR Code durante a apuração",
+      "texto": "O Tribunal Superior Eleitoral (TSE) publicou neste domingo (25/10), às 13h de Brasília, orientações para acompanhar e conferir a totalização do segundo turno. Após o encerramento da votação, previsto para 16h no horário de Manaus (17h em Brasília), os Boletins de Urna são transmitidos e processados pela Justiça Eleitoral. O aplicativo Resultados e o portal oficial permitem consultar a totalização por estado, município, zona eleitoral e cargo. Pelo Boletim na Mão, integrado ao e-Título, é possível ler o QR Code do boletim impresso em cada seção e comparar os dados da urna com os números divulgados pelo TSE. A publicação explica os mecanismos de conferência e não apresenta resultados antecipados nem declara vencedores.",
+      "horario": "25/10/2026 • atualização às 14h (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "14h (Manaus)",
+      "fonteNome": "Tribunal Superior Eleitoral (TSE)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/saiba-como-acompanhar-a-totalizacao-dos-votos-apos-as-17h",
+      "ordemPublicacao": 78
+    },
     {
       "titulo": "Vorcaro e Stefanutto votam na Papuda; Bolsonaro não pode votar",
       "texto": "Segundo G1 Política: O banqueiro Daniel Vorcaro e o ex-presidente do INSS Alessandro Stefanutto Reprodução/Banco Master e Divulgação/INSS O ex-banqueiro Daniel Vorcaro e o ex-presidente do INSS Alessandro Stefanutto votam na manhã deste domingo (25), em Brasília, no segundo turno das eleições 2026. O registro ocorre no Centro de Detenção Provisória (CDP), que fica no Complexo Penitenciário da Papuda. Os dois estão presos provisoriamente",
