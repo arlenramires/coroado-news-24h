@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T23:17:57.529079+00:00",
+  "atualizadoEm": "2026-10-25T23:57:31Z",
   "boletins": [
+    {
+      "titulo": "TSE: Lula tem 51,43% e Flávio Bolsonaro 48,57% com 85,24% das seções totalizadas",
+      "texto": "Boletim oficial do TSE gerado em 25/10/2026 às 20h57min31s (Brasília; 19h57 em Manaus): com 425.575 das 499.248 seções totalizadas (85,24%), Lula (PT) soma 54.199.648 votos válidos (51,43%) e Flávio Bolsonaro (PL), 51.183.240 (48,57%). É uma parcial nacional do segundo turno presidencial; a totalização ainda não está concluída e o painel não marca candidato eleito neste registro.",
+      "horario": "25/10/2026 • 19h57 (Manaus) • parcial oficial",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "19h57 (Manaus)",
+      "fonteNome": "TSE — resultados oficiais do segundo turno",
+      "fonteUrl": "https://resultados.tse.jus.br/oficial/ele2026/6258/dados/br/br-c0001-e006258-u.json",
+      "ordemPublicacao": 1000020
+    },
     {
       "titulo": "Mesária flagra mulher fotografando cabine de votação e eleitora é conduzida à delegacia em Codajás",
       "texto": "Segundo Rios de Notícias — Amazonas: Nayandra Oliveira – Rios de Notícias AMAZONAS (AM) – Uma mulher foi conduzida à delegacia suspeita de violar o sigilo do voto durante as eleições deste domingo, 25/10, no município de Codajás, no interior do Amazonas. A ocorrência foi registrada por volta das 13h, na Escola Estadual Wilson Garcia Bastos, localizada no Centro da cidade. […] O post Mesária flagra mulher fotografando cabine de votação e eleitora é",
