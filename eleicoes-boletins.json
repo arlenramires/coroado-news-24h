@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T13:03:59.143Z",
+  "atualizadoEm": "2026-10-25T13:59:03.000Z",
   "boletins": [
+    {
+      "titulo": "TRE-AM relata incêndio em Parintins na manhã do segundo turno",
+      "texto": "Durante entrevista coletiva realizada neste domingo (25), a presidente do TRE-AM, desembargadora Carla Reis, informou que o tribunal recebeu nesta manhã notícia de um incêndio criminoso em Parintins. Segundo relato da magistrada reproduzido pelo portal Amazonas1, equipes já atuavam para controlar a situação. Ela também mencionou uma ocorrência distinta em Autazes, comunicada no sábado (24), que não deve ser confundida com o registro de hoje. Até a publicação deste boletim, não havia detalhes oficiais adicionais sobre local exato, danos ou eventuais detenções. O Coroado News 24h acompanha novas confirmações.",
+      "horario": "25/10/2026 • boletim registrado às 09h59 (horário de Manaus); coletiva do TRE-AM marcada para as 09h",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "09h59 (Manaus)",
+      "fonteNome": "Amazonas1 — declaração atribuída à presidente do TRE-AM",
+      "fonteUrl": "https://amazonas1.com.br/tre-confirma-dois-incendios-criminosos-no-interior-do-estado/",
+      "ordemPublicacao": 15
+    },
     {
       "titulo": "TV A Crítica anuncia cobertura ao vivo da apuração do segundo turno",
       "texto": "A TV A Crítica anunciou transmissão da cobertura eleitoral na televisão e no YouTube, com acompanhamento das disputas para presidente e governador do Amazonas. A divulgação dos resultados oficiais está prevista a partir das 16h no horário de Manaus, após o encerramento da votação.",
