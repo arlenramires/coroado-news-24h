@@ -1,5 +1,22 @@
 [
   {
+    "id": 116,
+    "categoria": "Política",
+    "titulo": "URGENTE: STF prorroga votação até as 19h, mas apuração do segundo turno já começou",
+    "resumo": "Decisão de Cristiano Zanin amplia a votação em todo o país até as 19h de Brasília (18h em Manaus). Mesmo com a prorrogação, o TSE iniciou a divulgação de resultados.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=116",
+    "fonte": "STF; TSE; Metrópoles (25/10/2026)",
+    "corpo": [
+      "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), determinou neste domingo (25) a prorrogação por duas horas do segundo turno das Eleições 2026, até as 19h de Brasília, equivalentes às 18h em Manaus. A medida abrange as seções eleitorais de todo o país.",
+      "A decisão foi tomada após relatos de dificuldades de deslocamento de eleitores, especialmente problemas na oferta de transporte público. O caso foi analisado na Reclamação 101.673.",
+      "A prorrogação não impediu o início da divulgação dos resultados. Apesar da extensão do horário de votação, o sistema do Tribunal Superior Eleitoral (TSE) já apresentava boletins de urna processados após as 17h de Brasília, segundo reportagens publicadas nesta tarde.",
+      "Os resultados divulgados nesse momento são parciais e podem mudar conforme mais seções eleitorais forem totalizadas. O Coroado News 24H acompanha o processo e orienta os leitores a conferir os números na plataforma oficial do TSE.",
+      "Fontes: decisão do STF divulgada pelo Poder360; página de resultados do TSE; reportagem do Metrópoles de 25 de outubro de 2026."
+    ]
+  },
+  {
     "id": 115,
     "categoria": "Política",
     "titulo": "A poucas horas do fim da votação, clima segue tranquilo na Escola Josué Cláudio de Souza, no Coroado",
