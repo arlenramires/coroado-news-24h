@@ -18,9 +18,10 @@
       "Apesar dos relatos de encerramento em diferentes estados, não há balanço nacional consolidado que permita afirmar que a maioria de todas as urnas do Brasil estava fechada naquele momento. As informações sobre a execução da decisão e eventuais providências seguem sujeitas a atualização oficial.",
       "Fontes consultadas em 25/10/2026: Itatiaia (TRE-MG), GZH (TRE-RS), Metrópoles (TRE-DF), Folha de S.Paulo e comunicado sobre totalização do TSE."
     ],
-    "imagem": "assets/urgente-urnas-117.svg",
-    "imagemDestaque": "assets/urgente-urnas-117.svg",
-    "creditoImagem": "Arte editorial ilustrativa — Coroado News 24H"
+    "imagem": "https://midias.correio24horas.com.br/2026/08/12/o-comportamento-eleitoral-em-territorios-chave-e-centros-urbanos-atua-como-um-termometro-indispensavel-para-compreender-as-tendencias-de-um-pleito-e-a-dinamica-de-apuracao-dos-votos-3375881.jpg",
+    "imagemDestaque": "https://midias.correio24horas.com.br/2026/08/12/o-comportamento-eleitoral-em-territorios-chave-e-centros-urbanos-atua-como-um-termometro-indispensavel-para-compreender-as-tendencias-de-um-pleito-e-a-dinamica-de-apuracao-dos-votos-3375881.jpg",
+    "creditoImagem": "Imagem ilustrativa de urna eletrônica — reprodução Correio",
+    "imagemFallback": "assets/urgente-urnas-117.svg"
   },
   {
     "id": 116,
