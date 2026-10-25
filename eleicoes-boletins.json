@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T22:59:46.827693+00:00",
+  "atualizadoEm": "2026-10-25T22:59:58+00:00",
   "boletins": [
+    {
+      "titulo": "APURAÇÃO OFICIAL: Flávio Bolsonaro tem 50,49% e Lula 49,51% com 20,77% das seções totalizadas",
+      "texto": "Boletim parcial do Tribunal Superior Eleitoral (TSE) atualizado às 19h58 de Brasília (18h58 em Manaus) de 25/10/2026: Flávio Bolsonaro (PL) registra 12.985.594 votos, equivalentes a 50,49% dos votos válidos; Lula (PT) soma 12.734.000 votos, ou 49,51%. Foram totalizadas 103.678 das 499.248 seções (20,77%). São números PARCIAIS, sujeitos a mudanças; nenhum candidato está declarado eleito. Fonte: arquivo oficial de resultados do TSE, consulta presidencial do segundo turno.",
+      "horario": "25/10/2026 • dados oficiais de 18h58 (Manaus) / 19h58 (Brasília)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h58 (Manaus)",
+      "fonteNome": "TSE — resultados oficiais",
+      "fonteUrl": "https://resultados.tse.jus.br/oficial/ele2026/6258/dados/br/br-c0001-e006258-u.json",
+      "ordemPublicacao": 1000011
+    },
     {
       "titulo": "APURAÇÃO 2026: Flávio Bolsonaro assume liderança na parcial presidencial",
       "texto": "Às 19h39 (Brasília), 18h39 em Manaus, Flávio Bolsonaro (PL) registrava 50,03% dos votos válidos e Lula (PT), 49,97%, com 13,98% das urnas apuradas. Resultado parcial sujeito a alterações. Fonte: InfoMoney, cobertura ao vivo com dados da apuração.",
