@@ -1,6 +1,12 @@
 {
-  "atualizadoEm": "2026-10-25T07:00:00-04:00",
+  "atualizadoEm": "2026-10-25T07:55:00-04:00",
   "boletins": [
+    {
+      "titulo": "TRE-AM determina providências para transporte gratuito de eleitores no segundo turno",
+      "texto": "Em decisão divulgada em 22 de outubro, a presidência do TRE-AM orientou juízes eleitorais a adotar providências para viabilizar o transporte gratuito de eleitores no segundo turno, incluindo avaliação de veículos e embarcações em áreas de difícil acesso. A implementação depende das medidas locais e da fiscalização da Justiça Eleitoral; a decisão não confirma transporte disponível em todas as localidades.",
+      "horario": "25/10/2026 • Serviço ao eleitor (decisão divulgada em 22/10)",
+      "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-determina-providencias-para-garantir-transporte-gratuito-de-eleitores-no-segundo-turno-das-eleicoes-2026"
+    },
     {
       "titulo": "É hoje: TSE orienta eleitores sobre documentos e regras para votar",
       "texto": "O segundo turno acontece neste domingo (25). O TSE orienta a conferir o local de votação e levar documento oficial com foto; o e-Título serve como identificação quando exibe a foto do eleitor. O celular não pode entrar na cabine de votação. Em Manaus, as seções funcionam das 7h às 16h (horário local).",
