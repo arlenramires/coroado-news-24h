@@ -8,7 +8,8 @@
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "07h38 (fonte)",
       "fonteNome": "A Crítica",
-      "fonteUrl": "https://www.acritica.com/politica/acompanhe-a-apuracao-das-eleicoes-2026-ao-vivo-pela-tv-a-critica/"
+      "fonteUrl": "https://www.acritica.com/politica/acompanhe-a-apuracao-das-eleicoes-2026-ao-vivo-pela-tv-a-critica/",
+      "ordemPublicacao": 14
     },
     {
       "titulo": "Onze municípios do interior do Amazonas têm horário diferente para votar",
@@ -17,7 +18,8 @@
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "07h45 (fonte)",
       "fonteNome": "Portal Tucumã",
-      "fonteUrl": "https://portaltucuma.com.br/urnas-abrem-em-horarios-diferentes-em-municipios-do-amazonas-confira/"
+      "fonteUrl": "https://portaltucuma.com.br/urnas-abrem-em-horarios-diferentes-em-municipios-do-amazonas-confira/",
+      "ordemPublicacao": 13
     },
     {
       "titulo": "Eleitores chegam antes das 7h para evitar filas em Manaus",
@@ -26,7 +28,8 @@
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "07h58 (fonte; atualizada 08h17)",
       "fonteNome": "A Crítica",
-      "fonteUrl": "https://www.acritica.com/politica/eleitores-chegam-antes-das-7h-para-evitar-filas-no-2o-turno-em-manaus/"
+      "fonteUrl": "https://www.acritica.com/politica/eleitores-chegam-antes-das-7h-para-evitar-filas-no-2o-turno-em-manaus/",
+      "ordemPublicacao": 12
     },
     {
       "titulo": "TSE inicia teste de integridade das urnas neste domingo",
@@ -35,7 +38,8 @@
       "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-realiza-teste-de-integridade-das-urnas-eletronicas-no-museu-do-voto",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TSE"
+      "fonteNome": "TSE",
+      "ordemPublicacao": 11
     },
     {
       "titulo": "TSE divulga boletim oficial sobre o segundo turno para presidente e governadores",
@@ -44,7 +48,8 @@
       "fonteUrl": "https://www.tse.jus.br/comunicacao/radio/2026/Outubro/boletim-das-eleicoes-eleitorado-brasileiro-decide-hoje-25-10-em-segundo-turno-o-novo-presidente-da-republica",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TSE"
+      "fonteNome": "TSE",
+      "ordemPublicacao": 10
     },
     {
       "titulo": "TSE alerta para proibição de boca de urna neste domingo",
@@ -53,7 +58,8 @@
       "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/ate-o-fim-da-votacao-propaganda-eleitoral-pode-caracterizar-boca-de-urna",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TSE"
+      "fonteNome": "TSE",
+      "ordemPublicacao": 9
     },
     {
       "titulo": "TRE-AM determina providências para transporte gratuito de eleitores no segundo turno",
@@ -62,7 +68,8 @@
       "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-determina-providencias-para-garantir-transporte-gratuito-de-eleitores-no-segundo-turno-das-eleicoes-2026",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TRE-AM"
+      "fonteNome": "TRE-AM",
+      "ordemPublicacao": 8
     },
     {
       "titulo": "É hoje: TSE orienta eleitores sobre documentos e regras para votar",
@@ -71,7 +78,8 @@
       "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/e-hoje-confira-o-que-levar-e-como-se-preparar-para-votar",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TSE"
+      "fonteNome": "TSE",
+      "ordemPublicacao": 7
     },
     {
       "titulo": "TRE-AM confirma sistema de totalização zerado antes do segundo turno",
@@ -80,7 +88,8 @@
       "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-emite-zeresima-e-confirma-sistema-de-totalizacao-zerado-para-segundo-turno",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TRE-AM"
+      "fonteNome": "TRE-AM",
+      "ordemPublicacao": 6
     },
     {
       "titulo": "TRE-AM seleciona 23 urnas para auditorias do segundo turno",
@@ -89,7 +98,8 @@
       "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-sorteia-23-urnas-para-auditorias-da-votacao-no-2o-turno-das-eleicoes-2026-no-am",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TRE-AM"
+      "fonteNome": "TRE-AM",
+      "ordemPublicacao": 5
     },
     {
       "titulo": "Segundo turno: Manaus não terá Lei Seca neste domingo",
@@ -98,7 +108,8 @@
       "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-e-ssp-am-revogam-lei-seca-em-manaus-para-o-segundo-turno",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TRE-AM"
+      "fonteNome": "TRE-AM",
+      "ordemPublicacao": 4
     },
     {
       "titulo": "Segundo turno: votação em Manaus será das 7h às 16h",
@@ -107,7 +118,8 @@
       "fonteUrl": "https://www.tse.jus.br/eleicoes/cde-2026",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TSE"
+      "fonteNome": "TSE",
+      "ordemPublicacao": 3
     },
     {
       "titulo": "Amazonas também escolhe governador no segundo turno",
@@ -116,7 +128,8 @@
       "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-orienta-eleitores-que-nao-votaram-no-1o-turno-sobre-participacao-no-2o-turno",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TRE-AM"
+      "fonteNome": "TRE-AM",
+      "ordemPublicacao": 2
     },
     {
       "titulo": "TSE anuncia cobertura oficial ao vivo e apuração após encerramento da votação",
@@ -125,7 +138,8 @@
       "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-transmite-ao-vivo-a-cobertura-do-2o-turno-das-eleicoes-2026-no-youtube",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "Não registrada",
-      "fonteNome": "TSE"
+      "fonteNome": "TSE",
+      "ordemPublicacao": 1
     }
   ]
 }
