@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-25T22:32:02.693799+00:00",
+  "atualizadoEm": "2026-10-25T22:59:46.827693+00:00",
   "boletins": [
+    {
+      "titulo": "Eleições 2026: Quais e quantos são os cargos em disputa no segundo turno?",
+      "texto": "Segundo G1 Política: Urna eletrônica completa 30 anos Reprodução/TV Globo Neste domingo (25), os brasileiros voltam às urnas para o segundo turno das Eleições 2026. Desta vez, os eleitores terão menos cargos para escolher do que no primeiro turno, já que a disputa será apenas para presidente da República e, em cinco estados, também para governador. A quantidade de votos na urna eletrônica, portanto, varia de acordo com o estado onde o",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/quais-e-quantos-sao-os-cargos-em-disputa-no-segundo-turno.ghtml",
+      "ordemPublicacao": 1000007
+    },
+    {
+      "titulo": "Eleições 2026: qual a diferença entre o primeiro e o segundo turno? Entenda e veja como votar",
+      "texto": "Segundo G1 Política: Urna eletrônica Giuliano Gomes/PR Press Neste domingo, 25 de outubro, os mais de 158 milhões de eleitores habilitados no Brasil voltarão às urnas eletrônicas para o segundo turno das eleições. AO VIVO: Acompanhe a apuração em todo o Brasil Enquanto o primeiro turno abrange a votação para cargos do legislativo (deputados estaduais, federais e senadores) e executivo (presidente e governadores), o segundo turno é",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-qual-a-diferenca-entre-o-primeiro-e-o-segundo-turno-entenda-e-veja-como-votar.ghtml",
+      "ordemPublicacao": 1000006
+    },
+    {
+      "titulo": "Presidente do PT diz que falta de ônibus caracteriza crime e reafirma tentativa de manipulação da eleição ao citar big techs",
+      "texto": "Segundo G1 Política: Presidente do PT diz que falta de ônibus em SP e Salvador caracteriza crime O presidente nacional do PT, Edinho Silva, disse na tarde deste domingo (25) que “é muito grave” a tentativa de interferência no processo eleitoral por parte de prefeitos de várias cidades do Brasil ao não disponibilizar a quantidade necessária de ônibus para os eleitores no segundo turno. Segundo Edinho, a falta de ônibus em capitais como",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/presidente-do-pt-diz-que-falta-de-onibus-caracteriza-crime-e-reafirma-tentativa-de-manipulacao-da-eleicao-ao-citar-big-techs.ghtml",
+      "ordemPublicacao": 1000005
+    },
+    {
+      "titulo": "Veja a evolução dos votos na apuração para presidente no 2º turno",
+      "texto": "Segundo G1 Política: Os eleitores brasileiros depositaram seus votos neste domingo (4) para o cargo de presidente da República no 2º turno das eleições 2026. As urnas fecharam às 17h, mas a votação foi prorrogada até as 19h por decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF). A apuração também foi interrompida, e a divulgação dos resultados foi retomada após as 19h. Para ilustrar a marcha da apuração, realizada",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/veja-a-evolucao-dos-votos-na-apuracao-para-presidente-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000004
+    },
+    {
+      "titulo": "Coordenador da campanha de Lula diz que ‘houve boicote’ no transporte em capitais governadas pela oposição ao PT",
+      "texto": "Segundo G1 Política: Coordenador da campanha de Lula diz que ‘houve um boicote’ do transporte O coordenador da campanha de reeleição do presidente Lula (PT), o senador Camilo Santana, disse que “houve um boicote claro nas capitais” governadas pela oposição do PT ao citar a suposta interferência no transporte público ocorrida neste domingo (25), segundo turno das eleições. “Houve um boicote, claramente, nas capitais, principalmente no",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/coordenador-da-campanha-de-lula-diz-que-houve-boicote-no-transporte-em-capitais-governadas-pela-oposicao-ao-pt.ghtml",
+      "ordemPublicacao": 1000003
+    },
+    {
+      "titulo": "Presidente do TRE-SP afirma que só recebeu decisão de prorrogar votação às 18h17 e que 'não houve prejuízo para os eleitores'",
+      "texto": "Segundo G1 Política: O presidente do TRE-SP, desembargador José Antonio Encinas Manfré Reprodução/TV Globo O presidente do Tribunal Regional Eleitoral de São Paulo (TRE-SP), desembargador José Antonio Encinas Manfré, afirmou neste domingo (25) que “não houve prejuízo para os eleitores”, apesar dos problemas no transporte público que dificultaram o deslocamento de pessoas aos locais de votação. Manfré disse que o TRE-SP só recebeu a",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/presidente-do-tre-sp-afirma-que-so-recebeu-decisao-de-prorrogar-votacao-as-18h17-e-que-nao-houve-prejuizo-para-os-eleitores.ghtml",
+      "ordemPublicacao": 1000002
+    },
+    {
+      "titulo": "Eleitores relatam urnas fechadas e falta de transporte em Salvador",
+      "texto": "Segundo Agência Brasil: A professora Paula Fernanda Souza, 42 anos, mora em Salvador e conseguiu votar com tranquilidade, por volta das 13h deste domingo (25), dia do segundo turno das eleições. Horas depois, ela conta ter testemunhado diversos eleitores chegando aos locais de votação na capital baiana, encontrando urnas fechadas e até mesmo zonas eleitorais totalmente trancadas – mesmo com a prorrogação de duas horas determinada pelo",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-relatam-urnas-fechadas-e-falta-de-transporte-em-salvador",
+      "ordemPublicacao": 1000001
+    },
+    {
+      "titulo": "PF vai apurar ataque a vereadora de Montes Claros, diz diretor-geral",
+      "texto": "Segundo Agência Brasil: O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, confirmou neste domingo (25) que o órgão vai investigar o ataque contra a vereadora de Montes Claros (MG) Iara Pimentel (PT). Segundo Rodrigues, a parlamentar compareceu nesta manhã à delegacia da PF, na própria cidade, para prestar queixa do ocorrido. “Nossa delegacia foi procurada hoje, pela vítima, que foi ouvida e relatou o episódio”, disse Rodrigues a",
+      "horario": "25/10/2026 • atualização automática às 18h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "18h59 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-vai-apurar-ataque-vereadora-de-montes-claros-diz-diretor-geral",
+      "ordemPublicacao": 1000000
+    },
     {
       "titulo": "APURAÇÃO 2026: confira os resultados parciais da Presidência e do Amazonas",
       "texto": "Presidência: na parcial das 19h19 de Brasília, Lula (PT) registrava 51,49% e Flávio Bolsonaro (PL), 48,51%, com 2,33% das seções totalizadas. Amazonas: na parcial das 19h35 de Brasília, Omar Aziz (PSD) tinha 55,19% e Professora Maria do Carmo (PL), 44,81%, com 30,88% das seções totalizadas. São registros de horários diferentes e NÃO representam o placar instantâneo. Para acompanhar mudanças, consulte o painel oficial do TSE.",
