@@ -1,6 +1,33 @@
 {
-  "atualizadoEm": "2026-10-25T08:59:00-04:00",
+  "atualizadoEm": "2026-10-25T13:03:59.143Z",
   "boletins": [
+    {
+      "titulo": "TV A Crítica anuncia cobertura ao vivo da apuração do segundo turno",
+      "texto": "A TV A Crítica anunciou transmissão da cobertura eleitoral na televisão e no YouTube, com acompanhamento das disputas para presidente e governador do Amazonas. A divulgação dos resultados oficiais está prevista a partir das 16h no horário de Manaus, após o encerramento da votação.",
+      "horario": "Fonte publicada em 25/10/2026 às 07h38 (horário exibido pelo portal)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "07h38 (fonte)",
+      "fonteNome": "A Crítica",
+      "fonteUrl": "https://www.acritica.com/politica/acompanhe-a-apuracao-das-eleicoes-2026-ao-vivo-pela-tv-a-critica/"
+    },
+    {
+      "titulo": "Onze municípios do interior do Amazonas têm horário diferente para votar",
+      "texto": "O Portal Tucumã informa que, em 11 municípios do sudoeste do Amazonas, a votação acontece das 6h às 15h no horário local, enquanto em Manaus e na maior parte do estado ocorre das 7h às 16h. Os municípios são Amaturá, Atalaia do Norte, Benjamin Constant, Eirunepé, Envira, Guajará, Ipixuna, Itamarati, Jutaí, São Paulo de Olivença e Tabatinga.",
+      "horario": "Fonte publicada em 25/10/2026 às 07h45 (horário exibido pelo portal)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "07h45 (fonte)",
+      "fonteNome": "Portal Tucumã",
+      "fonteUrl": "https://portaltucuma.com.br/urnas-abrem-em-horarios-diferentes-em-municipios-do-amazonas-confira/"
+    },
+    {
+      "titulo": "Eleitores chegam antes das 7h para evitar filas em Manaus",
+      "texto": "Reportagem de A Crítica acompanhou a abertura da votação na Escola Estadual Sant’Ana, no bairro Petrópolis, zona Sul de Manaus. Eleitores relataram que chegaram cedo para evitar filas. A votação na capital ocorre das 7h às 16h. Esta é uma reportagem de movimentação de eleitores, não um balanço de ocorrências policiais.",
+      "horario": "Fonte publicada em 25/10/2026 às 07h58 e atualizada às 08h17 (horário exibido pelo portal)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "07h58 (fonte; atualizada 08h17)",
+      "fonteNome": "A Crítica",
+      "fonteUrl": "https://www.acritica.com/politica/eleitores-chegam-antes-das-7h-para-evitar-filas-no-2o-turno-em-manaus/"
+    },
     {
       "titulo": "TSE inicia teste de integridade das urnas neste domingo",
       "texto": "O Tribunal Superior Eleitoral informou que iniciou nesta manhã, em Brasília, o teste de integridade das urnas eletrônicas no Museu do Voto. O procedimento ocorre simultaneamente nas capitais e no Distrito Federal, com acompanhamento público e transmissão pela internet. A auditoria não representa resultado de votação.",
