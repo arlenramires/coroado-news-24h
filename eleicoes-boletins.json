@@ -1,6 +1,12 @@
 {
-  "atualizadoEm": "2026-10-25T07:55:00-04:00",
+  "atualizadoEm": "2026-10-25T08:53:00-04:00",
   "boletins": [
+    {
+      "titulo": "TSE divulga boletim oficial sobre o segundo turno para presidente e governadores",
+      "texto": "Em boletim publicado neste domingo (25), o TSE informa que o eleitorado brasileiro escolhe o presidente da República no segundo turno. Em seis estados, incluindo o Amazonas, também ocorre votação para governador. Os resultados serão divulgados pelos canais oficiais após o encerramento da votação.",
+      "horario": "25/10/2026 • 07h00 Manaus (boletim do TSE publicado às 08h00 Brasília; atualizado às 08h27 Brasília)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/radio/2026/Outubro/boletim-das-eleicoes-eleitorado-brasileiro-decide-hoje-25-10-em-segundo-turno-o-novo-presidente-da-republica"
+    },
     {
       "titulo": "TRE-AM determina providências para transporte gratuito de eleitores no segundo turno",
       "texto": "Em decisão divulgada em 22 de outubro, a presidência do TRE-AM orientou juízes eleitorais a adotar providências para viabilizar o transporte gratuito de eleitores no segundo turno, incluindo avaliação de veículos e embarcações em áreas de difícil acesso. A implementação depende das medidas locais e da fiscalização da Justiça Eleitoral; a decisão não confirma transporte disponível em todas as localidades.",
