@@ -1,5 +1,38 @@
 [
   {
+    "id": 110,
+    "categoria": "Trânsito",
+    "titulo": "Homem morre após atropelamento nas proximidades da Ponte Rio Negro, em Manaus",
+    "resumo": "Ocorrência foi registrada na noite de sábado (24), perto do fim da Ponte Jornalista Phelippe Daou. Identidade da vítima e circunstâncias do acidente ainda não foram esclarecidas.",
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Journalist_Phelippe_Daou_Bridge.jpg",
+    "imagemLegenda": "Imagem de arquivo da Ponte Jornalista Phelippe Daou, conhecida como Ponte Rio Negro. Foto ilustrativa, não mostra o acidente.",
+    "imagemCredito": "Ana Claudia Jatahy / MTUR — Wikimedia Commons (CC0), foto de arquivo de 2018",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=110",
+    "fonte": "Redação Coroado News 24h",
+    "corpo": [
+      "Um homem morreu após ser atingido por um veículo na noite de sábado (24), nas proximidades do fim da Ponte Jornalista Phelippe Daou, conhecida como Ponte Rio Negro, que liga Manaus a Iranduba. A ocorrência foi noticiada por veículos de comunicação locais e chamou a atenção de motoristas que passavam pelo trecho.",
+      "De acordo com os relatos iniciais, o Serviço de Atendimento Móvel de Urgência (Samu) foi acionado, mas a vítima já estava sem vida quando a equipe chegou. Até a publicação desta notícia, o nome e a idade do homem não haviam sido divulgados oficialmente.",
+      "As circunstâncias do atropelamento ainda precisam ser esclarecidas. Não há confirmação sobre o sentido da via em que a vítima estava, nem informações verificadas sobre o modelo do veículo ou a identidade do motorista.",
+      "Imagens feitas por pessoas que estavam na região circularam nas redes sociais. Os registros são sensíveis e podem mostrar cenas após o atropelamento; por respeito à vítima e à família, recomenda-se cautela ao assistir.",
+      "O caso deverá ser apurado pelas autoridades responsáveis. O Coroado News 24h acompanha a ocorrência e poderá atualizar a matéria quando houver informações oficiais sobre a identificação da vítima e a dinâmica do acidente."
+    ],
+    "videoSensivel": true,
+    "videos": [
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/24195952/WhatsApp-Video-2026-10-24-at-19.53.20.mp4",
+        "legenda": "Registro da ocorrência divulgado na internet — imagens sensíveis. Reprodução hospedada na fonte original."
+      },
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/24200235/WhatsApp-Video-2026-10-24-at-19.53.21.mp4",
+        "legenda": "Segundo registro divulgado sobre a ocorrência — imagens sensíveis. Reprodução hospedada na fonte original."
+      }
+    ]
+  },
+  {
     "id": 109,
     "categoria": "Polícia",
     "titulo": "Vídeo de extrema violência atribuído a criminosos circula nas redes; origem e autoria ainda não foram confirmadas",
