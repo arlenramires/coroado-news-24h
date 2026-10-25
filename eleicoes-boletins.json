@@ -1,6 +1,17 @@
 {
-  "atualizadoEm": "2026-10-25T20:56:44.504Z",
+  "atualizadoEm": "2026-10-25T20:57:34.056Z",
   "boletins": [
+    {
+      "titulo": "🚨 URGENTE: TREs relatam urnas encerradas e impossibilidade de reabertura após prorrogação",
+      "texto": "Reportagens publicadas em 25/10 confirmam que TREs de Minas Gerais, Rio Grande do Sul e Distrito Federal relataram urnas já encerradas às 17h e impossibilidade técnica de reabri-las após decisão do STF de prorrogar a votação até 19h. No DF, 36 seções já haviam transmitido resultados. O TSE suspendeu temporariamente a totalização. Não existe confirmação de que a maioria das urnas do país estivesse fechada. Leia a matéria completa: https://coroadonews24h.com.br/noticia.html?id=117",
+      "horario": "25/10/2026 • boletim extraordinário",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "Boletim extraordinário",
+      "fonteNome": "TRE-MG / TRE-RS / TRE-DF",
+      "fonteUrl": "https://www.itatiaia.com.br/politica/eleicoes/tre-mg-mantem-apuracao-e-aguarda-notificacao-do-stf-sobre-prorrogacao-da-votacao/",
+      "ordemPublicacao": 139,
+      "destaque": true
+    },
     {
       "titulo": "Polícia investiga danos a teclas de urnas em São Paulo e Mato Grosso do Sul",
       "texto": "Ocorrências de teclas de urnas eletrônicas danificadas com cola foram relatadas neste domingo (25) em Chapadão do Sul (MS) e Barueri (SP). Em Mato Grosso do Sul, o equipamento foi substituído e a votação prosseguiu. Em Barueri, um homem foi levado à delegacia, segundo a Secretaria de Segurança Pública paulista. A reportagem não confirma que os envolvidos permaneceram presos. Os casos são investigados; não há indicação de alteração dos votos já registrados.",
