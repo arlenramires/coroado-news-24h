@@ -1,4 +1,23 @@
 {
-  "atualizadoEm": null,
-  "boletins": []
+  "atualizadoEm": "2026-10-25T01:50:00-04:00",
+  "boletins": [
+    {
+      "titulo": "Segundo turno: votação em Manaus será das 7h às 16h",
+      "texto": "A Justiça Eleitoral definiu votação das 8h às 17h no horário de Brasília. Em Manaus, que está uma hora atrás, o atendimento às eleitoras e aos eleitores será das 7h às 16h. Confira seu local de votação antes de sair de casa.",
+      "horario": "25/10/2026 • Serviço ao eleitor",
+      "fonteUrl": "https://www.tse.jus.br/eleicoes/cde-2026"
+    },
+    {
+      "titulo": "Amazonas também escolhe governador no segundo turno",
+      "texto": "Além da escolha para presidente da República, o eleitorado do Amazonas vota para governador neste domingo, 25 de outubro. O TRE-AM esclarece que quem faltou ao primeiro turno pode votar normalmente no segundo, desde que esteja apto a votar.",
+      "horario": "25/10/2026 • Orientação do TRE-AM",
+      "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-orienta-eleitores-que-nao-votaram-no-1o-turno-sobre-participacao-no-2o-turno"
+    },
+    {
+      "titulo": "TSE anuncia cobertura oficial ao vivo e apuração após encerramento da votação",
+      "texto": "O Tribunal Superior Eleitoral anunciou transmissão oficial no YouTube a partir das 7h45 de Brasília (6h45 em Manaus). A programação acompanhará o dia eleitoral e dará destaque à apuração a partir das 17h de Brasília (16h em Manaus). O Coroado News 24h divulgará resultados apenas quando confirmados oficialmente.",
+      "horario": "25/10/2026 • Programação anunciada pelo TSE",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-transmite-ao-vivo-a-cobertura-do-2o-turno-das-eleicoes-2026-no-youtube"
+    }
+  ]
 }
