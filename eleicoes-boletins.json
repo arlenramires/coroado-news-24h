@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T21:34:31.598968+00:00",
+  "atualizadoEm": "2026-10-25T21:59:04+00:00",
   "boletins": [
+    {
+      "titulo": "Antes da suspensão, TSE havia totalizado 1.225 seções, informa Agência Brasil",
+      "texto": "Segundo reportagem da Agência Brasil publicada em 25 de outubro e atualizada às 17h40 (horário de Brasília), a totalização nacional foi suspensa às 17h06, após decisão do STF de prorrogar a votação. Naquele instante, 1.225 das 499.248 seções haviam sido totalizadas, somando 335.743 votos válidos. Esses números são um retrato anterior à suspensão, não representam resultado atualizado nem projeção de vencedor. Acompanhe eventuais mudanças somente pelo TSE.",
+      "horario": "25/10/2026 • atualização verificada às 17h59 (Manaus); dados da fonte às 17h40 (Brasília)",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/zanin-manda-ampliar-horario-de-votacao-ate-19h",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "17h59 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "ordemPublicacao": 156
+    },
     {
       "titulo": "Eleições 2026: Como saber minha zona e seção eleitoral?",
       "texto": "Segundo G1 Política: Como saber minha zona e seção eleitoral? Reprodução/TV Globo Para votar no segundo turno das Eleições 2026, o eleitor pode consultar pela internet qual é sua zona e seção eleitoral e o endereço do local de votação. A consulta está disponível no Portal do Tribunal Superior Eleitoral (TSE) e pelo aplicativo e-Título. 🔴 AO VIVO: Acompanhe a apuração em todo o Brasil A Justiça Eleitoral recomenda que o eleitor confira",
