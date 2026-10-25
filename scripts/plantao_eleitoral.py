@@ -1,0 +1,88 @@
+#!/usr/bin/env python3
+"""Plantão Coroado News: monitoramento de feeds públicos, sem invenção de fatos."""
+import datetime as dt
+import html
+import json
+import re
+import urllib.request
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+FILE = ROOT / "eleicoes-boletins.json"
+SOURCES = [
+    ("TSE — notícias oficiais", "https://www.tse.jus.br/comunicacao/noticias/RSS"),
+    ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"),
+    ("G1 Amazonas", "https://g1.globo.com/rss/g1/am/amazonas/"),
+]
+PATTERN = re.compile(r"eleiç|eleitor|apuraç|votaç|urnas?|tse|tre-am|segundo turno|presiden", re.I)
+NS = {"a": "http://www.w3.org/2005/Atom"}
+NOW = dt.datetime.now(dt.timezone.utc)
+
+def get_text(el, tag):
+    node = el.find(tag)
+    return (node.text or "").strip() if node is not None else ""
+
+def clean(s):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]*>", " ", s or ""))).strip()
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "CoroadoNews24h/1.0 (news monitoring)"})
+    with urllib.request.urlopen(req, timeout=18) as response:
+        return response.read(2_000_000)
+
+def entries(xml):
+    root = ET.fromstring(xml)
+    result = []
+    for item in root.findall(".//item"):
+        result.append((get_text(item,"title"),get_text(item,"link"),get_text(item,"description"),get_text(item,"pubDate")))
+    for item in root.findall(".//a:entry",NS):
+        link = item.find("a:link",NS)
+        result.append((get_text(item,"a:title"),link.get("href","") if link is not None else "",get_text(item,"a:summary") or get_text(item,"a:content"),get_text(item,"a:updated") or get_text(item,"a:published")))
+    return result
+
+def recent(s):
+    try:
+        t=parsedate_to_datetime(s) if "," in s else dt.datetime.fromisoformat(s.replace("Z","+00:00"))
+        if t.tzinfo is None: t=t.replace(tzinfo=dt.timezone.utc)
+        return dt.timedelta(0)<=NOW-t.astimezone(dt.timezone.utc)<=dt.timedelta(hours=30)
+    except Exception:
+        return False
+
+def main():
+    data=json.loads(FILE.read_text(encoding="utf-8"))
+    items=data.setdefault("boletins",[])
+    seen={str(x.get("fonteUrl","")).strip() for x in items}
+    order=max([int(x.get("ordemPublicacao",0)) for x in items] or [0])
+    added=[]
+    for name,url in SOURCES:
+        try:
+            feed=entries(fetch(url))
+        except Exception as exc:
+            print(f"Fonte indisponível {name}: {exc}")
+            continue
+        for title,link,summary,published in feed:
+            title=clean(title);summary=clean(summary);link=link.strip()
+            if not (title and link and published and recent(published) and PATTERN.search(title+" "+summary)):
+                continue
+            if link in seen or not link.startswith("https://"):
+                continue
+            # Resumo atribuído explicitamente à fonte, não apresentado como verificação independente.
+            summary=summary[:420].rsplit(" ",1)[0] if len(summary)>420 else summary
+            if len(summary)<45:
+                continue
+            order+=1
+            local=NOW.astimezone(dt.timezone(dt.timedelta(hours=-4)))
+            added.append({"titulo":title,"texto":"Segundo "+name+": "+summary,"horario":local.strftime("%d/%m/%Y • atualização automática às %Hh%M (Manaus)"),"dataPublicacao":local.strftime("%d/%m/%Y"),"horaPublicacao":local.strftime("%Hh%M (Manaus)"),"fonteNome":name,"fonteUrl":link,"ordemPublicacao":order})
+            seen.add(link)
+            if len(added)>=8: break
+        if len(added)>=8: break
+    if added:
+        data["boletins"]=list(reversed(added))+items
+        data["atualizadoEm"]=NOW.isoformat()
+        FILE.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    print(f"Boletins novos: {len(added)}; fontes consultadas: {len(SOURCES)}")
+
+if __name__=="__main__":
+    main()
