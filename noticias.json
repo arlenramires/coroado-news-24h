@@ -1,5 +1,24 @@
 [
   {
+    "id": 118,
+    "categoria": "Política",
+    "titulo": "Omar Aziz é eleito governador do Amazonas no segundo turno de 2026",
+    "resumo": "Omar Aziz (PSD) venceu a disputa pelo Governo do Amazonas contra Professora Maria do Carmo (PL), segundo projeção do Datafolha noticiada pela Folha de S.Paulo e reportagem do D24AM.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=118",
+    "fonte": "Folha de S.Paulo/Datafolha; D24AM (25/10/2026)",
+    "corpo": [
+      "Omar Aziz (PSD) foi apontado como eleito governador do Amazonas no segundo turno das eleições de 2026, realizado neste domingo (25), após disputa com Professora Maria do Carmo (PL). A projeção da vitória foi divulgada pelo Datafolha, conforme reportagem da Folha de S.Paulo.",
+      "O portal D24AM também noticiou a vitória de Omar Aziz no segundo turno. O resultado representa o retorno do político ao comando do Executivo amazonense.",
+      "Na parcial da apuração citada pela Folha, com 86,24% das urnas contabilizadas, Omar Aziz aparecia com 60,02% dos votos válidos, ante 39,98% de Maria do Carmo. Esses percentuais são de uma parcial e não representam necessariamente o resultado final.",
+      "O Coroado News 24H acompanha a consolidação da totalização dos votos. Os números definitivos devem ser conferidos na plataforma oficial do Tribunal Superior Eleitoral (TSE)."
+    ],
+    "imagem": "https://legis.senado.leg.br/senadores/fotos-oficiais/5525",
+    "imagemDestaque": "https://legis.senado.leg.br/senadores/fotos-oficiais/5525",
+    "creditoImagem": "Foto oficial — Senado Federal (retrato de arquivo)"
+  },
+  {
     "id": 117,
     "categoria": "Política",
     "titulo": "Urnas fechadas após decisão do STF provocam impasse em estados; TREs dizem que não é possível reabrir votação",
