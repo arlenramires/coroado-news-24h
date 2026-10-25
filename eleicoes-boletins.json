@@ -1,6 +1,28 @@
 {
-  "atualizadoEm": "2026-10-25T20:40:19.033776+00:00",
+  "atualizadoEm": "2026-10-25T20:53:22.436Z",
   "boletins": [
+    {
+      "titulo": "🚨 URGENTE: STF prorroga votação em todo o Brasil até as 19h de Brasília",
+      "texto": "O ministro Cristiano Zanin, do STF, determinou neste domingo (25/10) a prorrogação do segundo turno em todas as seções eleitorais do país até as 19h de Brasília (18h em Manaus). A decisão ocorreu após reclamações sobre falta de transporte público para eleitores. O TSE ficou responsável pelo cumprimento da medida.",
+      "horario": "25/10/2026 • plantão eleitoral (horário de Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "Plantão eleitoral",
+      "fonteNome": "STF / Poder360",
+      "fonteUrl": "https://www.poder360.com.br/poder-eleicoes-2026/zanin-prorroga-votacao-do-2o-turno-ate-19h/",
+      "ordemPublicacao": 133,
+      "destaque": true
+    },
+    {
+      "titulo": "🚨 TSE pausa divulgação da apuração após prorrogação da votação",
+      "texto": "A divulgação dos resultados do segundo turno começou às 17h de Brasília, mas foi pausada após a decisão do STF de ampliar a votação até as 19h. Antes da interrupção, apenas 0,25% das seções haviam sido totalizadas. Os números iniciais são parciais e não indicam resultado definitivo. O Coroado News 24H acompanha os novos boletins oficiais.",
+      "horario": "25/10/2026 • plantão eleitoral (horário de Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "Plantão eleitoral",
+      "fonteNome": "Bloomberg Línea",
+      "fonteUrl": "https://www.bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente/",
+      "ordemPublicacao": 132,
+      "destaque": true
+    },
     {
       "titulo": "Eleições 2026: o que acontece se Lula e Flávio Bolsonaro empatarem no segundo turno?",
       "texto": "Segundo G1 Política: Lula e Flávio Bolsonaro na Globo — Foto: Lula (à esquerda) e Flávio Bolsonaro (à direita) disputam o 2º turno Divulgação Os brasileiros vão às urnas neste domingo (25) para escolher o próximo presidente da República. A disputa do segundo turno das Eleições 2026 acontece entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Mas o que acontece se os dois candidatos terminarem a votação com exatamente o mesmo",
