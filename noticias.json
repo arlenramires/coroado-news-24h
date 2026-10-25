@@ -1,5 +1,28 @@
 [
   {
+    "id": 117,
+    "categoria": "Política",
+    "titulo": "Urnas fechadas após decisão do STF provocam impasse em estados; TREs dizem que não é possível reabrir votação",
+    "resumo": "Prorrogação nacional até as 19h foi anunciada após o fechamento de seções. Tribunais de MG, RS e DF relatam impedimento técnico e falta de tempo para orientar mesários.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=117",
+    "fonte": "TRE-MG (Itatiaia); TRE-RS (GZH); TRE-DF (Metrópoles); Folha; TSE",
+    "corpo": [
+      "A prorrogação do segundo turno das eleições de 2026 até as 19h (horário de Brasília), determinada neste domingo (25) pelo ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), provocou um impasse operacional em diversas regiões do país. A decisão foi divulgada quando seções eleitorais já haviam encerrado a votação no horário inicialmente previsto, às 17h.",
+      "Em Minas Gerais, o Tribunal Regional Eleitoral (TRE-MG) informou que o encerramento das urnas já estava em andamento e que não existe possibilidade técnica de reabrir equipamentos oficialmente fechados para receber novos votos. O tribunal relatou ainda que aguardava comunicação formal sobre a prorrogação.",
+      "No Rio Grande do Sul, o secretário de Tecnologia da Informação do TRE-RS, Daniel Wobeto, explicou que a urna encerrada não volta a receber votos no mesmo turno. Segundo ele, praticamente todas as seções gaúchas já tinham concluído os trabalhos quando a ordem começou a circular.",
+      "No Distrito Federal, o TRE-DF informou que pelo menos 36 seções já haviam transmitido os resultados à central de totalização. O tribunal afirmou que não havia tempo hábil para avisar todas as seções e que, depois de fechadas, as urnas não poderiam ser reabertas.",
+      "Em São Paulo, mesários relataram incertezas sobre como proceder, enquanto algumas seções já tinham impresso os boletins de urna e outras aguardavam orientação da Justiça Eleitoral. O Tribunal Superior Eleitoral (TSE) chegou a suspender a totalização nacional dos votos após o anúncio da prorrogação.",
+      "A ampliação do horário foi determinada após reclamações relacionadas à oferta de transporte para eleitores. A decisão judicial não significa que votos já registrados tenham sido anulados.",
+      "Apesar dos relatos de encerramento em diferentes estados, não há balanço nacional consolidado que permita afirmar que a maioria de todas as urnas do Brasil estava fechada naquele momento. As informações sobre a execução da decisão e eventuais providências seguem sujeitas a atualização oficial.",
+      "Fontes consultadas em 25/10/2026: Itatiaia (TRE-MG), GZH (TRE-RS), Metrópoles (TRE-DF), Folha de S.Paulo e comunicado sobre totalização do TSE."
+    ],
+    "imagem": "https://imagens.ebc.com.br/2AQYCfYB92bIve1_ZwoZYnDeda0%3D/1024x768/https%3A//agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/0d4a5309.jpg?itok=idTtIjuK%3Fdownload",
+    "imagemDestaque": "https://imagens.ebc.com.br/2AQYCfYB92bIve1_ZwoZYnDeda0%3D/1024x768/https%3A//agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/0d4a5309.jpg?itok=idTtIjuK%3Fdownload",
+    "creditoImagem": "Joédson Alves/Agência Brasil — imagem ilustrativa da votação"
+  },
+  {
     "id": 116,
     "categoria": "Política",
     "titulo": "URGENTE: STF prorroga votação até as 19h, mas apuração do segundo turno já começou",
