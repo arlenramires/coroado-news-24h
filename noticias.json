@@ -1,5 +1,23 @@
 [
   {
+    "id": 119,
+    "categoria": "Política",
+    "titulo": "TSE registra 1.351 urnas substituídas até as 15h31 no segundo turno; apuração começa às 16h em Manaus",
+    "resumo": "Terceiro boletim do TSE aponta substituição de 1.351 urnas no país e no exterior, sem votação manual. TRE-AM prepara novo balanço de ocorrências no Amazonas.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "fonte": "Tribunal Superior Eleitoral (3º boletim de 25/10/2026) e TRE-AM",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/3o-boletim-confira-as-principais-informacoes-das-eleicoes-neste-domingo-25",
+    "corpo": [
+      "O Tribunal Superior Eleitoral (TSE) divulgou o terceiro boletim do segundo turno das Eleições 2026, com dados coletados até as 15h30, no horário de Brasília, deste domingo (25). O levantamento aponta 1.351 urnas eletrônicas substituídas em todo o Brasil e no exterior até as 15h31, equivalente a aproximadamente 0,25% dos equipamentos instalados.",
+      "Segundo o balanço divulgado, nenhuma seção eleitoral precisou recorrer à votação manual por cédulas de papel até aquele momento. Os dados são parciais e podem ser atualizados pela Justiça Eleitoral.",
+      "No Amazonas, o relatório anterior, das 12h de Brasília, apontava três urnas substituídas. O Coroado News 24H não trata esse número anterior como total atualizado do estado até as 15h30.",
+      "O TRE-AM havia informado, em coletiva da manhã, ocorrências como incêndios em Autazes e Parintins, acidente envolvendo equipe eleitoral no interior e averiguação de possível ameaça em uma escola de Manaus. O resultado definitivo da averiguação não constava daquele primeiro balanço. Uma nova coletiva estava prevista para as 16h, horário local.",
+      "A totalização dos votos tem início após o encerramento da votação, às 17h de Brasília, correspondentes às 16h de Manaus. O painel de resultados oficiais do TSE divulga os números à medida que os boletins de urna são processados.",
+      "Fontes: TSE, terceiro boletim do segundo turno, 25/10/2026; TRE-AM, coletiva de imprensa deste domingo."
+    ]
+  },
+  {
     "id": 116,
     "categoria": "Política",
     "titulo": "Segurança eleitoral: Ministério da Justiça registra 89 ocorrências no país até o meio-dia",
