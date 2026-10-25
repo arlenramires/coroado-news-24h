@@ -1,5 +1,59 @@
 [
   {
+    "id": 111,
+    "categoria": "Política",
+    "titulo": "Flávio Bolsonaro vota no Rio de Janeiro e comenta expectativas para o segundo turno",
+    "resumo": "Candidato do PL votou na manhã deste domingo (25) em Vila Isabel, na Zona Norte do Rio, e conversou com jornalistas após deixar a seção eleitoral.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=111",
+    "fonte": "Portal LeoDias; Portal GO 020",
+    "fonteUrl": "https://portalgo020.com.br/2026/10/flavio-vota-no-rio-de-janeiro-e-fala-da-campanha-chegou-a-hora-da-mudanca.html",
+    "corpo": [
+      "O candidato à Presidência da República Flávio Bolsonaro (PL) votou na manhã deste domingo (25), durante o segundo turno das eleições de 2026, em uma unidade eleitoral localizada em Vila Isabel, na Zona Norte do Rio de Janeiro.",
+      "Ele estava acompanhado da esposa, Fernanda Bolsonaro, e foi abordado por jornalistas após registrar o voto. A movimentação foi acompanhada pela repórter Monique Arruda, do Portal LeoDias, segundo relato publicado também pelo Portal GO 020.",
+      "Durante a conversa com a imprensa, o candidato declarou: “Chegou a hora da mudança”. A frase expressa a posição de sua campanha e não constitui uma indicação do resultado das urnas.",
+      "A votação segue o calendário estabelecido pela Justiça Eleitoral. Declarações de candidatos feitas antes do encerramento do pleito não antecipam a apuração oficial.",
+      "O Coroado News 24h acompanha o segundo turno com informações atribuídas às respectivas fontes e dados oficiais à medida que são disponibilizados."
+    ]
+  },
+  {
+    "id": 112,
+    "categoria": "Fofoca Famosa",
+    "titulo": "Ana Castela aparece em balada de Orlando acompanhada de Jon Vlogs",
+    "resumo": "Cantora esteve em uma casa noturna da Flórida na noite de sábado (24), durante apresentação do duo Cat Dealers, segundo reportagem publicada neste domingo.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=112",
+    "fonte": "Portal LeoDias",
+    "fonteUrl": "https://portalleodias.com/famosos/ana-castela-curte-balada-em-orlando-ao-lado-de-jon-vlogs",
+    "corpo": [
+      "A cantora Ana Castela aproveitou a noite de sábado (24) em uma casa noturna de Orlando, nos Estados Unidos. Registros divulgados neste domingo (25) mostram a artista em meio ao público, acompanhada do influenciador Jon Vlogs.",
+      "Segundo reportagem do Portal LeoDias, o empresário Rodrigo Branco também estava com o grupo. A programação musical da noite incluiu uma apresentação de Cat Dealers, duo de música eletrônica formado pelos irmãos Lugui e Pedrão.",
+      "A artista está nos Estados Unidos durante uma temporada que reúne compromissos profissionais e momentos de lazer. Uma apresentação está prevista para 30 de outubro, conforme a agenda citada pela publicação.",
+      "A presença dos dois no mesmo evento não confirma relacionamento amoroso. Até o momento, os registros descritos na reportagem documentam a companhia no evento, sem comprovar qualquer vínculo além disso.",
+      "O Coroado News 24h acompanha as novidades do entretenimento e mantém a distinção entre imagens verificadas e especulações divulgadas nas redes."
+    ]
+  },
+  {
+    "id": 113,
+    "categoria": "Política",
+    "titulo": "Flávio Bolsonaro obtém maioria dos votos em seis países asiáticos, apontam boletins parciais",
+    "resumo": "Boletins de urna do segundo turno divulgados até a manhã deste domingo (25) mostram o candidato à frente no Japão, Filipinas, Indonésia, Malásia, Tailândia e Taiwan. Os números não representam o resultado nacional.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=113",
+    "fonte": "Portal LeoDias; boletins de urna atribuídos ao TSE",
+    "fonteUrl": "https://portalleodias.com/politica/2o-turno-flavio-bolsonaro-vence-no-japao-filipinas-indonesia-malasia-tailandia-e-taiwan",
+    "corpo": [
+      "A votação do segundo turno presidencial de 2026 já foi encerrada em parte da Ásia, onde a diferença de fuso horário permite conhecer os boletins de urna antes do fim da votação no Brasil. Segundo levantamento publicado pelo Portal LeoDias na manhã deste domingo (25), Flávio Bolsonaro (PL) recebeu a maioria dos votos válidos contabilizados em seis países asiáticos.",
+      "No Japão, o candidato obteve 28.538 votos, equivalentes a 80,08% dos votos válidos informados. Nas Filipinas, foram 39 votos (59,09%); na Indonésia, 23 (60,53%); na Malásia, 44 (51,76%); na Tailândia, 60 (51,72%); e em Taiwan, 130 (58,04%).",
+      "As margens foram pequenas em alguns países. Na Malásia, a diferença entre os candidatos foi de três votos; na Tailândia, de quatro, conforme os boletins citados na reportagem.",
+      "Esses dados descrevem somente os locais e as seções eleitorais abrangidos pelo levantamento naquele momento. Não indicam o vencedor do segundo turno no Brasil, nem substituem a totalização oficial do Tribunal Superior Eleitoral.",
+      "O Coroado News 24h acompanha a divulgação de informações eleitorais e atualizará os números quando houver novas confirmações oficiais."
+    ]
+  },
+  {
     "id": 110,
     "categoria": "Trânsito",
     "titulo": "Homem morre após atropelamento nas proximidades da Ponte Rio Negro, em Manaus",
