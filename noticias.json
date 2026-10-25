@@ -1,5 +1,25 @@
 [
   {
+    "id": 114,
+    "categoria": "Política",
+    "titulo": "Segundo turno: votação tranquila na Escola Professor Reinaldo Thompson, no Coroado",
+    "resumo": "Registro feito na Escola Professor Reinaldo Thompson mostra movimentação reduzida e ambiente tranquilo durante a votação no bairro Coroado, Zona Leste de Manaus.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=114",
+    "fonte": "Redação Coroado News 24H — registro local",
+    "corpo": [
+      "A votação do segundo turno das eleições de 2026 transcorre em clima de tranquilidade na Escola Professor Reinaldo Thompson, no bairro Coroado, Zona Leste de Manaus, conforme registro e relato encaminhados ao Coroado News 24H neste domingo (25).",
+      "Na imagem feita em frente à unidade de ensino, é possível observar poucas pessoas próximas à entrada e ausência de grandes filas ou aglomerações naquele instante. A circulação no entorno da escola parece ocorrer normalmente.",
+      "De acordo com o relato recebido pela redação, não foram observados tumultos nem ocorrências no local durante o período acompanhado. A informação se refere especificamente à situação registrada na Escola Professor Reinaldo Thompson, e não representa um levantamento de todas as seções eleitorais do Coroado.",
+      "O movimento discreto em frente ao prédio chama atenção em um dia importante para a participação dos eleitores. Mesmo com o fluxo reduzido no momento do registro, a escola segue como ponto de referência para os moradores que comparecem para votar.",
+      "O Coroado News 24H acompanha a movimentação eleitoral em Manaus e continuará informando eventuais mudanças com base em registros locais e informações oficiais da Justiça Eleitoral."
+    ],
+    "imagem": "",
+    "imagemLegenda": "Fachada da Escola Professor Reinaldo Thompson, no Coroado, durante o segundo turno. Foto original enviada à redação, aguardando disponibilização no portal.",
+    "imagemCredito": "Registro enviado à redação do Coroado News 24H"
+  },
+  {
     "id": 111,
     "categoria": "Política",
     "titulo": "Flávio Bolsonaro vota no Rio de Janeiro e comenta expectativas para o segundo turno",
