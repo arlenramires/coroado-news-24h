@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T19:32:23.900344+00:00",
+  "atualizadoEm": "2026-10-25T19:53:19.398Z",
   "boletins": [
+    {
+      "titulo": "TSE publica 3º boletim do segundo turno com dados até as 15h30",
+      "texto": "O Tribunal Superior Eleitoral publicou o terceiro boletim oficial das Eleições 2026, com dados apurados até as 15h30 (horário de Brasília). Os relatórios incluem ocorrências, biometria, substituição de urnas e quadro geral de quantitativos. A votação no Amazonas se encerra às 16h (horário de Manaus), quando começa a divulgação progressiva dos resultados oficiais. Os números de votação só devem ser informados após a totalização pelo TSE.",
+      "horario": "25/10/2026 • boletim oficial das 15h30 (Brasília) / 14h30 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "15h30 (Brasília)",
+      "fonteNome": "TSE — 3º Boletim",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/3o-boletim-confira-as-principais-informacoes-das-eleicoes-neste-domingo-25",
+      "ordemPublicacao": 106
+    },
     {
       "titulo": "Qual é o número de Lula, candidato do PT à Presidência da República",
       "texto": "Segundo G1 Política: Luiz Inácio Lula da Silva é candidato à Presidência da República pelo PT. O número de urna é 13. Veja mais detalhes sobre a candidatura. AO VIVO: Acompanhe a apuração em todo o Brasil Na ferramenta Quem são os candidatos, do g1, você encontra informações do TSE sobre todos os candidatos a presidente, como histórico eleitoral, declaração de bens e os gastos da campanha. Clique aqui para acessar. Cargos em disputa e",
