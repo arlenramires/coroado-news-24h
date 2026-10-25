@@ -3,13 +3,15 @@
   "boletins": [
     {
       "titulo": "TRE-AM relata incêndio em Parintins na manhã do segundo turno",
-      "texto": "Durante entrevista coletiva realizada neste domingo (25), a presidente do TRE-AM, desembargadora Carla Reis, informou que o tribunal recebeu nesta manhã notícia de um incêndio criminoso em Parintins. Segundo relato da magistrada reproduzido pelo portal Amazonas1, equipes já atuavam para controlar a situação. Ela também mencionou uma ocorrência distinta em Autazes, comunicada no sábado (24), que não deve ser confundida com o registro de hoje. Até a publicação deste boletim, não havia detalhes oficiais adicionais sobre local exato, danos ou eventuais detenções. O Coroado News 24h acompanha novas confirmações.",
+      "texto": "Durante coletiva neste domingo (25), a presidente do TRE-AM, Carla Reis, relatou dois incêndios criminosos no interior do Amazonas: um comunicado no sábado em Autazes e outro informado na manhã de hoje em Parintins. Segundo a magistrada, equipes atuavam no combate às chamas. O vídeo abaixo mostra a declaração sobre as ocorrências.",
       "horario": "25/10/2026 • boletim registrado às 09h59 (horário de Manaus); coletiva do TRE-AM marcada para as 09h",
       "dataPublicacao": "25/10/2026",
       "horaPublicacao": "09h59 (Manaus)",
       "fonteNome": "Amazonas1 — declaração atribuída à presidente do TRE-AM",
       "fonteUrl": "https://amazonas1.com.br/tre-confirma-dois-incendios-criminosos-no-interior-do-estado/",
-      "ordemPublicacao": 15
+      "ordemPublicacao": 15,
+      "videoUrl": "https://amazonas1.com.br/wp-content/uploads/2026/10/TRE-Incendios.mp4",
+      "videoCredito": "Vídeo: Amazonas1 — entrevista coletiva do TRE-AM"
     },
     {
       "titulo": "TV A Crítica anuncia cobertura ao vivo da apuração do segundo turno",
