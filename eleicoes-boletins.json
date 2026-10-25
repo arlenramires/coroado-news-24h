@@ -1,6 +1,12 @@
 {
-  "atualizadoEm": "2026-10-25T08:53:00-04:00",
+  "atualizadoEm": "2026-10-25T13:00:42.252Z",
   "boletins": [
+    {
+      "titulo": "TSE inicia teste de integridade das urnas neste domingo",
+      "texto": "O Tribunal Superior Eleitoral informou que iniciou nesta manhã, em Brasília, o teste de integridade das urnas eletrônicas no Museu do Voto. O procedimento ocorre simultaneamente nas capitais e no Distrito Federal, com acompanhamento público e transmissão pela internet. A auditoria não representa resultado de votação.",
+      "horario": "25/10/2026 • TSE publicou às 09h02 de Brasília (08h02 em Manaus), com atualização às 09h30 de Brasília",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-realiza-teste-de-integridade-das-urnas-eletronicas-no-museu-do-voto"
+    },
     {
       "titulo": "TSE divulga boletim oficial sobre o segundo turno para presidente e governadores",
       "texto": "Em boletim publicado neste domingo (25), o TSE informa que o eleitorado brasileiro escolhe o presidente da República no segundo turno. Em seis estados, incluindo o Amazonas, também ocorre votação para governador. Os resultados serão divulgados pelos canais oficiais após o encerramento da votação.",
