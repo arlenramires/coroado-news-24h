@@ -5,6 +5,7 @@ import html
 import json
 import re
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -17,7 +18,14 @@ SOURCES = [
     ("G1 Amazonas", "https://g1.globo.com/rss/g1/am/amazonas/"),
     ("G1 Política", "https://g1.globo.com/rss/g1/politica/"),
     ("Agência Brasil — geral", "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml"),
+    ("Rios de Notícias — Amazonas", "https://www.riosdenoticias.com.br/feed/"),
+    ("D24AM — Amazonas", "https://d24am.com/feed/"),
+    ("Portal do Holanda — Amazonas", "https://www.portaldoholanda.com.br/rss.xml"),
+    ("A Crítica — Amazonas", "https://www.acritica.com/rss"),
+    ("BNC Amazonas", "https://bncamazonas.com.br/feed/"),
 ]
+LOCAL_SOURCES = ("Amazonas", "Rios de Notícias", "D24AM", "Portal do Holanda", "A Crítica", "BNC Amazonas", "TRE-AM")
+LOCAL_PATTERN = re.compile(r"eleiç|eleitor|apuraç|votaç|urnas?|tse|tre.am|segundo turno|governador|omar aziz|maria do carmo|boca de urna|seções eleitorais",re.I)
 PATTERN = re.compile(r"eleiç|eleitor|apuraç|votaç|urnas?|tse|tre-am|segundo turno|presiden|governador|governo do amazonas|amazonas|manaus|tre.am|segundo turno", re.I)
 NS = {"a": "http://www.w3.org/2005/Atom"}
 NOW = dt.datetime.now(dt.timezone.utc)
@@ -82,7 +90,8 @@ def main():
             continue
         for title,link,summary,published,images,video in feed:
             title=clean(title);summary=clean(summary);link=link.strip()
-            if not (title and link and published and recent(published) and PATTERN.search(title+" "+summary)):
+            match = LOCAL_PATTERN if any(word in name for word in LOCAL_SOURCES) else PATTERN
+            if not (title and link and published and recent(published) and match.search(title+" "+summary)):
                 continue
             if link in seen or not link.startswith("https://"):
                 continue
