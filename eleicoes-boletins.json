@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T18:02:00Z",
+  "atualizadoEm": "2026-10-25T18:25:00Z",
   "boletins": [
+    {
+      "titulo": "Segundo turno tem movimentação tranquila em escola do bairro Coroado, em Manaus",
+      "texto": "Na tarde deste domingo (25/10), o Coroado News 24H recebeu um registro fotográfico de uma escola no bairro Coroado, Zona Leste de Manaus, utilizada como local de votação no segundo turno das Eleições 2026. A imagem mostra poucas pessoas na área externa e ausência de aglomeração no instante fotografado. Segundo o relato encaminhado à redação, a movimentação no local estava tranquila, sem tumulto ou ocorrência observada naquele momento. O registro retrata exclusivamente a situação desse estabelecimento durante a observação; não constitui confirmação de ausência de incidentes em todas as escolas do bairro. Em balanço das primeiras horas de votação, o TRE-AM também descreveu um quadro geral de tranquilidade, embora tenha relatado ocorrências em outras localidades do Amazonas. Foto: registro enviado à redação do Coroado News 24H. A fotografia original está pendente de disponibilização no servidor do portal.",
+      "horario": "25/10/2026 • registro local (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "tarde (Manaus)",
+      "fonteNome": "Registro local enviado à redação do Coroado News 24H; contexto: TRE-AM",
+      "fonteUrl": "https://www.tre-am.jus.br/",
+      "ordemPublicacao": 79
+    },
     {
       "titulo": "TSE orienta como conferir boletins de urna por QR Code durante a apuração",
       "texto": "O Tribunal Superior Eleitoral (TSE) publicou neste domingo (25/10), às 13h de Brasília, orientações para acompanhar e conferir a totalização do segundo turno. Após o encerramento da votação, previsto para 16h no horário de Manaus (17h em Brasília), os Boletins de Urna são transmitidos e processados pela Justiça Eleitoral. O aplicativo Resultados e o portal oficial permitem consultar a totalização por estado, município, zona eleitoral e cargo. Pelo Boletim na Mão, integrado ao e-Título, é possível ler o QR Code do boletim impresso em cada seção e comparar os dados da urna com os números divulgados pelo TSE. A publicação explica os mecanismos de conferência e não apresenta resultados antecipados nem declara vencedores.",
