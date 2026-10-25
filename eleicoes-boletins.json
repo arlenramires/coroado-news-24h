@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-25T14:48:00Z",
+  "atualizadoEm": "2026-10-25T15:03:00Z",
   "boletins": [
+    {
+      "titulo": "TRE-AM relata poucas ocorrências na abertura do segundo turno no Amazonas",
+      "texto": "Na primeira coletiva de imprensa do segundo turno, realizada na manhã deste domingo (25), representantes do Tribunal Regional Eleitoral do Amazonas informaram que a votação havia começado com poucas ocorrências. Segundo relato da coletiva publicado pelo Portal Tucumã, o corregedor regional da Polícia Federal afirmou que, até aquele momento, a corporação não havia recebido registros de ocorrências eleitorais em Manaus ou no interior. A informação é um balanço parcial da manhã, não significa ausência de incidentes durante todo o dia. A Justiça Eleitoral e os órgãos de segurança seguem acompanhando a votação.",
+      "horario": "25/10/2026 • primeira coletiva do TRE-AM; reportagem divulgada às 10h30 (horário informado pela fonte)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "11h03 (Manaus) — publicação Coroado News 24H",
+      "fonteNome": "Portal Tucumã — relato da primeira coletiva do TRE-AM",
+      "fonteUrl": "https://portaltucuma.com.br/tre-am-inicio-do-segundo-turno-eleicoes-am/",
+      "ordemPublicacao": 19
+    },
     {
       "titulo": "TSE divulga primeiro boletim do segundo turno às 10h",
       "texto": "O Tribunal Superior Eleitoral divulgou o primeiro boletim informativo do segundo turno das Eleições 2026, com dados consolidados até as 10h de Brasília deste domingo (25). O relatório reúne ocorrências da votação, registros sobre biometria, substituição de urnas e votação manual. Os números são operacionais e não representam apuração de votos.",
