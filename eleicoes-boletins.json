@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-10-25T20:53:22.436Z",
+  "atualizadoEm": "2026-10-25T20:55:17.664Z",
   "boletins": [
+    {
+      "titulo": "TSE havia registrado 1.351 urnas substituídas até as 15h30",
+      "texto": "Segundo balanço divulgado durante o segundo turno, 1.351 urnas haviam sido substituídas até 15h30. O número se refere a equipamentos trocados, não a votos anulados. O balanço pode ser atualizado pela Justiça Eleitoral.",
+      "fonteNome": "UOL, 25/10/2026",
+      "fonteUrl": "https://noticias.uol.com.br/eleicoes/2026/10/25/fechamento-urnas-eleicoes-2026.ghtm",
+      "horario": "25/10/2026 • atualização editorial",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "Atualização editorial",
+      "ordemPublicacao": 136
+    },
+    {
+      "titulo": "Campanhas de Lula e Flávio Bolsonaro pediram ampliação do horário de votação",
+      "texto": "A campanha de Lula alegou dificuldades de transporte público para eleitores em diferentes cidades. A campanha de Flávio Bolsonaro também solicitou prorrogação em localidades afetadas por chuvas e interdições. O STF decidiu estender o prazo nacionalmente até as 19h de Brasília.",
+      "fonteNome": "Folha de S.Paulo, 25/10/2026",
+      "fonteUrl": "https://www1.folha.uol.com.br/poder/2026/10/zanin-do-stf-estende-ate-as-19h-horario-de-eleicoes-no-brasil.shtml",
+      "horario": "25/10/2026 • atualização editorial",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "Atualização editorial",
+      "ordemPublicacao": 135
+    },
+    {
+      "titulo": "TSE suspende totalização dos votos após decisão do STF",
+      "texto": "O Centro de Divulgação das Eleições comunicou às 17h20 (Brasília) a pausa na totalização do segundo turno após o STF estender a votação até as 19h. A suspensão não cancela votos registrados nas urnas. Até o anúncio da pausa, não havia novo horário confirmado para retomada.",
+      "fonteNome": "InfoMoney, 25/10/2026, 17h27",
+      "fonteUrl": "https://www.infomoney.com.br/politica/tse-pausa-totalizacao-dos-votos-apos-zanin-prorrogar-votacao-ate-as-19h/",
+      "horario": "25/10/2026 • atualização editorial",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "Atualização editorial",
+      "ordemPublicacao": 134
+    },
     {
       "titulo": "🚨 URGENTE: STF prorroga votação em todo o Brasil até as 19h de Brasília",
       "texto": "O ministro Cristiano Zanin, do STF, determinou neste domingo (25/10) a prorrogação do segundo turno em todas as seções eleitorais do país até as 19h de Brasília (18h em Manaus). A decisão ocorreu após reclamações sobre falta de transporte público para eleitores. O TSE ficou responsável pelo cumprimento da medida.",
