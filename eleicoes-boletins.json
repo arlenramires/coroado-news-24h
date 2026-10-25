@@ -1,6 +1,12 @@
 {
-  "atualizadoEm": "2026-10-25T13:00:42.252Z",
+  "atualizadoEm": "2026-10-25T08:59:00-04:00",
   "boletins": [
+    {
+      "titulo": "TSE alerta para proibição de boca de urna neste domingo",
+      "texto": "O TSE esclareceu que pedir votos, distribuir santinhos e tentar convencer eleitores a apoiar candidaturas no dia da votação são condutas proibidas e podem caracterizar boca de urna. A manifestação individual e silenciosa da preferência política tem regras distintas; o eleitor deve respeitar as orientações da Justiça Eleitoral nos locais de votação.",
+      "horario": "25/10/2026 • 07h00 Manaus (publicação do TSE às 08h00 Brasília)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/ate-o-fim-da-votacao-propaganda-eleitoral-pode-caracterizar-boca-de-urna"
+    },
     {
       "titulo": "TSE inicia teste de integridade das urnas neste domingo",
       "texto": "O Tribunal Superior Eleitoral informou que iniciou nesta manhã, em Brasília, o teste de integridade das urnas eletrônicas no Museu do Voto. O procedimento ocorre simultaneamente nas capitais e no Distrito Federal, com acompanhamento público e transmissão pela internet. A auditoria não representa resultado de votação.",
