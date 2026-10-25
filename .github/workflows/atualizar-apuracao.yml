@@ -1,0 +1,37 @@
+name: Atualizar apuracao oficial TSE
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+permissions:
+  contents: write
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Consultar TSE e salvar boletim
+        run: |
+          python3 - <<'PY'
+          import json,urllib.request,datetime
+          base='https://resultados.tse.jus.br/oficial/ele2026/'
+          urls={'presidente':base+'6258/dados/br/br-c0001-e006258-u.json','governador':base+'6260/dados/am/am-c0003-e006260-u.json'}
+          out={'consultadoEm':datetime.datetime.now(datetime.timezone.utc).isoformat(),'dados':{},'erros':{}}
+          for key,url in urls.items():
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':'CoroadoNews24H/1.0'})
+                  with urllib.request.urlopen(req,timeout=20) as r: out['dados'][key]=json.load(r)
+              except Exception as exc: out['erros'][key]=str(exc)
+          if not out['dados']: raise RuntimeError('Nenhum boletim oficial disponivel; preservar arquivo anterior')
+          with open('apuracao-tse.json','w',encoding='utf-8') as f: json.dump(out,f,ensure_ascii=False)
+          PY
+      - name: Publicar dados se alterados
+        run: |
+          git config user.name "coroado-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add apuracao-tse.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizar apuração oficial do TSE"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
