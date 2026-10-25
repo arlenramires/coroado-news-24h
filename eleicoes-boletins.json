@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-10-25T06:00:00-04:00",
+  "atualizadoEm": "2026-10-25T07:00:00-04:00",
   "boletins": [
+    {
+      "titulo": "É hoje: TSE orienta eleitores sobre documentos e regras para votar",
+      "texto": "O segundo turno acontece neste domingo (25). O TSE orienta a conferir o local de votação e levar documento oficial com foto; o e-Título serve como identificação quando exibe a foto do eleitor. O celular não pode entrar na cabine de votação. Em Manaus, as seções funcionam das 7h às 16h (horário local).",
+      "horario": "25/10/2026 • Orientação do TSE divulgada às 6h30 (Brasília)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/e-hoje-confira-o-que-levar-e-como-se-preparar-para-votar"
+    },
+    {
+      "titulo": "TRE-AM confirma sistema de totalização zerado antes do segundo turno",
+      "texto": "Em cerimônia pública realizada em 24 de outubro, o TRE-AM emitiu a Zerésima do Sistema de Gerenciamento da Totalização (Sistot). O relatório atesta que o sistema central não possui votos registrados antes do recebimento dos Boletins de Urna do segundo turno.",
+      "horario": "25/10/2026 • Procedimento oficial realizado em 24/10 às 16h47",
+      "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-emite-zeresima-e-confirma-sistema-de-totalizacao-zerado-para-segundo-turno"
+    },
+    {
+      "titulo": "TRE-AM seleciona 23 urnas para auditorias do segundo turno",
+      "texto": "O Tribunal Regional Eleitoral do Amazonas sorteou 23 urnas eletrônicas para auditorias do segundo turno, com equipamentos de Manaus e do interior. Os procedimentos incluem testes de integridade e de autenticidade dos sistemas; parte das verificações ocorre neste domingo (25) e pode ser acompanhada publicamente.",
+      "horario": "25/10/2026 • Sorteio oficial realizado em 24/10 às 16h30",
+      "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-sorteia-23-urnas-para-auditorias-da-votacao-no-2o-turno-das-eleicoes-2026-no-am"
+    },
     {
       "titulo": "Segundo turno: Manaus não terá Lei Seca neste domingo",
       "texto": "O TRE-AM e a Secretaria de Segurança Pública do Amazonas revogaram a restrição estadual ao consumo de bebidas alcoólicas para o segundo turno em Manaus. Segundo a Portaria Conjunta nº 1034/2026, nos municípios do interior eventuais restrições dependerão de decisão dos respectivos juízes eleitorais. A orientação é consultar as determinações locais.",
