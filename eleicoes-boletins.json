@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-10-26T03:39:47.199497+00:00",
+  "atualizadoEm": "2026-10-26T03:55:37.000Z",
   "boletins": [
+    {
+      "titulo": "Omar Aziz e Alessandra Campelo visitam TRE-AM após confirmação da eleição para o governo",
+      "texto": "O governador eleito Omar Aziz e a vice-governadora eleita Alessandra Campelo fizeram visita institucional ao TRE-AM neste domingo (25), após a confirmação do resultado do segundo turno. A presidente do tribunal, desembargadora Carla Reis, recebeu a chapa e destacou o trabalho das equipes da Justiça Eleitoral no Amazonas. Omar também concedeu entrevista no Fórum Eleitoral de Manaus e agradeceu o esforço para realizar a votação em comunidades distantes, incluindo localidades indígenas.",
+      "horario": "25/10/2026 • comunicado oficial do TRE-AM às 22h46",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "23h55 (Manaus)",
+      "fonteNome": "Tribunal Regional Eleitoral do Amazonas (TRE-AM)",
+      "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-recebe-governador-eleito-omar-aziz-apos-resultado-do-segundo-turno",
+      "ordemPublicacao": 1000077
+    },
+    {
+      "titulo": "TRE-AM: segundo turno teve 20 urnas substituídas e duas seções ainda abertas em Coari após decisão do STF",
+      "texto": "No balanço do segundo turno, o TRE-AM informou que, quando recebeu a orientação sobre a prorrogação da votação, apenas duas seções em Coari ainda estavam funcionando. Segundo o tribunal, a votação transcorreu com tranquilidade no Amazonas. Foram substituídas 20 urnas, sendo 13 em Manaus e sete no interior; outros 13 atendimentos técnicos foram resolvidos sem troca de equipamento. As forças de segurança registraram 28 chamados ao 190 e oito detenções relacionadas a suspeitas de ilícitos eleitorais, conforme o balanço oficial.",
+      "horario": "25/10/2026 • balanço do TRE-AM divulgado às 21h05 (horário informado pelo tribunal)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "23h55 (Manaus)",
+      "fonteNome": "Tribunal Regional Eleitoral do Amazonas (TRE-AM)",
+      "fonteUrl": "https://www.tre-am.jus.br/comunicacao/noticias/2026/Outubro/tre-am-apresenta-balanco-do-segundo-turno-das-eleicoes-no-amazonas",
+      "ordemPublicacao": 1000076
+    },
+    {
+      "titulo": "TSE divulga votos finais: Lula tem 51,79% e Flávio Bolsonaro, 48,21% no segundo turno",
+      "texto": "Em balanço oficial divulgado pelo presidente do TSE, Kassio Nunes Marques, Lula (PT) foi confirmado reeleito com 64.256.232 votos válidos (51,79%). Flávio Bolsonaro (PL) recebeu 59.826.041 votos (48,21%). Segundo o tribunal, cerca de 128,2 milhões de eleitores compareceram às urnas e a abstenção foi de aproximadamente 19,2%. O ministro informou ainda que 1.551 das 499.248 urnas usadas no segundo turno foram substituídas. Os números são do pronunciamento oficial da Justiça Eleitoral.",
+      "horario": "25/10/2026 • balanço oficial do TSE divulgado às 23h18 (Manaus; 00h18 de Brasília em 26/10)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "23h55 (Manaus)",
+      "fonteNome": "Tribunal Superior Eleitoral (TSE)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026",
+      "ordemPublicacao": 1000075
+    },
     {
       "titulo": "E. M. Dr. Olavo das Neves, 63ª zona eleitoral: resultado da votação em Manaus (AM) no 2º turno",
       "texto": "Segundo G1 Amazonas: Flávio Bolsonaro (PL) foi o candidato a presidente mais votado em Manaus (AM), com 657.892 votos. Lula (PT) foi o segundo mais votado, com 520.418 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos",
