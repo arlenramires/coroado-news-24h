@@ -1,5 +1,24 @@
 [
   {
+    "id": 121,
+    "categoria": "Política",
+    "titulo": "Trump questiona resultado da eleição brasileira sem apresentar provas e diz que gosta de Lula",
+    "resumo": "Presidente dos EUA questionou o resultado do segundo turno, mas não apresentou evidências de fraude. Republicano afirmou manter boa relação com Lula.",
+    "data": "26/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=121",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait_%282025%29_%28cropped%29.jpg",
+    "imagemLegenda": "Donald Trump, presidente dos Estados Unidos (foto de arquivo)",
+    "corpo": [
+      "O presidente dos Estados Unidos, Donald Trump, questionou nesta segunda-feira (26) o resultado da eleição presidencial brasileira realizada no domingo (25). Ao comentar a vitória de Luiz Inácio Lula da Silva sobre Flávio Bolsonaro, o republicano disse que o pleito lhe pareceu fraudado, mas não apresentou provas que sustentassem a suspeita.",
+      "Apesar da crítica, Trump afirmou que gosta de Lula e que mantém uma boa relação com o presidente brasileiro. A declaração ganhou repercussão após a divulgação do resultado do segundo turno.",
+      "A fala de Trump representa uma avaliação política do presidente norte-americano. Não constitui comprovação de fraude ou decisão de qualquer autoridade eleitoral. O resultado oficial deve ser consultado nos canais da Justiça Eleitoral.",
+      "A repercussão internacional ocorre em um momento de atenção às relações diplomáticas entre Brasil e Estados Unidos. O Coroado News 24H acompanha eventuais manifestações oficiais sobre o episódio."
+    ],
+    "fonte": "Redação Coroado News 24H",
+    "fonteUrl": "https://www.reuters.com/"
+  },
+  {
     "id": 120,
     "categoria": "Política",
     "titulo": "Flávio Bolsonaro anuncia que vai pedir anulação do segundo turno presidencial",
