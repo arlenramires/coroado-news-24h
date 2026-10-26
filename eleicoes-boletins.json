@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-26T17:22:33.651931+00:00",
+  "atualizadoEm": "2026-10-26T17:59:04.201542+00:00",
   "boletins": [
+    {
+      "titulo": "Boa Vista do Ramos (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Boa Vista do Ramos (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/boa-vista-do-ramos-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000217
+    },
+    {
+      "titulo": "Presidente Figueiredo (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Presidente Figueiredo (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/presidente-figueiredo-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000216
+    },
+    {
+      "titulo": "Coari (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Coari (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é sua",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/coari-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000215
+    },
+    {
+      "titulo": "Humaitá (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Humaitá (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/humaita-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000214
+    },
+    {
+      "titulo": "Rio Preto da Eva (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Rio Preto da Eva (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/rio-preto-da-eva-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000213
+    },
+    {
+      "titulo": "Quem é Cheila Moreira, suplente que ocupará a vaga de Omar Aziz no Senado pelo Amazonas",
+      "texto": "Segundo G1 Amazonas: Cheila Moreira: quem é a suplente de Omar Aziz que deve assumir vaga no Senado pelo Amazonas Foto: Reprodução/Rede Amazônica Omar Aziz (PSD), eleito governador do Amazonas neste domingo (25), deixará o Senado Federal em 2027 para assumir o governo do estado. Com isso, a primeira suplente dele, Cheila Vieira Moreira (PT), deverá assumir a vaga e representar o Amazonas no Congresso Nacional até o fim do mandato,",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/quem-e-cheila-moreira-suplente-que-ocupara-a-vaga-de-omar-aziz-no-senado-pelo-amazonas.ghtml",
+      "ordemPublicacao": 1000212
+    },
+    {
+      "titulo": "Alessandra Campêlo será a primeira mulher vice-governadora do Amazonas",
+      "texto": "Segundo G1 Amazonas: Omar Aziz (PSD) é eleito governador do Amazonas A deputada estadual Alessandra Campêlo (PSD) será a primeira mulher a ocupar o cargo de vice-governadora do Amazonas. Ela foi eleita neste domingo (25) na chapa de Omar Aziz (PSD), que venceu a disputa pelo governo do estado com 61,42% dos votos válidos. Omar Aziz recebeu 1.273.975 votos, enquanto a adversária, Professora Maria do Carmo (PL), teve 800.328 votos, o",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/alessandra-campelo-sera-a-primeira-mulher-vice-governadora-do-amazonas.ghtml",
+      "ordemPublicacao": 1000211
+    },
+    {
+      "titulo": "Em São Paulo, três municípios escolhem novos prefeitos",
+      "texto": "Segundo Agência Brasil: Os eleitores das cidades paulistas de Macedônia, Martinópolis e Narandiba foram às urnas ontem (25) não somente para votar no novo presidente da República, mas também para eleger seus novos prefeitos. Segundo o Tribunal Regional Eleitoral de São Paulo (TRE-SP), a eleição suplementar nestas três cidades ocorreu junto com a votação do segundo turno para presidente da República, após os eleitos em 2024 terem os",
+      "horario": "26/10/2026 • atualização automática às 13h59 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "13h59 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-sao-paulo-tres-municipios-escolhem-novos-prefeitos",
+      "ordemPublicacao": 1000210
+    },
     {
       "titulo": "Articulação política e redes sociais: quem são e qual o papel dos aliados citados por Lula no discurso após a vitória",
       "texto": "Segundo G1 Política: Virada inédita dá a Lula 4 mandato Após vencer as eleições presidenciais, neste domingo (25), o presidente Luiz Inácio Lula da Silva (PT) citou quatro aliados que tiveram, segundo ele, papel fundamental na campanha do segundo turno. ELEIÇÕES 2026: Veja como ficou a apuração final do 2º turno Lula citou o companheiro de chapa, vice-presidente Geraldo Alckmin (PSB), o deputado federal André Janones (Rede-MG), o",
