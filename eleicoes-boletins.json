@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-26T08:25:08.746558+00:00",
+  "atualizadoEm": "2026-10-26T09:08:53.633252+00:00",
   "boletins": [
+    {
+      "titulo": "‘Não é um dia bom para a direita’, diz Maria do Carmo após derrotas",
+      "texto": "Segundo A Crítica — Amazonas: Candidata ao Governo do Amazonas pelo PL agradeceu pelos mais de 800 mil votos recebidos e disse esperar que o governador eleito, Omar Aziz, cumpra as promessas feitas na campanha",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/nao-e-um-dia-bom-para-a-direita-diz-maria-do-carmo-apos-derrotas/",
+      "ordemPublicacao": 1000145
+    },
+    {
+      "titulo": "Em discurso da vitória, Lula agradece eleitores, critica fake news e defende regulação digital",
+      "texto": "Segundo A Crítica — Amazonas: Em pronunciamento após a confirmação da vitória, presidente reeleito destacou a mobilização popular e prometeu ampliar a participação da sociedade no governo",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/em-discurso-da-vitoria-lula-agradece-eleitores-critica-fake-news-e-defende-regulacao-digital/",
+      "ordemPublicacao": 1000144
+    },
+    {
+      "titulo": "Omar Aziz anuncia redução da fila do SisReg como primeira prioridade de seu governo no Amazonas",
+      "texto": "Segundo A Crítica — Amazonas: Governador eleito com 1,27 milhão de votos promete iniciar transição imediatamente, criar corregedoria independente e rever procedimentos de licitação no Estado",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/omar-aziz-anuncia-reducao-da-fila-do-sisreg-como-primeira-prioridade-de-seu-governo-no-amazonas/",
+      "ordemPublicacao": 1000143
+    },
+    {
+      "titulo": "Cheila Moreira será primeira mulher a representar o Amazonas no Senado desde 2019",
+      "texto": "Segundo A Crítica — Amazonas: Com eleição de Omar Aziz ao governo, primeira suplente assumirá vaga e encerrará período de quase oito anos sem representação feminina na bancada amazonense.",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/cheila-moreira-sera-primeira-mulher-a-representar-o-amazonas-no-senado-desde-2019/",
+      "ordemPublicacao": 1000142
+    },
+    {
+      "titulo": "Flávio não reconhece vitória de Lula e vai pedir anulação das eleições",
+      "texto": "Segundo A Crítica — Amazonas: Candidato do PL criticou prorrogação do horário da votação, mesmo tendo a sua campanha realizado pedido similar ao TSE: “inaceitável e sacanagem”",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/flavio-nao-reconhece-vitoria-de-lula-e-vai-pedir-anulacao-das-eleicoes/",
+      "ordemPublicacao": 1000141
+    },
+    {
+      "titulo": "Lula ganha quase 100 mil votos no Amazonas e vira resultado em três municípios no segundo turno",
+      "texto": "Segundo A Crítica — Amazonas: Presidente amplia votação no estado e passa à frente de Flávio Bolsonaro em Japurá, Tapauá e Canutama. Manaus mantém preferência pelo candidato do PL",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/lula-ganha-quase-100-mil-votos-no-amazonas-e-vira-resultado-em-tres-municipios-no-segundo-turno/",
+      "ordemPublicacao": 1000140
+    },
+    {
+      "titulo": "Apoiadores de Lula comemoram reeleição nas ruas do Centro de Manaus",
+      "texto": "Segundo A Crítica — Amazonas: Manifestantes celebraram o resultado das urnas no Largo de São Sebastião; no Amazonas, o petista recebeu 54,02% dos votos válidos",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/apoiadores-de-lula-comemoram-reeleicao-nas-ruas-do-centro-de-manaus/",
+      "ordemPublicacao": 1000139
+    },
+    {
+      "titulo": "Omar Aziz vence eleição e volta ao Governo do Amazonas após 12 anos",
+      "texto": "Segundo Rios de Notícias — Amazonas: Andreza Maria Cunha – Rios de Notícias MANAUS (AM) – Omar Aziz (PSD) foi declarado matematicamente eleito governador do Amazonas neste domingo, 25/10, após a apuração alcançar cerca de 85% das urnas no segundo turno das eleições. O senador venceu a disputa contra Professora Maria do Carmo (PL) e voltará a comandar o Executivo estadual […] O post Omar Aziz vence eleição e volta ao Governo do Amazonas após 12 anos",
+      "horario": "26/10/2026 • atualização automática às 05h08 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "05h08 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/omar-aziz-vence-eleicao-e-volta-ao-governo-do-amazonas-apos-12-anos/",
+      "ordemPublicacao": 1000138
+    },
     {
       "titulo": "TRE-AM divulga balanço das eleições no Amazonas: 20 urnas substituídas e oito pessoas detidas",
       "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios MANAUS (AM) – O Tribunal Regional Eleitoral do Amazonas (TRE-AM) informou que o segundo turno das eleições transcorreu com tranquilidade no estado. Após o recebimento do Ofício-Circular GAB-PRES nº 354/2026, encaminhado pela presidência do Tribunal Superior Eleitoral (TSE), apenas duas seções eleitorais, no município de Coari, permaneciam em funcionamento, conforme levantamento inicial feito […] O post",
