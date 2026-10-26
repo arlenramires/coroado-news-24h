@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-26T00:11:30.909761+00:00",
+  "atualizadoEm": "2026-10-26T00:56:20Z",
   "boletins": [
+    {
+      "titulo": "TSE confirma eleição matematicamente definida: Lula é reeleito presidente do Brasil",
+      "texto": "Luiz Inácio Lula da Silva (PT) foi reeleito presidente da República no segundo turno de 25 de outubro de 2026, contra Flávio Bolsonaro (PL). Segundo dados do Tribunal Superior Eleitoral (TSE) divulgados às 21h32 de Brasília (20h32 em Manaus), com 99,90% das seções totalizadas, Lula somava 64.168.688 votos (51,77% dos válidos), e Flávio, 59.788.598 (48,23%). O TSE indicava a eleição como matematicamente definida, embora a totalização ainda não estivesse em 100%. Fonte: painel do TSE, conforme apuração publicada pelo Primeira Página em 25/10/2026. Acompanhe a cobertura no Coroado News 24H.",
+      "horario": "25/10/2026 • resultado matematicamente definido pelo TSE; parcial das 20h32 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "20h32 (Manaus)",
+      "fonteNome": "TSE, conforme Primeira Página",
+      "fonteUrl": "https://primeirapagina.com.br/politica/lula-e-reeleito-presidente-do-brasil-pela-4a-vez/",
+      "ordemPublicacao": 1000029
+    },
     {
       "titulo": "Resultado das eleições 2026 em Carauari (AM): como foi a votação no 2º turno",
       "texto": "Segundo G1 Amazonas: Lula (PT) foi o candidato a presidente mais votado em Carauari (AM) no 2º turno, com 10.649 votos. Flávio Bolsonaro (PL) teve 3.612 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Esta reportagem mostra como foi a votação para presidente e governador apenas em Carauari (AM) e não aponta quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e",
