@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-26T01:50:01.751198+00:00",
+  "atualizadoEm": "2026-10-26T01:55:27-00:00",
   "boletins": [
+    {
+      "titulo": "Auditoria oficial de 33 urnas no segundo turno em São Paulo termina sem divergências",
+      "texto": "O Tribunal Regional Eleitoral de São Paulo informou que o Teste de Integridade realizado neste domingo (25) em 33 urnas eletrônicas foi concluído sem divergências entre os votos de referência em papel e os registros eletrônicos. Segundo o TRE-SP, 30 equipamentos passaram pelo procedimento tradicional e três por teste com biometria. A conclusão diz respeito aos equipamentos efetivamente auditados e não equivale a uma auditoria individual de todas as urnas do estado.",
+      "horario": "25/10/2026 • boletim verificado às 21h55 (Manaus); fonte publicada às 20h22 (Brasília)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "21h55 (Manaus)",
+      "fonteNome": "TRE-SP (Justiça Eleitoral)",
+      "fonteUrl": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/teste-de-integridade-das-urnas-no-2o-turno-e-concluido-sem-divergencias-em-sao-paulo",
+      "ordemPublicacao": 1000047
+    },
+    {
+      "titulo": "TRE-SP: Flávio vence no estado de São Paulo, enquanto Lula lidera na capital",
+      "texto": "Em balanço oficial do segundo turno publicado neste domingo (25), o TRE-SP informou que Flávio Bolsonaro (PL) recebeu 53,85% dos votos válidos no estado de São Paulo, enquanto Lula (PT) obteve 55,5% dos votos válidos na capital paulista. O tribunal também confirmou a reeleição nacional de Lula: com 99,9% das urnas totalizadas, o presidente tinha 51,77% dos votos válidos no Brasil, ante 48,23% de Flávio. Os percentuais correspondem à parcial informada pelo tribunal, não à totalização definitiva.",
+      "horario": "25/10/2026 • boletim verificado às 21h55 (Manaus); fonte atualizada às 21h52 (Brasília)",
+      "dataPublicacao": "25/10/2026",
+      "horaPublicacao": "21h55 (Manaus)",
+      "fonteNome": "TRE-SP (Justiça Eleitoral)",
+      "fonteUrl": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-lula-e-reeleito-presidente-da-republica-confira-resultado-do-2o-turno-em-sp",
+      "ordemPublicacao": 1000046
+    },
     {
       "titulo": "Tapauá (AM): resultado do local de votação por zonas eleitorais no 2º turno",
       "texto": "Segundo G1 Amazonas: Tapauá (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é sua",
