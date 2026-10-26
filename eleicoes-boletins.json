@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-26T06:13:18.428550+00:00",
+  "atualizadoEm": "2026-10-26T06:56:21.106555+00:00",
   "boletins": [
+    {
+      "titulo": "Lula reeleito: compare evolução da apuração do 2º turno e do 1º turno",
+      "texto": "Segundo G1 Política: Com 64 milhões de votos, o presidente Lula (PT) foi reeleito na noite deste domingo (25) na disputa de segundo turno contra Flávio Bolsonaro (PL), que obteve 59 milhões. O resultado foi declarado às 21h08 pelo Tribunal Superior Eleitoral (TSE). Com 100% das urnas apuradas, os números foram: Lula - 64.256.232 votos (51,79% dos válidos). Flávio Bolsonaro - 59.826.041 votos (48,21% dos válidos). Evoulção da apuração da",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-reeleito-compare-evolucao-da-apuracao-do-2o-turno-e-do-1o-turno.ghtml",
+      "ordemPublicacao": 1000119
+    },
+    {
+      "titulo": "Veja quem são os seis governadores eleitos no 2º turno",
+      "texto": "Segundo G1 Política: Lorenzo Pazolini, Omar Aziz, Celina Leão, Cadu de Lula, Mailza Assis e Vicentinho Júnior são os governadores eleitos nesse segundo turno Divulgação/PMV, Marcela Orquiz/g1 AM, Ingrid Ribeiro/TV Globo, Augusto César Gomes/g1, Joás Linhares/CBN Rio Branco e Reprodução/TV Anhanguera Os governadores de Espírito Santo, Amazonas, Rio Grande do Norte, Acre, Tocantins e Distrito Federal foram eleitos no segundo turno das",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/governadores-eleitos-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000118
+    },
+    {
+      "titulo": "Flávio Bolsonaro perdeu votos em seis estados do 1º para o 2º turno; veja onde ganhou e perdeu",
+      "texto": "Segundo G1 Política: O candidato à presidência do Brasil, Flávio Bolsonaro, do Partido Liberal (PL), vota durante o segundo turno das eleições presidenciais, no Rio de Janeiro, Brasil, em 25 de outubro de 2026 REUTERS/Ricardo Moraes Flávio Bolsonaro (PL) recebeu menos votos em seis estados no segundo turno do que no primeiro na eleição presidencial de 2026. As quedas ocorreram no Acre, Amapá, Roraima, Maranhão, Amazonas e Tocantins. Nos",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/estados-flavio-bolsonaro-ganhou-perdeu-votos-primeiro-segundo-turno.ghtml",
+      "ordemPublicacao": 1000117
+    },
+    {
+      "titulo": "Veja como foi a votação para presidente em cada zona eleitoral das capitais",
+      "texto": "Segundo G1 Política: Lula (PT) é reeleito presidente do Brasil O presidente Lula (PT), reeleito neste domingo (25), foi o mais votado em 245 das 298 zonas eleitorais localizadas em capitais, segundo o Tribunal Superior Eleitoral (TSE). Flávio Bolsonaro (PL), por sua vez, venceu nas outras 53 zonas eleitorais em capitais. Nas capitais, Lula abriu a maior vantagem em Salvador, onde recebeu 73,24% dos votos válidos (ou 1.154.072 votos). A",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-como-foi-a-votacao-para-presidente-em-cada-zona-eleitoral-das-capitais.ghtml",
+      "ordemPublicacao": 1000116
+    },
+    {
+      "titulo": "Mais eleitores nas urnas, menos votos brancos e nulos e virada em mais de 200 cidades: a combinação que levou Lula à vitória histórica",
+      "texto": "Segundo G1 Política: Lula faz discurso da vitória em hotel na capital paulista Rafael Peixoto/g1 A virada histórica que garantiu ao presidente Luiz Inácio Lula da Silva (PT) um quarto mandato inédito foi resultado de uma combinação de fatores: mais eleitores nas urnas, menos votos brancos e nulos, crescimento da votação do petista em todos os estados e perda de votos de Flávio Bolsonaro (PL) em parte do país. Lula saiu de uma",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/entenda-vitoria-historica-lula.ghtml",
+      "ordemPublicacao": 1000115
+    },
+    {
+      "titulo": "Dois dos três aliados de Lula que concorriam a governador no 2º turno se elegeram",
+      "texto": "Segundo G1 Política: Omar Aziz e Cadu de Lula se elegeram neste segundo turno de 2026 Patrick Marques/g1 AM e Augusto César Gomes/g1 Dois dos três aliados do presidente eleito Lula conseguiram se eleger governadores no segundo turno das eleições de 2026 neste domingo (26). Veja quem são os seis governadores eleitos no segundo turno Omar Aziz (PSD) foi eleito no Amazonas com 61,42% dos votos válidos. Professora Maria do Carmo (PL) teve",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/aliados-lula-governador-segundo-turno.ghtml",
+      "ordemPublicacao": 1000114
+    },
+    {
+      "titulo": "Quatro dos sete aliados de Flávio Bolsonaro, que concorriam a governador no 2º turno, se elegeram",
+      "texto": "Segundo G1 Política: Lorenzo Pazolini, Celina Leão, Mailza Assis e Vicentinho Júnior são os aliados de Flávio Bolsonaro que se elegeram governadores neste segundo turno Divulgação/PMV, Ingrid Ribeiro/TV Globo, Joás Linhares/CBN Rio Branco e Reprodução/TV Anhanguera Quatro dos sete aliados de Flávio Bolsonaro conseguiram se eleger governadores no segundo turno das eleições de 2026 neste domingo (26). Somente um perdeu em disputa direta",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/aliados-flavio-bolsonaro-governador-segundo-turno.ghtml",
+      "ordemPublicacao": 1000113
+    },
+    {
+      "titulo": "Lula 2022 e 2026: Veja quem esteve junto ao presidente eleito nos dois discursos da vitória",
+      "texto": "Segundo G1 Política: Lula faz discurso da vitória em hotel na capital paulista Rafael Peixoto/g1 Em uma eleição acirrada e marcada por uma virada inédita, Luiz Inácio Lula da Silva (PT) foi reeleito neste domingo (25) presidente da República e conquistou seu quarto mandato à frente do Palácio do Planalto. Com 99,99% das urnas apuradas, Lula tinha 51,79% dos votos, e Flávio Bolsonaro (PL), 48,21% Depois da vitória, o presidente eleito",
+      "horario": "26/10/2026 • atualização automática às 02h56 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "02h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-2022-e-2026-compare-aliados-em-discursos.ghtml",
+      "ordemPublicacao": 1000112
+    },
     {
       "titulo": "E. M. Olga Figueiredo, 70ª zona eleitoral: resultado da votação em Manaus (AM) no 2º turno",
       "texto": "Segundo G1 Amazonas: Flávio Bolsonaro (PL) foi o candidato a presidente mais votado em Manaus (AM), com 657.892 votos. Lula (PT) foi o segundo mais votado, com 520.418 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos",
