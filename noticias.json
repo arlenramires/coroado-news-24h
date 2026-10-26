@@ -1,5 +1,23 @@
 [
   {
+    "id": 119,
+    "categoria": "Política",
+    "titulo": "Lula é reeleito presidente do Brasil para o quarto mandato em 2026",
+    "resumo": "Luiz Inácio Lula da Silva (PT) venceu Flávio Bolsonaro (PL) no segundo turno presidencial de 25 de outubro, segundo projeção do Datafolha divulgada pela Folha e cobertura do UOL.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=119",
+    "fonte": "Folha de S.Paulo/Datafolha; UOL (25/10/2026)",
+    "corpo": [
+      "Luiz Inácio Lula da Silva (PT) foi reeleito presidente do Brasil neste domingo (25), após disputar o segundo turno contra Flávio Bolsonaro (PL). A vitória foi projetada pelo Datafolha e noticiada pela Folha de S.Paulo e pelo UOL.",
+      "No momento da projeção divulgada pela Folha, com 95,73% das urnas apuradas, Lula registrava 51,73% dos votos válidos, contra 48,27% de Flávio Bolsonaro. Esses percentuais representam uma parcial e não a totalização definitiva.",
+      "A reeleição garante a Lula um quarto mandato presidencial. O Coroado News 24H acompanha a divulgação dos resultados oficiais do Tribunal Superior Eleitoral (TSE) e atualizará a matéria caso haja novos dados consolidados."
+    ],
+    "imagem": "https://live.staticflickr.com/65535/52715235994_e3c4b4b0d0_o.jpg",
+    "imagemDestaque": "https://live.staticflickr.com/65535/52715235994_e3c4b4b0d0_o.jpg",
+    "creditoImagem": "Retrato oficial de arquivo (2023) — Ricardo Stuckert/PR, CC BY 2.0"
+  },
+  {
     "id": 118,
     "categoria": "Política",
     "titulo": "Omar Aziz é eleito governador do Amazonas no segundo turno de 2026",
