@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-10-26T03:00:22.488889+00:00",
+  "atualizadoEm": "2026-10-26T02:59:56+00:00",
   "boletins": [
+    {
+      "titulo": "Representantes de 46 países acompanharam votação e totalização no TSE",
+      "texto": "O Tribunal Superior Eleitoral informou que 49 participantes de 46 países acompanharam etapas do segundo turno neste domingo (25), em Brasília. A agenda incluiu visita a seções eleitorais, observação do Teste de Integridade e acompanhamento da totalização dos votos na sede do TSE. A atividade integrou o Programa de Convidados Internacionais da Justiça Eleitoral e não substitui os procedimentos oficiais de fiscalização e auditoria.",
+      "fonteNome": "TSE — notícia oficial de 25/10/2026, 21h51 (Brasília)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/representantes-de-46-paises-conhecem-de-perto-votacao-e-apuracao-das-eleicoes-no-brasil",
+      "horaPublicacao": "22h59 (Manaus)",
+      "horario": "25/10/2026 • boletim verificado às 22h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "ordemPublicacao": 1000066
+    },
+    {
+      "titulo": "TSE: teste de integridade do segundo turno termina sem divergências em 389 votos",
+      "texto": "O Tribunal Superior Eleitoral informou neste domingo (25) que os 389 votos usados no Teste de Integridade realizado na sede do tribunal corresponderam integralmente aos registros das urnas eletrônicas examinadas. A auditoria pública, realizada em parceria com o TRE-DF, comparou os votos anotados previamente em cédulas de papel com os resultados dos equipamentos sorteados. O resultado se refere especificamente às urnas auditadas, não a todas as urnas do país.",
+      "fonteNome": "TSE — notícia oficial de 25/10/2026, 20h11 (Brasília)",
+      "fonteUrl": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/teste-de-integridade-do-2o-turno-no-tse-confirma-correspondencia-entre-cedulas-e-votos-nas-urnas",
+      "horaPublicacao": "22h59 (Manaus)",
+      "horario": "25/10/2026 • boletim verificado às 22h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "ordemPublicacao": 1000065
+    },
+    {
+      "titulo": "TSE proclama resultado final do segundo turno presidencial de 2026",
+      "texto": "O presidente do Tribunal Superior Eleitoral, ministro Kassio Nunes Marques, proclamou neste domingo (25) o resultado final da eleição presidencial. Em pronunciamento oficial registrado pela TV Senado, ele destacou a reeleição de Luiz Inácio Lula da Silva para o mandato de 2027 a 2030, com aproximadamente 64,2 milhões de votos e 51,74% dos votos válidos. A proclamação oficial é uma etapa distinta das projeções e das parciais divulgadas durante a apuração.",
+      "fonteNome": "TV Senado — proclamação do TSE",
+      "fonteUrl": "https://www12.senado.leg.br/noticias/videos/2026/10/presidente-do-tse-proclama-o-resultado-final-das-eleicoes-2026",
+      "horaPublicacao": "22h59 (Manaus)",
+      "horario": "25/10/2026 • boletim verificado às 22h59 (Manaus)",
+      "dataPublicacao": "25/10/2026",
+      "ordemPublicacao": 1000064
+    },
     {
       "titulo": "E. M. Ministro Mario Andreazza, 32ª zona eleitoral: resultado da votação em Manaus (AM) no 2º turno",
       "texto": "Segundo G1 Amazonas: Flávio Bolsonaro (PL) foi o candidato a presidente mais votado em Manaus (AM), com 657.892 votos. Lula (PT) foi o segundo mais votado, com 520.418 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos",
