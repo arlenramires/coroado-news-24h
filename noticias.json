@@ -66,7 +66,7 @@
     "titulo": "Urnas fechadas após decisão do STF provocam impasse em estados; TREs dizem que não é possível reabrir votação",
     "resumo": "Prorrogação nacional até as 19h foi anunciada após o fechamento de seções. Tribunais de MG, RS e DF relatam impedimento técnico e falta de tempo para orientar mesários.",
     "data": "25/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=117",
     "fonte": "TRE-MG (Itatiaia); TRE-RS (GZH); TRE-DF (Metrópoles); Folha; TSE",
     "corpo": [
@@ -90,7 +90,7 @@
     "titulo": "URGENTE: STF prorroga votação até as 19h, mas apuração do segundo turno já começou",
     "resumo": "Decisão de Cristiano Zanin amplia a votação em todo o país até as 19h de Brasília (18h em Manaus). Mesmo com a prorrogação, o TSE iniciou a divulgação de resultados.",
     "data": "25/10/2026",
-    "destaque": true,
+    "destaque": false,
     "url": "noticia.html?id=116",
     "fonte": "STF; TSE; Metrópoles (25/10/2026)",
     "corpo": [
