@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-26T11:47:33.992662+00:00",
+  "atualizadoEm": "2026-10-26T14:14:54.989267+00:00",
   "boletins": [
+    {
+      "titulo": "Maués (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Maués (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é sua",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/maues-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000185
+    },
+    {
+      "titulo": "Tabatinga (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Tabatinga (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/tabatinga-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000184
+    },
+    {
+      "titulo": "Manaquiri (AM): resultado do local de votação por zonas eleitorais no 2º turno",
+      "texto": "Segundo G1 Amazonas: Manaquiri (AM) tem 1 zona eleitoral. O g1 publicou reportagens com a votação para presidente em cada local de votação da cidade, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Clique aqui para acessar os resultados completos da apuração no Brasil nos dois turnos e veja o MAPA com dados de todos os municípios. Não lembra qual é",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/manaquiri-am-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000183
+    },
+    {
+      "titulo": "3ª zona eleitoral de Itacoatiara (AM): votos por local de votação no 2º turno",
+      "texto": "Segundo G1 Amazonas: A 3ª zona eleitoral de Itacoatiara (AM) tem 82 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no local e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/3a-zona-eleitoral-de-itacoatiara-am-votos-por-local-de-votacao-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000182
+    },
+    {
+      "titulo": "6ª zona eleitoral de Manacapuru (AM): votos por local de votação no 2º turno",
+      "texto": "Segundo G1 Amazonas: A 6ª zona eleitoral de Manacapuru (AM) tem 61 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no local e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/6a-zona-eleitoral-de-manacapuru-am-votos-por-local-de-votacao-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000181
+    },
+    {
+      "titulo": "4ª zona eleitoral de Parintins (AM): votos por local de votação no 2º turno",
+      "texto": "Segundo G1 Amazonas: A 4ª zona eleitoral de Parintins (AM) tem 63 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no local e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/4a-zona-eleitoral-de-parintins-am-votos-por-local-de-votacao-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000180
+    },
+    {
+      "titulo": "Lula vence em 57 municípios do Amazonas; Flávio ganha em Manaus e outras quatro cidades",
+      "texto": "Segundo G1 Amazonas: Lula (PT) é reeleito presidente do Brasil O presidente reeleito Luiz Inácio Lula da Silva (PT) venceu em 57 dos 62 municípios do Amazonas no segundo turno das eleições, realizado neste domingo (25). Já o senador Flávio Bolsonaro (PL) foi o mais votado em Manaus e em outras quatro cidades do estado. Lula também venceu a disputa no Amazonas, com 1.145.783 votos, o equivalente a 54,02% dos votos válidos. Flávio",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/lula-vence-em-57-municipios-do-amazonas-flavio-ganha-em-manaus-e-outras-quatro-cidades.ghtml",
+      "ordemPublicacao": 1000179
+    },
+    {
+      "titulo": "Mapa mostra onde Omar Aziz e Professora Maria do Carmo tiveram mais votos no Amazonas",
+      "texto": "Segundo G1 Amazonas: Omar Aziz (PSD) é eleito governador do Amazonas O governador eleito do Amazonas, Omar Aziz (PSD), venceu em 60 dos 62 municípios do estado no segundo turno das eleições, realizado neste domingo (25). A Professora Maria do Carmo (PL) foi a mais votada em Apuí e Humaitá, no sul do estado. Segundo dados do Tribunal Superior Eleitoral (TSE), Omar recebeu 1.273.975 votos, o equivalente a 61,42% dos votos válidos. Maria",
+      "horario": "26/10/2026 • atualização automática às 10h14 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "10h14 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/mapa-mostra-onde-omar-aziz-e-professora-maria-do-carmo-tiveram-mais-votos-no-amazonas.ghtml",
+      "ordemPublicacao": 1000178
+    },
     {
       "titulo": "56ª zona eleitoral de Iranduba (AM): votos por local de votação no 2º turno",
       "texto": "Segundo G1 Amazonas: A 56ª zona eleitoral de Iranduba (AM) tem 44 locais de votação. O g1 publicou reportagens com a votação para presidente em cada um deles, no 2º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação no local e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no",
