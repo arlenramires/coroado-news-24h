@@ -1,6 +1,76 @@
 {
-  "atualizadoEm": "2026-10-26T18:33:08.848964+00:00",
+  "atualizadoEm": "2026-10-26T19:23:27.284064+00:00",
   "boletins": [
+    {
+      "titulo": "A vitória da democracia: a emoção de quem nunca desistiu de lutar pelo brasil",
+      "texto": "Segundo BNC Amazonas: Plinio Coêlho celebra a vitória da democracia com a reeleição de Lula, homenageia a juventude e destaca a luta por um Brasil soberano. O post A vitória da democracia: a emoção de quem nunca desistiu de lutar pelo brasil apareceu primeiro em BNC Amazonas, o site de política! .",
+      "horario": "26/10/2026 • atualização automática às 15h23 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "15h23 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/a-vitoria-da-democracia-a-emocao-de-quem-nunca-desistiu-de-lutar-pelo-brasil/",
+      "ordemPublicacao": 1000232
+    },
+    {
+      "titulo": "Venceu a democracia",
+      "texto": "Segundo BNC Amazonas: Flávio Lauria relembra golpes baixos nas eleições brasileiras e reflete sobre a reeleição de Lula, o ódio político e a democracia. O post Venceu a democracia apareceu primeiro em BNC Amazonas, o site de política! .",
+      "horario": "26/10/2026 • atualização automática às 15h23 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "15h23 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/venceu-a-democracia/",
+      "ordemPublicacao": 1000231
+    },
+    {
+      "titulo": "Com vitória de Omar Aziz, Lula ganha senadora e AM a 1ª vice-governadora",
+      "texto": "Segundo BNC Amazonas: Vitória de Omar Aziz leva Alessandra Campelo à primeira vice-governadoria feminina do Amazonas e abre vaga no Senado para a petista Cheila Moreira (foto). O post Com vitória de Omar Aziz, Lula ganha senadora e AM a 1ª vice-governadora apareceu primeiro em BNC Amazonas, o site de política! .",
+      "horario": "26/10/2026 • atualização automática às 15h23 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "15h23 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/com-vitoria-de-omar-aziz-lula-ganha-senadora-e-am-a-1a-vice-governadora/",
+      "ordemPublicacao": 1000230
+    },
+    {
+      "titulo": "De virada é mais gostoso!",
+      "texto": "Segundo BNC Amazonas: De virada é mais gostoso! Armando Januário comenta a reeleição de Lula, a mobilização popular e os desafios da democracia no Brasil. O post De virada é mais gostoso! apareceu primeiro em BNC Amazonas, o site de política! .",
+      "horario": "26/10/2026 • atualização automática às 15h23 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "15h23 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/de-virada-e-mais-gostoso/",
+      "ordemPublicacao": 1000229
+    },
+    {
+      "titulo": "Políticos do Amazonas parabenizam Omar Aziz e defendem parceria com novo governo",
+      "texto": "Segundo Rios de Notícias — Amazonas: Caio Silva – Rios de Notícias MANAUS (AM) – A eleição de Omar Aziz (PSD) ao Governo do Amazonas provocou manifestações de lideranças políticas no domingo, 25/10. O prefeito de Manaus, Renato Junior (Avante), os senadores Eduardo Braga (MDB) e Plínio Valério (PSDB), além do atual governador, Roberto Cidade (União Brasil), parabenizaram o governador eleito […] O post Políticos do Amazonas parabenizam Omar Aziz e",
+      "horario": "26/10/2026 • atualização automática às 15h23 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "15h23 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/politicos-do-amazonas-parabenizam-omar-aziz-e-defendem-parceria-com-novo-governo/",
+      "ordemPublicacao": 1000228
+    },
+    {
+      "titulo": "Segundo turno das eleições registra menor abstenção em 20 anos",
+      "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios BRASÍLIA (DF) – As abstenções nas eleições gerais de 2026 caíram de 33.469.244 no primeiro turno, para 30.509.005 de eleitores no segundo turno, diferença de mais de 2,9 milhões de pessoas. Em termos percentuais, no primeiro turno 21,08% dos eleitores aptos a votar preferiram não ir às urnas no último dia 4. Já […] O post Segundo turno das eleições registra menor abstenção em 20 anos apareceu primeiro",
+      "horario": "26/10/2026 • atualização automática às 15h23 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "15h23 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/segundo-turno-das-eleicoes-registra-menor-abstencao-em-20-anos/",
+      "ordemPublicacao": 1000227
+    },
+    {
+      "titulo": "PM registra 7 ocorrências e 6 detidos até o meio-dia de domingo em SP",
+      "texto": "Segundo Agência Brasil — geral: Sete ocorrências foram registradas pela Polícia Militar durante o segundo turno das eleições até o meio-dia deste domingo (25). Cinco pessoas foram presas. Entre os casos atendidos estão três ocorrências na capital, além de uma em São Caetano do Sul, uma em Marília, uma em Guarantã e uma em Osasco. Foram cinco registros de crimes eleitorais, um de desacato e um atendimento de apoio a oficial de Justiça. Um eleitor",
+      "horario": "26/10/2026 • atualização automática às 15h23 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "15h23 (Manaus)",
+      "fonteNome": "Agência Brasil — geral",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/pm-registra-7-ocorrencias-e-6-detidos-ate-o-meio-dia-de-domingo-em-sp",
+      "ordemPublicacao": 1000226
+    },
     {
       "titulo": "Medo da volta da família Bolsonaro supera discurso de mudança de Flávio no segundo turno",
       "texto": "Segundo G1 Política: Medo da volta da família Bolsonaro supera discurso de mudança de Flávio no segundo turno Se no primeiro turno prevaleceu o desejo de mudança, no segundo o medo da volta da família Bolsonaro ao Palácio do Planalto se tornou um dos fatores decisivos da disputa. Foram praticamente duas campanhas diferentes dentro de uma mesma eleição. No primeiro turno, Flávio Bolsonaro conseguiu embalar o discurso de que representava",
