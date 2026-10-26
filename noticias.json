@@ -1,5 +1,25 @@
 [
   {
+    "id": 120,
+    "categoria": "Política",
+    "titulo": "Flávio Bolsonaro anuncia que vai pedir anulação do segundo turno presidencial",
+    "resumo": "Após derrota para Lula, Flávio Bolsonaro afirmou que pretende contestar o resultado na Justiça. A eleição não foi anulada.",
+    "data": "25/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=120",
+    "fonte": "Rádio Senado; Reuters; CNN Brasil",
+    "corpo": [
+      "Flávio Bolsonaro (PL) anunciou neste domingo (25) que pretende recorrer à Justiça para pedir a anulação do resultado do segundo turno da eleição presidencial, após a vitória de Luiz Inácio Lula da Silva (PT).",
+      "O candidato questiona a prorrogação do horário de votação e argumenta que a medida teria prejudicado a igualdade entre eleitores. Essa é uma alegação de Flávio Bolsonaro, não uma irregularidade comprovada.",
+      "O anúncio de uma intenção de recorrer não significa que a Justiça tenha anulado a eleição. Não há decisão judicial de anulação confirmada nas fontes consultadas.",
+      "Acompanhe o pronunciamento na TV Senado: https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/flavio-bolsonaro-cita-ministro-ao-aventar-possibilidade-de-anulacao-do-resultado-das-eleicoes"
+    ],
+    "imagem": "https://legis.senado.leg.br/senadores/fotos-oficiais/5894",
+    "imagemDestaque": "https://legis.senado.leg.br/senadores/fotos-oficiais/5894",
+    "creditoImagem": "Senado Federal — foto oficial de arquivo",
+    "imagemLegenda": "Flávio Bolsonaro em foto oficial de arquivo."
+  },
+  {
     "id": 119,
     "categoria": "Política",
     "titulo": "Lula é reeleito presidente do Brasil para o quarto mandato em 2026",
