@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-26T15:41:47.028975+00:00",
+  "atualizadoEm": "2026-10-26T16:30:47.082623+00:00",
   "boletins": [
+    {
+      "titulo": "PL de Flávio Bolsonaro deve ficar isolado no pedido para anular a eleição",
+      "texto": "Segundo G1 Política: A decisão do candidato do PL, Flávio Bolsonaro, de não reconhecer a vitória do presidente Lula e pedir a anulação da eleição não deve ter apoio de outras legendas oficialmente. Até agora, MDB, Republicanos, União Brasil e PSD, que estavam apoiando o senador do PL, já reconheceram a vitória do presidente Lula. No PP, de Ciro Nogueira, o senador eleito Arthur Lira (AL) também reconheceu a vitória do petista e o",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/26/pl-de-flavio-bolsonaro-deve-ficar-isolado-no-pedido-para-anular-a-eleicao.ghtml",
+      "ordemPublicacao": 1000201
+    },
+    {
+      "titulo": "Eleições 2026: Confira em 7 mapas e gráficos como foi a disputa Lula x Flávio Bolsonaro no 2º turno",
+      "texto": "Segundo G1 Política: Em virada histórica, Lula vence Flávio Bolsonaro e será presidente pela 4ª vez Lula (PT) virou a disputa no segundo turno e foi eleito para seu quarto mandato como presidente da República com 64.256.232 votos. Ele terminou com 51,79% dos votos válidos, contra 48,21% de Flávio Bolsonaro (PL), uma diferença de 3,6 pontos percentuais ou 4.430.191 votos. No primeiro turno, Flávio havia ficado à frente, com 47%, contra",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-o-2o-turno-em-mapas-e-graficos.ghtml",
+      "ordemPublicacao": 1000200
+    },
+    {
+      "titulo": "Gráfico mostra momento da virada de Lula sobre Flávio no segundo turno",
+      "texto": "Segundo G1 Política: Em virada histórica, Lula vence Flávio Bolsonaro e será presidente pela 4ª vez Os eleitores brasileiros foram às urnas neste domingo (25) para escolher o presidente da República no segundo turno das eleições de 2026. Lula (PT) foi reeleito com 51,7% dos votos contra 48,2% de votos de Flávio Bolsonaro (PL). Veja como ficou a apuração final do 2º turno Depois de terminar o primeiro turno atrás do adversário por cerca",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/grafico-mostra-momento-da-virada-de-lula-sobre-flavio-no-segundo-turno.ghtml",
+      "ordemPublicacao": 1000199
+    },
+    {
+      "titulo": "Eleições 2026: onde Lula e Flávio viraram votos no exterior?",
+      "texto": "Segundo G1 Política: Lula venceu em 64 países; Flávio Bolsonaro, em 36 A disputa entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais também teve viradas entre os brasileiros que votaram no exterior. Em cinco países ou territórios, o candidato que havia recebido mais votos no primeiro turno terminou atrás do adversário na votação de domingo (25). 📱Favorite o g1 no Google e acompanhe as",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-onde-lula-e-flavio-viraram-votos-no-exterior.ghtml",
+      "ordemPublicacao": 1000198
+    },
+    {
+      "titulo": "Lula enfrentará Congresso à direita, crise no STF e precisará conciliar promessas com economia no 4º mandato",
+      "texto": "Segundo G1 Política: Entenda os desafios de Lula em seu 4º mandato Reeleito para um quarto mandato, Luiz Inácio Lula da Silva (PT) terá pela frente o desafio de governar com um Congresso com maioria da oposição, lidar com uma crise interna no Supremo Tribunal Federal (STF) e conciliar promessas de campanha com equilíbrio fiscal. A articulação política para aprovar propostas no Legislativo, a relação com o Judiciário e a condução da",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/26/lula-enfrentara-congresso-a-direita-crise-no-stf-e-precisara-conciliar-promessas-com-economia-no-4o-mandato.ghtml",
+      "ordemPublicacao": 1000197
+    },
+    {
+      "titulo": "Eleições 2026: Flávio vira sobre Lula na Venezuela no 2º turno",
+      "texto": "Segundo G1 Política: Lula venceu em 64 países; Flávio Bolsonaro, em 36 Flávio Bolsonaro (PL) superou o presidente reeleito Luiz Inácio Lula da Silva (PT) entre os brasileiros que votaram na Venezuela no segundo turno, realizado neste domingo (25). 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Veja como ficou a apuração final do 2º turno Como a reeleição de Lula movimentou o mercado O candidato do PL recebeu 136",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-no-exterior-flavio-bolsonaro-superou-lula-na-venezuela.ghtml",
+      "ordemPublicacao": 1000196
+    },
+    {
+      "titulo": "Eleições 2026: PF registrou 86 ocorrências de possíveis crimes eleitorais em 20 estados e no DF",
+      "texto": "Segundo G1 Política: A Polícia Federal registrou 86 ocorrências relacionadas a possíveis crimes eleitorais durante o segundo turno das Eleições 2026, realizado neste domingo (25). Os dados constam do balanço final divulgado pela corporação na manhã desta segunda-feira (26). Ao todo, 74 pessoas foram conduzidas a unidades da PF para procedimentos e prestar esclarecimentos. Segundo a PF, foram: 13 inquéritos policiais instaurados 64",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-pf-registrou-86-ocorrencias-de-possiveis-crimes-eleitorais-em-20-estados-e-no-df.ghtml",
+      "ordemPublicacao": 1000195
+    },
+    {
+      "titulo": "Votação de Lula é a maior já recebida por um presidenciável no país",
+      "texto": "Segundo Agência Brasil: Ao terminar o segundo turno da eleição presidencial com 64.256.232 votos neste domingo (25), o presidente reeleito Luiz Inácio Lula da Silva (PT) conquistou a maior votação já obtida por um presidenciável na história do país. Os mais de 64 milhões de votos de Lula superam o recorde que já pertencia a ele, ao vencer a eleição de 2022 no segundo turno com mais de 60 milhões de votos, impedindo a reeleição de Jair",
+      "horario": "26/10/2026 • atualização automática às 12h30 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "12h30 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/votacao-de-lula-e-maior-ja-recebida-por-um-presidenciavel-no-pais",
+      "ordemPublicacao": 1000194
+    },
     {
       "titulo": "Lula anuncia regulação de plataformas digitais e promete ampliar participação popular no governo",
       "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios BRASIL – O presidente Luiz Inácio Lula da Silva (PT), reeleito para um novo mandato com mais de 64 milhões de votos, afirmou no domingo, 25/10, que pretende regulamentar as plataformas digitais e ampliar a participação popular nas decisões do governo. Durante o primeiro discurso após a vitória nas eleições presidenciais, Lula também […] O post Lula anuncia regulação de plataformas digitais e promete",
