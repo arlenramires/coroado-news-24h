@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-27T07:38:19.597670+00:00",
+  "atualizadoEm": "2026-10-27T10:21:42.950910+00:00",
   "boletins": [
+    {
+      "titulo": "EMEF São José, 6ª zona eleitoral: resultado da votação em Manacapuru (AM) no 2º turno",
+      "texto": "Segundo G1 Amazonas: Resultado das Eleições 2026 em Manacapuru (AM) Lula (PT) foi o candidato a presidente mais votado em Manacapuru (AM), com 33.085 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 25.941 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/emef-sao-jose-6a-zona-eleitoral-resultado-da-votacao-em-manacapuru-am-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000317
+    },
+    {
+      "titulo": "E. M. Irmã Cristine, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno",
+      "texto": "Segundo G1 Amazonas: Resultado das Eleições 2026 em Parintins (AM) Lula (PT) foi o candidato a presidente mais votado em Parintins (AM), com 44.647 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 9.305 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-irma-cristine-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000316
+    },
+    {
+      "titulo": "CEMEI Jaime Lobato, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno",
+      "texto": "Segundo G1 Amazonas: Resultado das Eleições 2026 em Parintins (AM) Lula (PT) foi o candidato a presidente mais votado em Parintins (AM), com 44.647 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 9.305 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/cemei-jaime-lobato-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000315
+    },
+    {
+      "titulo": "E.M Dom Pedro Ii, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno",
+      "texto": "Segundo G1 Amazonas: Resultado das Eleições 2026 em Parintins (AM) Lula (PT) foi o candidato a presidente mais votado em Parintins (AM), com 44.647 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 9.305 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-dom-pedro-ii-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000314
+    },
+    {
+      "titulo": "Escola Adventista de Itacoatiara, 3ª zona eleitoral: resultado da votação em Itacoatiara (AM) no 2º turno",
+      "texto": "Segundo G1 Amazonas: Resultado das Eleições 2026 em Itacoatiara (AM) Lula (PT) foi o candidato a presidente mais votado em Itacoatiara (AM), com 34.854 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 19.104 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/escola-adventista-de-itacoatiara-3a-zona-eleitoral-resultado-da-votacao-em-itacoatiara-am-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000313
+    },
+    {
+      "titulo": "E. M. São Sebastião da Brasília, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno",
+      "texto": "Segundo G1 Amazonas: Resultado das Eleições 2026 em Parintins (AM) Lula (PT) foi o candidato a presidente mais votado em Parintins (AM), com 44.647 votos. Flávio Bolsonaro (PL) foi o segundo mais votado, com 9.305 votos. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Os números se referem apenas à votação na cidade e não apontam quem foi eleito. Clique aqui para acessar os resultados completos da apuração no Brasil",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-sao-sebastiao-da-brasilia-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml",
+      "ordemPublicacao": 1000312
+    },
+    {
+      "titulo": "Quatro municípios do Amazonas recebem R$ 13,3 milhões em multas por poluição do ar",
+      "texto": "Segundo G1 Amazonas: Ipaam aplica R$ 13,3 milhões em multas por poluição do ar em quatro municípios do AM. Divulgação/Ipaam O Instituto de Proteção Ambiental do Amazonas (Ipaam) aplicou R$ 13,3 milhões em multas por poluição atmosférica em quatro municípios do estado, entre setembro e outubro de 2026. Ao todo, foram cinco autuações por queima irregular de resíduos sólidos a céu aberto em Manaus, Humaitá, Manacapuru e Careiro. A maior",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/noticia/2026/10/26/quatro-municipios-do-amazonas-recebem-r-133-milhoes-em-multas-por-poluicao-do-ar.ghtml",
+      "ordemPublicacao": 1000311
+    },
+    {
+      "titulo": "Amazonas mantém histórico de 'cravar' todos os presidentes eleitos desde 1989; cientista político explica",
+      "texto": "Segundo G1 Amazonas: Lula vence em 57 municípios do Amazonas; Flávio ganha em Manaus e outras quatro cidades Com a vitória de Luiz Inácio Lula da Silva na disputa presidencial, o Amazonas manteve uma tradição que já dura quase quatro décadas: desde a redemocratização, em 1989, o candidato à presidência da República mais votado no estado é eleito. O padrão se repetiu no segundo turno das eleições de 2026, realizado neste domingo (25). No",
+      "horario": "27/10/2026 • atualização automática às 06h21 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "06h21 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/27/amazonas-mantem-historico-de-cravar-todos-os-presidentes-eleitos-desde-1989-cientista-politico-explica.ghtml",
+      "ordemPublicacao": 1000310
+    },
     {
       "titulo": "Voto ilhado: 93 municípios votaram diferente de todos os vizinhos na eleição presidencial",
       "texto": "Segundo G1 Política: Levantamento do g1 identificou 93 municípios cujo resultado no segundo turno das eleições de 2026 destoa das cidades com as quais fazem fronteira. Nessas “ilhas eleitorais”, os moradores escolheram um candidato diferente do escolhido em todas as cidades vizinhas. Os dados mostram que 65 ilhas eleitorais são municípios onde Lula (PT) teve mais votos, apesar de Flávio Bolsonaro (PL) ter sido o mais votado nas cidades",
