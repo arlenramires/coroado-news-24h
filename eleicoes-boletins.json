@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-10-27T22:58:11.345101+00:00",
+  "atualizadoEm": "2026-10-27T23:23:26.133470+00:00",
   "boletins": [
+    {
+      "titulo": "Denúncias de demissões e boicotes políticos repercutem em Manaus após eleições",
+      "texto": "Segundo A Crítica — Amazonas: Relatos envolvem supostas demissões de funcionários por voto em Lula e manifestações de empresários contra consumidores identificados com a esquerda",
+      "horario": "27/10/2026 • atualização automática às 19h23 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "19h23 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/geral/denuncias-de-demissoes-e-boicotes-politicos-repercutem-em-manaus-apos-eleicoes/",
+      "ordemPublicacao": 1000413
+    },
+    {
+      "titulo": "TSE contabiliza 34,3 mil votos após as 17h no 2º turno das eleições",
+      "texto": "Segundo A Crítica — Amazonas: Número corresponda a 0,027% do total depositado durante o dia",
+      "horario": "27/10/2026 • atualização automática às 19h23 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "19h23 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/tse-contabiliza-343-mil-votos-apos-as-17h-no-2o-turno-das-eleicoes/",
+      "ordemPublicacao": 1000412
+    },
+    {
+      "titulo": "Após vitória nas urnas, Lula vai retomar viagens internacionais",
+      "texto": "Segundo Agência Brasil: A partir de novembro, o presidente Luiz Inácio Lula da Silva deve retomar os compromissos internacionais, após fazer diversas viagens por todo o Brasil em campanha pela reeleição. Os Estados Unidos estão entre os destinos previstos. Lula pretende ir à Cúpula do G20, em 14 de dezembro. O evento ocorrerá no Trump National Doral Miami, na Flórida. O local é um clube de golfe de propriedade do presidente dos Estados",
+      "horario": "27/10/2026 • atualização automática às 19h23 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "19h23 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apos-vitoria-nas-urnas-lula-vai-retomar-viagens-internacionais",
+      "ordemPublicacao": 1000411
+    },
     {
       "titulo": "Parlamentares da Argentina pedem investigação sobre possível fuga de Flávio pelo país, diz jornal",
       "texto": "Segundo G1 Política: PF apura se Flávio Bolsonaro deixou o Brasil pela fronteira com a Argentina Parlamentares de oposição da Argentina cobraram nesta terça-feira (27) uma investigação sobre a possível passagem do senador Flávio Bolsonaro (PL-RJ) pelo país antes de sua suposta fuga para os Estados Unidos. O pedido foi feito após um jornal do país indicar que o senador teria passado por Puerto Iguazú, cidade argentina na fronteira com o",
