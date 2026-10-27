@@ -1,6 +1,56 @@
 {
-  "atualizadoEm": "2026-10-27T12:15:06.497600+00:00",
+  "atualizadoEm": "2026-10-27T12:58:48.807020+00:00",
   "boletins": [
+    {
+      "titulo": "PF intima Flávio Bolsonaro a entregar passaporte após eleição",
+      "texto": "Segundo A Crítica — Amazonas: Decisão do ministro Alexandre de Moraes ocorre após disputa presidencial; aliados afirmam que vão contestar o pleito.",
+      "horario": "27/10/2026 • atualização automática às 08h58 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "08h58 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/pf-intima-flavio-bolsonaro-a-entregar-passaporte-apos-eleicao/",
+      "ordemPublicacao": 1000325
+    },
+    {
+      "titulo": "Trump alega fraude em eleição no Brasil sem apresentar provas",
+      "texto": "Segundo A Crítica — Amazonas: Político norte-americano declarou que não tomará medidas sobre o país e afirmou manter boa relação pessoal com Lula.",
+      "horario": "27/10/2026 • atualização automática às 08h58 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "08h58 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/trump-alega-fraude-em-eleicao-no-brasil-sem-apresentar-provas/",
+      "ordemPublicacao": 1000324
+    },
+    {
+      "titulo": "Reeleição de Lula repercute entre líderes internacionais",
+      "texto": "Segundo A Crítica — Amazonas: Chefes de Estado parabenizaram o petista, enquanto Donald Trump e Javier Milei levantaram suspeitas sem provas.",
+      "horario": "27/10/2026 • atualização automática às 08h58 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "08h58 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/reeleicao-de-lula-repercute-entre-lideres-internacionais/",
+      "ordemPublicacao": 1000323
+    },
+    {
+      "titulo": "PL reconhece vitória de Lula; Flávio tem passaporte apreendido",
+      "texto": "Segundo A Crítica — Amazonas: Partido cobra esclarecimentos sobre o pleito, enquanto senador é alvo de medida cautelar do STF após o resultado eleitoral.",
+      "horario": "27/10/2026 • atualização automática às 08h58 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "08h58 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/pl-reconhece-vitoria-de-lula-flavio-tem-passaporte-apreendido/",
+      "ordemPublicacao": 1000322
+    },
+    {
+      "titulo": "PL reconhece vitória de Lula nas eleições, mas cobra esclarecimentos sobre gastos públicos",
+      "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios BRASIL – O presidente do Partido Liberal (PL), Valdemar Costa Neto, publicou nota oficial, na segunda-feira, 26/10, em que reconhece a vitória do presidente Luiz Inácio Lula da Silva nas eleições deste ano. No entanto, ele cobrou esclarecimentos sobre o que chamou de medidas “eleitoreiras”, com “ampliação de gastos públicos”. “Reconhecemos o resultado […] O post PL reconhece vitória de Lula nas",
+      "horario": "27/10/2026 • atualização automática às 08h58 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "08h58 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/pl-reconhece-vitoria-de-lula-nas-eleicoes-mas-cobra-esclarecimentos-sobre-gastos-publicos/",
+      "ordemPublicacao": 1000321
+    },
     {
       "titulo": "Lula avalia nomes para ministérios e planeja sucessão política",
       "texto": "Segundo A Crítica — Amazonas: Esplanada deve abrigar aliados após eleições e governo já projeta lideranças para a disputa presidencial de 2030.",
