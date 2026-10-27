@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: plantao-eleitoral
   cancel-in-progress: false
@@ -20,6 +21,7 @@ jobs:
       - name: Consultar fontes e publicar boletins
         run: python scripts/plantao_eleitoral.py
       - name: Salvar novas atualizações
+        id: commit
         run: |
           if git diff --quiet -- eleicoes-boletins.json; then
             echo "Sem boletins novos verificados"
@@ -30,3 +32,9 @@ jobs:
           git add eleicoes-boletins.json
           git commit -m "Plantão eleitoral: boletins atualizados automaticamente"
           git push
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Atualizar GitHub Pages após boletim
+        if: steps.commit.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run static.yml --ref main
