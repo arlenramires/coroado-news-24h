@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-27T16:51:50.254185+00:00",
+  "atualizadoEm": "2026-10-27T17:45:44.039050+00:00",
   "boletins": [
+    {
+      "titulo": "Equipe que elaborou plano de Omar Aziz pode integrar novo governo",
+      "texto": "Segundo BNC Amazonas: Grupo de especialistas coordenado por Durango Duarte produziu mais de 1.500 páginas de propostas e reúne nomes de peso que podem ser aproveitados na transição e no primeiro escalão O post Equipe que elaborou plano de Omar Aziz pode integrar novo governo apareceu primeiro em BNC Amazonas, o site de política! .",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/equipe-que-elaborou-plano-de-omar-aziz-pode-integrar-novo-governo/",
+      "ordemPublicacao": 1000373
+    },
+    {
+      "titulo": "Dino manda PF apurar interferência externa no processo eleitoral",
+      "texto": "Segundo A Crítica — Amazonas: Terras raras podem ter sido ofertadas em troca",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/dino-manda-pf-apurar-interferencia-externa-no-processo-eleitoral/",
+      "ordemPublicacao": 1000372
+    },
+    {
+      "titulo": "PF investiga crimes ambientais no Amazonas",
+      "texto": "Segundo A Crítica — Amazonas: Operação Fagulha cumpriu três mandados de busca e apreensão no âmbito de apuração sobre ocorrência de incêndio e degradação ambiental em área rural localizada no estado",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/policia/pf-investiga-crimes-ambientais-no-amazonas/",
+      "ordemPublicacao": 1000371
+    },
+    {
+      "titulo": "Sargento Salazar promete continuar fiscalizando Renato Junior após eleições: ‘Nada mudou’",
+      "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios MANAUS (AM) – O vereador Sargento Salazar, deputado federal eleito, publicou um vídeo nas redes sociais, nesta terça-feira, 27/10, em que afirma que continuará fiscalizando a gestão do prefeito de Manaus, Renato Junior (Avante), mesmo após o fim das eleições. Na gravação, Salazar afirma que o período eleitoral terminou, mas que a cobrança […] O post Sargento Salazar promete continuar fiscalizando Renato",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/sargento-salazar-promete-continuar-fiscalizando-renato-junior-apos-eleicoes-nada-mudou/",
+      "ordemPublicacao": 1000370
+    },
+    {
+      "titulo": "Dilma será indenizada em R$ 17,5 mil por mês por ter sido perseguida na ditadura, define ministério",
+      "texto": "Segundo G1 Política: O Ministério dos Direitos Humanos e da Cidadania fixou um novo valor, de R$ 17.562,80 mensais, como reparação econômica à ex-presidente Dilma Rousseff (PT) em razão da perseguição política sofrida durante a ditadura militar, com prisões ilegais e torturas física e psicológica. A portaria com o novo valor foi publicada nesta terça (27) no \"Diário Oficial da União\" \"em cumprimento à decisão definitiva do Tribunal",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/27/dilma-sera-indenizada-em-r-175-mil-por-mes-por-ter-sido-perseguida-na-ditadura-define-ministerio.ghtml",
+      "ordemPublicacao": 1000369
+    },
+    {
+      "titulo": "Suspeita de fuga de Flávio Bolsonaro repercute na imprensa internacional",
+      "texto": "Segundo G1 Política: PF apura se Flávio Bolsonaro deixou o Brasil pela fronteira com a Argentina A imprensa internacional está repercutindo, nesta terça-feira (27), a suspeita de que o senador Flávio Bolsonaro (PL), derrotado nas eleições de domingo (25), tenha deixado o Brasil. ➡️ A Polícia Federal (PF) informou que apura se o caso. Um jornal argentino divulgou, durante a madrugada desta terça, que Flávio Bolsonaro teria saído do país",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/mundo/noticia/2026/10/27/suspeita-de-fuga-de-flavio-bolsonaro-repercute-na-imprensa-internacional.ghtml",
+      "ordemPublicacao": 1000368
+    },
+    {
+      "titulo": "Tebet diz que Lula entendeu 'recado das ruas' e prevê governo mais aberto a aliados fora do PT",
+      "texto": "Segundo G1 Política: A senadora Simone Tebet afirmou em entrevista ao Estúdio i, nesta terça-feira (27), que o presidente Luiz Inácio Lula da Silva (PT) entendeu o \"recado das ruas\" após a mobilização popular no segundo turno das eleições e deve adotar uma postura mais aberta a aliados de outros partidos em seu quarto mandato. \"Eu acredito que vai ser um governo diferente em todos os aspectos. Difícil, nós não teremos maioria, com todas",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/27/tebet-entrevista-estudio-i.ghtml",
+      "ordemPublicacao": 1000367
+    },
+    {
+      "titulo": "Falta de merenda revolta estudantes em Parintins; problema também afeta outras cidades do Amazonas",
+      "texto": "Segundo G1 Amazonas: Falta de merenda causa revolta de estudantes em Parintins Estudantes do Centro de Educação em Tempo Integral (CETI) Deputado Gláucio Gonçalves, em Parintins, protestaram na segunda-feira (26) para denunciar problemas no fornecimento de merenda e cobrar melhorias na estrutura da escola. Segundo o Sindicato dos Trabalhadores em Educação do Estado do Amazonas (Sinteam), os alunos ficaram sem café da manhã e receberam",
+      "horario": "27/10/2026 • atualização automática às 13h45 (Manaus)",
+      "dataPublicacao": "27/10/2026",
+      "horaPublicacao": "13h45 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/noticia/2026/10/27/falta-de-merenda-revolta-estudantes-em-parintins-problema-tambem-afeta-outras-cidades-do-amazonas.ghtml",
+      "ordemPublicacao": 1000366
+    },
     {
       "titulo": "PF investiga desvio de dinheiro em empresa de previdência de São Roque",
       "texto": "Segundo Agência Brasil — geral: A empresa São Roque Prev, responsável pela previdência social dos servidores da cidade de São Roque, no interior de São Paulo, é alvo, nesta terça-feira (27), de investigação da Polícia Federal por desvio de dinheiro. Segundo a apuração, que é feita por meio da Operação Entressafras, cerca de R$ 100 milhões foram movimentados sem pareceres técnicos e fundamentação adequada entre 2022 e 2024. A empresa teria aplicado",
