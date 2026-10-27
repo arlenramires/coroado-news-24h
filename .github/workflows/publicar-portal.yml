@@ -1,7 +1,5 @@
 name: Publicar Coroado News 24h
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
@@ -19,6 +17,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Validar arquivos antes de publicar
+        run: python3 scripts/validar_publicacao.py
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
       - name: Enviar arquivos do portal
