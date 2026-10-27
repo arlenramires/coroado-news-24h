@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-10-27T01:13:40.116707+00:00",
+  "atualizadoEm": "2026-10-27T01:50:37.680702+00:00",
   "boletins": [
+    {
+      "titulo": "Foi simples assim: Omar foi, viu e venceu!",
+      "texto": "Segundo BNC Amazonas: Guto Rodrigues destaca a firmeza de Omar Aziz durante a campanha e seu apoio a Lula na disputa eleitoral de 2026. O post Foi simples assim: Omar foi, viu e venceu! apareceu primeiro em BNC Amazonas, o site de política! .",
+      "horario": "26/10/2026 • atualização automática às 21h50 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "21h50 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/foi-simples-assim-omar-foi-viu-e-venceu/",
+      "ordemPublicacao": 1000294
+    },
+    {
+      "titulo": "Presidente dos EUA, Trump questiona resultado das Eleições no Brasil",
+      "texto": "Segundo A Crítica — Amazonas: Chefes de Estado da Europa e das Américas reconheceram a vitória do petista, enquanto Donald Trump criticou o resultado.",
+      "horario": "26/10/2026 • atualização automática às 21h50 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "21h50 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/presidente-dos-eua-trump-questiona-resultado-das-eleicoes-no-brasil/",
+      "ordemPublicacao": 1000293
+    },
+    {
+      "titulo": "Segundo turno registra menor taxa de abstenção desde 2006",
+      "texto": "Segundo A Crítica — Amazonas: Índice de não comparecimento ficou em 19,22%, menor patamar em 20 anos; votação no exterior também teve alta adesão.",
+      "horario": "26/10/2026 • atualização automática às 21h50 (Manaus)",
+      "dataPublicacao": "26/10/2026",
+      "horaPublicacao": "21h50 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/segundo-turno-registra-menor-taxa-de-abstencao-desde-2006/",
+      "ordemPublicacao": 1000292
+    },
     {
       "titulo": "Amazonas registra menor índice de votos nulos em três eleições",
       "texto": "Segundo A Crítica — Amazonas: Estado teve queda de 28% na soma de brancos e nulos no segundo turno, enquanto abstenção superou 606 mil eleitores.",
