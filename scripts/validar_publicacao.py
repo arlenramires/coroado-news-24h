@@ -108,6 +108,12 @@ for html in ROOT.glob("*.html"):
         if result.returncode:
             fail(f"{html.name}: JavaScript inválido: {result.stderr[:500]}")
 
+for script in sorted((ROOT / "scripts").glob("*.py")):
+    try:
+        compile(script.read_text(encoding="utf-8"), str(script.relative_to(ROOT)), "exec")
+    except SyntaxError as exc:
+        fail(f"{script.relative_to(ROOT)}: sintaxe Python inválida: {exc}")
+
 if (ROOT / "CNAME").read_text().strip() != "coroadonews24h.com.br":
     fail("CNAME diferente do domínio esperado")
 if errors:
