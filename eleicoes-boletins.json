@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-10-28T19:21:23.168288+00:00",
+  "atualizadoEm": "2026-10-28T20:06:11.001197+00:00",
   "boletins": [
+    {
+      "titulo": "No dia do servidor público, prefeito chama aprovados em concurso da Semed e governador antecipa salários",
+      "texto": "Segundo Rios de Notícias — Amazonas: Júnior Almeida – Rios de Notícias MANAUS (AM) – No Dia do Servidor Público, celebrado nesta quarta-feira, 28/10, o prefeito de Manaus, Renato Junior (Avante), e o governador do Amazonas, Roberto Cidade (União Brasil), anunciaram medidas com benefícios aos servidores.",
+      "horario": "28/10/2026 • atualização automática às 16h06 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "16h06 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/no-dia-do-servidor-publico-prefeito-chama-aprovados-em-concurso-da-semed-e-governador-antecipa-salarios/",
+      "ordemPublicacao": 1000477
+    },
+    {
+      "titulo": "Caso Master: PF indicia Vorcaro, ex-presidente do BRB e mais 12 em inquérito principal",
+      "texto": "Segundo G1 Política: Fachada de prédio do BRB, em imagem de arquivo Jornal Nacional/ Reprodução A Polícia Federal enviou ao Supremo Tribunal Federal (STF) nesta quarta-feira (28) um relatório parcial do principal inquérito que apura esquemas relacionados ao Banco Master e ao Banco de Brasília (BRB).",
+      "horario": "28/10/2026 • atualização automática às 16h06 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "16h06 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/pf-indiciamentos-vorcaro-master.ghtml",
+      "ordemPublicacao": 1000476,
+      "imagemUrl": "https://s2-g1.glbimg.com/x1yUX2ZWv5yfK-jsLkLDD7baR40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/XRfM1kQCqOYTKYCAxIxw/globo-canal-4-20260422-2000-frame-69537.jpeg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/x1yUX2ZWv5yfK-jsLkLDD7baR40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/XRfM1kQCqOYTKYCAxIxw/globo-canal-4-20260422-2000-frame-69537.jpeg",
+          "alt": "Caso Master: PF indicia Vorcaro, ex-presidente do BRB e mais 12 em inquérito principal",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "PF avalia pedir prisão preventiva de Flávio Bolsonaro após fuga",
+      "texto": "Segundo G1 Política: PF avalia pedir prisão preventiva de Flávio Bolsonaro após fuga Fontes da Polícia Federal ouvidas pelo blog avaliam que a fuga de Flávio Bolsonaro após o descumprimento de uma ordem judicial, pode abrir caminho para um pedido de prisão preventiva. Segundo investigadores, as apurações envolvendo o senador continuam em andamento e a saída do país acrescenta um novo elemento à avaliação das medidas judiciais cabíveis.",
+      "horario": "28/10/2026 • atualização automática às 16h06 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "16h06 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/pf-flavio-bolsonaro-ordem-judicial.ghtml",
+      "ordemPublicacao": 1000475
+    },
+    {
+      "titulo": "Conversas sobre composição de Lula 4 devem se acelerar após COP, diz presidente do PT",
+      "texto": "Segundo G1 Política: Edinho Silva diz que presidente Lula deve tratar de composição de governo depois da COP O presidente do PT, Edinho Silva, afirmou nesta quarta-feira (28), em entrevista ao programa Estúdio i, da GloboNews, que as conversas sobre a nova composição do governo Lula devem se acelerar após o retorno do presidente da COP, na Turquia. O evento está previsto para acontecer entre os dias 9 e 20 de novembro.",
+      "horario": "28/10/2026 • atualização automática às 16h06 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "16h06 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/blog/andreia-sadi/2026/lula-4-composicao-edinho-silva.ghtml",
+      "ordemPublicacao": 1000474,
+      "imagemUrl": "https://s2-g1.glbimg.com/4r84NAI60BPzlWjhBUweaZsWVyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/2/fIKdziSQORuyTBRFB5fA/edinho-silva-presidente-do-pt-.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/4r84NAI60BPzlWjhBUweaZsWVyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/2/fIKdziSQORuyTBRFB5fA/edinho-silva-presidente-do-pt-.jpg",
+          "alt": "Conversas sobre composição de Lula 4 devem se acelerar após COP, diz presidente do PT",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "Governo diz acompanhar 45 casos de violência política nas eleições e promete cobrar punições",
       "texto": "Segundo G1 Política: Casos de violência relacionados às eleições foram registrados em várias regiões do Brasil. Reprodução O governo federal informou nesta quarta-feira (28) que acompanha 45 casos de violência política registrados desde sábado (24) e que vai cobrar a punição dos responsáveis. Segundo o ministro-chefe da Secretaria-Geral da Presidência, Guilherme Boulos, os episódios deixaram 10 mortos.",
