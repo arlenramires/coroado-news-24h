@@ -96,7 +96,12 @@ def main():
             if link in seen or not link.startswith("https://"):
                 continue
             # Resumo atribuído explicitamente à fonte, não apresentado como verificação independente.
-            summary=summary[:420].rsplit(" ",1)[0] if len(summary)>420 else summary
+            # Evitar publicar trechos cortados no meio de uma frase.
+            # Se nenhuma frase completa couber no limite, aguardar outra pauta.
+            if len(summary)>420:
+                trecho=summary[:420]
+                finais=[m.end() for m in re.finditer(r"[.!?](?=\\s|$)",trecho)]
+                summary=trecho[:finais[-1]].strip() if finais and finais[-1]>=45 else ""
             if len(summary)<45:
                 continue
             order+=1
