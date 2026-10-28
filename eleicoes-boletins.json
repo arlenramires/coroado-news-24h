@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-10-28T12:08:03.497757+00:00",
+  "atualizadoEm": "2026-10-28T12:57:46.327014+00:00",
   "boletins": [
+    {
+      "titulo": "Tarcísio defende união da direita após vitória de Lula",
+      "texto": "Segundo A Crítica — Amazonas: Governador de São Paulo pediu atuação conjunta da oposição e foi pego de surpresa com ida de Flávio Bolsonaro aos EUA.",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/tarcisio-defende-uniao-da-direita-apos-vitoria-de-lula/",
+      "ordemPublicacao": 1000441
+    },
+    {
+      "titulo": "STF arquiva apurações contra Eduardo Bolsonaro, Malafaia e Fiuza",
+      "texto": "Segundo A Crítica — Amazonas: Decisões do ministro Edson Fachin encerraram procedimentos ligados ao inquérito das fake news com diferentes fundamentações.",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/stf-arquiva-apuracoes-contra-eduardo-bolsonaro-malafaia-e-fiuza/",
+      "ordemPublicacao": 1000440
+    },
+    {
+      "titulo": "Alessandra Campêlo discursa na Aleam sobre transição de governo",
+      "texto": "Segundo A Crítica — Amazonas: Vice-governadora eleita destacou a relação com órgãos de fiscalização e a formação da equipe técnica de transição.",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/alessandra-campelo-discursa-na-aleam-sobre-transicao-de-governo/",
+      "ordemPublicacao": 1000439
+    },
+    {
+      "titulo": "Após reeleição, Lula vai retomar viagens internacionais",
+      "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios BRASIL – A partir de novembro, o presidente Luiz Inácio Lula da Silva deve retomar os compromissos internacionais, após fazer viagens pelo Brasil em campanha pela reeleição. Os Estados Unidos estão entre os destinos previstos. Lula pretende ir à Cúpula do G20, em 14 de dezembro.",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/apos-reeleicao-lula-vai-retomar-viagens-internacionais/",
+      "ordemPublicacao": 1000438
+    },
+    {
+      "titulo": "VEJA rota de voo Flávio Bolsonaro rumo aos EUA",
+      "texto": "Segundo G1 Política: Flávio Bolsonaro e família seguem para os EUA após passagem por Argentina e Equador O senador Flávio Bolsonaro (PL), sua esposa e as filhas do casal seguiam viajando para os Estados Unidos na manhã desta quarta-feira (28). O governo da Argentina confirmou que a família embarcou em um avião particular que partiu da Argentina na noite de terça-feira (27).",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/mundo/noticia/2026/10/28/veja-rota-de-voo-flavio-bolsonaro-a-caminho-dos-eua.ghtml",
+      "ordemPublicacao": 1000437
+    },
+    {
+      "titulo": "Análise: Flávio Bolsonaro não é um problema de política, mas de polícia",
+      "texto": "Segundo G1 Política: Sadi: Flávio Bolsonaro abandona direita A saída de Flávio Bolsonaro do Brasil, cerca de 48h após a derrota nas eleições, na última terça-feira (27) reforça a avaliação de que sua candidatura à Presidência também tinha um objetivo de autoproteção, em busca de blindagem diante das investigações que envolvem o senador.",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/analise-flavio-bolsonaro-nao-e-um-problema-de-politica-mas-de-policia.ghtml",
+      "ordemPublicacao": 1000436
+    },
+    {
+      "titulo": "Ministros de Lula e do STF criticam decisões da PF e de Moraes sobre Flávio Bolsonaro",
+      "texto": "Segundo G1 Política: Ministro Alexandre de Moraes em sessão plenária extraordinária do STF - 15/09/2026 Rosinei Coutinho/STF A decisão do ministro Alexandre de Moraes, acatando pedido da Polícia Federal (PF), de mandar cancelar os passaportes do senador Flávio Bolsonaro (PL) foi criticada por ministros do presidente Lula e do Supremo Tribunal Federal (STF).",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/ministros-de-lula-e-do-stf-criticam-decisoes-da-pf-e-de-moraes-sobre-flavio-bolsonaro.ghtml",
+      "ordemPublicacao": 1000435
+    },
+    {
+      "titulo": "STF nega ter ordenado buscas em endereços de Flávio Bolsonaro",
+      "texto": "Segundo Agência Brasil: O Supremo Tribunal Federal (STF) divulgou nesta quarta-feira (28) nota em que nega a existência de operação de busca e apreensão da Polícia Federal (PF) tendo como alvo endereços ligados ao senador Flávio Bolsonaro (PL-RJ), recém-derrotado na eleição para a Presidência da República.",
+      "horario": "28/10/2026 • atualização automática às 08h57 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "08h57 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/stf-nega-ter-ordenado-buscas-em-enderecos-de-flavio-bolsonaro",
+      "ordemPublicacao": 1000434
+    },
     {
       "titulo": "AM tem diferença de 2% entre votos brancos e nulos para presidente e governador",
       "texto": "Segundo A Crítica — Amazonas: O Amazonas é a segunda com menor diferença entre votos nulos e brancos para o Executivo Federal e Estadual",
