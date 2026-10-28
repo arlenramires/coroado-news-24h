@@ -100,7 +100,7 @@ def main():
             # Se nenhuma frase completa couber no limite, aguardar outra pauta.
             if len(summary)>420:
                 trecho=summary[:420]
-                finais=[m.end() for m in re.finditer(r"[.!?](?=\\s|$)",trecho)]
+                finais=[m.end() for m in re.finditer(r"[.!?](?=\s|$)",trecho)]
                 summary=trecho[:finais[-1]].strip() if finais and finais[-1]>=45 else ""
             if len(summary)<45:
                 continue
