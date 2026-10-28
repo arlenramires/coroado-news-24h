@@ -1,6 +1,56 @@
 {
-  "atualizadoEm": "2026-10-28T14:39:56.114565+00:00",
+  "atualizadoEm": "2026-10-28T15:29:06.969408+00:00",
   "boletins": [
+    {
+      "titulo": "Rozenha aponta novos tempos na ALE-AM",
+      "texto": "Segundo BNC Amazonas: Cotado para presidir a ALE-AM, Rozenha aposta em relação harmônica com Omar Aziz, mas defende independência do Legislativo; governador eleito deve contar com ampla base de apoio. O post Rozenha aponta novos tempos na ALE-AM apareceu primeiro em BNC Amazonas, o site de política! .",
+      "horario": "28/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/rozenha-aponta-novos-tempos-na-ale-am/",
+      "ordemPublicacao": 1000455
+    },
+    {
+      "titulo": "TCU propõe alíquota de 11,3% para o futuro imposto sobre consumo do governo federal em 2027; Senado tem que aprovar valor",
+      "texto": "Segundo G1 Política: O plenário do Tribunal de Contas da União (TCU) aprovou nesta quarta-feira (28) uma proposta para que a alíquota da Contribuição sobre Bens e Serviços (CBS), novo tributo aprovado na reforma tributária sobre o consumo, seja de 11,3% em 2027. O cálculo foi feito por técnicos do TCU com base em dados da Receita Federal. O valor será encaminhado ao Congresso Nacional, que poderá concordar ou não.",
+      "horario": "28/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/economia/noticia/2026/10/28/tcu-propoe-aliquota-de-113percent-para-o-futuro-imposto-sobre-consumo-do-governo-federal-em-2027-senado-tem-que-aprovar-valor.ghtml",
+      "ordemPublicacao": 1000454
+    },
+    {
+      "titulo": "Motta diz que Câmara vai debater mudança para sistema distrital misto e regras para propaganda eleitoral nas redes",
+      "texto": "Segundo G1 Política: Hugo Motta reúne presidentes de partidos para tratar de mudança no sistema eleitoral Reprodução/TV Globo O presidente da Câmara, Hugo Motta (Republicanos-PB), anunciou nesta quarta-feira (28) que a Casa vai abrir debates para alterar o sistema eleitoral proporcional brasileiro para o modelo distrital misto, com implementação definitiva prevista para 2034.",
+      "horario": "28/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/28/motta-diz-que-camara-vai-debater-mudanca-para-sistema-distrital-misto-e-regras-para-propaganda-eleitoral-nas-redes.ghtml",
+      "ordemPublicacao": 1000453
+    },
+    {
+      "titulo": "Jair Bolsonaro pede a Moraes para receber visita de Valdemar Costa Neto em prisão domiciliar",
+      "texto": "Segundo G1 Política: A defesa do ex-presidente Jair Bolsonaro (PL) pediu, nesta quarta-feira (28), que o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorize uma visita do presidente do PL, Valdemar Costa Neto, a ele, \"em razão da necessidade de diálogo direto\".",
+      "horario": "28/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/28/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-valdemar-costa-neto-em-prisao-domiciliar.ghtml",
+      "ordemPublicacao": 1000452
+    },
+    {
+      "titulo": "Ministério Público investiga contratações sem concurso em órgão do Governo do Amazonas",
+      "texto": "Segundo G1 Amazonas: Ministério Público do Amazonas (MPAM) Divulgação O Ministério Público do Amazonas (MPAM) abriu um inquérito civil para investigar possíveis irregularidades na contratação de servidores da Unidade Gestora de Projetos Especiais (UGPE), órgão do Governo do Amazonas. A apuração busca verificar por que não houve concurso público e se há desequilíbrio entre o número de servidores efetivos, comissionados e temporários.",
+      "horario": "28/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/noticia/2026/10/28/ministerio-publico-investiga-contratacoes-sem-concurso-em-orgao-do-governo-do-amazonas.ghtml",
+      "ordemPublicacao": 1000451
+    },
     {
       "titulo": "Aeronave com Flávio Bolsonaro e família pousa nos Estados Unidos",
       "texto": "Segundo A Crítica — Amazonas: Senador fugiu do país dois dias após ser derrotado nas eleições",
