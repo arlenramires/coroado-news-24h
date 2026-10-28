@@ -52,9 +52,9 @@ def media(item):
             url=node.get("url","").strip()
             typ=node.get("type","").lower()
             if not url.startswith("https://"): continue
-            if "video" in typ or re.search(r"\\.(mp4|webm)(?:\\?|$)",url,re.I):
+            if "video" in typ or re.search(r"\.(mp4|webm)(?:\?|$)",url,re.I):
                 if not video: video=url
-            elif "image" in typ or re.search(r"\\.(jpg|jpeg|png|webp)(?:\\?|$)",url,re.I):
+            elif "image" in typ or re.search(r"\.(jpg|jpeg|png|webp)(?:\?|$)",url,re.I):
                 if url not in imgs: imgs.append(url)
     return imgs[:2],video
 
