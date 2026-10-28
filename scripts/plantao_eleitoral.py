@@ -98,7 +98,7 @@ def main():
             # Feeds podem chegar truncados mesmo abaixo do limite de 420 caracteres.
             # Publicar somente frases completas; caso contrário, descartar o resumo.
             trecho=summary[:420].strip()
-            finais=[m.end() for m in re.finditer(r'[.!?…](?:["”’ )\]]*)(?=\s|$)',trecho)]
+            finais=[m.end() for m in re.finditer(r'[.!?…](?:["”’)\]]*)(?=\s|$)',trecho)]
             summary=trecho[:finais[-1]].strip() if finais and finais[-1]>=45 else ""
             if len(summary)<45:
                 continue
