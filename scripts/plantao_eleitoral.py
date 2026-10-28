@@ -90,42 +90,8 @@ def main():
             continue
         for title,link,summary,published,images,video in feed:
             title=clean(title);summary=clean(summary);link=link.strip()
-            # Remover rodapés automáticos de RSS, sem alterar o conteúdo factual.
-            summary=re.sub(r'\s+O post\b.{0,220}?\bapareceu primeiro em\b.*
-            match = LOCAL_PATTERN if any(word in name for word in LOCAL_SOURCES) else PATTERN
-            if not (title and link and published and recent(published) and match.search(title+" "+summary)):
-                continue
-            if link in seen or not link.startswith("https://"):
-                continue
-            # Feeds podem chegar truncados mesmo abaixo do limite de 420 caracteres.
-            # Publicar somente frases completas; caso contrário, descartar o resumo.
-            trecho=summary[:420].strip()
-            finais=[m.end() for m in re.finditer(r'[.!?…](?:["”’)\]]*)(?=\s|$)',trecho)]
-            summary=trecho[:finais[-1]].strip() if finais and finais[-1]>=45 else ""
-            if len(summary)<45:
-                continue
-            order+=1
-            local=NOW.astimezone(dt.timezone(dt.timedelta(hours=-4)))
-            bulletin={"titulo":title,"texto":"Segundo "+name+": "+summary,"horario":local.strftime("%d/%m/%Y • atualização automática às %Hh%M (Manaus)"),"dataPublicacao":local.strftime("%d/%m/%Y"),"horaPublicacao":local.strftime("%Hh%M (Manaus)"),"fonteNome":name,"fonteUrl":link,"ordemPublicacao":order}
-            if images:
-                bulletin["imagemUrl"]=images[0]
-                bulletin["imagens"]=[{"url":u,"alt":title,"credito":name} for u in images]
-            if video:
-                bulletin["videoUrl"]=video
-                bulletin["videoCredito"]=name
-            added.append(bulletin)
-            seen.add(link)
-            if len(added)>=8: break
-        if len(added)>=8: break
-    if added:
-        data["boletins"]=list(reversed(added))+items
-        data["atualizadoEm"]=NOW.isoformat()
-        FILE.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print(f"Boletins novos: {len(added)}; fontes consultadas: {len(SOURCES)}")
-
-if __name__=="__main__":
-    main()
-, '', summary, flags=re.I).strip()
+            # Remover apenas rodapés automáticos de RSS, sem modificar os fatos.
+            summary=re.sub(r'\s+O post\b.{0,220}?\bapareceu primeiro em\b.*$', '', summary, flags=re.I).strip()
             match = LOCAL_PATTERN if any(word in name for word in LOCAL_SOURCES) else PATTERN
             if not (title and link and published and recent(published) and match.search(title+" "+summary)):
                 continue
