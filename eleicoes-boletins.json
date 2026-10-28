@@ -1,6 +1,62 @@
 {
-  "atualizadoEm": "2026-10-28T22:44:14.733709+00:00",
+  "atualizadoEm": "2026-10-28T23:17:02.152684+00:00",
   "boletins": [
+    {
+      "titulo": "Santos: Polícia apreende dois menores suspeitos da morte de engenheiro",
+      "texto": "Segundo Agência Brasil — geral: Dois adolescentes foram apreendidos por suspeita de participação do roubo seguido de morte do engenheiro ambiental Marcelo de Oliveira da Rocha, de 30 anos, em Santos (SP), na madrugada de sábado (24). De acordo com a Polícia Civil, sete suspeitos do crime foram identificados.",
+      "horario": "28/10/2026 • atualização automática às 19h17 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "19h17 (Manaus)",
+      "fonteNome": "Agência Brasil — geral",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/santos-policia-apreende-dois-menores-suspeitos-da-morte-de-engenheiro",
+      "ordemPublicacao": 1000494
+    },
+    {
+      "titulo": "'Ridículo', 'ofensa', 'olhar para frente': a reação após Flávio fugir, se dizer 'presidente eleito', apagar e falar que é 'líder do Brasil'",
+      "texto": "Segundo G1 Política: Carta de Flávio causa mal-estar; oposição pede respeito a resultado A carta divulgada pelo candidato derrotado nas eleições presidenciais, senador Flávio Bolsonaro (PL-RJ), após fugir do Brasil e seguir para os Estados Unidos provocou críticas no Senado Federal e manifestações de partidos nesta quarta-feira (28).",
+      "horario": "28/10/2026 • atualização automática às 19h17 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "19h17 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/28/ridiculo-ofensa-olhar-para-frente-a-reacao-apos-flavio-fugir-se-dizer-presidente-eleito-apagar-e-falar-que-e-lider-do-brasil.ghtml",
+      "ordemPublicacao": 1000493,
+      "imagemUrl": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+          "alt": "'Ridículo', 'ofensa', 'olhar para frente': a reação após Flávio fugir, se dizer 'presidente eleito', apagar e falar que é 'líder do Brasil'",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "Vereador Allan Campelo desafia Kidson Maia para luta durante sessão na Câmara Municipal de Manaus: 'deixa a arma em casa'",
+      "texto": "Segundo G1 Amazonas: Allan Campelo desafia Kidson Maia para luta durante sessão na Câmara Municipal de Manaus O vereador Allan Campelo (Podemos) usou a o plenário da Câmara Municipal de Manaus (CMM) para desafiar Kidson Maia (PL), candidato não eleito a deputado estadual, para uma luta física. O episódio ocorreu durante a sessão da segunda-feira (26).",
+      "horario": "28/10/2026 • atualização automática às 19h17 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "19h17 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/noticia/2026/10/28/vereador-allan-campelo-desafia-kidson-maia-para-luta-durante-sessao-na-camara-municipal-de-manaus-deixa-a-arma-em-casa.ghtml",
+      "ordemPublicacao": 1000492,
+      "imagemUrl": "https://s2-g1.glbimg.com/c8jGUD6D6iFZ2g-RHWMK712piBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/c/92cpRvTrSk6LE9XQqoZw/g1-allan-campelo-kidson-maia.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/c8jGUD6D6iFZ2g-RHWMK712piBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/c/92cpRvTrSk6LE9XQqoZw/g1-allan-campelo-kidson-maia.jpg",
+          "alt": "Vereador Allan Campelo desafia Kidson Maia para luta durante sessão na Câmara Municipal de Manaus: 'deixa a arma em casa'",
+          "credito": "G1 Amazonas"
+        }
+      ]
+    },
+    {
+      "titulo": "Coordenador de campanha do PL admite não ter prova de fraude eleitoral",
+      "texto": "Segundo Agência Brasil: O senador Rogério Marinho (PL-RN), líder da oposição no Senado e coordenador da campanha eleitoral de Flávio Bolsonaro (PL), comentou nesta quarta-feira (28) a divulgação de uma carta de teor golpista do candidato que fugiu com a família para os Estados Unidos (EUA), após ser derrotado nas urnas pelo presidente Luiz Inácio Lula da Silva.",
+      "horario": "28/10/2026 • atualização automática às 19h17 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "19h17 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral",
+      "ordemPublicacao": 1000491
+    },
     {
       "titulo": "Presidente do TSE diz que entregou pleito com segurança e que as eleições 'transcorreram dentro da mais absoluta normalidade'",
       "texto": "Segundo G1 Política: O ministro Kassio Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE), afirmou nesta quarta-feira (28) que a Justiça Eleitoral entregou o pleito deste ano com segurança e que as eleições \"transcorreram dentro da mais absoluta normalidade\".",
