@@ -1,6 +1,52 @@
 {
-  "atualizadoEm": "2026-10-28T20:06:11.001197+00:00",
+  "atualizadoEm": "2026-10-28T20:46:54.907464+00:00",
   "boletins": [
+    {
+      "titulo": "Após fugir do Brasil, Flávio fala em fraude na eleição e se diz 'presidente eleito'",
+      "texto": "Segundo G1 Política: Em uma carta divulgada após Flávio Bolsonaro (PL) fugir do Brasil rumo aos Estados Unidos, o senador declarou não reconhecer o resultado das urnas no segundo turno da eleição presidencial, acusou suposta fraude eleitoral e afirmou ser o \"verdadeiro presidente do Brasil\".",
+      "horario": "28/10/2026 • atualização automática às 16h46 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "16h46 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/28/apos-fugir-do-brasil-flavio-fala-em-fraude-na-eleicao-e-se-autoproclama-presidente.ghtml",
+      "ordemPublicacao": 1000480,
+      "imagemUrl": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+          "alt": "Após fugir do Brasil, Flávio fala em fraude na eleição e se diz 'presidente eleito'",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "Diretoria do BRB foi alertada sobre falhas em 90% de carteira do Master em 2024, diz relatório da PF",
+      "texto": "Segundo G1 Política: Fachada de prédio do BRB, em imagem de arquivo Jornal Nacional/ Reprodução A diretoria do Banco de Brasília (BRB) recebeu, ainda em agosto de 2024, um alerta interno sobre problemas nas carteiras de crédito adquiridas do Banco Master. A informação consta no relatório parcial da investigação da Polícia Federal que apura esquemas relacionados ao Banco Master e ao Banco de Brasília (BRB).",
+      "horario": "28/10/2026 • atualização automática às 16h46 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "16h46 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/diretoria-do-brb-foi-alertada-sobre-falhas-em-90percent-de-carteira-do-master-em-2024-diz-relatorio-da-pf.ghtml",
+      "ordemPublicacao": 1000479,
+      "imagemUrl": "https://s2-g1.glbimg.com/x1yUX2ZWv5yfK-jsLkLDD7baR40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/XRfM1kQCqOYTKYCAxIxw/globo-canal-4-20260422-2000-frame-69537.jpeg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/x1yUX2ZWv5yfK-jsLkLDD7baR40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/XRfM1kQCqOYTKYCAxIxw/globo-canal-4-20260422-2000-frame-69537.jpeg",
+          "alt": "Diretoria do BRB foi alertada sobre falhas em 90% de carteira do Master em 2024, diz relatório da PF",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "Governo federal atuará em 45 casos de violência política no 2º turno",
+      "texto": "Segundo Agência Brasil: O governo federal anunciou nesta quarta-feira (28) que vai reforçar os processos de investigação de casos envolvendo violência política ocorridos no último fim de semana no país. Ao todo, foram contabilizados 45 episódios, incluindo 10 homicídios, atribuídos à intolerância por posição eleitoral .",
+      "horario": "28/10/2026 • atualização automática às 16h46 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "16h46 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/governo-federal-atuara-em-45-casos-de-violencia-politica-no-2o-turno",
+      "ordemPublicacao": 1000478
+    },
     {
       "titulo": "No dia do servidor público, prefeito chama aprovados em concurso da Semed e governador antecipa salários",
       "texto": "Segundo Rios de Notícias — Amazonas: Júnior Almeida – Rios de Notícias MANAUS (AM) – No Dia do Servidor Público, celebrado nesta quarta-feira, 28/10, o prefeito de Manaus, Renato Junior (Avante), e o governador do Amazonas, Roberto Cidade (União Brasil), anunciaram medidas com benefícios aos servidores.",
