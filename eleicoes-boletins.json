@@ -1,6 +1,42 @@
 {
-  "atualizadoEm": "2026-10-28T23:17:02.152684+00:00",
+  "atualizadoEm": "2026-10-28T23:56:52.971004+00:00",
   "boletins": [
+    {
+      "titulo": "What are the investigations into Flávio Bolsonaro, the defeated presidential candidate who fled Brazil for the US?",
+      "texto": "Segundo G1 Política: Flávio Bolsonaro Adriano Machado/Reuters Brazilian Senator Flávio Bolsonaro fled the country after losing the presidential election to Luiz Inácio Lula da Silva on Sunday (October 25) and declaring that he would not recognize the results. The defeated candidate arrived in the United States on Wednesday morning (October 28).",
+      "horario": "28/10/2026 • atualização automática às 19h56 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "19h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/28/what-are-the-investigations-into-flavio-bolsonaro-the-defeated-presidential-candidate-who-fled-brazil-for-the-us.ghtml",
+      "ordemPublicacao": 1000496,
+      "imagemUrl": "https://s2-g1.glbimg.com/SsUoXzhpHxC4fvQMMSX_-tOik5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/IuvRhHTXiCj9VsQ12hkA/2026-10-26t015157z-599900164-rc2paoass4y4-rtrmadp-3-brazil-election.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/SsUoXzhpHxC4fvQMMSX_-tOik5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/IuvRhHTXiCj9VsQ12hkA/2026-10-26t015157z-599900164-rc2paoass4y4-rtrmadp-3-brazil-election.jpg",
+          "alt": "What are the investigations into Flávio Bolsonaro, the defeated presidential candidate who fled Brazil for the US?",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "Ricardo Nunes diz que TSE já definiu o novo presidente após carta em que Flávio se autointula 'líder do Brasil'",
+      "texto": "Segundo G1 Política: Flávio Bolsonaro com o prefeito de São Paulo, Ricardo Nunes (MDB) e o governador reeleito do estado, Tarcísio de Freitas (Republicanos) Vittor Sales O prefeito de São Paulo, Ricardo Nunes (MDB), aliado de Flávio Bolsonaro (PL), deu uma nova declaração após o candidato derrotado nas eleições fugir para os Estados Unidos e divulgar uma carta com teor golpista em que se diz \"líder do Brasil\".",
+      "horario": "28/10/2026 • atualização automática às 19h56 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "19h56 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/28/ricardo-nunes-diz-que-tse-ja-definiu-o-novo-presidente-apos-carta-em-que-flavio-se-autointula-lider-do-brasil.ghtml",
+      "ordemPublicacao": 1000495,
+      "imagemUrl": "https://s2-g1.glbimg.com/Qfz88pUt6pLVQ9QlGVvjWROiHXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/FPUABVT0msA9v3scKYWQ/55585670755-ad7ee5ec1d-k.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/Qfz88pUt6pLVQ9QlGVvjWROiHXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/FPUABVT0msA9v3scKYWQ/55585670755-ad7ee5ec1d-k.jpg",
+          "alt": "Ricardo Nunes diz que TSE já definiu o novo presidente após carta em que Flávio se autointula 'líder do Brasil'",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "Santos: Polícia apreende dois menores suspeitos da morte de engenheiro",
       "texto": "Segundo Agência Brasil — geral: Dois adolescentes foram apreendidos por suspeita de participação do roubo seguido de morte do engenheiro ambiental Marcelo de Oliveira da Rocha, de 30 anos, em Santos (SP), na madrugada de sábado (24). De acordo com a Polícia Civil, sete suspeitos do crime foram identificados.",
