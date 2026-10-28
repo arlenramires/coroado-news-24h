@@ -24,7 +24,16 @@ jobs:
                   with urllib.request.urlopen(req,timeout=20) as r: out['dados'][key]=json.load(r)
               except Exception as exc: out['erros'][key]=str(exc)
           if not out['dados']: raise RuntimeError('Nenhum boletim oficial disponivel; preservar arquivo anterior')
-          with open('apuracao-tse.json','w',encoding='utf-8') as f: json.dump(out,f,ensure_ascii=False)
+          from pathlib import Path
+          arquivo=Path('apuracao-tse.json')
+          try:
+              anterior=json.loads(arquivo.read_text(encoding='utf-8'))
+          except (OSError, ValueError):
+              anterior={}
+          if anterior.get('dados')==out['dados'] and anterior.get('erros')==out['erros']:
+              print('Dados oficiais inalterados; dispensar commit e nova publicação')
+              raise SystemExit(0)
+          with arquivo.open('w',encoding='utf-8') as f: json.dump(out,f,ensure_ascii=False)
           PY
       - name: Publicar dados se alterados
         id: commit
