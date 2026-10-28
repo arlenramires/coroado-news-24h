@@ -95,13 +95,11 @@ def main():
                 continue
             if link in seen or not link.startswith("https://"):
                 continue
-            # Resumo atribuído explicitamente à fonte, não apresentado como verificação independente.
-            # Evitar publicar trechos cortados no meio de uma frase.
-            # Se nenhuma frase completa couber no limite, aguardar outra pauta.
-            if len(summary)>420:
-                trecho=summary[:420]
-                finais=[m.end() for m in re.finditer(r"[.!?](?=\s|$)",trecho)]
-                summary=trecho[:finais[-1]].strip() if finais and finais[-1]>=45 else ""
+            # Feeds podem chegar truncados mesmo abaixo do limite de 420 caracteres.
+            # Publicar somente frases completas; caso contrário, descartar o resumo.
+            trecho=summary[:420].strip()
+            finais=[m.end() for m in re.finditer(r'[.!?…](?:["”’ )\]]*)(?=\s|$)',trecho)]
+            summary=trecho[:finais[-1]].strip() if finais and finais[-1]>=45 else ""
             if len(summary)<45:
                 continue
             order+=1
