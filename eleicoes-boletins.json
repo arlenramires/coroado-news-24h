@@ -32,14 +32,16 @@
       "ordemPublicacao": 1000426
     },
     {
-      "titulo": "PF faz buscas em endereço ligado a Flávio Bolsonaro",
-      "texto": "Segundo G1 Política: O candidato à presidência do Brasil, Flávio Bolsonaro, do Partido Liberal (PL), discursa após perder o segundo turno das eleições presidenciais, em Brasília, Brasil, em 25 de outubro de 2026 REUTERS/Agustin Marcarian A Polícia Federal cumpre nesta quarta-feira (28) mandado de busca e apreensão em endereço ligado ao senador Flávio Bolsonaro (PL-RJ), que deixou o país após ordem para a entrega de seus passaportes. A",
+      "titulo": "CORREÇÃO: STF nega buscas da PF em endereços ligados a Flávio Bolsonaro",
+      "texto": "Correção editorial de 28/10/2026: este boletim informou incorretamente que a Polícia Federal realizava buscas em endereço ligado ao senador Flávio Bolsonaro. O Supremo Tribunal Federal esclareceu que não houve mandado de busca e apreensão nem diligência policial direcionada ao senador ou a seus endereços. A informação anterior foi retificada neste registro.",
       "horario": "28/10/2026 • atualização automática às 06h12 (Manaus)",
       "dataPublicacao": "28/10/2026",
       "horaPublicacao": "06h12 (Manaus)",
       "fonteNome": "G1 Política",
       "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/28/pf-buscas-enderecos-flavio-bolsonaro.ghtml",
-      "ordemPublicacao": 1000425
+      "ordemPublicacao": 1000425,
+      "correcaoUrl": "https://g1.globo.com/politica/noticia/2026/10/28/stf-diz-que-nao-ha-ordem-judicial-para-busca-e-apreensao-em-endereco-relacionado-a-flavio.ghtml",
+      "correcaoData": "28/10/2026"
     },
     {
       "titulo": "Flávio Bolsonaro chega aos EUA, diz BBC",
