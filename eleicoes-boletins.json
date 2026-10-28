@@ -1,6 +1,56 @@
 {
-  "atualizadoEm": "2026-10-28T13:46:13.748794+00:00",
+  "atualizadoEm": "2026-10-28T14:39:56.114565+00:00",
   "boletins": [
+    {
+      "titulo": "Aeronave com Flávio Bolsonaro e família pousa nos Estados Unidos",
+      "texto": "Segundo A Crítica — Amazonas: Senador fugiu do país dois dias após ser derrotado nas eleições",
+      "horario": "28/10/2026 • atualização automática às 10h39 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "10h39 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/aeronave-com-flavio-bolsonaro-e-familia-pousa-nos-estados-unidos/",
+      "ordemPublicacao": 1000450
+    },
+    {
+      "titulo": "O prato cheio da comunicação política no Brasil",
+      "texto": "Segundo A Crítica — Amazonas: Eleições de 2026 evidenciaram transformações profundas no processo de circulação de informações impondo novas performances, possibilidades e desafios",
+      "horario": "28/10/2026 • atualização automática às 10h39 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "10h39 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/colunas/escritas-do-corpo/opiniao/o-prato-cheio-da-comunicacao-politica-no-brasil/",
+      "ordemPublicacao": 1000449
+    },
+    {
+      "titulo": "FOTOS: veja como é o jatinho particular que levou Flávio Bolsonaro e família aos EUA",
+      "texto": "Segundo G1 Política: Jatinho particular LV-JQW, um Gulfstream G400, da companhia aérea argentina Baires Fly. Divulgação/Baires Fly O senador Flávio Bolsonaro (PL) e sua família chegaram aos Estados Unidos nesta quarta-feira (28). O avião particular utilizado pela família aterrissou em um aeroporto de Miami pela manhã.",
+      "horario": "28/10/2026 • atualização automática às 10h39 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "10h39 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/mundo/noticia/2026/10/28/veja-fotos-jatinho-particular-fuga-flavio-bolsonaro-eua.ghtml",
+      "ordemPublicacao": 1000448
+    },
+    {
+      "titulo": "É #FAKE que reportagem mostrou plano de Lula para encerrar Bolsa Família após 2º turno; vídeo de 2025 citou mudanças no programa",
+      "texto": "Segundo G1 Política: É #FAKE que reportagem citou plano de Lula para acabar com Bolsa Família após 2º turno; vídeo de 2025 relatou mudanças no programa Reprodução Circulam nas redes sociais publicações com um vídeo de uma reportagem supostamente relatando que, após a vitória no segundo turno das eleições, o governo do presidente Lula (PT) acabaria com o Bolsa Família. É #FAKE.",
+      "horario": "28/10/2026 • atualização automática às 10h39 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "10h39 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/28/e-fake-que-reportagem-mostrou-plano-de-lula-para-encerrar-bolsa-familia-apos-2o-turno-video-de-2025-citou-mudancas-no-programa.ghtml",
+      "ordemPublicacao": 1000447
+    },
+    {
+      "titulo": "Flávio Bolsonaro chega aos EUA; ACOMPANHE",
+      "texto": "Segundo G1 Política: Flávio Bolsonaro chega aos EUA; ACOMPANHE Senador deixou o Brasil após descumprir uma ordem do STF para entregar seus passaportes. Flávio foi derrotado por Lula no 2º turno da eleição presidencial. O senador Flávio Bolsonaro (PL), sua esposa e filhas chegaram nesta quarta (28) aos EUA. A família voou em um jatinho executivo..",
+      "horario": "28/10/2026 • atualização automática às 10h39 (Manaus)",
+      "dataPublicacao": "28/10/2026",
+      "horaPublicacao": "10h39 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/mundo/ao-vivo/voo-flavio-bolsonaro-eua.ghtml",
+      "ordemPublicacao": 1000446
+    },
     {
       "titulo": "Viera se reúne com Marco Rubio nesta semana, após Trump não reconhecer resultado das eleições",
       "texto": "Segundo G1 Política: Trump diz aprovar ida de Flávio Bolsonaro aos EUA O ministro das Relações Exteriores, Mauro Vieira, e o secretário de Estado dos Estados Unidos, Marco Rubio, vão se reunir nesta semana em meio à tensão diplomática provocada pela recusa do presidente Donald Trump em reconhecer o resultado das eleições brasileiras. Vieira e Rubio estarão na reunião de chanceleres do G20, presidido neste ano pelos americanos.",
