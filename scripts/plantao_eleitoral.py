@@ -52,7 +52,7 @@ def is_english_headline(title):
     words = re.findall(r"[a-zà-ÿ]+", title.lower())
     en = sum(word in ENGLISH_WORDS for word in words)
     pt = sum(word in PORTUGUESE_WORDS for word in words)
-    question = bool(re.match(r"^(?:what|who|why|where|when|how)\\b", title, re.I))
+    question = bool(re.match(r"^(?:what|who|why|where|when|how)\b", title, re.I))
     return (en >= 4 and en > 2 * pt) or (question and en >= 2 and pt <= 1)
 
 def get_text(el, tag):
