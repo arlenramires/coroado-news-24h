@@ -13,7 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 FILE = ROOT / "eleicoes-boletins.json"
 SOURCES = [
-    ("TSE — notícias oficiais", "https://www.tse.jus.br/comunicacao/noticias/RSS"),
+    ("TSE — notícias oficiais", "https://www.tse.jus.br/rss"),
     ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml"),
     ("G1 Amazonas", "https://g1.globo.com/rss/g1/am/amazonas/"),
     ("G1 Política", "https://g1.globo.com/rss/g1/politica/"),
