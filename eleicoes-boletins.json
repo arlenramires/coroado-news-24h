@@ -1,6 +1,42 @@
 {
-  "atualizadoEm": "2026-10-29T18:54:35.190306+00:00",
+  "atualizadoEm": "2026-10-29T19:36:02.709285+00:00",
   "boletins": [
+    {
+      "titulo": "É #FAKE que governo Lula 'bloqueou' Gás do Povo e Bolsa Família após eleições de 2026",
+      "texto": "Segundo G1 Política: É #FAKE que Bolsa Família e Vale Gás foram bloqueados Reprodução Circulam nas redes sociais posts sugerindo que o governo federal bloqueou os programas Gás do Povo e Bolsa Família.",
+      "horario": "29/10/2026 • atualização automática às 15h36 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "15h36 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/29/e-fake-que-governo-lula-bloqueou-gas-do-povo-e-bolsa-familia-apos-eleicoes-de-2026.ghtml",
+      "ordemPublicacao": 1000524,
+      "imagemUrl": "https://s2-g1.glbimg.com/Chl1Hm-8h3trSXqj90zVZbncspw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/b/NohOSxSyqRyJISwReOKA/valegas26.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/Chl1Hm-8h3trSXqj90zVZbncspw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/b/NohOSxSyqRyJISwReOKA/valegas26.jpg",
+          "alt": "É #FAKE que governo Lula 'bloqueou' Gás do Povo e Bolsa Família após eleições de 2026",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro",
+      "texto": "Segundo G1 Política: O governo brasileiro está convencido de que os Estados Unidos e a Argentina participaram da operação que permitiu a fuga do senador Flávio Bolsonaro (PL-RJ) do Brasil, candidato derrotado à Presidência da República.",
+      "horario": "29/10/2026 • atualização automática às 15h36 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "15h36 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/29/governo-quer-manter-pragmatismo-com-eua-e-argentina-e-nao-pretende-reagir-a-fuga-de-flavio-bolsonaro.ghtml",
+      "ordemPublicacao": 1000523,
+      "imagemUrl": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+          "alt": "Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "Omar Aziz vai coordenar transição de governo no Amazonas até dezembro",
       "texto": "Segundo A Crítica — Amazonas: Governador eleito e Roberto Cidade iniciaram processo nesta quinta-feira (29).",
