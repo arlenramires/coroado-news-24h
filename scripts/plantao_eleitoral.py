@@ -38,6 +38,23 @@ TITLE_PATTERN = re.compile(
 NS = {"a": "http://www.w3.org/2005/Atom"}
 NOW = dt.datetime.now(dt.timezone.utc)
 
+# Feeds podem publicar títulos em inglês; o plantão em português não deve
+# reproduzi-los automaticamente sem revisão ou tradução editorial.
+ENGLISH_WORDS = {"the", "what", "who", "why", "where", "when", "how", "are",
+                 "is", "was", "were", "into", "after", "before", "with",
+                 "from", "for", "and", "of", "in", "to", "on", "has",
+                 "have", "had", "did", "does"}
+PORTUGUESE_WORDS = {"de", "da", "do", "das", "dos", "que", "para", "por",
+                    "com", "em", "no", "na", "nos", "nas", "um", "uma",
+                    "e", "ao", "aos", "à", "às", "o", "a", "os", "as"}
+
+def is_english_headline(title):
+    words = re.findall(r"[a-zà-ÿ]+", title.lower())
+    en = sum(word in ENGLISH_WORDS for word in words)
+    pt = sum(word in PORTUGUESE_WORDS for word in words)
+    question = bool(re.match(r"^(?:what|who|why|where|when|how)\\b", title, re.I))
+    return (en >= 4 and en > 2 * pt) or (question and en >= 2 and pt <= 1)
+
 def get_text(el, tag):
     node = el.find(tag)
     return (node.text or "").strip() if node is not None else ""
@@ -101,7 +118,7 @@ def main():
             # Remover apenas rodapés automáticos de RSS, sem modificar os fatos.
             summary=re.sub(r'\s+O post\b.{0,220}?\bapareceu primeiro em\b.*$', '', summary, flags=re.I).strip()
             match = LOCAL_PATTERN if any(word in name for word in LOCAL_SOURCES) else PATTERN
-            if not (title and link and published and recent(published) and TITLE_PATTERN.search(title) and match.search(title+" "+summary)):
+            if not (title and link and published and recent(published) and not is_english_headline(title) and TITLE_PATTERN.search(title) and match.search(title+" "+summary)):
                 continue
             if link in seen or not link.startswith("https://"):
                 continue
