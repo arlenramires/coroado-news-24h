@@ -1,6 +1,54 @@
 {
-  "atualizadoEm": "2026-10-29T19:36:02.709285+00:00",
+  "atualizadoEm": "2026-10-29T20:21:25.196364+00:00",
   "boletins": [
+    {
+      "titulo": "Omar Aziz e Roberto Cidade iniciam tratativas para transição de governo e priorizam saúde, segurança e educação",
+      "texto": "Segundo Rios de Notícias — Amazonas: Nayandra Oliveira – Rios de Notícias MANAUS (AM) – O governador eleito do Amazonas, Omar Aziz (PSD), e o atual governador, Roberto Cidade (União Brasil), reuniram-se nesta quinta-feira, 29/10, na sede do Governo do Estado, no bairro Compensa, zona oeste de Manaus, para iniciar as tratativas da transição administrativa.",
+      "horario": "29/10/2026 • atualização automática às 16h21 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "16h21 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/omar-aziz-e-roberto-cidade-iniciam-tratativas-para-transicao-de-governo-e-priorizam-saude-seguranca-e-educacao/",
+      "ordemPublicacao": 1000528
+    },
+    {
+      "titulo": "É #FAKE que governo federal recuou sobre fim da escala 6x1 após vitória de Lula no segundo turno das eleições 2026",
+      "texto": "Segundo G1 Política: É #FAKE que governo federal tenha recuado sobre o fim da 6x1 Reprodução Circula nas redes sociais um post alegando que o governo federal, depois da vitória do presidente Lula (PT) sobre Flávio Bolsonaro (PL) no segundo turno das eleições 2026, teria recuado sobre o fim da escala 6x1.",
+      "horario": "29/10/2026 • atualização automática às 16h21 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "16h21 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/29/e-fake-que-governo-federal-recuou-sobre-fim-da-escala-6x1-apos-vitoria-de-lula-no-segundo-turno-das-eleicoes-2026.ghtml",
+      "ordemPublicacao": 1000527,
+      "imagemUrl": "https://s2-g1.glbimg.com/uWc86Hqge-ZwxeBJzpgJsuQTTM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/7/YpZvOSRiA7LehLQwD5VA/fake-6-x-1.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/uWc86Hqge-ZwxeBJzpgJsuQTTM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/7/YpZvOSRiA7LehLQwD5VA/fake-6-x-1.jpg",
+          "alt": "É #FAKE que governo federal recuou sobre fim da escala 6x1 após vitória de Lula no segundo turno das eleições 2026",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "MPT vai à Justiça para que Meta apague postagens de assédio eleitoral",
+      "texto": "Segundo Agência Brasil: O Ministério Público do Trabalho (MPT) acionou a Justiça, nesta quinta-feira (29), para obrigar a Meta a retirar do ar, em até 24 horas, todas as publicações que estimulem empresários a vigiar, expor, deixar de contratar e demitir funcionários por preferências políticas ou voto.",
+      "horario": "29/10/2026 • atualização automática às 16h21 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "16h21 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mpt-vai-justica-para-que-meta-apague-postagens-de-assedio-eleitoral",
+      "ordemPublicacao": 1000526
+    },
+    {
+      "titulo": "Campanha orienta trabalhadores sobre denúncias de assédio eleitoral",
+      "texto": "Segundo Agência Brasil: Trabalhadores que têm a Carteira de Trabalho Digital receberão mensagens com orientações sobre seus direitos à liberdade de escolha política e como denunciar situações de coação, ameaça ou discriminação no ambiente profissional.",
+      "horario": "29/10/2026 • atualização automática às 16h21 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "16h21 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-orienta-trabalhadores-sobre-denuncias-de-assedio-eleitoral",
+      "ordemPublicacao": 1000525
+    },
     {
       "titulo": "É #FAKE que governo Lula 'bloqueou' Gás do Povo e Bolsa Família após eleições de 2026",
       "texto": "Segundo G1 Política: É #FAKE que Bolsa Família e Vale Gás foram bloqueados Reprodução Circulam nas redes sociais posts sugerindo que o governo federal bloqueou os programas Gás do Povo e Bolsa Família.",
