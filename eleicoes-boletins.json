@@ -1,6 +1,46 @@
 {
-  "atualizadoEm": "2026-10-29T14:30:14.555064+00:00",
+  "atualizadoEm": "2026-10-29T15:29:29.741718+00:00",
   "boletins": [
+    {
+      "titulo": "Omar Aziz deixa sucessão da ALE-AM nas mãos dos deputados",
+      "texto": "Segundo BNC Amazonas: Apesar da força política conquistada nas urnas, governador eleito não pretende interferir na disputa pela presidência da Assembleia; vencerá quem tiver maior capacidade de articulação.",
+      "horario": "29/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/omar-aziz-deixa-sucessao-da-ale-am-nas-maos-dos-deputados/",
+      "ordemPublicacao": 1000513
+    },
+    {
+      "titulo": "Assédio eleitoral: denúncias crescem 48% no Pará e no Amapá, diz MPT",
+      "texto": "Segundo A Crítica — Amazonas: Total nos dois estados chegou a 92 casos neste ano; Brasil contabiliza quase 2 mil ocorrências no ambiente de trabalho.",
+      "horario": "29/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/assedio-eleitoral-denuncias-crescem-48-no-para-e-no-amapa-diz-mpt/",
+      "ordemPublicacao": 1000512
+    },
+    {
+      "titulo": "Assessoria jurídica diz que Maria do Carmo não foi alvo de buscas e repudia supostos ataques à família de Omar",
+      "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios MANAUS (AM) – A assessoria jurídica da ex-candidata ao Governo do Amazonas, Professora Maria do Carmo (PL), afirmou, nesta quinta-feira, 29/10, que ela não foi procurada por autoridades para prestar esclarecimentos sobre informações divulgadas pela imprensa a respeito de uma denúncia de ataques à filha do senador e governador eleito Omar Aziz (PSD).",
+      "horario": "29/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/assessoria-juridica-diz-que-maria-do-carmo-nao-foi-alvo-de-buscas-e-repudia-supostos-ataques-a-familia-de-omar/",
+      "ordemPublicacao": 1000511
+    },
+    {
+      "titulo": "Denúncias de assédio eleitoral no trabalho disparam 75% após 2º turno",
+      "texto": "Segundo Agência Brasil: As denúncias de assédio eleitoral aumentaram mais de 75% desde segunda-feira (26), dia seguinte ao segundo turno das eleições, com 1.459 registros nos últimos três dias, informou o Ministério Público do Trabalho (MPT). Até a manhã de segunda, o órgão havia recebido 1.937 denúncias do tipo . Desde então, a busca pelo MPT vem aumentando aceleradamente e as novas ocorrências já correspondem a cerca de 40% de todas as 3.",
+      "horario": "29/10/2026 • atualização automática às 11h29 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "11h29 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/denuncias-de-assedio-eleitoral-no-trabalho-disparam-75-apos-2-turno",
+      "ordemPublicacao": 1000510
+    },
     {
       "titulo": "Maria do Carmo nega diligências em endereços ligados a ela e diz estar à disposição das autoridades",
       "texto": "Segundo A Crítica — Amazonas: A manifestação foi divulgada após notícias sobre uma investigação envolvendo supostos ataques à filha do senador e governador eleito do Amazonas, Omar Aziz.",
