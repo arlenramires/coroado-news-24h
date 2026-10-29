@@ -27,6 +27,14 @@ SOURCES = [
 LOCAL_SOURCES = ("Amazonas", "Rios de Notícias", "D24AM", "Portal do Holanda", "A Crítica", "BNC Amazonas", "TRE-AM")
 LOCAL_PATTERN = re.compile(r"eleiç|eleitor|apuraç|votaç|urnas?|tse|tre.am|segundo turno|governador|omar aziz|maria do carmo|boca de urna|seções eleitorais",re.I)
 PATTERN = re.compile(r"eleiç|eleitor|apuraç|votaç|urnas?|tse|tre-am|segundo turno|presiden|governador|governo do amazonas|amazonas|manaus|tre.am|segundo turno", re.I)
+# O plantão eleitoral não deve incluir notícias gerais apenas por citarem
+# Manaus, Amazonas, governo ou presidente no resumo do feed.
+TITLE_PATTERN = re.compile(
+    r"eleiç|eleitor|eleit[oa]|apuraç|votaç|urnas?|\btse\b|tre[-.]am|"
+    r"(?:segundo|2[ºo°])\s*turno|pleito|fraude eleitoral|presidencial|"
+    r"presidente eleito|flávio|omar aziz|maria do carmo|candidato derrotad",
+    re.I,
+)
 NS = {"a": "http://www.w3.org/2005/Atom"}
 NOW = dt.datetime.now(dt.timezone.utc)
 
@@ -93,7 +101,7 @@ def main():
             # Remover apenas rodapés automáticos de RSS, sem modificar os fatos.
             summary=re.sub(r'\s+O post\b.{0,220}?\bapareceu primeiro em\b.*$', '', summary, flags=re.I).strip()
             match = LOCAL_PATTERN if any(word in name for word in LOCAL_SOURCES) else PATTERN
-            if not (title and link and published and recent(published) and match.search(title+" "+summary)):
+            if not (title and link and published and recent(published) and TITLE_PATTERN.search(title) and match.search(title+" "+summary)):
                 continue
             if link in seen or not link.startswith("https://"):
                 continue
