@@ -141,7 +141,13 @@ def main():
             summary=re.sub(r'\s*(?:\[(?:…|\.{3})\]|…|\.{3})\s*$', '', summary).strip()
             trecho=summary[:420].strip()
             finais=[m.end() for m in re.finditer(r'(?<!\.)[.!?](?!\.)(?:["”’)\]]*)(?=\s|$)',trecho)]
-            summary=trecho[:finais[-1]].strip() if finais and finais[-1]>=45 else ""
+            # Em resumos longos, usar a primeira frase completa evita publicar
+            # números e orações interrompidos pelo limite de 420 caracteres.
+            if len(summary) >= 420:
+                fim = next((p for p in finais if 45 <= p <= 400), 0)
+            else:
+                fim = finais[-1] if finais and finais[-1] >= 45 else 0
+            summary = trecho[:fim].strip() if fim else ""
             if len(summary)<45:
                 continue
             order+=1
