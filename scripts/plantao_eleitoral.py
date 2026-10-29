@@ -55,6 +55,20 @@ def is_english_headline(title):
     question = bool(re.match(r"^(?:what|who|why|where|when|how)\b", title, re.I))
     return (en >= 4 and en > 2 * pt) or (question and en >= 2 and pt <= 1)
 
+def is_unrelated_legislative_reelection(title):
+    """Não confundir reeleição interna do Congresso com o pleito geral."""
+    if not re.search(r"\breeleiç(?:ão|ões)\b", title, re.I):
+        return False
+    legislative = re.search(
+        r"\b(?:alcolumbre|motta)\b|\bpresidência d[ao] (?:senado|câmara)\b",
+        title, re.I,
+    )
+    general_election = re.search(
+        r"\b(?:lula|flávio|omar aziz|maria do carmo|governador(?:a)?|presidencial)\b",
+        title, re.I,
+    )
+    return bool(legislative and not general_election)
+
 def get_text(el, tag):
     node = el.find(tag)
     return (node.text or "").strip() if node is not None else ""
@@ -118,7 +132,7 @@ def main():
             # Remover apenas rodapés automáticos de RSS, sem modificar os fatos.
             summary=re.sub(r'\s+O post\b.{0,220}?\bapareceu primeiro em\b.*$', '', summary, flags=re.I).strip()
             match = LOCAL_PATTERN if any(word in name for word in LOCAL_SOURCES) else PATTERN
-            if not (title and link and published and recent(published) and not is_english_headline(title) and TITLE_PATTERN.search(title) and match.search(title+" "+summary)):
+            if not (title and link and published and recent(published) and not is_english_headline(title) and not is_unrelated_legislative_reelection(title) and TITLE_PATTERN.search(title) and match.search(title+" "+summary)):
                 continue
             if link in seen or not link.startswith("https://"):
                 continue
