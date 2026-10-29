@@ -1,6 +1,42 @@
 {
-  "atualizadoEm": "2026-10-29T20:21:25.196364+00:00",
+  "atualizadoEm": "2026-10-29T21:08:10.124050+00:00",
   "boletins": [
+    {
+      "titulo": "Para aliados, Flávio esvazia liderança política ao apresentar dupla personalidade: moderado na campanha e extremista em carta",
+      "texto": "Segundo G1 Política: Gerson Camarotti diz que carta de Flávio foi considerada 'desastrosa' por aliados Uma avaliação pragmática do núcleo mais próximo do senador e candidato derrotado Flávio Bolsonaro (PL-RJ) avalia que ele perdeu as credenciais políticas ao se alinhar em sua fuga do Brasil ao radicalismo de direita.",
+      "horario": "29/10/2026 • atualização automática às 17h08 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "17h08 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/29/aliados-avaliam-que-flavio-esvazia-lideranca-politica-ao-se-apresentar-moderado-na-campanha-e-extremista-em-carta-apos-fuga.ghtml",
+      "ordemPublicacao": 1000530,
+      "imagemUrl": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
+          "alt": "Para aliados, Flávio esvazia liderança política ao apresentar dupla personalidade: moderado na campanha e extremista em carta",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "Omar Aziz e Roberto Cidade iniciam transição de governo no Amazonas",
+      "texto": "Segundo G1 Amazonas: Reunião para tratar sobre transição de governo no Amazonas ocorreu nesta quinta-feira (29).",
+      "horario": "29/10/2026 • atualização automática às 17h08 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "17h08 (Manaus)",
+      "fonteNome": "G1 Amazonas",
+      "fonteUrl": "https://g1.globo.com/am/amazonas/noticia/2026/10/29/omar-aziz-e-roberto-cidade-iniciam-transicao-de-governo-no-amazonas.ghtml",
+      "ordemPublicacao": 1000529,
+      "imagemUrl": "https://s2-g1.glbimg.com/fHbM24KUoaT58w0XHPCp7YJqaS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/D/oXGW41S4ynjC0ZfPdFdA/g1-reuniao-transicao-governo.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/fHbM24KUoaT58w0XHPCp7YJqaS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/D/oXGW41S4ynjC0ZfPdFdA/g1-reuniao-transicao-governo.jpg",
+          "alt": "Omar Aziz e Roberto Cidade iniciam transição de governo no Amazonas",
+          "credito": "G1 Amazonas"
+        }
+      ]
+    },
     {
       "titulo": "Omar Aziz e Roberto Cidade iniciam tratativas para transição de governo e priorizam saúde, segurança e educação",
       "texto": "Segundo Rios de Notícias — Amazonas: Nayandra Oliveira – Rios de Notícias MANAUS (AM) – O governador eleito do Amazonas, Omar Aziz (PSD), e o atual governador, Roberto Cidade (União Brasil), reuniram-se nesta quinta-feira, 29/10, na sede do Governo do Estado, no bairro Compensa, zona oeste de Manaus, para iniciar as tratativas da transição administrativa.",
