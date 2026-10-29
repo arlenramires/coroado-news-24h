@@ -1,6 +1,34 @@
 {
-  "atualizadoEm": "2026-10-29T18:07:39.124424+00:00",
+  "atualizadoEm": "2026-10-29T18:54:35.190306+00:00",
   "boletins": [
+    {
+      "titulo": "Omar Aziz vai coordenar transição de governo no Amazonas até dezembro",
+      "texto": "Segundo A Crítica — Amazonas: Governador eleito e Roberto Cidade iniciaram processo nesta quinta-feira (29).",
+      "horario": "29/10/2026 • atualização automática às 14h54 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "14h54 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/omar-aziz-vai-coordenar-transicao-de-governo-no-amazonas-ate-dezembro/",
+      "ordemPublicacao": 1000522
+    },
+    {
+      "titulo": "Lula vira em 3 regiões metropolitanas e cresce mais de 30% em outras 6 do 1º para o 2º turno; Flávio perde votos em 7",
+      "texto": "Segundo G1 Política: Lula e Flávio Bolsonaro REUTERS/Adriano Machado Reeleito presidente no 2º turno das eleições de 2026, Lula (PT) reverteu o placar em três das 78 regiões metropolitanas brasileiras e ampliou sua votação em mais de 30% em outras seis, na comparação com o 1º turno.",
+      "horario": "29/10/2026 • atualização automática às 14h54 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "14h54 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/29/desempenho-lual-flavio-bolsonaro-regioes-metropolitanas.ghtml",
+      "ordemPublicacao": 1000521,
+      "imagemUrl": "https://s2-g1.glbimg.com/1GnhEh4E0SoSRg8qziLXXHypnhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/eiEQioRUSFbCBng6wiag/fotojet-3-.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/1GnhEh4E0SoSRg8qziLXXHypnhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/eiEQioRUSFbCBng6wiag/fotojet-3-.jpg",
+          "alt": "Lula vira em 3 regiões metropolitanas e cresce mais de 30% em outras 6 do 1º para o 2º turno; Flávio perde votos em 7",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "O surto psicótico de Flávio Bolsonaro",
       "texto": "Segundo BNC Amazonas: Plinio Coêlho analisa a reação de Flávio Bolsonaro à derrota presidencial de 2026. O autor questiona as acusações de fraude eleitoral, a autoproclamação política e as contradições do discurso bolsonarista.",
