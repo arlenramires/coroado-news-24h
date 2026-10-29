@@ -1,6 +1,34 @@
 {
-  "atualizadoEm": "2026-10-29T16:21:57.009627+00:00",
+  "atualizadoEm": "2026-10-29T17:16:34.845748+00:00",
   "boletins": [
+    {
+      "titulo": "Buscas por ‘como morar no Paraguai’ crescem após vitória de Lula nas eleições 2026",
+      "texto": "Segundo Rios de Notícias — Amazonas: Kataryne Dias – Rios de Notícias MANAUS (AM) – As buscas no Google pelo termo “como morar no Paraguai” registraram aumento expressivo após o segundo turno das eleições presidenciais de 2026, segundo dados do Google Trends verificados nesta quinta-feira, 29/10.",
+      "horario": "29/10/2026 • atualização automática às 13h16 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "13h16 (Manaus)",
+      "fonteNome": "Rios de Notícias — Amazonas",
+      "fonteUrl": "https://www.riosdenoticias.com.br/buscas-por-como-morar-no-paraguai-crescem-apos-vitoria-de-lula-nas-eleicoes-2026/",
+      "ordemPublicacao": 1000519
+    },
+    {
+      "titulo": "Só um dos 15 aliados que estavam ao lado de Flávio no discurso após eleição reproduziu carta nas redes; maioria se calou",
+      "texto": "Segundo G1 Política: Veja quem estava com Flávio Bolsonaro em discurso da derrota Reuters Apenas um dos 15 aliados que estavam ao lado de Flávio Bolsonaro (PL-RJ) em seu discurso após a derrrota na votação, no domingo (25), reproduziu nas redes sociais a carta publicada pelo senador na quarta-feira (28).",
+      "horario": "29/10/2026 • atualização automática às 13h16 (Manaus)",
+      "dataPublicacao": "29/10/2026",
+      "horaPublicacao": "13h16 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/29/so-um-dos-15-aliados-que-estavam-ao-lado-de-flavio-no-discurso-apos-eleicao-reproduziu-carta-nas-redes-maioria-se-calou.ghtml",
+      "ordemPublicacao": 1000518,
+      "imagemUrl": "https://s2-g1.glbimg.com/pQvR54OzbGPfoxK74tK4eMxAhAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/U/SYeCrYR9GUTx1PwRuTZQ/261026-foto-numerada-aliados-de-flavio.png",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/pQvR54OzbGPfoxK74tK4eMxAhAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/U/SYeCrYR9GUTx1PwRuTZQ/261026-foto-numerada-aliados-de-flavio.png",
+          "alt": "Só um dos 15 aliados que estavam ao lado de Flávio no discurso após eleição reproduziu carta nas redes; maioria se calou",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "EUA pediram a Flávio Bolsonaro que retirasse de carta trecho em que se dizia ‘presidente eleito’",
       "texto": "Segundo G1 Política: O governo dos Estados Unidos pediu ao senador Flávio Bolsonaro (PL-RJ), candidato derrotado nas eleições presidenciais, que retirasse da carta divulgada por ele os trechos em que se apresentava como o “verdadeiro presidente eleito”.",
