@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-30T12:20:08.612969+00:00",
+  "atualizadoEm": "2026-10-30T14:19:54.663611+00:00",
   "boletins": [
+    {
+      "titulo": "Bloco de Netanyahu lidera eleições em Israel, mas não obtém maioria",
+      "texto": "Segundo A Crítica — Amazonas: Coalizão do primeiro-ministro conquistou 53 das 120 cadeiras do Parlamento; partidos árabes somaram 19 deputados.",
+      "horario": "30/10/2026 • atualização automática às 10h19 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "10h19 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/bloco-de-netanyahu-lidera-eleicoes-em-israel-mas-nao-obtem-maioria/",
+      "ordemPublicacao": 1000538
+    },
     {
       "titulo": "Cadastro eleitoral será reaberto em 3 de novembro em todo o Brasil",
       "texto": "Segundo A Crítica — Amazonas: Suspensos desde maio para o pleito, serviços como emissão de título e mudança de local voltam a ser oferecidos pela Justiça Eleitoral.",
