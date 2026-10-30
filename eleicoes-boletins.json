@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-10-30T03:23:25.057643+00:00",
+  "atualizadoEm": "2026-10-30T04:11:20.706361+00:00",
   "boletins": [
+    {
+      "titulo": "A posição do Brasil no mundo com a reeleição de Lula - O Assunto #1836",
+      "texto": "Segundo G1 Política: Os olhos do mundo estavam virados para o Brasil no último domingo (25).",
+      "horario": "30/10/2026 • atualização automática às 00h11 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "00h11 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/30/a-posicao-do-brasil-no-mundo-com-a-reeleicao-de-lula-o-assunto-1836.ghtml",
+      "ordemPublicacao": 1000534,
+      "imagemUrl": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+          "alt": "A posição do Brasil no mundo com a reeleição de Lula - O Assunto #1836",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "Carta de Flávio Bolsonaro e fuga do Brasil geram críticas até entre aliados e movimentam direita para 2030",
       "texto": "Segundo G1 Política: Flávio Bolsonaro desembarca nos EUA Eva Marie Uzcategui/Reuters A saída do senador Flávio Bolsonaro (PL-RJ) do Brasil após a derrota na eleição presidencial e a publicação de uma carta em que se autoproclamou presidente eleito provocaram críticas entre aliados, expuseram divisões na direita e levaram partidos de esquerda a reagir contra a contestação do resultado das urnas.",
