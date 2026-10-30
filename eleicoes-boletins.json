@@ -1,6 +1,42 @@
 {
-  "atualizadoEm": "2026-10-30T20:15:55.315285+00:00",
+  "atualizadoEm": "2026-10-30T21:43:00.977279+00:00",
   "boletins": [
+    {
+      "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública para a próxima terça-feira",
+      "texto": "Segundo G1 Política: O presidente do Senado, Davi Alcolumbre (União-AP), incluiu na pauta da próxima terça-feira (3) a votação da proposta de emenda à Constituição (PEC) da Segurança Pública.",
+      "horario": "30/10/2026 • atualização automática às 17h43 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "17h43 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/30/alcolumbre-pauta-votacao-da-pec-da-seguranca-publica-para-a-proxima-terca-feira.ghtml",
+      "ordemPublicacao": 1000545,
+      "imagemUrl": "https://s2-g1.glbimg.com/2fm___ApJmuajRCamqJ1fK-tPJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/T/wyqZWHSta0xEg8kdTcxw/55575673214-c10290253d-k.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/2fm___ApJmuajRCamqJ1fK-tPJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/T/wyqZWHSta0xEg8kdTcxw/55575673214-c10290253d-k.jpg",
+          "alt": "Alcolumbre pauta votação da PEC da Segurança Pública para a próxima terça-feira",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado",
+      "texto": "Segundo G1 Política: Não houve anúncio de corte de gastos g1 Circulam nas redes sociais publicações alegando que o governo Lula (PT) anunciou um corte \"de quase R$ 6 bilhões\" na Saúde e na Educação após a vitória sobre Flávio Bolsonaro (PL) no segundo turno das eleições 2026.",
+      "horario": "30/10/2026 • atualização automática às 17h43 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "17h43 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/30/e-fake-que-lula-anunciou-corte-de-r-6-bilhoes-na-saude-e-na-educacao-apos-eleicao-de-2026-video-foi-exibido-no-ano-retrasado.ghtml",
+      "ordemPublicacao": 1000544,
+      "imagemUrl": "https://s2-g1.glbimg.com/UMSYTYWz2N-fsEt3XMhaBhH2hrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/5/6XBPcWSneQm0nAC12kkg/abre-materia-fof-68-.png",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/UMSYTYWz2N-fsEt3XMhaBhH2hrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/5/6XBPcWSneQm0nAC12kkg/abre-materia-fof-68-.png",
+          "alt": "É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "Funai aciona PF e pede apuração de casos de ataques contra indígenas",
       "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios MATO GROSSO DO SUL (MS) – Indígenas do Mato Grosso do Sul seguem denunciando a escalada das ameaças e da violência contra suas comunidades após o encerramento do segundo turno das eleições presidenciais, no domingo, 25/10.",
