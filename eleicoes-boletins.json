@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-30T16:11:04.036195+00:00",
+  "atualizadoEm": "2026-10-30T18:06:35.458569+00:00",
   "boletins": [
+    {
+      "titulo": "Partidos políticos reconhecem vitória de Lula nas eleições",
+      "texto": "Segundo A Crítica — Amazonas: Entre as legendas que aceitaram o resultado estão o PL e siglas de centro-direita; apenas o Mobiliza não se manifestou.",
+      "horario": "30/10/2026 • atualização automática às 14h06 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "14h06 (Manaus)",
+      "fonteNome": "A Crítica — Amazonas",
+      "fonteUrl": "https://www.acritica.com/politica/partidos-politicos-reconhecem-vitoria-de-lula-nas-eleicoes/",
+      "ordemPublicacao": 1000541
+    },
+    {
+      "titulo": "Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA",
+      "texto": "Segundo G1 Política: O Ministério das Relações Exteriores (Itamaraty) convocou a encarregada de Negócios da Embaixada da Argentina no Brasil, María Emilia Cortés, a prestar esclarecimentos sobre o contexto da fuga do senador Flávio Bolsonaro (PL) para os Estados Unidos nesta semana.",
+      "horario": "30/10/2026 • atualização automática às 14h06 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "14h06 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/30/itamaraty-convoca-representante-da-embaixada-da-argentina-apos-flavio-cruzar-fronteira-do-brasil-com-o-pais-vizinho-e-fugir-para-eua.ghtml",
+      "ordemPublicacao": 1000540
+    },
     {
       "titulo": "MPT vai à Justiça e pede R$ 50 milhões da Meta por assédio eleitoral",
       "texto": "Segundo Agência Brasil: O Ministério Público do Trabalho (MPT) acionou a Justiça, nesta quinta-feira (29), para obrigar a Meta a retirar do ar, em até 24 horas, todas as publicações que estimulem empresários a vigiar, expor, deixar de contratar e demitir funcionários por preferências políticas ou voto.",
