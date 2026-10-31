@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-10-30T21:43:00.977279+00:00",
+  "atualizadoEm": "2026-10-31T00:30:57.280969+00:00",
   "boletins": [
+    {
+      "titulo": "MP diz que votos de partido e federação que se unirem após eleições podem ser somados para cumprir cláusula de barreira; parecer foi criticado",
+      "texto": "Segundo G1 Política: A Procuradoria-Geral Eleitoral (PGE) se manifestou nesta quinta-feira (29) favoravelmente a um pedido da Federação Renovação Solidária, formada por Solidariedade e PRD, para que seus votos sejam somados ao Avante, que ingressará na federação, com objetivo de atingir a cláusula de barreira.",
+      "horario": "30/10/2026 • atualização automática às 20h30 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "20h30 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/30/mp-diz-que-votos-do-avante-podem-ser-considerados-para-federacao-que-o-partido-fara-parte-cumpra-clausula-de-barreira-parecer-foi-criticado.ghtml",
+      "ordemPublicacao": 1000546,
+      "imagemUrl": "https://s2-g1.glbimg.com/5OubqFDYfKCE4M5ffopwEIEDHVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/r/Ahprk2S0eA6oIrLzfHkg/whatsapp-image-2026-10-26-at-15.39.12.jpeg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/5OubqFDYfKCE4M5ffopwEIEDHVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/r/Ahprk2S0eA6oIrLzfHkg/whatsapp-image-2026-10-26-at-15.39.12.jpeg",
+          "alt": "MP diz que votos de partido e federação que se unirem após eleições podem ser somados para cumprir cláusula de barreira; parecer foi criticado",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública para a próxima terça-feira",
       "texto": "Segundo G1 Política: O presidente do Senado, Davi Alcolumbre (União-AP), incluiu na pauta da próxima terça-feira (3) a votação da proposta de emenda à Constituição (PEC) da Segurança Pública.",
