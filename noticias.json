@@ -93,7 +93,7 @@
     "data": "31/10/2026",
     "destaque": true,
     "url": "noticia.html?id=123",
-    "imagem": "",
+    "imagem": "https://static.wixstatic.com/media/a06550_9764e8d284f6486eb28a0294a81b604f~mv2.jpg",
     "imagemLegenda": "",
     "imagemCredito": "",
     "corpo": [
@@ -108,7 +108,8 @@
     "fonte": "Redação Coroado News 24H",
     "imagemDestaque": "",
     "imagemFallback": "",
-    "imagens": []
+    "imagens": [],
+    "legendaImagem": "Imagem de aeronave militar enviada à redação; não há confirmação de que registre o pouso noticiado."
   },
   {
     "id": 122,
