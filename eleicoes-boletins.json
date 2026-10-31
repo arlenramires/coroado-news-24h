@@ -1,6 +1,44 @@
 {
-  "atualizadoEm": "2026-10-31T16:24:42.407328+00:00",
+  "atualizadoEm": "2026-10-31T18:23:16.133106+00:00",
   "boletins": [
+    {
+      "titulo": "Estudantes relatam violência relacionada à eleição presidencial",
+      "texto": "Segundo Agência Brasil — geral: Um vídeo publicado em redes sociais mostra dois estudantes usando a bandeira do Brasil como uma espécie de capa, agredindo colegas que estavam de roupa vermelha dentro de uma escola na cidade de Itajaí, em Santa Catarina.",
+      "horario": "31/10/2026 • atualização automática às 14h23 (Manaus)",
+      "dataPublicacao": "31/10/2026",
+      "horaPublicacao": "14h23 (Manaus)",
+      "fonteNome": "Agência Brasil — geral",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/estudantes-relatam-violencia-relacionada-eleicao-presidencial",
+      "ordemPublicacao": 1000555
+    },
+    {
+      "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral no trabalho em três dias",
+      "texto": "Segundo G1 Política: Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE O Ministério do Trabalho e Emprego (MTE) recebeu 4.305 denúncias de assédio eleitoral no ambiente de trabalho entre quarta-feira (28) e sexta-feira (30).",
+      "horario": "31/10/2026 • atualização automática às 14h23 (Manaus)",
+      "dataPublicacao": "31/10/2026",
+      "horaPublicacao": "14h23 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/mte-recebe-denuncias-de-assedio-eleitoral-no-trabalho.ghtml",
+      "ordemPublicacao": 1000554,
+      "imagemUrl": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg",
+          "alt": "MTE recebe 4,3 mil denúncias de assédio eleitoral no trabalho em três dias",
+          "credito": "G1 Política"
+        }
+      ]
+    },
+    {
+      "titulo": "Ação Popular pede suspensão de salário do senador Flávio Bolsonaro",
+      "texto": "Segundo Agência Brasil: Dois advogados entraram, na sexta-feira (31), com uma ação popular para pedir que sejam interrompidos os pagamentos de subsídios e verbas públicas ao senador Flávio Bolsonaro (PL-RJ).",
+      "horario": "31/10/2026 • atualização automática às 14h23 (Manaus)",
+      "dataPublicacao": "31/10/2026",
+      "horaPublicacao": "14h23 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro",
+      "ordemPublicacao": 1000553
+    },
     {
       "titulo": "Alcolumbre marca votação da PEC da Segurança Pública para terça-feira",
       "texto": "Segundo Rios de Notícias — Amazonas: Redação Rios BRASÍLIA (DF) – O presidente do Senado, Davi Alcolumbre (União-AP), marcou para próxima terça-feira, 3/11, a votação da Proposta de Emenda à Constituição (PEC) 18 de 2025, conhecida como PEC da Segurança Pública.",
