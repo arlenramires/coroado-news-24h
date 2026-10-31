@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-31T18:23:16.133106+00:00",
+  "atualizadoEm": "2026-10-31T19:10:56.498330+00:00",
   "boletins": [
+    {
+      "titulo": "Estudantes relatam violência relacionada à eleição presidencial",
+      "texto": "Segundo Agência Brasil: Um vídeo publicado em redes sociais mostra dois estudantes usando a bandeira do Brasil como uma espécie de capa, agredindo colegas que estavam de roupa vermelha dentro de uma escola na cidade de Itajaí, em Santa Catarina.",
+      "horario": "31/10/2026 • atualização automática às 15h10 (Manaus)",
+      "dataPublicacao": "31/10/2026",
+      "horaPublicacao": "15h10 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estudantes-relatam-violencia-relacionada-eleicao-presidencial",
+      "ordemPublicacao": 1000556
+    },
     {
       "titulo": "Estudantes relatam violência relacionada à eleição presidencial",
       "texto": "Segundo Agência Brasil — geral: Um vídeo publicado em redes sociais mostra dois estudantes usando a bandeira do Brasil como uma espécie de capa, agredindo colegas que estavam de roupa vermelha dentro de uma escola na cidade de Itajaí, em Santa Catarina.",
