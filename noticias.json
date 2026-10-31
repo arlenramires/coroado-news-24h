@@ -1,5 +1,113 @@
 [
   {
+    "id": 127,
+    "categoria": "Manaus",
+    "titulo": "Caminhão de coleta atinge poste e deixa moradores sem luz no Coroado, em Manaus",
+    "resumo": "Acidente na rua Três Irmãos, próximo da rua Ouro Preto, atingiu a rede elétrica e a cobertura de uma casa. Equipes foram acionadas para o reparo.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=127",
+    "imagem": "assets/capas/coroado-poste-20261030.svg",
+    "imagemLegenda": "Arte ilustrativa produzida pela redação. Não é fotografia do acidente.",
+    "imagemCredito": "Arte: Coroado News 24H",
+    "corpo": [
+      "Moradores do bairro Coroado, na zona leste de Manaus, enfrentaram interrupção no fornecimento de energia após um caminhão de coleta de resíduos atingir um poste na tarde de sexta-feira, 30 de outubro. O caso aconteceu por volta das 16h na rua Três Irmãos, nas proximidades do acesso à rua Ouro Preto, em um trecho de circulação estreita.",
+      "Com o impacto, a estrutura que sustentava um transformador se rompeu e tombou em direção à cobertura de uma residência. Cabos da rede elétrica ficaram comprometidos e a área exigiu cuidados para evitar choques e novos acidentes. O veículo permaneceu no trecho enquanto eram providenciadas as medidas de segurança e retirada.",
+      "O QUE PROVOCOU A BATIDA — Informações iniciais apontam dificuldades de manobra na passagem do caminhão, possivelmente relacionadas à largura da rua e à presença de outros veículos. Há relatos diferentes sobre a dinâmica exata. Até a publicação, não havia laudo técnico disponível à redação para concluir a causa do acidente ou atribuir responsabilidade definitiva.",
+      "ATENDIMENTO E SEGURANÇA — Equipes acionadas para atendimento da rede elétrica avaliaram as condições do poste, da fiação e do transformador. A interrupção do fornecimento também serve para proteger moradores e trabalhadores diante de cabos danificados. Uma previsão inicial de algumas horas para o serviço foi mencionada durante o atendimento, mas não representa confirmação de conclusão.",
+      "Pelas informações divulgadas sobre a ocorrência, não foram registrados feridos na residência. O condutor do caminhão foi encaminhado para avaliação de saúde por precaução, sem relato inicial de ferimentos aparentes. A extensão dos danos ao imóvel ainda depende de levantamento específico.",
+      "Um morador da casa atingida relatou que a região já registrou problema semelhante anteriormente. A repetição do tipo de ocorrência reforça a importância de verificar as condições de circulação de veículos pesados na via, sem antecipar conclusões sobre este acidente.",
+      "SITUAÇÃO DO FORNECIMENTO — No fechamento desta reportagem, não havia confirmação independente de que todos os imóveis afetados já tinham recebido energia novamente. Quem observar cabos caídos ou faíscas deve manter distância, afastar outras pessoas e acionar o serviço de emergência. O Coroado News 24H continuará acompanhando a situação."
+    ],
+    "fonte": "Redação Coroado News 24H"
+  },
+  {
+    "id": 126,
+    "categoria": "Manaus",
+    "titulo": "Carro atinge muro do 6º DIP após relatos de atropelamento e perseguição em Manaus",
+    "resumo": "Condutor teria sido seguido por motociclistas depois de colisão com entregador no Santa Etelvina. Circunstâncias ainda estão sob apuração.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=126",
+    "imagem": "assets/capas/muro-6dip-20261030.svg",
+    "imagemLegenda": "Arte ilustrativa do acidente. Não representa fotografia do local.",
+    "imagemCredito": "Arte: Coroado News 24H",
+    "corpo": [
+      "Parte de uma estrutura externa do 6º Distrito Integrado de Polícia (DIP), em Manaus, foi danificada após a colisão de um carro na noite de sexta-feira, 30 de outubro. Os primeiros relatos relacionam o episódio a um atropelamento anterior envolvendo um motociclista que trabalhava com entregas, no bairro Santa Etelvina, zona norte.",
+      "Segundo informações preliminares divulgadas sobre a ocorrência, o condutor teria deixado o local do primeiro acidente e passado a ser seguido por motociclistas. Na tentativa de chegar à unidade policial, perdeu o controle do carro ao fazer uma manobra e atingiu parte do muro. A sequência ainda precisa ser esclarecida pelas autoridades.",
+      "ENTREGADOR FERIDO — Relatos iniciais apontam que o motociclista sofreu fratura em uma das pernas e precisou de atendimento médico. Não havia, até o fechamento da reportagem, boletim clínico oficial disponível para confirmar seu quadro atualizado ou detalhar o atendimento recebido.",
+      "ABORDAGEM POLICIAL — Após o veículo atingir a estrutura, policiais realizaram abordagem ao motorista. Circulou entre as testemunhas a suspeita de que ele poderia portar uma arma, mas as informações publicadas indicam que nada de ilícito foi encontrado durante a revista. Suspeitas levantadas no local não podem ser tratadas como fato comprovado.",
+      "DANOS E INVESTIGAÇÃO — Além da apuração sobre o atropelamento, o caso demanda avaliação dos danos materiais à unidade policial. A reportagem ainda não dispõe de confirmação oficial sobre eventual teste de alcoolemia, tipificação de infrações, autuação do motorista ou medidas judiciais posteriores.",
+      "A identidade do condutor não foi confirmada de forma independente. O fato de ter sido abordado ou de ter sido apontado por testemunhas não equivale à comprovação de responsabilidade. O Coroado News 24H seguirá acompanhando eventuais informações da Polícia Civil, da Polícia Militar e do atendimento à vítima."
+    ],
+    "fonte": "Redação Coroado News 24H"
+  },
+  {
+    "id": 125,
+    "categoria": "Amazonas",
+    "titulo": "Polícia procura dois suspeitos de roubo a restaurante na orla de Parintins",
+    "resumo": "Uma funcionária teria sido ameaçada com faca durante roubo de celular. Polícia Civil divulgou imagens e recebe denúncias sigilosas.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=125",
+    "imagem": "https://imediato.ncnews.com.br/app/uploads/2026/10/MATERIAS-IMEDIATO-110-960x540.webp",
+    "imagemLegenda": "Imagem divulgada em alerta público para identificação de dois homens investigados. Ser apontado como suspeito não significa condenação.",
+    "imagemCredito": "Imagem divulgada pela Polícia Civil do Amazonas",
+    "corpo": [
+      "A Polícia Civil do Amazonas divulgou imagens de dois homens que procura identificar por suspeita de participação em um roubo a restaurante na orla de Parintins. A divulgação ocorreu nesta semana e tem o objetivo de reunir informações que ajudem na investigação.",
+      "Segundo o delegado Kenny Rebouças, da Delegacia Interativa de Polícia (DIP) de Parintins, um homem teria entrado no restaurante, situado na avenida Geny Bentes, e ameaçado uma funcionária com uma faca para exigir o telefone celular dela.",
+      "Ainda conforme a investigação, o segundo suspeito teria permanecido do lado de fora do estabelecimento, auxiliando a fuga. A Polícia Civil divulgou as imagens ao público para pedir ajuda na identificação e localização dos dois homens.",
+      "O QUE ESTÁ CONFIRMADO — A comunicação da polícia refere-se à apuração de um roubo específico. Não foi possível confirmar, com os documentos disponíveis, acusações de participação dos suspeitos em outros crimes. Também não foi divulgada a data exata do roubo nem notícia oficial de prisão desses dois investigados até o fechamento.",
+      "COMO AJUDAR — Quem tiver informações pode procurar a DIP de Parintins pelo telefone (92) 98440-2691. Também estão disponíveis o número 197 ou (92) 3667-7575, da Polícia Civil, e o 181, da Secretaria de Segurança Pública do Amazonas. A orientação é repassar dados diretamente às autoridades, sem abordar pessoas por conta própria.",
+      "As autoridades informam que as denúncias podem ser feitas com preservação da identidade do denunciante. A divulgação das imagens não substitui a investigação nem representa declaração de culpa. O Coroado News 24H manterá a notícia atualizada caso haja identificação ou novas informações oficiais."
+    ],
+    "fonte": "Redação Coroado News 24H"
+  },
+  {
+    "id": 124,
+    "categoria": "Amazonas",
+    "titulo": "Polícia prende investigado por violência contra criança de 10 anos em Novo Airão",
+    "resumo": "Homem de 20 anos teve prisão preventiva cumprida. Polícia Civil apura suspeitas de estupro de vulnerável e lesão corporal e adotou medidas de proteção.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=124",
+    "imagem": "assets/capas/novo-airao-investigacao-20261030.svg",
+    "imagemLegenda": "Arte ilustrativa da redação. A identidade da criança permanece preservada.",
+    "imagemCredito": "Arte: Coroado News 24H",
+    "corpo": [
+      "Um homem de 20 anos teve mandado de prisão preventiva cumprido na sexta-feira, 30 de outubro, em Novo Airão, no Amazonas. Ele é investigado pela Polícia Civil por suspeitas de estupro de vulnerável e lesão corporal contra uma criança de 10 anos, em fatos que teriam ocorrido em 24 de outubro.",
+      "A ação foi realizada pela equipe da 77ª Delegacia Interativa de Polícia (DIP) de Novo Airão. Segundo a investigação conduzida pelo delegado Rodrigo Monfroni, o homem possui vínculo familiar com a vítima e teria se aproveitado do ambiente doméstico para cometer a violência investigada.",
+      "De acordo com as informações repassadas pela polícia, a vítima teria resistido e sofrido agressões que resultaram em lesões. O Coroado News 24H não reproduz detalhes desnecessários da violência nem informações que permitam identificar a criança.",
+      "COMO A POLÍCIA CHEGOU À PRISÃO — A investigação reuniu depoimentos, documentos médicos, registros e informações da rede de proteção. A avaliação desse material subsidiou o pedido de prisão preventiva, posteriormente cumprido pela unidade policial.",
+      "PROTEÇÃO À CRIANÇA — A Polícia Civil informou que solicitou medidas protetivas e articulou o acompanhamento pela rede especializada. A preservação da vítima é prioridade: não serão divulgados nome, endereço, imagem ou relações familiares que possam levar à sua identificação.",
+      "A unidade policial informou ainda ter realizado outra prisão relacionada a suspeita de crime sexual contra pessoa vulnerável na quarta-feira, 28 de outubro. Trata-se de procedimento diferente, e não há fundamento para presumir ligação entre os investigados.",
+      "O homem preso permanece à disposição da Justiça. A prisão preventiva é medida processual e não corresponde a condenação definitiva. Suspeitas de violência contra crianças podem ser denunciadas à polícia e ao Disque Direitos Humanos 100. Em situação de risco imediato, acione a emergência."
+    ],
+    "fonte": "Redação Coroado News 24H"
+  },
+  {
+    "id": 123,
+    "categoria": "Brasil",
+    "titulo": "FAB esclarece pouso de avião militar dos Estados Unidos no Rio de Janeiro",
+    "resumo": "Cargueiro C-130T da Marinha norte-americana fez escala autorizada no Galeão, em missão de transporte de passageiros, e seguiu para o Peru.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=123",
+    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Navy_C-130.png?width=1000",
+    "imagemLegenda": "Aeronave C-130T da Marinha dos Estados Unidos em fotografia de arquivo. Não é o avião nem o pouso de 27 de outubro.",
+    "imagemCredito": "Fotografia: Marinha dos EUA / Wikimedia Commons (domínio público)",
+    "corpo": [
+      "Um avião militar de transporte da Marinha dos Estados Unidos pousou no Aeroporto Internacional do Galeão, no Rio de Janeiro, na noite de terça-feira, 27 de outubro. A passagem do cargueiro pelas regiões Norte e Sudeste do Brasil chamou atenção de observadores de tráfego aéreo e motivou perguntas sobre sua finalidade.",
+      "A aeronave foi identificada como um Lockheed C-130T Hércules. Registros de rastreamento citados nas informações publicadas indicam que o voo saiu de Barbados, atravessou parte do território nacional e chegou ao Galeão por volta das 19h08, no horário de Brasília.",
+      "O QUE A FAB INFORMOU — A Força Aérea Brasileira esclareceu, em resposta divulgada publicamente, que o ingresso no espaço aéreo do Brasil foi solicitado previamente e autorizado pelo governo brasileiro. A missão era de transporte de passageiros, com uma escala para pernoite no Rio de Janeiro.",
+      "A aeronave decolou novamente na manhã de quarta-feira, dia 28, por volta das 9h, seguindo em direção ao Peru. Segundo a informação atribuída à FAB, ela deixou o espaço aéreo brasileiro pouco depois do meio-dia, por volta das 12h25.",
+      "POR QUE O AVIÃO CHAMOU ATENÇÃO — O C-130 Hércules é uma plataforma militar de transporte utilizada em missões logísticas e de deslocamento de pessoal. A presença de uma aeronave militar estrangeira pode chamar atenção, mas isso, por si só, não demonstra operação ofensiva nem situação de ameaça.",
+      "INFORMAÇÕES CONFIRMADAS E LIMITES — A comunicação atribuída à FAB explica a autorização de entrada, o transporte de passageiros e a escala. Não foram divulgados nomes de passageiros ou outros detalhes operacionais, e não há base para afirmar que a aeronave realizou missão de combate em território brasileiro.",
+      "O Coroado News 24H destaca a diferença entre informações de rastreamento de voos e confirmações institucionais, para evitar interpretações alarmistas sobre o sobrevoo e o pouso."
+    ],
+    "fonte": "Redação Coroado News 24H"
+  },
+  {
     "id": 122,
     "categoria": "Esportes",
     "titulo": "CBF divulga áudio do VAR e explica expulsão de Neymar pela Lei Vini Jr. em Santos x Bahia",
