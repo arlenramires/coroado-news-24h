@@ -100,9 +100,9 @@
     "data": "31/10/2026",
     "destaque": true,
     "url": "noticia.html?id=123",
-    "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Navy_C-130.png?width=1000",
-    "imagemLegenda": "Aeronave C-130T da Marinha dos Estados Unidos em fotografia de arquivo. Não é o avião nem o pouso de 27 de outubro.",
-    "imagemCredito": "Fotografia: Marinha dos EUA / Wikimedia Commons (domínio público)",
+    "imagem": "",
+    "imagemLegenda": "",
+    "imagemCredito": "",
     "corpo": [
       "Um avião militar de transporte da Marinha dos Estados Unidos pousou no Aeroporto Internacional do Galeão, no Rio de Janeiro, na noite de terça-feira, 27 de outubro. A passagem do cargueiro pelas regiões Norte e Sudeste do Brasil chamou atenção de observadores de tráfego aéreo e motivou perguntas sobre sua finalidade.",
       "A aeronave foi identificada como um Lockheed C-130T Hércules. Registros de rastreamento citados nas informações publicadas indicam que o voo saiu de Barbados, atravessou parte do território nacional e chegou ao Galeão por volta das 19h08, no horário de Brasília.",
@@ -110,9 +110,13 @@
       "A aeronave decolou novamente na manhã de quarta-feira, dia 28, por volta das 9h, seguindo em direção ao Peru. Segundo a informação atribuída à FAB, ela deixou o espaço aéreo brasileiro pouco depois do meio-dia, por volta das 12h25.",
       "POR QUE O AVIÃO CHAMOU ATENÇÃO — O C-130 Hércules é uma plataforma militar de transporte utilizada em missões logísticas e de deslocamento de pessoal. A presença de uma aeronave militar estrangeira pode chamar atenção, mas isso, por si só, não demonstra operação ofensiva nem situação de ameaça.",
       "INFORMAÇÕES CONFIRMADAS E LIMITES — A comunicação atribuída à FAB explica a autorização de entrada, o transporte de passageiros e a escala. Não foram divulgados nomes de passageiros ou outros detalhes operacionais, e não há base para afirmar que a aeronave realizou missão de combate em território brasileiro.",
-      "O Coroado News 24H destaca a diferença entre informações de rastreamento de voos e confirmações institucionais, para evitar interpretações alarmistas sobre o sobrevoo e o pouso."
+      "O Coroado News 24H destaca a diferença entre informações de rastreamento de voos e confirmações institucionais, para evitar interpretações alarmistas sobre o sobrevoo e o pouso.",
+      "IMAGENS — Fotos localizadas da aeronave matrícula 164762 são de voos anteriores e não registram o pouso de 27 de outubro no Galeão. Para evitar confusão, a reportagem permanece sem fotografia até a obtenção de uma imagem do acontecimento."
     ],
-    "fonte": "Redação Coroado News 24H"
+    "fonte": "Redação Coroado News 24H",
+    "imagemDestaque": "",
+    "imagemFallback": "",
+    "imagens": []
   },
   {
     "id": 122,
@@ -138,25 +142,6 @@
       "A reportagem reúne informações da divulgação da CBF e de coberturas publicadas em 26 de outubro de 2026. O vídeo original da revisão deve ser consultado nos canais oficiais da entidade. O Coroado News 24H seguirá acompanhando eventuais atualizações sobre a situação disciplinar do atacante."
     ],
     "fonte": "Redação Coroado News 24H"
-  },
-  {
-    "id": 121,
-    "categoria": "Política",
-    "titulo": "Trump questiona resultado da eleição brasileira sem apresentar provas e diz que gosta de Lula",
-    "resumo": "Presidente dos EUA questionou o resultado do segundo turno, mas não apresentou evidências de fraude. Republicano afirmou manter boa relação com Lula.",
-    "data": "26/10/2026",
-    "destaque": true,
-    "url": "noticia.html?id=121",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait_%282025%29_%28cropped%29.jpg",
-    "imagemLegenda": "Donald Trump, presidente dos Estados Unidos (foto de arquivo)",
-    "corpo": [
-      "O presidente dos Estados Unidos, Donald Trump, questionou nesta segunda-feira (26) o resultado da eleição presidencial brasileira realizada no domingo (25). Ao comentar a vitória de Luiz Inácio Lula da Silva sobre Flávio Bolsonaro, o republicano disse que o pleito lhe pareceu fraudado, mas não apresentou provas que sustentassem a suspeita.",
-      "Apesar da crítica, Trump afirmou que gosta de Lula e que mantém uma boa relação com o presidente brasileiro. A declaração ganhou repercussão após a divulgação do resultado do segundo turno.",
-      "A fala de Trump representa uma avaliação política do presidente norte-americano. Não constitui comprovação de fraude ou decisão de qualquer autoridade eleitoral. O resultado oficial deve ser consultado nos canais da Justiça Eleitoral.",
-      "A repercussão internacional ocorre em um momento de atenção às relações diplomáticas entre Brasil e Estados Unidos. O Coroado News 24H acompanha eventuais manifestações oficiais sobre o episódio."
-    ],
-    "fonte": "Redação Coroado News 24H",
-    "fonteUrl": "https://www.reuters.com/"
   },
   {
     "id": 120,
