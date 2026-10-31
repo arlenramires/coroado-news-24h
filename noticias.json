@@ -15,7 +15,7 @@
       "A vítima atuava no comércio. Até a publicação desta reportagem, não havia confirmação oficial de prisões relacionadas ao caso. A reportagem reúne vídeos divulgados sobre a ocorrência. As imagens podem conter cenas sensíveis."
     ],
     "fonte": "Redação Coroado News 24H",
-    "imagem": "",
+    "imagem": "https://static.wixstatic.com/media/a06550_3ee22187c7f243798300963680f0dd69~mv2.jpg",
     "videos": [
       {
         "tipo": "mp4",
@@ -32,7 +32,8 @@
         "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/30214227/WhatsApp-Video-2026-10-30-at-21.39.00.mp4",
         "legenda": "Imagens da ocorrência."
       }
-    ]
+    ],
+    "imagemLegenda": "Policiais e moradores no local da ocorrência, na Colônia Santo Antônio, em Manaus."
   },
   {
     "id": 128,
