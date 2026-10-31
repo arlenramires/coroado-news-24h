@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-31T13:38:31.111739+00:00",
+  "atualizadoEm": "2026-10-31T14:16:16.713399+00:00",
   "boletins": [
+    {
+      "titulo": "O rescaldo das eleições",
+      "texto": "Segundo BNC Amazonas: Robério Braga revisita a história das eleições no Amazonas e compara os mecanismos políticos da Primeira República com a participação popular contemporânea.",
+      "horario": "31/10/2026 • atualização automática às 10h16 (Manaus)",
+      "dataPublicacao": "31/10/2026",
+      "horaPublicacao": "10h16 (Manaus)",
+      "fonteNome": "BNC Amazonas",
+      "fonteUrl": "https://bncamazonas.com.br/o-rescaldo-das-eleicoes/",
+      "ordemPublicacao": 1000549
+    },
     {
       "titulo": "Alcolumbre marca votação da PEC da segurança pública para terça-feira",
       "texto": "Segundo Agência Brasil: O presidente do Senado, Davi Alcolumbre (União-AP), marcou para próxima terça-feira (3) a votação da Proposta de Emenda à Constituição (PEC) 18 de 2025, conhecida como PEC da Segurança Pública.",
