@@ -24,7 +24,7 @@
         "legenda": "Vídeo divulgado publicamente do caminhão e da estrutura elétrica atingida no bairro Coroado, em 30 de outubro de 2026. Reprodução do arquivo no player da reportagem."
       }
     ],
-    "imagem": ""
+    "imagem": "https://static.wixstatic.com/media/a06550_11d7a67bde94498ba4841724bad90115~mv2.jpg"
   },
   {
     "id": 126,
@@ -42,7 +42,14 @@
       "DANOS E INVESTIGAÇÃO — Além da apuração sobre o atropelamento, o caso demanda avaliação dos danos materiais à unidade policial. A reportagem ainda não dispõe de confirmação oficial sobre eventual teste de alcoolemia, tipificação de infrações, autuação do motorista ou medidas judiciais posteriores.",
       "A identidade do condutor não foi confirmada de forma independente. O fato de ter sido abordado ou de ter sido apontado por testemunhas não equivale à comprovação de responsabilidade. O Coroado News 24H seguirá acompanhando eventuais informações da Polícia Civil, da Polícia Militar e do atendimento à vítima."
     ],
-    "fonte": "Redação Coroado News 24H"
+    "fonte": "Redação Coroado News 24H",
+    "imagem": "https://static.wixstatic.com/media/a06550_7d9e890e93074e069fc55bc081b5557d~mv2.jpg",
+    "imagens": [
+      {
+        "url": "https://static.wixstatic.com/media/a06550_699ca06bbd1347d280a9d80a31502a02~mv2.jpg",
+        "legenda": "Registro da ocorrência na delegacia"
+      }
+    ]
   },
   {
     "id": 125,
