@@ -12,11 +12,27 @@
       "Ronildo trafegava em uma motocicleta quando foi surpreendido por criminosos. Moradores relataram uma sequência de disparos. Equipes policiais e de perícia foram acionadas para atender à ocorrência e iniciar os levantamentos no local.",
       "Segundo informações preliminares da investigação, os suspeitos teriam se aproximado em um carro branco. A motocicleta da vítima foi levada e posteriormente encontrada abandonada pela Polícia Militar. Com a localização do veículo, a Polícia Civil passou a considerar a hipótese de execução, sem conclusão definitiva sobre a motivação.",
       "O caso está sob investigação da Delegacia Especializada em Homicídios e Sequestros (DEHS). Imagens de câmeras de segurança na região poderão ajudar a esclarecer a dinâmica do crime e identificar os responsáveis.",
-      "A vítima atuava no comércio. Até a publicação desta reportagem, não havia confirmação oficial de prisões relacionadas ao caso. O registro visual que acompanha a matéria é uma captura da publicação sobre a ocorrência enviada à redação; não mostra o momento dos disparos."
+      "A vítima atuava no comércio. Até a publicação desta reportagem, não havia confirmação oficial de prisões relacionadas ao caso. A reportagem reúne vídeos divulgados sobre a ocorrência. As imagens podem conter cenas sensíveis."
     ],
     "fonte": "Redação Coroado News 24H",
-    "imagem": "https://static.wixstatic.com/media/a06550_a3456eabb2be4f2db968857fd400bad8~mv2.jpg",
-    "imagemLegenda": "Imagem extraída do vídeo publicado sobre a ocorrência, enviado à redação; não registra o momento dos disparos."
+    "imagem": "",
+    "videos": [
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/30214206/WhatsApp-Video-2026-10-30-at-21.40.02.mp4",
+        "legenda": "Registro em vídeo da ocorrência na Colônia Santo Antônio, em Manaus."
+      },
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/30214217/WhatsApp-Video-2026-10-30-at-21.40.01-1.mp4",
+        "legenda": "Imagens divulgadas da ocorrência."
+      },
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/30214227/WhatsApp-Video-2026-10-30-at-21.39.00.mp4",
+        "legenda": "Imagens da ocorrência."
+      }
+    ]
   },
   {
     "id": 128,
