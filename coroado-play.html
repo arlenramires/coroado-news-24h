@@ -19,7 +19,7 @@ body{background:radial-gradient(ellipse at 75% 5%,#193f68,transparent 35%),#070d
   <h2 style="font-size:clamp(21px,3vw,30px);margin:8px 0 10px">5ª ExpoFest de Itacoatiara — vídeo no YouTube</h2>
   <p style="font-size:14px;color:#d9e5f6;margin:0 0 12px">Vídeo disponibilizado por um canal do YouTube. Se a transmissão já tiver terminado, o player poderá exibir uma gravação ou ficar indisponível; um novo sinal ao vivo precisa ser confirmado pelo canal de origem.</p>
   <iframe id="cp-expofest-live-frame" title="Transmissão da 5ª ExpoFest de Itacoatiara pelo YouTube" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" style="display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:11px;background:#000" allow="autoplay;encrypted-media;picture-in-picture;fullscreen" allowfullscreen></iframe>
-  <p style="font-size:12px;color:#c7d9ed;margin:12px 0 0">O vídeo pode iniciar sem som por regras do navegador. Toque no alto-falante para ouvir. Se o canal interromper a live ou impedir a incorporação, o player poderá ficar indisponível.</p>
+  <p style="font-size:12px;color:#c7d9ed;margin:12px 0 0">Toque em ▶ para iniciar com áudio. Se o canal interromper a live ou impedir a incorporação, o player poderá ficar indisponível.</p>
   <a href="https://www.youtube.com/watch?v=Gwjwd0y-h6g" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:10px;color:#ffe18a;font-size:12px">Ver a fonte no YouTube</a>
 </section><script id="cp-expofest-live-window-20261030">(function(){
   const el=document.getElementById('cp-expofest-live-20261030');
@@ -27,7 +27,7 @@ body{background:radial-gradient(ellipse at 75% 5%,#193f68,transparent 35%),#070d
   if(!el||!frame)return;
   const start=Date.parse('2026-10-31T06:00:00-04:00');
   const end=Date.parse('2026-11-02T06:00:00-04:00');
-  const source='https://www.youtube.com/embed/Gwjwd0y-h6g?autoplay=1&mute=1&playsinline=1&rel=0';
+  const source='https://www.youtube.com/embed/Gwjwd0y-h6g?playsinline=1&rel=0';
   function update(){
     const active=Date.now()>=start&&Date.now()<end;
     el.hidden=!active;
