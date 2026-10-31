@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-10-31T00:30:57.280969+00:00",
+  "atualizadoEm": "2026-10-31T03:09:55.012888+00:00",
   "boletins": [
+    {
+      "titulo": "Novo segue sem reconhecer resultado das eleições; 27 partidos validam vitória de Lula",
+      "texto": "Segundo G1 Política: Logo após o Tribunal Superior Eleitoral (TSE) proclamar Luiz Inácio Lula da Silva (PT) vencedor da disputa com o senador Flávio Bolsonaro (PL), por uma diferença de 4,4 milhões de votos, o presidente do partido Novo, Eduardo Ribeiro, não reconheceu o resultado das urnas e afirmou que \"o Brasil não vive uma democracia\".",
+      "horario": "30/10/2026 • atualização automática às 23h09 (Manaus)",
+      "dataPublicacao": "30/10/2026",
+      "horaPublicacao": "23h09 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/10/31/novo-segue-sem-reconhecer-resultado-das-eleicoes-27-partidos-validam-vitoria-de-lula.ghtml",
+      "ordemPublicacao": 1000547,
+      "imagemUrl": "https://s2-g1.glbimg.com/JtCO2hAkWYek8N7ikL-MkoUxspA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/N/tpT9XySzCWBnAIctjH9A/29jnac803-frame-3539.jpeg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/JtCO2hAkWYek8N7ikL-MkoUxspA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/N/tpT9XySzCWBnAIctjH9A/29jnac803-frame-3539.jpeg",
+          "alt": "Novo segue sem reconhecer resultado das eleições; 27 partidos validam vitória de Lula",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "MP diz que votos de partido e federação que se unirem após eleições podem ser somados para cumprir cláusula de barreira; parecer foi criticado",
       "texto": "Segundo G1 Política: A Procuradoria-Geral Eleitoral (PGE) se manifestou nesta quinta-feira (29) favoravelmente a um pedido da Federação Renovação Solidária, formada por Solidariedade e PRD, para que seus votos sejam somados ao Avante, que ingressará na federação, com objetivo de atingir a cláusula de barreira.",
