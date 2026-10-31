@@ -1,5 +1,24 @@
 [
   {
+    "id": 129,
+    "categoria": "Polícia",
+    "titulo": "Microempresário de 25 anos é morto a tiros na Colônia Santo Antônio, em Manaus",
+    "resumo": "Ronildo da Silva Albuquerque foi morto na noite de sexta-feira (30). Polícia investiga o crime e analisa a hipótese de execução.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=129",
+    "corpo": [
+      "O microempresário Ronildo da Silva Albuquerque, de 25 anos, foi morto a tiros na noite de sexta-feira (30 de outubro), na rua General Fiúza de Castro, bairro Colônia Santo Antônio, zona norte de Manaus. O crime ocorreu por volta das 20h50, segundo informações iniciais da ocorrência.",
+      "Ronildo trafegava em uma motocicleta quando foi surpreendido por criminosos. Moradores relataram uma sequência de disparos. Equipes policiais e de perícia foram acionadas para atender à ocorrência e iniciar os levantamentos no local.",
+      "Segundo informações preliminares da investigação, os suspeitos teriam se aproximado em um carro branco. A motocicleta da vítima foi levada e posteriormente encontrada abandonada pela Polícia Militar. Com a localização do veículo, a Polícia Civil passou a considerar a hipótese de execução, sem conclusão definitiva sobre a motivação.",
+      "O caso está sob investigação da Delegacia Especializada em Homicídios e Sequestros (DEHS). Imagens de câmeras de segurança na região poderão ajudar a esclarecer a dinâmica do crime e identificar os responsáveis.",
+      "A vítima atuava no comércio. Até a publicação desta reportagem, não havia confirmação oficial de prisões relacionadas ao caso. O registro visual que acompanha a matéria é uma captura da publicação sobre a ocorrência enviada à redação; não mostra o momento dos disparos."
+    ],
+    "fonte": "Redação Coroado News 24H",
+    "imagem": "https://static.wixstatic.com/media/a06550_a3456eabb2be4f2db968857fd400bad8~mv2.jpg",
+    "imagemLegenda": "Imagem extraída do vídeo publicado sobre a ocorrência, enviado à redação; não registra o momento dos disparos."
+  },
+  {
     "id": 128,
     "categoria": "Manaus",
     "titulo": "Temporal alaga área do Circo Broadway em Manaus; imagens mostram água ao redor da estrutura",
