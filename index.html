@@ -428,4 +428,20 @@ document.getElementById('apuracaoStatus').textContent=ok?'TSE: '+time+(snapTime?
 update();setInterval(update,60000);document.addEventListener('visibilitychange',function(){if(!document.hidden)update()});
 })();
 </script>
+<script id="coroado-panel-config-script">
+(function(){
+'use strict';
+fetch('portal-config.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Configuração indisponível');return r.json()}).then(cfg=>{
+  if(!cfg||typeof cfg!=='object')return;
+  if(cfg.bannerImagem&&/^(https:\/\/|assets\/)/i.test(cfg.bannerImagem)){
+    document.documentElement.style.setProperty('--portal-banner-image','url('+JSON.stringify(cfg.bannerImagem)+')');
+    const banner=document.querySelector('.portal-approved-banner');
+    if(banner&&cfg.bannerDescricao)banner.setAttribute('aria-label',String(cfg.bannerDescricao).slice(0,160));
+  }
+  if(cfg.mostrarTicker===false){document.querySelectorAll('.live-ticker-label,.live-ticker-viewport').forEach(el=>el.style.setProperty('display','none','important'))}
+  if(cfg.mostrarDestaques===false){const highlights=document.querySelector('.feature-layout');if(highlights)highlights.style.setProperty('display','none','important')}
+  if(cfg.mostrarCoroadoPlay===false){document.querySelectorAll('.coroado-play-header,.live-nav-link').forEach(el=>el.style.setProperty('display','none','important'))}
+  if(cfg.mostrarAvisoAoVivo===false){const live=document.getElementById('coroadoLiveCallout');if(live)live.style.setProperty('display','none','important')}
+}).catch(err=>{console.warn('Mantida configuração visual padrão da capa.',err.message)});
+})();</script>
 </body></html>
