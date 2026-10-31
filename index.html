@@ -397,7 +397,7 @@ nav.nav .nav-inner>.nav-links{min-width:0!important;flex:1 1 auto!important}
     <h2 style="margin:0 0 8px;font-size:clamp(22px,4vw,32px);color:#fff">Acompanhe a ExpoFest aqui no portal</h2>
     <p style="font-size:14px;color:#d8e6f8;margin:0 0 13px">Sinal disponibilizado pelo YouTube. Estamos testando a reprodução dentro do Coroado News 24H; a continuidade e a incorporação dependem do canal responsável.</p>
     <iframe id="home-expofest-screen" title="Vídeo da ExpoFest 2026 no YouTube" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay;encrypted-media;picture-in-picture;fullscreen" allowfullscreen style="display:block;width:100%;aspect-ratio:16/9;max-height:650px;border:0;border-radius:9px;background:#000"></iframe>
-    <p style="font-size:12px;color:#d2e2f6;margin:10px 0 0">Se aparecer sem áudio, toque no controle de som do player. Se não reproduzir, o canal pode ter restringido a incorporação.</p>
+    <p style="font-size:12px;color:#d2e2f6;margin:10px 0 0">Toque em ▶ no vídeo para iniciar com áudio. Se não reproduzir, o canal pode ter restringido a incorporação.</p>
     <a href="https://www.youtube.com/watch?v=Gwjwd0y-h6g" target="_blank" rel="noopener noreferrer" style="color:#ffdf89;display:inline-block;margin-top:8px;font-size:12px">Conferir a transmissão na fonte</a>
   </div>
 </section>
@@ -405,7 +405,7 @@ nav.nav .nav-inner>.nav-links{min-width:0!important;flex:1 1 auto!important}
  const section=document.getElementById('home-expofest-20261030'),frame=document.getElementById('home-expofest-screen');
  if(!section||!frame)return;
  const start=Date.parse('2026-10-30T18:00:00-04:00'),end=Date.parse('2026-10-31T06:00:00-04:00');
- const source='https://www.youtube.com/embed/Gwjwd0y-h6g?autoplay=1&mute=1&playsinline=1&rel=0';
+ const source='https://www.youtube.com/embed/Gwjwd0y-h6g?playsinline=1&rel=0';
  function update(){const active=Date.now()>=start&&Date.now()<end;section.hidden=!active;
  if(active){if(frame.getAttribute('src')!==source)frame.src=source}
  else if(frame.hasAttribute('src'))frame.removeAttribute('src');}
