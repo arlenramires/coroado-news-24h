@@ -54,7 +54,7 @@ for item in news:
         fail(f"{label}: ID inválido ou duplicado")
     else:
         seen.add(ident)
-    for key in ("titulo", "categoria", "data", "imagem"):
+    for key in ("titulo", "categoria", "data"):
         if not isinstance(item.get(key), str) or not item[key].strip():
             fail(f"{label}: campo {key} ausente")
     if not isinstance(item.get("corpo"), list) or not item["corpo"]:
