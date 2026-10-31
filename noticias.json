@@ -1,5 +1,29 @@
 [
   {
+    "id": 128,
+    "categoria": "Manaus",
+    "titulo": "Temporal alaga área do Circo Broadway em Manaus; imagens mostram água ao redor da estrutura",
+    "resumo": "Chuva intensa na manhã de sexta-feira (30) atingiu a área do Circo Broadway, nas proximidades do Parque Gigantes da Floresta. Registro em vídeo mostra o alagamento.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=128",
+    "corpo": [
+      "A forte chuva que atingiu Manaus na manhã de sexta-feira, 30 de outubro, provocou alagamento na área do Circo Broadway, instalado nas proximidades do Parque Gigantes da Floresta. Imagens divulgadas da ocorrência mostram água acumulada diante da estrutura do circo.",
+      "O temporal também provocou transtornos em diferentes regiões da capital, com vias alagadas e dificuldades para a circulação de pedestres e veículos. No entorno do circo, o volume de água chamou a atenção para possíveis impactos sobre os equipamentos e as atividades do espaço.",
+      "Até o fechamento desta reportagem, não havia confirmação independente sobre a extensão dos prejuízos, eventuais danos aos equipamentos ou mudanças na programação das apresentações. Também não havia informação confirmada de feridos relacionados ao alagamento do circo.",
+      "O vídeo da ocorrência está disponível nesta reportagem, incorporado para que o público acompanhe as imagens do local."
+    ],
+    "fonte": "Redação Coroado News 24H",
+    "imagem": "https://static.wixstatic.com/media/a06550_0a30f84e5dbc4067934ed12247df9c9f~mv2.jpg",
+    "videos": [
+      {
+        "tipo": "mp4",
+        "url": "https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/10/30134945/WhatsApp-Video-2026-10-30-at-13.48.30.mp4",
+        "legenda": "Registro em vídeo da área alagada do Circo Broadway em Manaus, 30 de outubro de 2026."
+      }
+    ]
+  },
+  {
     "id": 127,
     "categoria": "Manaus",
     "titulo": "Caminhão de coleta atinge poste e deixa moradores sem luz no Coroado, em Manaus",
