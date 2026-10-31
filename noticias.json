@@ -17,11 +17,18 @@
       "O QUE A POLÍCIA INVESTIGA — A Polícia Civil apura o caso como possível feminicídio. Entre as hipóteses iniciais estão uma suposta cobrança financeira e a recusa da vítima em manter uma relação afetiva com o investigado. Essas linhas de investigação não devem ser confundidas com conclusões definitivas. Também há informações divergentes sobre a natureza do vínculo entre os dois; a confirmação cabe à polícia.",
       "QUEM ERA A VÍTIMA — Joseane tinha 42 anos, era natural de Maceió e estava trabalhando no município de Santana do Ipanema. Uma familiar informou ao Instituto Médico Legal que ela não mantinha relacionamento conjugal com o suspeito. Essa informação é relevante diante de versões distintas divulgadas desde o crime.",
       "REPERCUSSÃO E PROVIDÊNCIAS — A Prefeitura de Santana do Ipanema manifestou repúdio à morte, solidariedade aos familiares e apoio à apuração rigorosa. O caso também mobilizou moradores e representantes da rede de proteção às mulheres. A Polícia Civil deverá analisar as gravações e os depoimentos para esclarecer a motivação e definir o enquadramento jurídico dos fatos.",
-      "REGISTROS EM VÍDEO — Há pelo menos dois momentos relevantes documentados publicamente: as imagens da discussão e do ataque, e a condução do suspeito após a prisão. Os endereços específicos dos dois vídeos ainda precisam ser confirmados antes de sua incorporação técnica, para evitar reproduzir gravações de outro caso ou disponibilizar conteúdo falso.",
+      "REGISTROS EM VÍDEO — Foi localizado um vídeo público do ataque, disponibilizado com aviso de conteúdo extremamente sensível e reprodução somente após a escolha do leitor. O vídeo da condução do suspeito após a prisão também existe, mas seu arquivo ainda não pôde ser identificado com segurança para incorporação nesta reportagem.",
       "VIOLÊNCIA CONTRA A MULHER — Situações de ameaça e agressão podem ser denunciadas pelo Ligue 180, que oferece orientação e encaminhamento. Em emergências, a Polícia Militar pode ser acionada pelo 190. A prisão do suspeito não equivale a condenação; a responsabilização penal depende do processo judicial."
     ],
     "videoSensivel": true,
-    "fonte": "Redação Coroado News 24H"
+    "fonte": "Redação Coroado News 24H",
+    "videos": [
+      {
+        "tipo": "mp4",
+        "url": "https://d24am.com/wp-content/uploads/2026/10/cenaforte-D24AM.mp4",
+        "legenda": "Registro de câmera de segurança sobre o ataque de 30 de outubro. Conteúdo extremamente sensível; reprodução mediante escolha do leitor."
+      }
+    ]
   },
   {
     "id": 129,
