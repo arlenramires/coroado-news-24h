@@ -396,19 +396,68 @@ nav.nav .nav-inner>.nav-links{min-width:0!important;flex:1 1 auto!important}
   <div style="padding:clamp(12px,3vw,20px)">
     <h2 style="margin:0 0 8px;font-size:clamp(22px,4vw,32px);color:#fff">Acompanhe a ExpoFest aqui no portal</h2>
     <p style="font-size:14px;color:#d8e6f8;margin:0 0 13px">Sinal disponibilizado pelo YouTube. Estamos testando a reprodução dentro do Coroado News 24H; a continuidade e a incorporação dependem do canal responsável.</p>
-    <iframe id="home-expofest-screen" title="Vídeo da ExpoFest 2026 no YouTube" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay;encrypted-media;picture-in-picture;fullscreen" allowfullscreen style="display:block;width:100%;aspect-ratio:16/9;max-height:650px;border:0;border-radius:9px;background:#000"></iframe>
+    <button type="button" id="home-expofest-sound" style="width:100%;display:block;margin:0 0 12px;padding:14px;background:#e82543;border:2px solid #fff;border-radius:10px;color:#fff;font-size:clamp(15px,2.8vw,20px);font-weight:900;cursor:pointer">🔊 OUVIR E IR PARA O AO VIVO</button>
+  <iframe id="home-expofest-screen" title="Vídeo da ExpoFest 2026 no YouTube" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay;encrypted-media;picture-in-picture;fullscreen" allowfullscreen style="display:block;width:100%;aspect-ratio:16/9;max-height:650px;border:0;border-radius:9px;background:#000"></iframe>
     <p style="font-size:12px;color:#d2e2f6;margin:10px 0 0">Toque em ▶ no vídeo para iniciar com áudio. Se não reproduzir, o canal pode ter restringido a incorporação.</p>
     <a href="https://www.youtube.com/watch?v=Gwjwd0y-h6g" target="_blank" rel="noopener noreferrer" style="color:#ffdf89;display:inline-block;margin-top:8px;font-size:12px">Conferir a transmissão na fonte</a>
   </div>
 </section>
 <script id="home-expofest-test-window-20261030">(function(){
- const section=document.getElementById('home-expofest-20261030'),frame=document.getElementById('home-expofest-screen');
- if(!section||!frame)return;
- const start=Date.parse('2026-10-30T18:00:00-04:00'),end=Date.parse('2026-10-31T06:00:00-04:00');
- const source='https://www.youtube.com/embed/Gwjwd0y-h6g?playsinline=1&rel=0';
- function update(){const active=Date.now()>=start&&Date.now()<end;section.hidden=!active;
- if(active){if(frame.getAttribute('src')!==source)frame.src=source}
- else if(frame.hasAttribute('src'))frame.removeAttribute('src');}
+ const section=document.getElementById('home-expofest-20261030');
+ const frame=document.getElementById('home-expofest-screen');
+ const button=document.getElementById('home-expofest-sound');
+ if(!section||!frame||!button)return;
+ const begin=Date.parse('2026-10-30T18:00:00-04:00'),finish=Date.parse('2026-10-31T06:00:00-04:00');
+ const videoId='Gwjwd0y-h6g';
+ const source='https://www.youtube.com/embed/'+videoId+'?enablejsapi=1&autoplay=1&mute=1&playsinline=1&rel=0';
+ let player=null,apiStarted=false,hasSoughtLive=false;
+ function goLive(){
+   if(!player||typeof player.getDuration!=='function')return;
+   try{
+     const dur=Number(player.getDuration());
+     if(Number.isFinite(dur)&&dur>6){player.seekTo(Math.max(0,dur-3),true);hasSoughtLive=true;}
+   }catch(e){}
+ }
+ function setup(){
+   if(apiStarted||!frame.hasAttribute('src')||!window.YT||!YT.Player)return;
+   apiStarted=true;
+   try{
+     player=new YT.Player('home-expofest-screen',{events:{
+       onReady:function(){
+         setTimeout(goLive,900);setTimeout(goLive,2800);
+         button.disabled=false;
+       },
+       onStateChange:function(e){
+         if(e.data===YT.PlayerState.PLAYING&&!hasSoughtLive)goLive();
+       }
+     }});
+   }catch(e){apiStarted=false;button.disabled=false;}
+ }
+ function loadApi(){
+   if(window.YT&&YT.Player){setup();return}
+   if(!document.getElementById('cp-expofest-youtube-api')){
+     const sc=document.createElement('script');sc.id='cp-expofest-youtube-api';
+     sc.src='https://www.youtube.com/iframe_api';document.head.appendChild(sc);
+   }
+   const old=window.onYouTubeIframeAPIReady;
+   window.onYouTubeIframeAPIReady=function(){if(typeof old==='function')old();setup()};
+ }
+ function update(){
+   const active=Date.now()>=begin&&Date.now()<finish;
+   section.hidden=!active;
+   if(!active){if(player&&typeof player.stopVideo==='function')try{player.stopVideo()}catch(e){};return}
+   if(!frame.hasAttribute('src')){frame.src=source;loadApi();}
+ }
+ button.addEventListener('click',function(){
+   if(!player||typeof player.unMute!=='function'){
+     button.textContent='⏳ Carregando player... toque novamente';
+     setup();return;
+   }
+   goLive();
+   try{player.unMute();player.setVolume(100);player.playVideo();}catch(e){}
+   button.textContent='🔴 IR PARA O AO VIVO • 🔊 ÁUDIO LIGADO';
+   button.disabled=false;
+ });
  update();setInterval(update,60000);
 })();</script><div class="feature-layout"><section class="lead"><h2 class="section-heading">EM DESTAQUE</h2><a id="heroLink" class="hero-art" href="noticia.html?id=122"><img id="heroImg" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Santos_x_Fortaleza_-_02-11-2025_24_-_Neymar.jpg" alt="Neymar em partida de futebol, foto de arquivo"><span class="pill" id="heroPill">DESTAQUE</span><span class="photo-note" id="heroPhotoNote">Imagem da notícia</span></a><div class="hero-controls"><button type="button" id="heroPrev" aria-label="Destaque anterior">‹</button><span id="heroDots" aria-label="Posição do destaque"></span><button type="button" id="heroNext" aria-label="Próximo destaque">›</button></div><h1 id="heroTitle">CBF divulga áudio do VAR e explica expulsão de Neymar</h1><p id="heroExcerpt" class="excerpt">Confira o áudio do VAR e os detalhes da decisão na partida entre Santos e Bahia.</p><div class="meta"><span id="heroDate">Coroado News 24h</span><span id="heroCategory">◫ Amazonas</span></div></section><aside class="popular"><h2 class="section-heading">MAIS LIDAS</h2><div id="popularList"></div></aside></div><section class="video-teaser"><div><h2>▶ COROADO NEWS VÍDEOS</h2><p>Reportagens em vídeo, registros dos acontecimentos e imagens verificadas.</p></div><a href="videos.html">CONHEÇA A EDITORIA DE VÍDEOS →</a></section><div class="share-strip"><strong>SIGA O COROADO NEWS 24H</strong><a class="share-social share-facebook" href="https://www.facebook.com/coroadonews24h" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><span class="share-icon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" alt="" loading="lazy"></span>Facebook</a><a class="share-social share-instagram" href="https://www.instagram.com/coroadonews24hr/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><span class="share-icon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" alt="" loading="lazy"></span>Instagram</a><a class="share-social share-tiktok" href="contato.html#redes"  aria-label="TikTok"><span class="share-icon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tiktok.svg" alt="" loading="lazy"></span>TikTok</a><a class="share-social share-youtube" href="https://www.youtube.com/@amazoniaplay-j3w" target="_blank" rel="noopener noreferrer"  aria-label="YouTube"><span class="share-icon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" alt="" loading="lazy"></span>YouTube</a></div><section class="latest" id="ultimas"><h2 class="section-heading">ÚLTIMAS NOTÍCIAS</h2><div class="cards" id="cards"></div><p id="noResults" class="empty hidden">Ainda não há matérias próprias nesta editoria. Confira as manchetes externas na faixa superior.</p></section><div class="notice">Coroado News 24h — notícias com indicação de fontes e datas. Conteúdo sujeito a atualizações.</div></main>
 <section class="network-bar" aria-label="Redes sociais do portal"><div class="network-inner"><strong>SIGA O COROADO NEWS 24H</strong><a class="network-chip" href="https://www.instagram.com/coroadonews24hr/" target="_blank" rel="noopener noreferrer" aria-label="Siga o Coroado News 24h no Instagram"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" alt="" loading="lazy"> Instagram <small>seguir</small></a><a class="network-chip" href="https://www.facebook.com/coroadonews24h" target="_blank" rel="noopener noreferrer" aria-label="Siga o Coroado News 24h no Facebook"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" alt="" loading="lazy"> Facebook <small>seguir</small></a><span class="network-chip" aria-disabled="true"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/tiktok.svg" alt="" loading="lazy"> TikTok <small>em breve</small></span><a class="network-chip" href="https://www.youtube.com/@amazoniaplay-j3w" target="_blank" rel="noopener noreferrer" aria-label="YouTube e vídeos do Coroado News 24h"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/youtube.svg" alt="" loading="lazy"> YouTube <small>vídeos</small></a><a class="network-chip" href="https://wa.me/5592986065364" target="_blank" rel="noopener noreferrer" aria-label="Conversar com a redação no WhatsApp"><img class="brand-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/whatsapp.svg" alt="" loading="lazy"> WhatsApp <small>contato</small></a></div></section><footer class="footer"><div class="container"><div><strong>Coroado News 24h</strong><p>Informação em tempo real • Manaus, Amazonas</p><div class="portal-links"><a href="contato.html#redacao">Fale com a Redação</a><a href="contato.html#denuncias">Canal de denúncias</a><a href="contato.html#anuncie">Anuncie Conosco</a><a href="politica-de-privacidade.html">Política de Privacidade</a> <a href="politica-editorial.html">Política editorial</a></div><div class="contact-note">Fale com a redação pelos canais oficiais disponíveis na página de contato.</div></div><small>© <span id="year"></span> Coroado News 24h. Todos os direitos reservados.</small></div></footer>
