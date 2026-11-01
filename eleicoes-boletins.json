@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-10-31T21:42:02.619345+00:00",
+  "atualizadoEm": "2026-11-01T03:35:55.241363+00:00",
   "boletins": [
+    {
+      "titulo": "Câmara quer mudar a forma de eleição dos deputados; entenda o novo modelo em discussão",
+      "texto": "Segundo G1 Política: PL terá maior bancada no Congresso Nacional Líderes da Câmara dos Deputados e presidentes de partido articulam e pretendem retomar a tramitação de uma proposta que altera a forma de escolha dos deputados e institui o chamado sistema distrital misto.",
+      "horario": "31/10/2026 • atualização automática às 23h35 (Manaus)",
+      "dataPublicacao": "31/10/2026",
+      "horaPublicacao": "23h35 (Manaus)",
+      "fonteNome": "G1 Política",
+      "fonteUrl": "https://g1.globo.com/politica/noticia/2026/11/01/camara-quer-mudar-a-forma-de-eleicao-dos-deputados-entenda-o-novo-modelo-em-discussao.ghtml",
+      "ordemPublicacao": 1000558,
+      "imagemUrl": "https://s2-g1.glbimg.com/gkhfJqnrkbXfckz5I845SuQRo6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Z/1lJXysT92CdtkffHsZBg/img20261015153521759.jpg",
+      "imagens": [
+        {
+          "url": "https://s2-g1.glbimg.com/gkhfJqnrkbXfckz5I845SuQRo6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Z/1lJXysT92CdtkffHsZBg/img20261015153521759.jpg",
+          "alt": "Câmara quer mudar a forma de eleição dos deputados; entenda o novo modelo em discussão",
+          "credito": "G1 Política"
+        }
+      ]
+    },
     {
       "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
       "texto": "Segundo Agência Brasil: O Ministério do Trabalho e Emprego (MTE) recebeu aproximadamente 4,3 mil denúncias de assédio eleitoral no ambiente de trabalho apenas nos três primeiros dias de funcionamento de um canal específico para esse tipo de ocorrência.",
