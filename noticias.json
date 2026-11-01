@@ -1,5 +1,25 @@
 [
   {
+    "id": 131,
+    "categoria": "Entretenimento",
+    "titulo": "Vídeo de suposto flagra de marido com jovem repercute nas redes e mostra confusão",
+    "resumo": "Gravação compartilhada nas redes mostra pessoas em discussão à noite. A versão divulgada atribui a confusão a um suposto flagra, mas local, data e relações entre os envolvidos não foram confirmados.",
+    "data": "31/10/2026",
+    "destaque": true,
+    "url": "noticia.html?id=131",
+    "corpo": [
+      "Uma gravação que circula nas redes sociais ganhou repercussão ao mostrar uma confusão entre pessoas em uma via pública, durante a noite. Nas imagens, é possível observar movimentação e uma discussão nas proximidades de um estabelecimento comercial.",
+      "A publicação que compartilhou o registro apresenta a situação como um suposto flagrante de uma mulher que teria encontrado o marido acompanhado de uma jovem. Essa versão, porém, não foi confirmada de forma independente.",
+      "Até o momento, não foi possível verificar a data original da gravação, o local exato em que as imagens foram registradas ou a identidade e o vínculo entre as pessoas envolvidas. Também não há confirmação de que o vídeo seja recente.",
+      "O Coroado News 24H acompanha a repercussão do registro e atualizará a reportagem caso surjam informações verificáveis sobre o episódio. O conteúdo é tratado como vídeo viral, sem afirmar que houve traição ou qualquer irregularidade."
+    ],
+    "imagem": "assets/flagra-confusao-redes-20261031.svg",
+    "imagemDestaque": "assets/flagra-confusao-redes-20261031.svg",
+    "imagemLegenda": "Arte editorial sobre o vídeo que circula nas redes; não é fotografia da ocorrência.",
+    "imagemCredito": "Arte: Coroado News 24H",
+    "fonte": "Redação Coroado News 24H"
+  },
+  {
     "id": 130,
     "categoria": "Brasil",
     "titulo": "Garçonete pede ajuda antes de ser morta em Alagoas; suspeito é preso após madrugada de buscas",
