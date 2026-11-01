@@ -5,5 +5,8 @@
   "mostrarTicker": true,
   "mostrarDestaques": true,
   "mostrarCoroadoPlay": true,
-  "mostrarAvisoAoVivo": true
+  "mostrarAvisoAoVivo": true,
+  "transmissaoAtiva": true,
+  "transmissaoUrl": "https://www.youtube.com/@prefeituradeitacoatiara/live",
+  "transmissaoTitulo": "ExpoFest Itacoatiara — transmissão oficial da Prefeitura"
 }
