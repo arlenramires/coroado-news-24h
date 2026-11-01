@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-01T20:12:51.754198+00:00",
+  "atualizadoEm": "2026-11-01T20:44:49.583280+00:00",
   "boletins": [
+    {
+      "titulo": "Violência política: Disque 100 recebeu 189 denúncias durante eleição",
+      "texto": "Segundo Agência Brasil: O Ministério dos Direitos Humanos e da Cidadania (MDHC) recebeu 189 denúncias de violência política, no período eleitoral deste ano.",
+      "horario": "01/11/2026 • atualização automática às 16h44 (Manaus)",
+      "dataPublicacao": "01/11/2026",
+      "horaPublicacao": "16h44 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-disque-100-recebeu-189-denuncias-durante-eleicao",
+      "ordemPublicacao": 1000560
+    },
     {
       "titulo": "Violência política: governo recebe quase 200 denúncias durante eleição",
       "texto": "Segundo Agência Brasil: O Ministério dos Direitos Humanos e da Cidadania (MDHC) recebeu 189 denúncias de violência política, no período eleitoral deste ano.",
