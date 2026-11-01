@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-01T03:35:55.241363+00:00",
+  "atualizadoEm": "2026-11-01T20:12:51.754198+00:00",
   "boletins": [
+    {
+      "titulo": "Violência política: governo recebe quase 200 denúncias durante eleição",
+      "texto": "Segundo Agência Brasil: O Ministério dos Direitos Humanos e da Cidadania (MDHC) recebeu 189 denúncias de violência política, no período eleitoral deste ano.",
+      "horario": "01/11/2026 • atualização automática às 16h12 (Manaus)",
+      "dataPublicacao": "01/11/2026",
+      "horaPublicacao": "16h12 (Manaus)",
+      "fonteNome": "Agência Brasil",
+      "fonteUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-governo-recebe-quase-200-denuncias-durante-eleicao",
+      "ordemPublicacao": 1000559
+    },
     {
       "titulo": "Câmara quer mudar a forma de eleição dos deputados; entenda o novo modelo em discussão",
       "texto": "Segundo G1 Política: PL terá maior bancada no Congresso Nacional Líderes da Câmara dos Deputados e presidentes de partido articulam e pretendem retomar a tramitação de uma proposta que altera a forma de escolha dos deputados e institui o chamado sistema distrital misto.",
