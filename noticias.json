@@ -1,5 +1,26 @@
 [
   {
+    "id": 132,
+    "categoria": "Brasil",
+    "titulo": "Vídeo mostra mulher agredindo outra pessoa em calçada; circunstâncias não foram esclarecidas",
+    "resumo": "Imagens de câmera de segurança divulgadas nas redes mostram uma agressão em uma calçada. Não há confirmação independente do local, da data ou da motivação.",
+    "data": "01/11/2026",
+    "destaque": true,
+    "url": "noticia.html?id=132",
+    "corpo": [
+      "Um vídeo de câmera de segurança compartilhado nas redes sociais mostra uma pessoa caminhando por uma calçada e uma agressão contra outra pessoa. O registro ganhou repercussão após ser divulgado como um episódio em que uma mulher teria atingido uma desconhecida.",
+      "A gravação, de aproximadamente 22 segundos, foi compartilhada em uma publicação nas redes sociais. As circunstâncias anteriores ao momento registrado não aparecem integralmente nas imagens.",
+      "Até o momento, não há confirmação independente da cidade, da data da ocorrência, da identidade das pessoas envolvidas ou da motivação. Por isso, não é possível afirmar que a agressão tenha ocorrido sem motivo.",
+      "O vídeo do episódio está disponível para reprodução diretamente nesta reportagem."
+    ],
+    "imagem": "https://static.wixstatic.com/media/a06550_0005c46eecaf4de3a0c796eb9461db93f002.jpg",
+    "imagemDestaque": "https://static.wixstatic.com/media/a06550_0005c46eecaf4de3a0c796eb9461db93f002.jpg",
+    "imagemLegenda": "Imagem do vídeo de câmera de segurança divulgado nas redes sociais.",
+    "imagemCredito": "Reprodução de vídeo divulgado nas redes sociais",
+    "fonte": "Redação Coroado News 24H",
+    "videoUrl": "https://video.wixstatic.com/video/a06550_0005c46eecaf4de3a0c796eb9461db93/480p/mp4/file.mp4"
+  },
+  {
     "id": 131,
     "categoria": "Brasil",
     "titulo": "Vídeo de suposto flagra de marido com jovem repercute nas redes e mostra confusão",
