@@ -1,1 +1,44 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Transmissões ao vivo | Coroado News 24h</title><meta name="description" content="Assista a transmissões oficiais incorporadas e acompanhe a cobertura do Coroado News 24h."><style>*{box-sizing:border-box}body{margin:0;background:#07152b;color:#fff;font:16px Arial,sans-serif}header{background:linear-gradient(120deg,#003b9b,#08172e 60%,#c90e28);padding:22px 5%;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:15px}a{color:inherit}header a{text-decoration:none}header img{height:72px;max-width:85vw;object-fit:contain}.wrap{max-width:1050px;margin:35px auto;padding:0 18px}.pill{display:inline-block;background:#ed1833;border-radius:5px;padding:8px 12px;font-weight:bold}h1{font-size:clamp(27px,5vw,45px);margin:18px 0 10px}.subtitle{color:#c5d6ed;line-height:1.5}.player{aspect-ratio:16/9;background:#010714;border:2px solid #23447a;border-radius:12px;overflow:hidden;margin-top:24px;display:flex;align-items:center;justify-content:center;text-align:center}.player iframe{width:100%;height:100%;border:0}.fallback{padding:20px}.btn{display:inline-block;background:#e51933;color:white;text-decoration:none;font-weight:bold;padding:15px 20px;border-radius:7px;margin:12px 8px 0 0}.secondary{background:#1459b8}.note{margin-top:22px;color:#c1d0e7;line-height:1.6}.card{background:#112744;padding:20px;border-radius:10px;margin:20px 0}footer{text-align:center;border-top:1px solid #24436b;padding:25px;color:#a9bed9}</style></head><body><header><a href="index.html"><img src="https://static.wixstatic.com/media/a06550_e69282772c70430ca3265931b1de3f92~mv2.png" alt="Coroado News 24h"></a><a href="index.html">← VOLTAR À CAPA</a></header><main class="wrap"><span class="pill" id="liveBadge">PROGRAMAÇÃO</span><h1 id="liveTitle">Nenhuma transmissão ativa</h1><p class="subtitle" id="liveDescription">Quando houver transmissão oficial confirmada, ela aparecerá aqui.</p><div class="player" id="player"><p class="fallback">Nenhum canal ao vivo está ativo neste momento.</p></div><div class="card"><h2>📺 Coroado Play</h2><p>As transmissões dependem da disponibilidade e das permissões dos canais oficiais. Não redistribuímos sinais de terceiros sem autorização.</p></div><script>(async function(){try{const response=await fetch('portal-config.json?live='+Date.now(),{cache:'no-store'});if(!response.ok)throw Error('Configuração indisponível');const cfg=await response.json();if(cfg.transmissaoAtiva!==true)return;const url=new URL(cfg.transmissaoUrl);if(url.protocol!=='https:')return;let id='';if(['youtube.com','www.youtube.com'].includes(url.hostname)&&url.pathname==='/watch')id=url.searchParams.get('v')||'';if(url.hostname==='youtu.be')id=url.pathname.slice(1);if(!/^[A-Za-z0-9_-]{11}$/.test(id))return;document.getElementById('liveBadge').textContent='🔴 TRANSMISSÃO ATIVA';document.getElementById('liveTitle').textContent=cfg.transmissaoTitulo||'Transmissão ao vivo';document.getElementById('liveDescription').textContent=cfg.transmissaoDescricao||'Transmissão incorporada do canal oficial.';const iframe=document.createElement('iframe');iframe.src='https://www.youtube-nocookie.com/embed/'+id+'?rel=0';iframe.title=cfg.transmissaoTitulo||'Transmissão oficial';iframe.allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share';iframe.referrerPolicy='strict-origin-when-cross-origin';iframe.allowFullscreen=true;const player=document.getElementById('player');player.replaceChildren(iframe)}catch(e){console.warn('Não foi possível carregar a programação',e)}})();</script></main><footer>COROADO NEWS 24H · INFORMAÇÃO EM TEMPO REAL · MANAUS, AMAZONAS, BRASIL E MUNDO</footer></body></html>
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Transmissões ao vivo | Coroado News 24h</title><meta name="description" content="Assista a transmissões oficiais incorporadas e acompanhe a cobertura do Coroado News 24h."><style>*{box-sizing:border-box}body{margin:0;background:#07152b;color:#fff;font:16px Arial,sans-serif}header{background:linear-gradient(120deg,#003b9b,#08172e 60%,#c90e28);padding:22px 5%;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:15px}a{color:inherit}header a{text-decoration:none}header img{height:72px;max-width:85vw;object-fit:contain}.wrap{max-width:1050px;margin:35px auto;padding:0 18px}.pill{display:inline-block;background:#ed1833;border-radius:5px;padding:8px 12px;font-weight:bold}h1{font-size:clamp(27px,5vw,45px);margin:18px 0 10px}.subtitle{color:#c5d6ed;line-height:1.5}.player{aspect-ratio:16/9;background:#010714;border:2px solid #23447a;border-radius:12px;overflow:hidden;margin-top:24px;display:flex;align-items:center;justify-content:center;text-align:center}.player iframe{width:100%;height:100%;border:0}.fallback{padding:20px}.btn{display:inline-block;background:#e51933;color:white;text-decoration:none;font-weight:bold;padding:15px 20px;border-radius:7px;margin:12px 8px 0 0}.secondary{background:#1459b8}.note{margin-top:22px;color:#c1d0e7;line-height:1.6}.card{background:#112744;padding:20px;border-radius:10px;margin:20px 0}footer{text-align:center;border-top:1px solid #24436b;padding:25px;color:#a9bed9}</style></head><body><header><a href="index.html"><img src="https://static.wixstatic.com/media/a06550_e69282772c70430ca3265931b1de3f92~mv2.png" alt="Coroado News 24h"></a><a href="index.html">← VOLTAR À CAPA</a></header><main class="wrap"><span class="pill" id="liveBadge">PROGRAMAÇÃO</span><h1 id="liveTitle">Nenhuma transmissão ativa</h1><p class="subtitle" id="liveDescription">Quando houver transmissão oficial confirmada, ela aparecerá aqui.</p><div class="player" id="player"><p class="fallback">Nenhum canal ao vivo está ativo neste momento.</p></div><div class="card"><h2>📺 Coroado Play</h2><p>As transmissões dependem da disponibilidade e das permissões dos canais oficiais. Não redistribuímos sinais de terceiros sem autorização.</p></div><script>
+(async function(){
+'use strict';
+const badge=document.getElementById('liveBadge'),title=document.getElementById('liveTitle'),description=document.getElementById('liveDescription'),box=document.getElementById('player');
+try{
+ const response=await fetch('portal-config.json?live='+Date.now(),{cache:'no-store'});
+ if(!response.ok)throw Error('Configuração temporariamente indisponível');
+ const cfg=await response.json();
+ if(cfg.transmissaoAtiva!==true){badge.textContent='PROGRAMAÇÃO';title.textContent='Nenhuma transmissão ativa configurada';return;}
+ const link=new URL(cfg.transmissaoUrl);
+ if(link.protocol!=='https:'||!['youtube.com','www.youtube.com','youtu.be'].includes(link.hostname))throw Error('Endereço da transmissão inválido');
+ let id=String(cfg.transmissaoVideoId||'');
+ if(!id){
+  if(link.hostname==='youtu.be')id=link.pathname.slice(1);
+  else if(link.pathname==='/watch')id=link.searchParams.get('v')||'';
+  else if(link.pathname.startsWith('/live/'))id=link.pathname.split('/')[2]||'';
+ }
+ const channel=String(cfg.transmissaoCanalId||'');
+ const direct=/^[A-Za-z0-9_-]{11}$/.test(id);
+ const channelOK=/^UC[A-Za-z0-9_-]{22}$/.test(channel)&&(link.pathname==='/@prefeituradeitacoatiara/live'||link.pathname==='/channel/'+channel+'/live');
+ if(!direct&&!channelOK)throw Error('Identificação do vídeo ou canal indisponível');
+ const origin=direct?'https://www.youtube-nocookie.com':'https://www.youtube.com';
+ const qs='autoplay=1&mute=1&playsinline=1&enablejsapi=1&rel=0';
+ const iframe=document.createElement('iframe');
+ iframe.src=direct?origin+'/embed/'+id+'?'+qs:origin+'/embed/live_stream?channel='+encodeURIComponent(channel)+'&'+qs;
+ iframe.title=cfg.transmissaoTitulo||'Transmissão oficial';
+ iframe.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';
+ iframe.allowFullscreen=true;iframe.referrerPolicy='strict-origin-when-cross-origin';
+ box.replaceChildren(iframe);
+ badge.textContent='CANAL OFICIAL';
+ title.textContent=cfg.transmissaoTitulo||'Transmissão da ExpoFest';
+ description.textContent='Player integrado do canal oficial da Prefeitura. O sinal depende da disponibilidade do canal e da permissão de incorporação.';
+ const btn=document.createElement('button');
+ btn.type='button';btn.className='btn';btn.textContent='🔊 ATIVAR SOM';
+ btn.addEventListener('click',()=>{
+  if(!iframe.contentWindow)return;
+  iframe.contentWindow.postMessage(JSON.stringify({event:'command',func:'unMute',args:[]}),origin);
+  iframe.contentWindow.postMessage(JSON.stringify({event:'command',func:'playVideo',args:[]}),origin);
+  btn.textContent='🔊 SOM SOLICITADO';
+ });
+ box.after(btn);
+}catch(e){badge.textContent='SINAL NÃO CONFIRMADO';title.textContent='Transmissão indisponível';description.textContent=e.message;console.warn('Coroado News transmissão:',e)}
+})();
+</script></main><footer>COROADO NEWS 24H · INFORMAÇÃO EM TEMPO REAL · MANAUS, AMAZONAS, BRASIL E MUNDO</footer></body></html>
